@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="{{ page.type }}">
+
+{% include header.html %}
+
+<header class="summary-block {% if page.type == 'standard' %}fancy{% endif %} article-header">
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-sm-4">
+                <img class="header-image" alt="" />
+            </div>
+
+            <div class="col-sm-8">
+                <h1 class="summary-title">{{ page.title }}</h1>
+
+                {{ page.content }}
+            </div>
+
+        </div>
+
+    </div>
+    <!-- /end .container -->
+</header>
+
+<div class="container">
+
+    <div class="row">
+        <div class="col-md-8">
+
+            <section id="article-list">
+                {% if page.type == 'standard' %}
+                {% assign sorted_items = site.standard_items | sort:'title' %}
+                {% else %}
+                {% assign sorted_items = site.guidelines_items | sort:'title' %}
+                {% endif %}
+
+                {% if page.type == 'standard' %}
+                <nav>
+                    <ol class="nav">
+                        {% for item in sorted_items %}
+                        <li><a href="#{{ item.title | slugify }}">{{ item.title }}</a></li>
+                        {% endfor %}
+                    </ol>
+                </nav>
+                {% endif %}
+
+                {% for item in sorted_items %}
+                <article id="{{ item.title | slugify }}">
+                    <h2>
+                        <a class="button" href="{{ item.permalink }}">
+                        <span class="button-text">
+                            {{ item.title }}
+                        </span>
+                            <span class="glyphicon glyphicon-chevron-right"></span>
+                        </a>
+                    </h2>
+
+                    <p>{{ item.summary }}</p>
+                </article>
+                {% endfor %}
+
+            </section>
+
+        </div>
+
+    </div>
+    <!-- /end .row -->
+</div>
+<!-- /end .container -->
+
+{% include footer.html %}
+
+</body>
+
+</html>

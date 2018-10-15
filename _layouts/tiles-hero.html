@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="home">
+
+<div class="header-wrapper  header-wrapper--border  hero-header">
+{% include header.html %}
+
+    <div class="wrapper  hero-header__content">
+        <div class="grid"><!--
+            --><div class="grid__item  medium--eight-twelfths">
+                <div class="hero-header__title">
+                    <h1>{{ page.title }} <span>{{ page.subtitle }}</span></h1>
+                </div>
+
+                {% if page.hero %}
+                    <img class="hero-header__image  hidden-small" src="/assets/images/hero/{{ page.hero }}" />
+                {% endif %}
+            </div><!--
+        --></div>
+    </div>
+</div>
+
+<div id="body-wrapper">
+
+    <div class="category-list-container">
+        <!-- Start category-list-0.hbs -->
+        <div class="wrapper main category-list category-list--cards">
+            <div class="grid"><!--
+                    {% assign indexed = site.pages | where:"category", page.navitems | sort: 'index', 'first' %}
+                    {% for item in indexed %}
+             --><div class="grid__item medium--one-half large--four-twelfths">
+                        
+                    <article class="card card--small card--hover">
+                        <a href="{{ item.url }}" class="category-item__link category-item__link--card" data-gtm="item-0">
+                            <h2 class="category-item__title">{{item.title}}</h2>
+                            
+                            <p class="category-item__summary">
+                                {{item.summary}}
+                            </p>
+                        </a>
+                    </article>
+                </div><!--
+                    {% endfor %}
+                    --><!--
+         --></div>
+        </div>
+        <br class="clearfix">
+    </div>
+
+</div>
+
+
+{% include footer.html %}
+
+</body>
+
+</html>

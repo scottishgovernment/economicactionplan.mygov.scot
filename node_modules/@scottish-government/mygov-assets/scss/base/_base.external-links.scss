@@ -1,0 +1,147 @@
+/*------------------------------------*\
+    $EXTERNAL LINKS
+\*------------------------------------*/
+
+$external-link__size: 15px !default;
+$external-link__size--large: 17px !default;
+$external-link__size--small: 15px !default;
+$external-link__size--screen_medium: 17px !default;
+$external-link__size--screen_medium--large: 21px !default;
+$external-link__size--screen_medium--small: 15px !default;
+$external-link__icon-path: '../images/icons/arrows/' !default;
+$external-link__icon-filename-prefix: 'ext_arrow_text' !default;
+$external-link__excluded-sites: () !default;
+
+
+
+
+@function add-excluded-urls() {
+    $output: '';
+
+    @each $excluded-site in $external-link__excluded-sites {
+        $output: $output + ':not([href*="' + $excluded-site + '"])';
+    }
+
+    @return $output;
+}
+
+@mixin external-link-rules($size) {
+  $external-link-icon: get-link-icon($external-link__icon-path, $external-link__icon-filename-prefix, $size);
+
+  background-image: url($external-link-icon);
+  background-position: center right;
+  background-repeat: no-repeat;
+  padding-right: ($size + 5px);
+
+  @include image-2x(get2xImage($external-link-icon), $size, $size);
+
+  &:hover,
+  &:active {
+    $external-link-icon: get-link-icon($external-link__icon-path, $external-link__icon-filename-prefix, $size, '_hover');
+
+    background-image: url($external-link-icon);
+
+    @include image-2x(get2xImage($external-link-icon), $size, $size);
+  }
+}
+
+@mixin external-link-no-icon() {
+  &.no-icon {
+    background-image: none;
+    padding-right: 0;
+
+    &:hover {
+      background-image: none;
+    }
+
+    &:active {
+      background-image: none;
+    }
+  }
+}
+
+%external-link {
+  @include external-link-rules($external-link__size);
+  @include external-link-no-icon;
+}
+
+// external links within article elements
+article {
+  a[href^="//"]:not(.button)#{add-excluded-urls()},
+  a[href^="http://"]:not(.button)#{add-excluded-urls()},
+  a[href^="https://"]:not(.button)#{add-excluded-urls()} {
+    @include external-link-rules($external-link__size);
+    @include external-link-no-icon;
+  }
+
+  h2,
+  h3 {
+    a[href^="//"]:not(.button)#{add-excluded-urls()},
+    a[href^="http://"]:not(.button)#{add-excluded-urls()},
+    a[href^="https://"]:not(.button)#{add-excluded-urls()} {
+      @include external-link-rules($external-link__size--large);
+    }
+  }
+}
+
+// explicit external links
+a.external {
+  @include external-link-rules($external-link__size);
+  @include external-link-no-icon;
+}
+
+// explicit external links in headers
+h2, h3 {
+  a.external {
+    @include external-link-rules($external-link__size--large);
+  }
+}
+
+@include media-query(medium) {
+
+  article {
+    a[href^="//"]:not(.button)#{add-excluded-urls()},
+    a[href^="http://"]:not(.button)#{add-excluded-urls()},
+    a[href^="https://"]:not(.button)#{add-excluded-urls()} {
+      @include external-link-rules($external-link__size--screen_medium);
+      @include external-link-no-icon;
+    }
+
+    .small {
+      a[href^="//"]:not(.button)#{add-excluded-urls()},
+      a[href^="http://"]:not(.button)#{add-excluded-urls()},
+      a[href^="https://"]:not(.button)#{add-excluded-urls()} {
+        @include external-link-rules($external-link__size--screen_medium--small);
+      }
+    }
+
+    h2,
+    h3 {
+      a[href^="//"]:not(.button)#{add-excluded-urls()},
+      a[href^="http://"]:not(.button)#{add-excluded-urls()},
+      a[href^="https://"]:not(.button)#{add-excluded-urls()} {
+        @include external-link-rules($external-link__size--screen_medium--large);
+      }
+    }
+  }
+
+  // explicit external links:
+  a.external {
+    @include external-link-rules($external-link__size--screen_medium);
+    @include external-link-no-icon;
+  }
+
+  // explicit small external links:
+  .small {
+    a.external {
+      @include external-link-rules($external-link__size--screen_medium--small);
+    }
+  }
+
+  // explicit external links in headers:
+  h2, h3 {
+    a.external {
+      @include external-link-rules($external-link__size--screen_medium--large);
+    }
+  }
+}

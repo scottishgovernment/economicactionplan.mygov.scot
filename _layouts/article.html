@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="article {{ page.type }}">
+
+{% include header.html %}
+
+<header>
+    <div class="wrapper">
+        <div class="grid"><!--
+        --><div class="grid__item  medium--eight-twelfths">
+                <div class="article-header">
+                    {% if page.imperative %}
+                        <p class="article-header__prefix">{{ page.imperative }}</p>
+                    {% endif %}
+                    <h1 class="article-header__title">{{ page.title }}</h1>
+                </div>
+            </div><!--
+        --></div>
+    </div>
+    <!-- /end .wrapper -->
+</header>
+
+<div class="wrapper">
+    <div class="grid"><!--
+
+    --><div class="grid__item  medium--three-twelfths">
+            {% if page.headings %}
+            <div class="page-group page-group--section-nav">
+                <ul class="page-group__list">
+                    {% for heading in page.headings %}
+                        <li class="page-group__item">
+                            <a class="page-group__link  page-group__link--condensed" href="#{{heading | replace:'.', '' | slugify}}">{{ heading }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+        </div><!--
+
+        --><div class="grid__item  medium--eight-twelfths">
+            <div class="main-content">
+                <h2>Summary</h2>
+                <p class="leader">
+                    {{ page.summary }}
+                </p>
+                <div class="{{page.contentclass}}">
+                {{ content }}
+                </div>
+            </div>
+        </div><!--
+    --></div>
+</div>
+<!-- /end .wrapper -->
+
+{% include footer.html %}
+
+</body>
+
+</html>

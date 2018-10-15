@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="{{ page.type }} subcategory">
+
+{% include header.html %}
+
+<header>
+    <div class="container">
+        <h1>{{ page.title }}</h1>
+    </div>
+    <!-- /end .container -->
+</header>
+
+<div class="summary-block {% if page.type == 'standard' %}fancy{% endif %} article-header">
+
+    <div class="container">
+
+        <div class="row">
+            <div class="col-sm-12">
+                <h2 class="summary-title">Overview</h2>
+
+                {{ page.summary | markdownify }}
+            </div>
+
+        </div>
+
+    </div>
+    <!-- /end .container -->
+</div>
+<!-- /end .summary-block -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <ul id="article-list">
+                {% if page.type == 'guidelines' %}
+                    {% assign sorted_items = site.guidelines | sort: 'title' %}
+                {% else if page.type == 'standard' %}
+                    {% assign sorted_items = site.standard | sort: 'title' %}
+                {% else %}
+                    {% assign sorted_items = site.pages | sort: 'title' %}
+                {% endif %}
+
+                {% for item in sorted_items %}
+                    {% if page.thispage == item.parent %}
+                        <li id="{{ item.title | slugify }}">
+                            <a class="fancy-link" href="{{site.baseurl}}{{ item.url }}">
+                                <span class="link-text">
+                                    {{ item.title }}
+                                </span>
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                            </a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    <!-- /end .row -->
+</div>
+<!-- /end .container -->
+
+{% include footer.html %}
+
+</body>
+
+</html>

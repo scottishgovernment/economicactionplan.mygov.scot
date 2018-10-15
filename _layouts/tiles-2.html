@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="home">
+
+<div class="header-wrapper header-wrapper--border">
+{% include header.html %}
+
+    <div class="wrapper">
+        <div class="grid"><!--
+            --><div class="grid__item  medium--eight-twelfths  leader">
+                <h1>{{ page.title }}</h1>
+
+                {{ page.summary }}
+            </div><!--
+        --></div>
+    </div>
+
+    <div class="wrapper">
+        <div class="grid"><!--
+            --><div class="grid__item  medium--eight-twelfths">
+                {{ content }}
+            </div><!--
+        --></div>
+    </div>
+</div>
+
+<div id="body-wrapper">
+
+    <div class="category-list-container">
+        <!-- Start category-list-0.hbs -->
+        <div class="wrapper main category-list">
+            <div class="grid"><!--
+                {% assign navitems = page.navitems %}
+                {% assign indexed = site.pages | where:"category", page.navitems | sort: 'index', 'first' %}
+                {% for item in indexed %}
+                 --><div class="grid__item medium--six-twelfths large--four-twelfths">
+                        <article class="category-item">
+                            <a href="{{ item.url }}" class="category-item__link" data-gtm="item-0">
+                                <h2 class="category-item__title">{{item.title}}</h2>
+                        
+                                <p class="category-item__summary">
+                                    {{item.summary}}
+                                </p>
+                            </a>
+                        </article>
+                    </div><!--
+                {% endfor %}
+         --></div>
+        </div>
+        <br class="clearfix">
+    </div>
+
+</div>
+
+
+{% include footer.html %}
+
+</body>
+
+</html>

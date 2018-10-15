@@ -1,0 +1,15 @@
+/*------------------------------------*\
+    #BLEED
+\*------------------------------------*/
+/**
+ * Bleeds allow one-whole grid items to extend to the screen edges.
+ * Extends .grid__item
+ */
+
+@include media-query(small-down) {
+  .bleed--xsmall {
+    padding-left: 0;
+    position: relative;
+    right: -15px;
+  }
+}

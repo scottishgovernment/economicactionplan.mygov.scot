@@ -1,0 +1,60 @@
+/*------------------------------------*\
+    $BREADCRUMBS
+\*------------------------------------*/
+
+$breadcrumbs__icon-color: $color__grey--base !default;
+$breadcrumbs__current-color: $color__grey--base !default;
+$breadcrumbs__font-size: 14px !default;
+$breadcrumbs__font-size--medium: $breadcrumbs__font-size !default;
+$breadcrumbs__font-size--large: $breadcrumbs__font-size--medium !default;
+$breadcrumbs__margin: 18px 0 16px !default;
+$breadcrumbs__margin--medium: 14px 0 13px !default;
+$breadcrumbs__margin--large: 14px 0 13px !default;
+
+
+
+
+.breadcrumbs {
+  color: $breadcrumbs__current-color;
+  font-size: $breadcrumbs__font-size;
+  padding-left: 0;
+  margin: $breadcrumbs__margin;
+
+  &__item {
+    display: inline-block;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding: 0;
+
+    &:after {
+      color: $breadcrumbs__icon-color;
+      content: '\203a';
+      font-size: 19px;
+      font-weight: $bold;
+      line-height: 14px;
+      padding: 0 3px 0 3px;
+    }
+  }
+}
+
+.breadcrumbs__container {
+  padding-top: 14px;
+}
+
+@include media-query(medium) {
+  .breadcrumbs {
+    font-size: $breadcrumbs__font-size--medium;
+    margin: $breadcrumbs__margin--medium;
+  }
+
+  .breadcrumbs__container {
+    padding-top: 21px;
+  }
+}
+
+@include media-query(large) {
+  .breadcrumbs {
+      font-size: $breadcrumbs__font-size--large;
+      margin: $breadcrumbs__margin--large;
+  }
+}

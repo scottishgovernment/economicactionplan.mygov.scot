@@ -1,0 +1,20 @@
+/*------------------------------------*\
+    $BODY
+\*------------------------------------*/
+
+body {
+  @extend %font__body;
+  @include adjust-font-size-to($base-font-size, 3);
+  background: $color__white;
+  color: $color__body;
+  font-weight: $normal;
+  margin: 0;
+
+  @include media-query(medium) {
+    @include adjust-font-size-to($medium-font-size, 4);
+  }
+
+  @include media-query(large) {
+    @include adjust-font-size-to($large-font-size, 4);
+  }
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="article {{ page.type }}">
+
+{% include header.html %}
+
+<header>
+    <div class="wrapper">
+        <div class="grid"><!--
+            --><div class="grid__item  medium--ten-twelfths">
+                <div class="article-header">
+                    {% if page.imperative %}
+                        <p class="article-header__prefix">{{ page.imperative }}</p>
+                    {% endif %}
+                    <h1 class="article-header__title">{{ page.title }}</h1>
+                </div>
+            </div><!--
+        --></div>
+    </div>
+    <!-- /end .wrapper -->
+</header>
+
+<div class="wrapper">
+    <div class="grid"><!--
+
+        {% if page.headings %}
+        --><div class="grid__item  medium--three-twelfths">
+            <ul id="in-page-nav">
+                {% for heading in page.headings %}
+                <li><a href="#{{heading | replace:'.', '' | slugify}}">{{ heading }} <span class="glyphicon glyphicon-chevron-down"></span></a></li>
+                {% endfor %}
+            </ul>
+        </div><!--
+        {% endif %}
+
+        --><div class="grid__item  medium--eight-twelfths">
+            <div class="main-content">
+                <!--<h2>Summary</h2>
+                <p class="introduction">
+                    {{ page.summary }}
+                </p>
+              -->
+                {{ content }}
+            </div>
+        </div><!--
+    --></div>
+</div>
+<!-- /end .wrapper -->
+
+{% include footer.html %}
+
+</body>
+
+</html>

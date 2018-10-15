@@ -1,0 +1,20 @@
+
+<!-- https://resources.mygov.scot/assets/images/example-screenshots/headings.png -->
+
+{% assign filename = include.file %}
+<figure class="example">
+	<iframe
+		src="{{ '/assets/images/forms-guidance/' | prepend: site.url | append:filename }}.png"
+
+		{% if include.height and include.width %}
+		 style="height: {{ include.height }}px; width: {{ include.width }}px"
+		{% elsif include.height %}
+			style="height: {{ include.height }}px"
+		{% endif %}
+		scrolling="no"
+	></iframe>
+	<img src="{{ '/assets/images/forms-guidance/' | prepend: site.url | append:filename }}.png" alt="{{ include.file }} example">
+	{% if include.caption %}
+	<figcaption>{{include.caption}}</figcaption>
+	{% endif %}
+</figure>

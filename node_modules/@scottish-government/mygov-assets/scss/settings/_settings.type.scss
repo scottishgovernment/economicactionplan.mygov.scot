@@ -1,0 +1,94 @@
+/*------------------------------------*\
+    $TYPE
+\*------------------------------------*/
+
+/**
+ * Font-sizes in pixels.
+ */
+
+$base-font-size: 16px;
+$base-line-height: 7px;
+$rhythm-unit: "px";
+$default-rhythm-border-width: 1px !default;
+$from-context: "px";
+$to-context: "px";
+
+$base-milli-size: 14px !default;
+$base-h1-size: 28px !default;
+$base-h2-size: 21px !default;
+$base-h3-size: $base-font-size !default;
+$base-h4-size: $base-font-size !default;
+$base-h5-size: $base-font-size !default;
+$base-leader-size: 19px !default;
+$base-lineheight: $base-line-height * 3 !default;
+
+// tablet
+$medium-font-size: 19px !default;
+$medium-milli-size: 16px !default;
+$medium-h1-size: 49px !default;
+$medium-h2-size: 26px !default;
+$medium-h3-size: $medium-font-size !default;
+$medium-h4-size: $medium-font-size !default;
+$medium-h5-size: $medium-font-size !default;
+$medium-note-size: 14px !default;
+$medium-leader-size: 22px !default;
+
+// desktop
+$large-font-size: $medium-font-size !default;
+$large-milli-size: $medium-milli-size !default;
+$large-h1-size: $medium-h1-size !default;
+$large-h2-size: $medium-h2-size !default;
+$large-h3-size: $large-font-size !default;
+$large-h4-size: $large-font-size !default;
+$large-h5-size: $large-font-size !default;
+$large-note-size: $medium-note-size !default;
+$large-leader-size: $medium-leader-size !default;
+
+@include establish-baseline;
+
+/**
+ * Font-family
+ */
+
+$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+
+/**
+ * Font weights
+ */
+$lighter: 300 !default;
+$normal: 400 !default;
+$semibold: 500 !default;
+$bold: 700 !default;
+$heavy: 900 !default;
+
+/**
+ * Default text font-family and font weights
+ */
+
+$font__default: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+%font__body {
+  font-family: $font__default;
+  font-style: normal;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+%font__text--text {
+  font-family: $font__default;
+  font-style: normal;
+  font-weight: normal;
+}
+
+%font__text--bold {
+  font-family: $font__default;
+  font-style: normal;
+  font-weight: bold;
+}
+
+%font__text--ultra {
+  font-family: $font__default;
+  font-style: normal;
+  font-weight: 900;
+}

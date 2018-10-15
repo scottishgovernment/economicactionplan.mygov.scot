@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="{{ page.type }}">
+
+{% include header.html %}
+
+<header class="summary-block {% if page.type == 'standard' %}fancy{% endif %} article-header">
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-sm-4">
+                <img class="header-image" alt="" />
+            </div>
+
+            <div class="col-sm-8">
+                <h1 class="summary-title">{{ page.title }}</h1>
+
+                {{ page.content }}
+            </div>
+
+        </div>
+
+    </div>
+    <!-- /end .container -->
+</header>
+
+<div class="container">
+
+    <div class="row">
+        <div class="col-md-8">
+
+            <section id="article-list">
+                {% assign sorted_items = site.standard | sort:'title' %}
+
+                <nav>
+                    <ol class="nav">
+                        {% for item in sorted_items %}
+                        {% if item.parent == page.thispage %}
+                        <li><a href="#{{ item.title | slugify }}">{{ item.title }}</a></li>
+                        {% endif %}
+                        {% endfor %}
+                    </ol>
+                </nav>
+
+                {% assign count = 0 %}
+
+                {% for item in sorted_items %}
+                    {% if item.parent == page.thispage %}
+
+                        {% assign count = count | plus: 1 %}
+
+                        <article id="{{ item.title | slugify }}">
+                            <h2>
+                                {{ count }}.
+                                {{ item.title }}
+                            </h2>
+
+                            <p>{{ item.summary }}</p>
+
+                            {{ item.content }}
+
+                        </article>
+                    {% endif %}
+                {% endfor %}
+
+            </section>
+
+        </div>
+
+    </div>
+    <!-- /end .row -->
+</div>
+<!-- /end .container -->
+
+{% include footer.html %}
+
+</body>
+
+</html>

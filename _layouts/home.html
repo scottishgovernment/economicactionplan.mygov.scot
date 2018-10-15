@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="home">
+
+{% include header.html %}
+
+<div class="wrapper">
+    <div class="grid"><!--
+        --><div class="grid__item  medium--eight-twelfths  leader">
+            <h1>{{ page.title }}</h1>
+
+            {{ page.summary }}
+        </div><!--
+    --></div>
+</div>
+
+<div class="wrapper">
+    <div class="grid"><!--
+        --><div class="grid__item  medium--eight-twelfths">
+            {{ content }}
+
+
+        </div><!--
+    --></div>
+</div>
+
+<div class="wrapper" id="additional">
+    <div class="grid"><!--
+    --><div class="grid__item"><hr /><!--
+            {% assign indexed = site.pages | where: 'frontpage', 'true' %}
+            {% for item in indexed %}
+
+             --><div class="listed-content-item">
+                <a class="listed-content-item__link" href="{{ item.url }}">
+                    <article class="listed-content-item__article">
+                        <header class="listed-content-item__heading">
+                            {% if item.imperative %}
+                            <div class="listed-content-item__meta">
+                                <p class="listed-content-item__label">{{item.imperative}}</p>
+                            </div>
+                            {% endif %}
+                            <h2 class="gamma  listed-content-item__title">{{ item.title }}</h2>
+                        </header>
+
+                        <p class="listed-content-item__summary">{{ item.summary }}</p>
+                    </article>
+                </a>
+            </div><!--
+            {% endfor %}
+        -->
+
+        <!--
+            {% assign indexed = site.guidelines | sort: 'index', 'first' %}
+            {% for item in indexed %}
+             {% if item.frontpage %}
+             --><div class="listed-content-item">
+                <a class="listed-content-item__link" href="{{ item.url }}">
+                    <article class="listed-content-item__article">
+                        <header class="listed-content-item__heading">
+                            {% if item.imperative %}
+                            <div class="listed-content-item__meta">
+                                <p class="listed-content-item__label">{{item.imperative}}</p>
+                            </div>
+                            {% endif %}
+                            <h2 class="gamma  listed-content-item__title">{{ item.title }}</h2>
+                        </header>
+
+                        <p class="listed-content-item__summary">{{ item.summary }}</p>
+                    </article>
+                </a>
+            </div><!--
+              {% endif %}
+            {% endfor %}
+        --></div><!--
+
+        --><div class="grid__item"><!--
+            {% assign indexed = site.additional | sort: 'index', 'last' %}
+            {% for item in indexed %}
+            --><div class="listed-content-item">
+               <a class="listed-content-item__link" href="{{ item.url }}">
+                   <article class="listed-content-item__article">
+                       <header class="listed-content-item__heading">
+                           {% if item.imperative %}
+                           <div class="listed-content-item__meta">
+                               <p class="listed-content-item__label">{{item.imperative}}</p>
+                           </div>
+                           {% endif %}
+                           <h2 class="gamma  listed-content-item__title">{{ item.title }}</h2>
+                       </header>
+
+                       <p class="listed-content-item__summary">{{ item.summary }}</p>
+                   </article>
+               </a>
+           </div><!--
+            {% endfor %}
+        --></div><!--
+
+        --><div class="grid__item"><!--
+            {% assign indexed = site.assessments | sort: 'index', 'last' %}
+            {% for item in indexed %}
+             {% if item.frontpage %}
+            --><div class="listed-content-item">
+                <a class="listed-content-item__link" href="{{ item.url }}">
+                    <article class="listed-content-item__article">
+                        <header class="listed-content-item__heading">
+                            {% if item.imperative %}
+                            <div class="listed-content-item__meta">
+                                <p class="listed-content-item__label">{{item.imperative}}</p>
+                            </div>
+                            {% endif %}
+                            <h2 class="gamma  listed-content-item__title">{{ item.title }}</h2>
+                        </header>
+
+                        <p class="listed-content-item__summary">{{ item.summary }}</p>
+                    </article>
+                </a>
+            </div><!--
+              {% endif %}
+            {% endfor %}
+        --></div><!--
+        --><div class="grid__item"><!--
+            {% assign indexed = site.services | sort: 'index', 'last' %}
+            {% for item in indexed %}
+              {% if item.frontpage %}
+              --><div class="listed-content-item">
+                 <a class="listed-content-item__link" href="{{ item.url }}">
+                     <article class="listed-content-item__article">
+                         <header class="listed-content-item__heading">
+                             {% if item.imperative %}
+                             <div class="listed-content-item__meta">
+                                 <p class="listed-content-item__label">{{item.imperative}}</p>
+                             </div>
+                             {% endif %}
+                             <h2 class="gamma  listed-content-item__title">{{ item.title }}</h2>
+                         </header>
+
+                         <p class="listed-content-item__summary">{{ item.summary }}</p>
+                     </article>
+                 </a>
+             </div><!--
+              {% endif %}
+            {% endfor %}
+        --></div><!--
+    --></div>
+</div>
+
+
+{% include footer.html %}
+
+</body>
+
+</html>
