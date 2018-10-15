@@ -1,0 +1,8 @@
+.embedded {
+    display: block;
+    margin-bottom: 28px;
+}
+
+div.cp_embed_wrapper {
+    @extend .embedded;
+}

@@ -1,0 +1,46 @@
+figure.example {
+
+  // margin: ($base-line-height * 2 - 2) 0 ($base-line-height * 2 + 2);
+  margin-top: 28px;
+  margin-bottom: 77px;
+
+  &:before {
+    // content: "EXAMPLE";
+    // background-color: #f0f0f0;
+    // color: #666;
+    // padding: 4px 10px;
+
+    content: "EXAMPLE";
+    background-color: white;
+    color: #666;
+    padding: 4px 10px;
+    border: 1px solid #ddd;
+    border-bottom: none;
+    margin-bottom: -1px;
+    display: inline-block;
+    z-index: 40;
+    position: relative;
+    font-size: 16px;
+    padding: 5px 15px;
+  }
+
+  iframe, img {
+    border: 1px solid #ddd;
+  }
+
+  iframe {
+    width: 100%;
+    overflow: hidden;
+    // max-height: 800px;
+  }
+
+  img {
+    display: none;
+  }
+
+  figcaption {
+    color: #727272;
+    font-size: 17px;
+    text-align: left;
+  }
+}

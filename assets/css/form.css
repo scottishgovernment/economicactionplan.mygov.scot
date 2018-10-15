@@ -1,0 +1,890 @@
+/**** Form field widths ****/
+
+.input--small, .input--medium, .input--large {
+  width: 100%;
+}
+
+.input__datepicker {
+  width: calc(100% - 60px);
+  display: inline-block;
+}
+
+@media (min-width: 480px) {
+  .input--small {
+    width: 41.6666%;
+  }
+
+  .input--medium {
+    width: 50%;
+  }
+
+  .input__datepicker {
+    width: calc(41.6666% - 46px);
+    display: inline-block;
+  }
+
+}
+
+@media (min-width: 768px) {
+  .input--small {
+    width: 40%;
+  }
+
+  .input__datepicker {
+    width: calc(40% - 46px);
+    display: inline-block;
+  }
+
+}
+
+@media (min-width: 992px) {
+  .input--small {
+    width: 37.5%;
+  }
+
+  .input__datepicker {
+    width: calc(37.5% - 46px);
+    display: inline-block;
+  }
+
+  .push--medium--one-twelfth {
+    left: 0px;
+  }
+
+}
+
+/* Hack to make select arrows hidden in IE 10 */
+
+form select::-ms-expand {
+  display: none;
+}
+
+
+
+
+/**** Extra things to make the grey background extend out so that
+      form text is aligned with rest of page text  ****/
+div.form-box {
+  padding: 15px;
+  margin: 28px -15px;
+}
+
+/* General margin for all text inputs */
+
+input[type=text], input[type=tel], input[type=email] {
+  margin-top: 7px;
+  font-size: 16px;
+  height: 42px;
+}
+
+.header-bar input {
+  margin-top: 0;
+}
+
+input:disabled {
+  border: 1px solid #e3e3e3 !important;
+}
+
+label.disabled, span.disabled {
+  color: #b3b3b3;
+}
+
+
+/**** Select (dropdown) styling ****/
+form select {
+    display: inline-block;
+    margin-right: -37px;
+    text-align: left;
+    height: 42px;
+    line-height: 21px;
+}
+
+#birthdate-day {
+  width: 82px;
+}
+
+#birthdate-month {
+  width: 98px;
+}
+
+#birthdate-year {
+  width: 90px;
+}
+
+.input__datepicker--day, .input__datepicker--month {
+  width: 48px;
+  display: inline-block;
+  padding: 6px 10px;
+}
+
+.input__datepicker--year {
+  width: 70px;
+  display: inline-block;
+}
+
+#registration-time-hours, #registration-time-minutes {
+  width: 85px;
+  font-size: 16px;
+}
+
+.create-select {
+  -webkit-appearance: button;
+  -moz-appearance: none;
+  border: 1px solid #727272;
+  border-radius: 5px;
+  color: #333;
+  margin-right: 0;
+  padding-left: 7px;
+}
+
+.create-select__arrow:after {
+  content: " ";
+  background: url('../../assets/images/icons/arrows/dd_arrows_35px.png');
+  width: 35px;
+  height: 42px;
+  pointer-events: none;
+  position: absolute;
+  right: 0px;
+  top: 0;
+}
+
+.create-select__arrow {
+  display: inline-block;
+  position: relative;
+}
+
+#registration-time .input-wrapper, #confirm-time .input-wrapper {
+  margin-top: 7px;
+}
+
+#registration-time label[for="registration-time-hours"] {
+  margin-right: 11px;
+}
+
+#registration-time label[for="registration-time-minutes"] {
+  margin-right: 5px;
+}
+
+#confirm-time label[for="confirm-time-hours"] {
+  margin-right: 2px;
+}
+
+#confirm-time label[for="confirm-time-minutes"] {
+  margin-right: 18px;
+}
+
+#registration-time label[for="registration-time-am"], #confirm-time label[for="confirm-time-am"] {
+  margin-right: 5px;
+}
+
+#confirm-time-hours, #confirm-time-minutes {
+  width: 48px;
+  height: 42px;
+}
+
+.time-colon {
+  margin-right: 1px;
+  position: relative;
+  top: 0;
+  font-size: 100%;
+  color: #727272;
+}
+
+#confirm-date .time-slash {
+  margin-right: 1px;
+  margin-left: 0px;
+  position: relative;
+  top: 0;
+  font-size: 100%;
+  color: #727272;
+}
+
+#registration-time input[type="text"], #confirm-time input[type="text"] {
+  padding: 6px 10px;
+}
+
+/**** Fixed widths - to be added to for mobile ****/
+
+@media(min-width: 360px) {
+
+  #birthdate-month {
+    width: 138px;
+  }
+
+  .birthdate select {
+    line-height: 21px;
+  }
+
+  .create-select {
+    padding-left: 10px;
+  }
+
+  .create-select__arrow:after {
+    background: url('../../assets/images/icons/arrows/dd_arrows_35px.png');
+    width: 35px;
+    height: 42px;
+  }
+
+  #registration-time label[for="registration-time-minutes"] {
+    margin-right: 22px;
+  }
+}
+
+.time-online input.grey {
+  width: 45px;
+  display: inline-block;
+  margin: 21px 10px 0px 10px;
+  padding: 8px;
+  text-align: center;
+}
+
+@media(min-width: 768px) {
+
+.time-online input.grey {
+    margin: 21px 15px 0px 10px;
+  }
+
+  #birthdate-day {
+    width: 105px;
+  }
+
+  #birthdate-month {
+    width: 155px;
+  }
+
+  form select {
+    margin-right: -46px;
+  }
+
+  .create-select__arrow:after {
+    background: url('../../assets/images/icons/arrows/dd_arrows.png');
+    width: 42px;
+    height: 42px;
+  }
+
+  #registration-time label[for="registration-time-hours"] {
+    margin-right: 11px;
+  }
+
+  #registration-time label[for="registration-time-am"], #confirm-time label[for="confirm-time-am"] {
+    margin-right: 20px;
+  }
+
+  #registration-time label[for="registration-time-pm"], #confirm-time label[for="confirm-time-pm"] {
+    margin-left: 34px;
+  }
+
+  #confirm-time label[for="confirm-time-hours"] {
+    margin-right: 0px;
+  }
+
+  #confirm-time label[for="confirm-time-minutes"] {
+    margin-right: 7px;
+  }
+
+  .time-colon {
+    margin-right: 3px;
+  }
+
+  #confirm-date .time-slash {
+    margin: 1px;
+  }
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx) {
+
+  .create-select__arrow:after {
+    background: url('../../assets/images/icons/arrows/dd_arrows_35px_@2x.png');
+    background-size: cover;
+  }
+
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 1.3) and (min-width: 768px), only screen and (-o-min-device-pixel-ratio: 2.6 / 2) and (min-width: 768px), only screen and (-webkit-min-device-pixel-ratio: 1.3) and (min-width: 768px), only screen and (min-device-pixel-ratio: 1.3) and (min-width: 768px), only screen and (min-resolution: 1.3dppx) and (min-width: 768px) {
+
+  .create-select__arrow:after {
+    background: url('../../assets/images/icons/arrows/dd_arrows_@2x.png');
+    background-size: cover;
+  }
+
+}
+
+input[type="number"]::-webkit-outer-spin-button, input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+
+/**** Labels and legends ****/
+
+.input-wrapper label {
+  display: inline-block;
+  font-weight: normal;
+  margin-right: 30px;
+  line-height: 28px;
+}
+
+label.inline {
+  display: inline-block;
+  font-weight: normal;
+  margin-right: 30px;
+}
+
+legend, label {
+  font-weight: 700;
+  font-size: 18px;
+  color: #333;
+  line-height: 21px;
+  margin-top: 7px;
+  margin-bottom: 0px;
+}
+
+.input-wrapper label {
+  font-size: 16px;
+}
+
+.required-icon + legend, .in-article-form .required-icon + label {
+  margin-left: 10px;
+}
+
+.optional {
+  color: #727272;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.form-group p {
+  font-size: 16px;
+  margin-bottom: 7px;
+}
+
+@media (min-width: 768px) {
+  legend, label {
+    font-size: 19px;
+    line-height: 28px;
+  }
+
+  .required-icon + legend, .in-article-form .required-icon + label {
+    margin-left: 14px;
+  }
+
+  .optional {
+    font-size: 17px;
+  }
+
+  .form-group p {
+    font-size: 17px;
+    margin-bottom: 7px;
+  }
+}
+
+/**** Radio button and checkbox styling ****/
+/* Edits to be made to checkboxes, and fancy radio buttons to be added - in mygov base styling currently but could go in assets */
+
+input[type="radio"], input[type="checkbox"] {
+    display: inline-block;
+    width: 1px; /* having them 0px wide causes Safari to not tab through them */
+    font-size: 40px;
+    margin: 21px 0 0px 10px;
+}
+
+/* line 124, ../../../src/scss/base/_base.forms.scss */
+label.fancy-checkbox, label.fancy-radio {
+  position: relative;
+  padding-left: 41px;
+  margin-top: 21px;
+  margin-left: 0px;
+  white-space: nowrap;
+}
+
+label.consent.fancy-checkbox {
+  margin-left: 0px;
+}
+
+/* line 132, ../../../src/scss/base/_base.forms.scss */
+input.fancy-checkbox, input.fancy-radio {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=00)";
+}
+
+/* line 137, ../../../src/scss/base/_base.forms.scss */
+input + label.fancy-checkbox:before {
+  background-color: #ffffff;
+  border: 1px solid #727272;
+  content: '';
+  float: left;
+  font-size: 18px;
+  height: 28px;
+  left: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 28px;
+  font-family: 'FontAwesome';
+}
+
+input + label.fancy-radio:before, label.fancy-radio:before {
+  background-color: #ffffff;
+  border: 3px solid #727272;
+  border-radius: 50%;
+  content: '';
+  float: left;
+  font-size: 10px;
+  height: 28px;
+  left: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  width: 28px;
+  font-family: 'FontAwesome';
+  box-sizing: border-box;
+}
+
+/* line 162, ../../../src/scss/base/_base.forms.scss */
+input:focus + label.fancy-checkbox:before {
+  background-color: #e5f0f8 !important;
+  border: 2px solid #0065bd !important;
+  line-height: 24px !important;
+}
+
+input:focus + label.fancy-radio:before {
+    border-color: #0065bd !important;
+    color: #0065bd !important;
+    background-color: #e5f0f8 !important;
+    border-width: 4px;
+    line-height: 20px !important;
+}
+
+/* line 166, ../../../src/scss/base/_base.forms.scss */
+input:checked + label.fancy-checkbox:before {
+  border: 1px solid #0065bd;
+  color: #0065bd;
+  background-color: #fff;
+  content: '\f00c';
+}
+
+input:checked + label.fancy-radio:before {
+  border-color: #0065bd;
+  color: #0065bd;
+  background-color: #fff;
+  content: '\f111';
+}
+
+.input-error label.fancy-checkbox:before {
+  border-color: #d32205;
+  border-width: 2px;
+}
+
+label.fancy-radio:first-of-type {
+    margin-top: 14px;
+}
+
+form .vertical-label {
+  display: inline-block;
+  text-align: center;
+  font-weight: 400;
+  padding-left: 0px;
+  margin: 0px;
+  top: -37px;
+}
+
+.vertical-label.fancy-radio:before {
+  left: -1px;
+  top: 37px;
+}
+
+@media (min-width: 768px) {
+  form .vertical-label {
+    top: 0px;
+    left: 40px;
+  }
+
+  .vertical-label.fancy-radio:before {
+    top: 0;
+    left: -40px;
+  }
+}
+
+
+
+/**** Heading styling - similar to govscot homepage ****/
+
+form h2 {
+  display: inline-block;
+  font-size: 22px;
+  font-weight: 500;
+  padding-top: 21px;
+  position: relative;
+  margin-bottom: 0px;
+  margin-top: 70px;
+}
+
+h2:focus {
+  outline: none;
+}
+
+@media (max-width: 767px) {
+  form h2 {
+    font-size: 26px;
+  }
+
+  form h2:first-child {
+    margin-top: 28px;
+  }
+}
+
+form h2:before {
+  background: #0065bd;
+  border-radius: 8px;
+  content: '';
+  height: 8px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+
+
+
+
+/* errors */
+.form-group .current-errors, fieldset .current-errors, .form-group .server-side-errors, .form-group .field-errors {
+  font-size: 16px;
+  line-height: 21px;
+  color: #d32205;
+  font-weight: normal;
+  margin-top: 7px;
+  margin-bottom: 7px;
+  margin-left: 0;
+}
+
+.form-errors {
+  margin-bottom: 21px;
+}
+
+.current-errors li, .server-side-errors li {
+  padding-top: 0px;
+}
+
+.form-group .field-errors {
+  margin-left: 12px;
+}
+
+.server-side-errors.server-side-neutral {
+  color: #727272;
+}
+
+.form-message {
+    position: relative;
+}
+
+.form-message--error a {
+  color: #d32205;
+}
+
+.form-message--error li {
+  font-size: 16px;
+  padding-top: 14px;
+  line-height: 21px;
+}
+
+div .form-message--error .form-errors ul {
+  margin-bottom: 0;
+}
+
+.form-message--error:after {
+  display: inline-block;
+  content: " ";
+  background: url('../../assets/images/icons/error_triangle.png');
+  position: absolute;
+  bottom: -38px;
+  left: 50px;
+  height: 38px;
+  width: 73px;
+}
+
+.form-message--successful:after {
+  display: inline-block;
+  content: " ";
+  background: url('../../assets/images/icons/success_triangle.png');
+  background-size: cover;
+  position: absolute;
+  bottom: -38px;
+  left: 50px;
+  height: 38px;
+  width: 73px;
+}
+
+.form-message--error {
+  background-color: #fff;
+  border-radius: 15px;
+  border: 7px solid #d32205;
+  margin-bottom: 49px;
+}
+
+.form-message--error, .form-message--successful {
+  padding: 14px 15px 0px 15px;
+}
+
+@media(min-width: 768px) {
+  .form-message--error:after {
+    bottom: -38px;
+    left: 50px;
+  }
+
+  .form-message--successful:after {
+    bottom: -38px;
+    left: 50px;
+  }
+
+  .form-message--error {
+    background-color: #fff;
+    border-radius: 15px;
+    border: 7px solid #d32205;
+    margin-bottom: 49px;
+  }
+
+  .form-message--error, .form-message--successful {
+    padding: 21px 30px 14px 30px;
+  }
+
+  .form-message--error li {
+    font-size: 17px;
+    line-height: 28px;
+  }
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx) {
+
+  .form-message--error:after {
+    background: url('../../assets/images/icons/error_triangle_@2x.png');
+    background-size: cover;
+  }
+
+  .form-message--successful:after {
+    background: url('../../assets/images/icons/success_triangle_@2x.png');
+    background-size: cover;
+  }
+
+}
+
+div .form-message--error .form-errors ul, form ul.current-errors, ul.server-side-errors, ul.field-errors {
+  list-style: none;
+  margin-left: 0;
+  list-style-position: outside;
+  text-indent: -15px;
+  padding-left: 15px;
+}
+
+.form-errors ul li:before, .current-errors li:before, .server-side-errors li:before, .field-errors li:before {
+  content: '\f111';
+  font-family: FontAwesome;
+  font-size: 12px;
+  line-height: 13px;
+  padding-right: 7px;
+  vertical-align: middle;
+}
+
+.error-grey, .error-grey a {
+  color: #727272;
+}
+
+.form-message--successful {
+  border: 7px solid #4e9d52;
+  border-radius: 15px;
+  background: #fff;
+  margin-bottom: 49px;
+}
+
+.form-message--successful h2 {
+  color: #4e9d52;
+}
+
+.form-message--successful p {
+  font-weight: 500;
+}
+
+.form-message h2 {
+  margin: 5px 0 13px;
+  padding: 0;
+}
+
+.form-message--error h2, .form-message--error h3 {
+  color: #333;
+}
+
+.error a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.error a .underline {
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+/* Fieldset errors */
+
+fieldset .input-wrapper.input-error {
+  display: inline-block;
+  background-color: #f4e2df;
+  border: 1px dashed #d32205;
+  border-radius: 6px;
+  padding-bottom: 14px;
+}
+
+.time-online.input-error input:not(:placeholder-shown) {
+    border: 2px solid #d32205 !important;
+}
+
+.time-online div:first-of-type input {
+  margin-top: 14px;
+}
+
+
+
+/**** Form things to change - mygov-assets ****/
+
+/* line 64, ../../../node_modules/mygov-assets/scss/base/_base.forms.scss */
+/* replace color from color__grey--medium to color__grey--base */
+input[type=text].grey, textarea.grey, select.grey, input[type=tel].grey, input[type=email].grey {
+  border: 1px solid #727272;
+}
+
+/* To be added to above file */
+input[type="number"].grey {
+  border: 1px solid #727272;
+  font-size: 16px;
+  height: 42px;
+  padding: 6px 9px;
+  margin-top: 7px;
+}
+
+/* line 68, ../../../node_modules/mygov-assets/scss/base/_base.forms.scss */
+input[type=text].grey:focus, input[type="number"].grey:focus, input[type=tel].grey:focus, input[type=email].grey:focus,
+ textarea.grey:focus, select.grey:focus, select:focus {
+  border: 2px solid #0065bd;
+  background: #e5f0f8;
+  outline: none;
+}
+
+/* Color settings in mygov-assets - change color__placeholder to color__grey--medium
+- This will change all placeholders in all browsers */
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #b3b3b3;
+}
+
+
+/**** Additions ****/
+
+input[type="text"].input-error, textarea.input-error, select.input-error,
+input[type=number].input-error, input[type=tel].input-error, input[type=email].input-error {
+  color: #000;
+  border: 2px solid #d32205;
+  background: #fff;
+}
+
+input[type="text"].input-error:focus, textarea.input-error:focus, select.input-error:focus,
+input[type=number].input-error:focus, input[type=tel].input-error:focus, input[type=email].input-error:focus {
+  border: 2px solid #d32205;
+  background-color: #e5f0f8;
+}
+
+.input-error + label.fancy-radio:before {
+  border-color: #d32205 !important;
+  color: #d32205 !important;
+}
+
+textarea.grey {
+  padding: 13px 12px 13px 12px;
+  line-height: 21px;
+}
+
+.asterisk {
+  font-size: 30px;
+  top: 10px;
+  position: relative;
+}
+
+p.asterisk-note {
+  font-weight: bold;
+  margin-top: 28px;
+  margin-bottom: 14px;
+  height: initial;
+  font-size: 16px;
+}
+
+@media(min-width: 768px) {
+  .asterisk {
+    font-size: 35px;
+  }
+
+  p.asterisk-note {
+    font-size: 19px;
+    height: 28px;
+  }
+}
+
+
+
+p.word-count {
+    color: #727272;
+    font-size: 14px;
+}
+
+#postcode {
+  text-transform: uppercase;
+}
+
+#email {
+  text-transform: lowercase;
+}
+
+@media (min-width: 768px) {
+
+  .form-group {
+    margin-top: 49px;
+  }
+
+}
+
+.form-group {
+  margin-top: 42px;
+}
+
+input {
+  border-radius: 0;
+}
+
+.date-entry__trigger {
+  position: relative;
+  right: initial;
+  display: inline-block;
+}
+
+label.consent.inline {
+  font-size: 16px;
+  white-space: normal;
+  max-width: 100%;
+  margin-right: 10px;
+}
+
+@media (max-width: 479px) {
+  .expandable-item--disclaimer .expandable-item__body {
+    padding: 10px 0;
+  }
+}
+
+.in-article-form label {
+  max-width: calc(100% - 20px);
+}
+
+#consent legend {
+  display: none;
+}

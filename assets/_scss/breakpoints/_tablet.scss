@@ -1,0 +1,213 @@
+body {
+  font-size: $tablet-base-size;
+  line-height: $base-line-height * 4;
+}
+
+h1 {
+  font-size: $tablet-h1-size;
+  line-height: $base-line-height * 8;
+}
+
+h2 {
+  font-size: $tablet-h2-size;
+}
+
+h3 {
+  font-size: $tablet-h3-size;
+  margin-top: 42px;
+}
+
+h4 {
+  font-size: $tablet-h4-size;
+}
+
+#site-nav {
+  #site-nav-toggler {
+    display: none;
+  }
+
+  ul {
+    background: transparent;
+    float: right;
+    font-size: $tablet-micro-size;
+    font-weight: 700;
+    height: auto;
+    position: static;
+
+    li {
+      display: inline-block;
+      margin-left: 30px;
+
+      a {
+        color: $navy;
+        display: inline;
+        line-height: $base-line-height * 7;
+
+        span.glyphicon {
+          display: none;
+        }
+
+        &.current {
+          color: $blue;
+        }
+
+        &:before {
+          background-color: transparent;
+          height: $base-line-height;
+          width: 100%;
+          position: absolute;
+          top: 0;
+          content: '';
+
+          @include transition(background-color, 0.1s, ease-in-out);
+        }
+
+        &:hover:before {
+          background-color: $navy; // currentColor
+        }
+      }
+    }
+  }
+
+}
+
+ol.breadcrumb {
+  font-size: $tablet-list-size;
+}
+
+.jumbo {
+  margin-bottom: $base-line-height * 4 + 3;
+  line-height: $base-line-height * 4;
+  padding-top: $base-line-height * 2;
+
+
+  h1 {
+    $nudge: 1px;
+    line-height: $base-line-height * 8;
+    margin: $nudge 0 ($base-line-height * 3 - $nudge);
+  }
+
+  p {
+    $nudge: 3px;
+    margin: -$nudge 0 ($base-line-height * 3 + $nudge);
+  }
+}
+
+.summary-block {
+  margin-bottom: $base-line-height * 6;
+
+  &.fancy {
+    padding-top: $base-line-height * 6;
+    margin-bottom: $base-line-height * 5;
+  }
+
+  h1.summary-title {
+    line-height: 56px;
+  }
+
+  a.button {
+    $height: baseline-nearest(63px);
+
+    line-height: $height;
+    width: 400px;
+
+    span.glyphicon {
+      display: inline-block;
+      height: $height;
+      left: 4px;
+      line-height: $height;
+      position: relative;
+      width: $height;
+    }
+  }
+}
+
+.standard,
+.guidelines {
+  .summary-block .inner {
+    background-position: -42px 0;
+    min-height: baseline-nearest(183px) + $base-line-height * 4;
+    padding: 0 0 0 33%;
+  }
+}
+
+.home {
+  .summary-block {
+
+    .inner {
+      background-position: -74px 0;
+      background-size: auto;
+      min-height: baseline-nearest(406px);
+      padding-left: 310px;
+    }
+
+    &.standard .inner {
+      background-image: url(../images/standard_icon_medium.png);
+    }
+
+    &.guidelines .inner {
+      background-image: url(../images/guidelines_icon_medium.png);
+    }
+
+    p {
+      font-size: inherit;
+    }
+  }
+}
+
+.article {
+  .introduction {
+    line-height: $base-line-height * 5;
+  }
+}
+
+#article-list {
+  .article {
+    h2 {
+      padding-top: $base-line-height;
+    }
+  }
+}
+
+footer {
+  font-size: 18px;
+  line-height: $base-line-height * 4;
+  padding-top: $base-line-height * 6;
+
+  h3 {
+    font-size: 22px;
+    margin: -1px 0 ($base-line-height * 3 + 2);
+  }
+
+  .footer-links {
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+    column-count: 2;
+
+    li a {
+      padding-left: 45px;
+
+      &.email {
+        background-image: url(../images/footer_icons/envelope_desktop_standard_28.png);
+      }
+
+      &.blog {
+        background-image: url(../images/footer_icons/speech_desktop_standard_28.png);
+      }
+
+      &.twitter {
+        background-image: url(../images/footer_icons/twit_desktop_standard_28.png);
+      }
+
+      &.github {
+        background-image: url(../images/footer_icons/code_desktop_standard_28.png);
+      }
+    }
+  }
+
+  .scotgov-logo {
+    background-image: url(../images/scotgov_logos/SG_Logo_Desktop.png);
+    height: 43px;
+    width: 165px;
+  }
+}

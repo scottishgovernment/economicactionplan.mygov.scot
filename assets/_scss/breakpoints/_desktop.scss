@@ -1,0 +1,63 @@
+body {
+  font-size: $desktop-base-size;
+  line-height: $base-line-height * 4;
+}
+
+h1 {
+  font-size: $desktop-h1-size;
+  line-height: $base-line-height * 8;
+}
+
+h2 {
+  font-size: $desktop-h2-size;
+}
+
+h3 {
+  font-size: $desktop-h3-size;
+}
+
+h4 {
+  font-size: $desktop-h4-size;
+}
+
+ol.breadcrumb {
+  font-size: $desktop-list-size;
+}
+
+#header {
+  font-size: 1.5em;
+  font-weight: 300;
+  height: baseline-nearest(77px);
+
+  #logo {
+    .mygovscot-logo {
+      background-image: url(../images/mygov_logos/mygovscot_195px.png);
+      height: 42px;
+      margin: 17px 0;
+      width: 205px;
+    }
+  }
+}
+
+#site-nav ul {
+  font-size: $desktop-base-size;
+
+  li a {
+    line-height: $base-line-height * 11;
+  }
+}
+
+.standard,
+.guidelines {
+  .summary-block .inner {
+    background-image: url(../images/standard_icon_medium.png);
+    background-position: -84px 0;
+    min-height: baseline-nearest(366px) + $base-line-height * 4;
+  }
+}
+
+.guidelines {
+  .summary-block .inner {
+    background-image: url(../images/guidelines_icon_medium.png);
+  }
+}

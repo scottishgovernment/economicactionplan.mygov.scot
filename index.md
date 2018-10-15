@@ -1,6 +1,8 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+title: "Economic Action Plan 2018-20"
+subtitle: "Supporting business, accelerating growth and prosperity for all."
+layout: tiles-hero
+navitems: economic-action-plan
+thispage: home
+hero: playbook.svg
 ---

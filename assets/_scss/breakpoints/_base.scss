@@ -1,0 +1,823 @@
+body {
+  background: #fff;
+  color: #333333;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-size: $mobile-base-size;
+  line-height: $base-line-height * 3;
+}
+
+a {
+  color: $blue;
+
+  &:visited {}
+
+  &:hover {
+    color: $rollover;
+  }
+
+  &:active {}
+}
+
+h1, h2, h3, h4 {
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: $mobile-h1-size;
+  line-height: $base-line-height * 5;
+  margin: ($base-line-height * 2 - 2) 0 ($base-line-height * 5 + 2);
+}
+
+h2 {
+  font-size: $mobile-h2-size;
+  line-height: $base-line-height * 4;
+  margin: -2px 0 ($base-line-height * 2 + 2);
+}
+
+h3 {
+  font-size: $mobile-h3-size;
+  line-height: $base-line-height * 4;
+  margin-bottom: $base-line-height;
+  margin-top: 35px;
+}
+
+h4 {
+  font-size: $mobile-h4-size;
+  margin: 35px 0 7px;
+}
+
+p {
+  margin: -3px 0 ($base-line-height * 3 + 3);
+}
+
+ol,
+ul {
+  margin: -3px 0 ($base-line-height * 3 + 3) 21px;
+}
+
+#header {
+  background: $grey-lighter;
+  font-size: $mobile-h2-size;
+  font-weight: 300;
+  height: baseline-nearest(50px);
+  margin-bottom: $base-line-height * 4;
+
+  #logo {
+    float: left;
+
+    .mygovscot-logo {
+      background: url(../images/mygov_logos/mygovscot_130px.png) no-repeat 0 0 transparent;
+      border-right: 1px solid $black;
+      display: inline-block;
+      height: 26px;
+      margin: 13px 0;
+      padding-right: 0.3em;
+      text-indent: -999em;
+      width: 140px;
+    }
+  }
+}
+
+#site-nav {
+  $dimension: baseline-nearest(50px);
+
+  font-size: $mobile-h2-size;
+
+  #site-nav-toggler {
+    background: url(../images/menu.png) $navy no-repeat 0 0;
+    border: 0;
+    content: '';
+    height: $dimension;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 56px;
+
+    @include transition(background-color, 0.1s, ease-in-out);
+
+    &:hover {
+      background-color: $blue;
+    }
+  }
+
+  ul {
+    background: $navy;
+    height: 0;
+    line-height: $base-line-height * 6;
+    left: 0;
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    padding: 0 0 0 1em;
+    position: absolute;
+    right: 0;
+    top: $dimension;
+    z-index: 100;
+
+    // @include transition won't do multiple properties
+    -webkit-transition: height 0.1s ease-in-out, padding 0.1s ease-in-out;
+    -moz-transition:    height 0.1s ease-in-out, padding 0.1s ease-in-out;
+    -ms-transition:     height 0.1s ease-in-out, padding 0.1s ease-in-out;
+    -o-transition:      height 0.1s ease-in-out, padding 0.1s ease-in-out;
+    transition:         height 0.1s ease-in-out, padding 0.1s ease-in-out;
+
+    li {
+      position: relative;
+
+      a {
+        border-top: 1px solid rgba(255,255,255,0.15);
+        color: white;
+        display: block;
+        line-height: $base-line-height * 8;
+
+        span.glyphicon {
+          background: $navy;
+          border-left: 1em solid $navy;
+          box-sizing: unset;
+          height: 56px;
+          line-height: 52px;
+          position: absolute;
+          right: 0;
+          text-align: center;
+          top: 0;
+          width: 56px;
+
+          @include transition(background-color, 0.1s, ease-in-out);
+        }
+
+        &:hover {
+          text-decoration: none;
+
+          span.glyphicon {
+            background: $blue;
+
+          }
+        }
+      }
+    }
+  }
+
+  &.active {
+    ul {
+      height: $base-line-height * 8 * 3 + $base-line-height * 5 * 2;
+      //height: auto;
+      padding: $base-line-height * 5 0 $base-line-height * 5 1em;
+    }
+  }
+}
+
+.jumbo {
+  font-weight: 300;
+  line-height: $base-line-height * 3;
+  margin: $base-line-height * -2 0 ($base-line-height * 6 - 3);
+
+  h1 {
+    font-weight: 300;
+    line-height: $base-line-height * 5;
+    margin-bottom: $base-line-height * 2;
+  }
+
+  p {
+    margin: -2px 0 2px;
+  }
+}
+
+ol.breadcrumb {
+  background: transparent;
+  font-size: $mobile-list-size;
+  margin: -3px 0 ($base-line-height * 4 + 3) 0;
+  padding: 0;
+
+  > li + li:before {
+    color: $grey-medium;
+  }
+}
+
+ol.nav {
+  counter-reset: li;
+  font-size: 19px;
+  line-height: $base-line-height * 4;
+  margin: 0 0 $base-line-height * 6 0;
+
+  li {
+    margin-bottom: $base-line-height * 2;
+
+    a {
+      color: $rollover;
+      padding: 0 0 0 42px;
+      position: relative;
+
+      &:hover {
+        background: transparent;
+      }
+
+      &:active:before {
+        background: $rollover;
+      }
+
+      &:before {
+        background: $grey-dark;
+        border-radius: 50px;
+        color: #ffffff;
+        content: counter(li);
+        counter-increment: li;
+        height: $base-line-height * 4;
+        left: 0;
+        line-height: $base-line-height * 4;
+        position: absolute;
+        text-align: center;
+        width: $base-line-height * 4;
+      }
+
+      &:hover:before {
+        background: $rollover;
+      }
+    }
+
+    &:last-child {
+      margin-bottom: $base-line-height * 4;
+    }
+  }
+
+  &:after {
+    background: $grey-dark;
+    content: '';
+    height: $base-line-height;
+    width: 67%;
+  }
+}
+
+.standard ol.nav {
+  li a {
+    &:before {
+      background: $blue;
+    }
+  }
+
+  &:after {
+    background: $blue;
+  }
+}
+
+.guidelines ol.nav {
+  li a {
+    &:before {
+      background: $green;
+    }
+  }
+
+  &:after {
+    background: $green;
+  }
+}
+
+#in-page-nav {
+  $indent: 10%;
+
+  list-style-type: none;
+  margin: 0 0 ($base-line-height * 8 + 3);
+  padding-top: ($base-line-height * 4 - 3);
+
+  &:before {
+    background: $grey-dark;
+    content: '';
+    display: block;
+    height: $base-line-height;
+    position: absolute;
+    top: 0;
+    width: 33%;
+  }
+
+  li {
+    padding: $base-line-height * 2 0 $base-line-height;
+    position: relative;
+
+    &:after {
+      background: $grey-dark;
+      bottom: -3px;
+      content: '';
+      display: block;
+      height: 1px;
+      // margin-left: $indent;
+      position: absolute;
+      // width: 33% - $indent;
+    }
+
+    a {
+      color: $grey-dark;
+      display: block;
+      margin-right: $indent;
+      // padding: 0 $indent * 1.2 0 $indent;
+      position: relative;
+
+      .glyphicon {
+        color: $grey-light;
+        position: absolute;
+        right: 0;
+        top: 3px;
+
+        @include transition(color, 0.1s, ease-in-out);
+      }
+
+      &:hover {
+        text-decoration: none;
+
+        .glyphicon {
+          color: $grey-dark;
+        }
+      }
+    }
+  }
+}
+
+.guidelines #in-page-nav {
+  &:before {
+    background-color: $green;
+  }
+
+  li {
+    &:after {
+      background-color: $green;
+    }
+  }
+}
+
+.standard #in-page-nav {
+  &:before {
+    background-color: $blue;
+  }
+
+  li {
+    &:after {
+      background-color: $blue;
+    }
+  }
+}
+
+.summary-block {
+  color: $grey-dark;
+  font-weight: 300;
+
+  &.fancy {
+    background: url(../images/grid_repeat.png) repeat 0 1px $grey-lightest;
+
+    margin-bottom: $base-line-height * 2;
+  }
+
+  .summary-title {
+    border: 0;
+    line-height: $base-line-height * 4;
+    margin: 0 0 $base-line-height * 4;
+    padding-top: $base-line-height;
+  }
+
+  a.button {
+    $height: 56px;
+
+    color: #fff;
+    display: table;
+    line-height: $height;
+    margin: 0 baseline-nearest(56px) $base-line-height * 3 0;
+    width: 100%;
+
+    &:hover {
+      text-decoration: none;
+
+      .glyphicon {
+        background: $blue;
+      }
+    }
+
+    span {
+      display: table-cell;
+      text-align: center;
+      vertical-align: top;
+
+      @include transition(background-color, 0.1s, ease-in-out);
+
+      &.button-text {
+        background: $blue;
+      }
+
+      &.glyphicon {
+        background: rgba(0, 0, 0, 0.1);
+        height: baseline-nearest($height);
+        line-height: $height;
+        top: 0;
+        width: baseline-nearest($height);
+      }
+    }
+  }
+
+  &.guidelines {
+    .summary-title {
+      border-color: $green;
+    }
+
+    a.button {
+
+      span.button-text {
+        background: $green;
+      }
+
+      &:hover .glyphicon {
+        background: $green;
+      }
+    }
+  }
+
+  &.article-header {
+    margin-bottom: $base-line-height * 6;
+
+    .summary-title {
+      border-top: $base-line-height solid $grey-dark;
+      display: inline-block;
+    }
+  }
+
+  p:last-child {
+    margin-bottom: ($base-line-height * 6 - 4);
+  }
+}
+
+.standard,
+.guidelines {
+  .summary-block .inner {
+    background: url(../images/standard_icon_small.png) no-repeat center $base-line-height * 4;
+    padding-top: baseline-nearest(183px) + $base-line-height * 8;
+  }
+
+  &.home .summary-block .inner {
+    background: url(../images/standard_icon_small.png) no-repeat 0 0;
+    padding-left: 160px;
+    margin-left: -10px;
+  }
+
+  &.home .summary-block.guidelines .inner {
+    background-image: url(../images/guidelines_icon_small.png);
+  }
+}
+
+.home {
+  .summary-block {
+    .summary-title {
+      $nudge: 4px;
+
+      border-bottom: 7px solid $grey-dark;
+      display: inline-block;
+      margin-bottom: ($base-line-height * 3 - $nudge);
+      padding-top: ($base-line-height + $nudge);
+    }
+
+    .inner {
+      background: url() no-repeat -25px 0;
+      background-size: 170px;
+      padding-left: 135px;
+      margin-left: -10px;
+    }
+
+    &.standard {
+      color: $navy;
+
+      .summary-title {
+        border-color: $blue;
+      }
+
+      .inner {
+        background-image: url(../images/standard_icon_small.png);
+      }
+    }
+
+    &.guidelines {
+      .summary-title {
+        border-color: $green;
+      }
+
+      .inner {
+        background-image: url(../images/guidelines_icon_small.png);
+      }
+    }
+
+    p {
+      font-size: 15px;
+    }
+  }
+
+}
+
+.guidelines {
+  .summary-block .inner {
+    background-image: url(../images/guidelines_icon_small.png);
+  }
+}
+
+.standard .summary-block {
+  color: $navy;
+
+  &.article-header {
+    .summary-title {
+      border-color: $blue;
+    }
+  }
+}
+
+.guidelines .summary-block.article-header {
+  .summary-title {
+    border-color: $green;
+  }
+}
+
+#article-list {
+  margin-left: 0;
+  margin-top: 0;
+
+  article {
+    color: $grey-dark;
+    font-weight: 300;
+    margin-bottom: $base-line-height * 6;
+
+    h2 {
+      margin: 0 0 $base-line-height * 2;
+    }
+
+    p {
+      margin: 0 0 $base-line-height * 3;
+      position: relative;
+      top: 3px;
+    }
+
+    a.fancy-link {
+      $dimension: $base-line-height * 6;
+
+      display: block;
+      line-height: $dimension - 1;
+      position: relative;
+
+      .link-text {
+        border-bottom: 1px solid $grey-light;
+        color: $grey-dark;
+        display: block;
+
+        @include transition(border-color, 0.1s, ease-in-out);
+      }
+
+      .glyphicon {
+        background: $grey-light;
+        border-left: 4px solid white;
+        bottom: 0;
+        color: white;
+        min-height: $dimension;
+        line-height: $dimension;
+        position: absolute;
+        right: 0;
+        text-align: center;
+        top: auto;
+        width: $dimension;
+
+        @include transition(background-color, 0.1s, ease-in-out);
+      }
+
+      &:hover {
+        text-decoration: none;
+
+        .link-text {
+          border-color: $grey-dark;
+        }
+
+        .glyphicon {
+          background-color: $grey-dark;
+        }
+      }
+    }
+
+    a.button {
+      $dimension: $base-line-height * 6;
+
+      @extend a.fancy-link;
+
+      font-weight: 400;
+
+      .link-text {
+        border-top: 1px solid $grey-light;
+        line-height: $dimension - 2;
+        padding-left: 20px;
+      }
+
+      .glyphicon {
+        top: 0;
+      }
+    }
+  }
+
+  li {
+    @extend article;
+
+    font-weight: 700;
+    margin-bottom: $base-line-height;
+
+    .link-text {
+      padding-left: 10px;
+    }
+  }
+}
+
+.guidelines #article-list {
+  article,
+  li {
+    a.fancy-link {
+      .link-text {
+        border-color: $green;
+      }
+
+      .glyphicon {
+        background-color: $green;
+      }
+
+      &:hover {
+        .link-text {
+          border-color: $black;
+        }
+
+        .glyphicon {
+          background: $black;
+        }
+      }
+    }
+  }
+}
+
+.standard #article-list article {
+  color: $navy;
+}
+
+#additional {
+  margin-bottom: $base-line-height * 4;
+
+  article {
+    border-top: 1px solid $grey-light;
+    padding-top: ($base-line-height * 3 - 1);
+  }
+
+  h2 {
+    $nudge: 1px;
+
+    line-height: $base-line-height * 5;
+    margin: $nudge 0 ($base-line-height - $nudge);
+  }
+}
+
+.article {
+  h2 {
+    border-top: $base-line-height solid $blue;
+    display: inline-block;
+    margin-top: ($base-line-height * 5 - 2);
+    padding-top: ($base-line-height * 2 - 2);
+
+    &:first-child {
+      margin-top: -2px;
+    }
+  }
+
+  .introduction {
+    font-size: 1.4em;
+    font-weight: 300;
+    line-height: $base-line-height * 4;
+  }
+}
+
+.standard.article {
+  h2 {
+    border-color: $blue;
+  }
+}
+
+.guidelines.article {
+  h2 {
+    border-color: $green;
+  }
+}
+
+figure.example {
+
+  // margin: ($base-line-height * 2 - 2) 0 ($base-line-height * 2 + 2);
+  margin-top: 28px;
+  margin-bottom: 77px;
+
+  &:before {
+    // content: "EXAMPLE";
+    // background-color: #f0f0f0;
+    // color: #666;
+    // padding: 4px 10px;
+
+    content: "EXAMPLE";
+    background-color: white;
+    color: #666;
+    padding: 4px 10px;
+    border: 1px solid #ddd;
+    border-bottom: none;
+    margin-bottom: -1px;
+    display: inline-block;
+    z-index: 40;
+    position: relative;
+    font-size: 16px;
+    padding: 5px 15px;
+  }
+
+  iframe, img {
+    border: 1px solid #ddd;
+  }
+
+  iframe {
+    width: 100%;
+    overflow: hidden;
+    // max-height: 800px;
+  }
+
+  img {
+    display: none;
+  }
+
+  figcaption {
+    color: #727272;
+    font-size: 17px;
+    text-align: left;
+  }
+}
+
+pre {
+  margin-bottom: 24px;
+  padding: 10px;
+}
+
+
+
+footer {
+  background: $grey-lightest;
+  border-top: 2px solid $grey-light;
+  font-size: 12px;
+  line-height: $base-line-height * 2;
+  padding: ($base-line-height * 3) 0 $base-line-height * 5;
+
+  a {
+    text-decoration: underline;
+  }
+
+  h3 {
+    font-size: 12px;
+    line-height: $base-line-height * 3;
+    margin: -4px 0 ($base-line-height + 1);
+  }
+
+  .footer-links {
+    list-style: none;
+    margin-left: 0;
+
+    li {
+      margin-bottom: $base-line-height;
+
+      a {
+        background: transparent url() no-repeat 0 center;
+        color: $black;
+        padding-left: 30px;
+
+        &.email {
+          background-image: url(../images/footer_icons/envelope_mobile_standard_14.png);
+        }
+
+        &.blog {
+          background-image: url(../images/footer_icons/speech_mobile_standard_14.png);
+        }
+
+        &.twitter {
+          background-image: url(../images/footer_icons/twit_mobile_standard_14.png);
+        }
+
+        &.github {
+          background-image: url(../images/footer_icons/code_mobile_standard_14.png);
+        }
+      }
+    }
+  }
+
+  .scotgov-logo {
+    background: url(../images/scotgov_logos/SG_Logo_Mob.png) no-repeat 0 0 transparent;
+    display: block;
+    height: 35px;
+    text-indent: -999em;
+    width: 135px;
+  }
+}
+
+.lead {
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 42px;
+}
+
+.has-leaders {
+    h2 + p {
+        @extend .lead;
+    }
+}

@@ -1,0 +1,35 @@
+$base-line-height: 7px;
+$rhythm-unit: "px";
+$default-rhythm-border-width: 1px;
+$from-context: "px";
+
+/* font sizes taken from mygov web site, 5 jan 15 */
+$mobile-base-size: 16px;
+$mobile-h1-size: 28px;
+$mobile-h2-size: 21px;
+$mobile-h3-size: $mobile-base-size;
+$mobile-h4-size: 15px;
+$mobile-h5-size: $mobile-base-size;
+$mobile-list-size: 14px;
+$mobile-milli-size: 13px;
+$mobile-micro-size: 13px;
+
+$tablet-base-size: 21px;
+$tablet-h1-size: 49px;
+$tablet-h2-size: 26px;
+$tablet-h3-size: 22px;
+$tablet-h4-size: 18px;
+$tablet-h5-size: $mobile-base-size;
+$tablet-list-size: 19px;
+$tablet-milli-size: 16px;
+$tablet-micro-size: 14px;
+
+$desktop-base-size: 19px;
+$desktop-h1-size: 49px;
+$desktop-h2-size: 26px;
+$desktop-h3-size: 22px;
+$desktop-h4-size: 18px;
+$desktop-h5-size: $desktop-base-size;
+$desktop-list-size: 18px;
+$desktop-milli-size: 15px;
+$desktop-micro-size: 14px;

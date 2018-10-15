@@ -1,0 +1,105 @@
+$color__accent: #0087CC;
+$color__teal: #00a4b4;
+
+.hero-header {
+    background: $color__teal;
+    color: $color__white;
+
+    &:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0));
+        height: 7px;
+    }
+
+    .breadcrumbs {
+        color: $color__white;
+    }
+
+    .breadcrumbs__item:after {
+        color: $color__grey--medium;
+    }
+
+    .breadcrumbs__link {
+        color: $color__white;
+    }
+
+    &__content {
+        position: relative;
+    }
+
+    &__title {
+        border-left: 4px solid $color__blue--darker;
+        margin: 14px 0 28px;
+        padding-left: 20px;
+    }
+
+    &__image {
+        height: 150px;
+
+        &--container {
+            text-align: center;
+        }
+    }
+
+    h1 {
+        font-weight: 100;
+        margin: 0;
+
+        span {
+            display: block;
+            font-weight: 700;
+            font-size: (39/49)*1em;
+            color: $color__blue--darker;
+        }
+    }
+}
+
+.hero-header--secondary {
+    background: $color__blue--darker;
+
+    .hero-header__title {
+        border-left: 4px solid $color__blue--base;
+    }
+
+    h1 span {
+        color: $color__teal;
+    }
+}
+
+@include media-query(medium) {
+    .hero-header__image {
+        height: 110%; // the extra 10% allows images to bleed up into the breadcrumb line. looks nice.
+        bottom: 0;
+        position: absolute;
+        right: 0;
+    }
+
+    .hero-header__content {
+        min-height: 210px;
+    }
+
+    .hero-header__title {
+        margin: 28px 0 35px;
+        max-width: 470px;
+
+        position: relative;
+        z-index: 5000;
+    }
+
+    h1 {
+        span {
+            margin-top: 14px;
+        }
+    }
+}
+
+@include media-query(large) {
+
+    .hero-header__title {
+        margin: 56px 0 89px;
+        max-width: 680px;
+    }
+}

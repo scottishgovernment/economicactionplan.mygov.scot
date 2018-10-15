@@ -1,0 +1,51 @@
+// mygovscot logo
+#header .mygovscot-logo {
+  background-image: url(../images/mygov_logos/mygovscot_130px_@2x.png);
+  background-size: 110px;
+}
+
+// footer icons
+footer .footer-links li {
+  a {
+    background-size: 14px;
+
+    &.email {
+      background-image: url(../images/footer_icons/envelope_desktop_standard_28.png);
+    }
+
+    &.blog {
+      background-image: url(../images/footer_icons/speech_desktop_standard_28.png);
+    }
+
+    &.twitter {
+      background-image: url(../images/footer_icons/twit_desktop_standard_28.png);
+    }
+
+    &.github {
+      background-image: url(../images/footer_icons/code_desktop_standard_28.png);
+    }
+  }
+}
+
+// footer scotgov logo
+footer .scotgov-logo {
+  background-image: url(../images/scotgov_logos/SG_Logo_Mob_@2x.png);
+  background-size: 135px 35px;
+}
+
+// guidelines image
+.home .summary-block.guidelines .inner,
+.guidelines .summary-block .inner {
+  background-image: url(../images/guidelines_icon_medium.png);
+}
+
+// standard image
+.home .summary-block.standard .inner,
+.standard .summary-block .inner {
+  background-image: url(../images/standard_icon_medium.png);
+}
+
+.guidelines .summary-block .inner,
+.standard .summary-block .inner {
+  background-size: 203px;
+}
