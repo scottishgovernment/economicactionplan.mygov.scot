@@ -6,6 +6,7 @@ summary: "Introducing the key themes of this section."
 index: 0
 navitems: investment
 parent: investment
+permalink: /investment/introduction/
 ---
 
 Content to be added. 

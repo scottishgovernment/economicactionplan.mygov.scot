@@ -4,36 +4,12 @@
     {% endif %}
 {% endfor %}
 
-{% for item in site.standard %}
-    {% if item.thispage == page.parent %}
-        {% assign level2 = item %}
-    {% endif %}
-{% endfor %}
-
-{% for item in site.guidelines %}
-    {% if item.thispage == page.parent %}
-        {% assign level2 = item %}
-    {% endif %}
-{% endfor %}
-
 {% if level2.thispage == 'home' %}
     {% assign homefound = true %}
 {% endif %}
 
 {% if level2 and homefound != true %}
     {% for item in site.pages %}
-        {% if item.thispage == level2.parent %}
-            {% assign level3 = item %}
-        {% endif %}
-    {% endfor %}
-
-    {% for item in site.standard %}
-        {% if item.thispage == level2.parent %}
-            {% assign level3 = item %}
-        {% endif %}
-    {% endfor %}
-
-    {% for item in site.guidelines %}
         {% if item.thispage == level2.parent %}
             {% assign level3 = item %}
         {% endif %}
@@ -51,18 +27,6 @@
         {% endif %}
     {% endfor %}
 
-    {% for item in site.standard %}
-        {% if item.thispage == level3.parent %}
-            {% assign level4 = item %}
-        {% endif %}
-    {% endfor %}
-
-    {% for item in site.guidelines %}
-        {% if item.thispage == level3.parent %}
-            {% assign level4 = item %}
-        {% endif %}
-    {% endfor %}
-
     {% if level4.thispage == 'home' %}
         {% assign homefound = true %}
     {% endif %}
@@ -70,18 +34,6 @@
 
 {% if level4 and homefound != true %}
     {% for item in site.pages %}
-        {% if item.thispage == level4.parent %}
-            {% assign level5 = item %}
-        {% endif %}
-    {% endfor %}
-
-    {% for item in site.standard %}
-        {% if item.thispage == level4.parent %}
-            {% assign level5 = item %}
-        {% endif %}
-    {% endfor %}
-
-    {% for item in site.guidelines %}
         {% if item.thispage == level4.parent %}
             {% assign level5 = item %}
         {% endif %}
@@ -98,18 +50,6 @@
             {% assign level6 = item %}
         {% endif %}
     {% endfor %}
-
-    {% for item in site.standard %}
-        {% if item.thispage == level5.parent %}
-            {% assign level6 = item %}
-        {% endif %}
-    {% endfor %}
-
-    {% for item in site.guidelines %}
-        {% if item.thispage == level5.parent %}
-            {% assign level6 = item %}
-        {% endif %}
-    {% endfor %}
 {% endif %}
 
 <div class="container">
@@ -118,7 +58,7 @@
         <li class="breadcrumbs__item">
             <a class="breadcrumbs__link" href="{{ site.baseurl }}{{level6.url | replace:'index.html',''}}"><!--
                 {% if level6.thispage == 'home' %}
-                    -->Home<!--
+                    -->Economic Action Plan<!--
                 {% else %}
                     -->{{level6.title}}<!--
                 {% endif %}
@@ -129,7 +69,7 @@
         <li class="breadcrumbs__item">
             <a class="breadcrumbs__link" href="{{ site.baseurl }}{{level5.url | replace:'index.html',''}}"><!--
                 {% if level5.thispage == 'home' %}
-                    -->Home<!--
+                    -->Economic Action Plan<!--
                 {% else %}
                     -->{{level5.title}}<!--
                 {% endif %}
@@ -140,7 +80,7 @@
         <li class="breadcrumbs__item">
             <a class="breadcrumbs__link" href="{{ site.baseurl }}{{level4.url | replace:'index.html',''}}"><!--
                 {% if level4.thispage == 'home' %}
-                    -->Home<!--
+                    -->Economic Action Plan<!--
                 {% else %}
                     -->{{level4.title}}<!--
                 {% endif %}
@@ -151,7 +91,7 @@
         <li class="breadcrumbs__item">
             <a class="breadcrumbs__link" href="{{ site.baseurl }}{{level3.url | replace:'index.html',''}}"><!--
                 {% if level3.thispage == 'home' %}
-                    -->Home<!--
+                    -->Economic Action Plan<!--
                 {% else %}
                     -->{{level3.title}}<!--
                 {% endif %}
@@ -162,7 +102,7 @@
         <li class="breadcrumbs__item">
             <a class="breadcrumbs__link" href="{{ site.baseurl }}{{ level2.url | replace:'index.html',''}}"><!--
                 {% if level2.thispage == 'home' %}
-                    -->Home<!--
+                    -->Economic Action Plan<!--
                 {% else %}
                     -->{{level2.title}}<!--
                 {% endif %}
@@ -171,7 +111,7 @@
         {% endif %}
         <li class="breadcrumbs__item"><!--
             {% if page.thispage == 'home' %}
-                -->Home<!--
+                -->Economic Action Plan<!--
             {% else %}
                 -->{{page.title}}<!--
             {% endif %}
