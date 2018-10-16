@@ -9,7 +9,7 @@ frontpage: yes
 navitems: investment
 thispage: investment
 parent: home
-hero: playbook.svg
+hero: TopLevelNav.png
 permalink: /investment/
 ---
 
