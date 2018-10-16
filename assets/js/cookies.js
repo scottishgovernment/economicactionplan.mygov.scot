@@ -16,7 +16,6 @@ var utils = {
          * @returns {string|object} value of the cookie if getting, object of cookie data if setting
          */
         cookie: function(name, value, days) {
-            console.log('cookie!')
             if (typeof value === 'undefined') {
                 // with no value param, we are in read mode
 
@@ -69,7 +68,7 @@ var utils = {
     };
 
 
-window.onload = function(){
+var handleCookies = function(){
 
     /**
      * Checks whether to display the cookie notice
@@ -93,3 +92,5 @@ window.onload = function(){
         utils.cookie('eap-cookie-notification-acknowledged', 'yes', 365);
     };
 }
+
+window.addEventListener('load', handleCookies);
