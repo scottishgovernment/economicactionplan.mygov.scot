@@ -6,6 +6,8 @@ summary: "Promoting Scotland’s products on the world stage."
 index: 3
 parent: international
 permalink: /international/promoting-scotland/
+prev: { title: "Exports", url: "/international/exports" }
+next: { title: "Foreign Direct Investment", url: "/international/foreign-direct-investment/" }
 ---
 
 * **We will work with partners to develop and drive one clear brand Scotland**

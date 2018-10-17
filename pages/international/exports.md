@@ -6,6 +6,8 @@ summary: "Working in partnership with businesses to unlock opportunities for tra
 index: 2
 parent: international
 permalink: /international/exports/
+next: { title: "Promoting Scotland", url: "/international/promoting-scotland/" }
+prev: { title: "Introduction", url: "/international/introduction" }
 ---
 
 * **£20 million in our new plan ‘A trading nation: our plan for growing Scotland’s exports’**

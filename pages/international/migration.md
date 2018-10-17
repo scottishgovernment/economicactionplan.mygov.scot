@@ -6,6 +6,8 @@ summary: "Attracting talent to Scotland."
 index: 5
 parent: international
 permalink: /international/migration/
+prev: { title: "Foreign Direct Investment", url: "/international/foreign-direct-investment/" }
+next: { title: "Tourism", url: "/international/tourism/" }
 ---
 
 * **Push the UK Government to recognise the action that is needed to protect Scotland’s prosperity and wellbeing** 

@@ -6,6 +6,8 @@ summary: "Attracting investment in Scotland’s people and places."
 index: 4
 parent: international
 permalink: /international/foreign-direct-investment/
+prev: { title: "Promoting Scotland", url: "/international/promoting-scotland/" }
+next: { title: "Migration", url: "/international/migration/" }
 ---
 
 * **Our new Invest in Scotland Prospectus will target key markets and sectors with positive reasons to invest in Scotland**

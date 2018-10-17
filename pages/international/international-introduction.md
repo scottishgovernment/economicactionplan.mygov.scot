@@ -6,6 +6,7 @@ summary: "International trade and investment are vital to improving Scotland's c
 index: 1
 parent: international
 permalink: /international/introduction/
+next: { title: "Exports", url: "/international/exports" }
 ---
 
 International trade and investment are vital to improving Scotland's competitiveness and reducing economic inequality. Access to a skilled workforce is essential for our businesses to reach their potential.

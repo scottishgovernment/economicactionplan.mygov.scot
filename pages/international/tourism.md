@@ -6,6 +6,7 @@ summary: "Scotland as a destination of first choice."
 index: 6
 parent: international
 permalink: /international/tourism/
+prev: { title: "Migration", url: "/international/migration/" }
 ---
 
 * **Our national tourism organisation VisitScotland has a budget of more than £45 million a year**
