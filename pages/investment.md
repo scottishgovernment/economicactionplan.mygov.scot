@@ -9,7 +9,7 @@ frontpage: yes
 navitems: investment
 thispage: investment
 parent: home
-hero: TopLevelNav.png
+hero: Investment.png
 permalink: /investment/
 ---
 

@@ -8129,8 +8129,8 @@ body.home {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: -40px;
-  max-width: 100%;
+  margin-top: -20px;
+  max-width: 85%;
   max-height: 100%;
 }
 /* line 48, ../_scss/trumps/_trump.hero-header.scss */
@@ -8168,14 +8168,15 @@ body.home {
     bottom: 0;
     right: 0;
     margin-top: 0;
+    max-width: 100%;
   }
 
-  /* line 83, ../_scss/trumps/_trump.hero-header.scss */
+  /* line 84, ../_scss/trumps/_trump.hero-header.scss */
   .hero-header__content {
     min-height: 210px;
   }
 
-  /* line 87, ../_scss/trumps/_trump.hero-header.scss */
+  /* line 88, ../_scss/trumps/_trump.hero-header.scss */
   .hero-header__title {
     margin: 28px 0 35px;
     max-width: 470px;
@@ -8183,13 +8184,13 @@ body.home {
     z-index: 5000;
   }
 
-  /* line 96, ../_scss/trumps/_trump.hero-header.scss */
+  /* line 97, ../_scss/trumps/_trump.hero-header.scss */
   h1 span {
     margin-top: 14px;
   }
 }
 @media (min-width: 992px) {
-  /* line 104, ../_scss/trumps/_trump.hero-header.scss */
+  /* line 105, ../_scss/trumps/_trump.hero-header.scss */
   .hero-header__title {
     margin: 56px 0 89px;
     max-width: 680px;
