@@ -6,6 +6,8 @@ summary: "Attracting talent to Scotland."
 index: 5
 parent: international
 permalink: /international/migration/
+prev: { title: "Foreign Direct Investment", url: "/international/foreign-direct-investment/" }
+next: { title: "Tourism", url: "/international/tourism/" }
 ---
 ![Migration Photo](/assets/images/pageimages/international4.jpg)  
 <br>

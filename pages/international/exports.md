@@ -6,6 +6,8 @@ summary: "Working in partnership with businesses to unlock opportunities for tra
 index: 2
 parent: international
 permalink: /international/exports/
+next: { title: "Promoting Scotland", url: "/international/promoting-scotland/" }
+prev: { title: "Introduction", url: "/international/introduction" }
 ---
 ![Exports Photo](/assets/images/pageimages/international1.jpg)
 Image courtesy of Scotland is Now

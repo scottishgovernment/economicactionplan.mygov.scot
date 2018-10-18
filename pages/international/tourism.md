@@ -6,6 +6,7 @@ summary: "Scotland as a destination of first choice."
 index: 6
 parent: international
 permalink: /international/tourism/
+prev: { title: "Migration", url: "/international/migration/" }
 ---
 ![Tourism Photo](/assets/images/pageimages/international5.jpg)  
 Image courtesy of Scotland is Now

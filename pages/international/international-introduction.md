@@ -6,6 +6,7 @@ summary: "International trade and investment are vital to improving Scotland's c
 index: 1
 parent: international
 permalink: /international/introduction/
+next: { title: "Exports", url: "/international/exports" }
 ---
 ![International Photo](/assets/images/pageimages/international.jpg)  
 <br>

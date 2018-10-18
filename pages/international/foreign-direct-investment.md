@@ -6,6 +6,8 @@ summary: "Attracting investment in Scotland’s people and places."
 index: 4
 parent: international
 permalink: /international/foreign-direct-investment/
+prev: { title: "Promoting Scotland", url: "/international/promoting-scotland/" }
+next: { title: "Migration", url: "/international/migration/" }
 ---
 ![Investment Photo](/assets/images/pageimages/international3.jpg)  
 <br>
