@@ -7,7 +7,9 @@ index: 4
 parent: international
 permalink: /international/foreign-direct-investment/
 ---
-
+![Investment Photo](/assets/images/pageimages/international3.jpg)  
+<br>
+<hr>
 * **Our new Invest in Scotland Prospectus will target key markets and sectors with positive reasons to invest in Scotland**
 * **Extend the range and reach of our international network to support investment in Scotland**
 * **Reduce the burden of Air Departure Tax by 50%**
@@ -21,7 +23,14 @@ And we will continue to develop the range and reach of our international network
 We will aim to reduce the burden of Air Departure Tax by 50% by the end of this Parliament, increasing Scotland’s attractiveness as an international business destination.
 
 
-## Key resources: 
+## Key resources:
+**[Scottish Cities Alliance](https://www.scottishcities.org.uk/media/publications)**  
+
+**[Scottish Government: Air Departure Tax](https://beta.gov.scot/policies/taxes/air-departure-tax/)**  
+
+**[Scottish Development International](https://www.sdi.co.uk/)**  
+
+**[Scotland is Now](https://www.scotland.org/)**  
 
 
  

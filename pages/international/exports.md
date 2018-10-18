@@ -7,7 +7,10 @@ index: 2
 parent: international
 permalink: /international/exports/
 ---
-
+![Exports Photo](/assets/images/pageimages/international1.jpg)
+Image courtesy of Scotland is Now
+<br>
+<hr>
 * **£20 million in our new plan ‘A trading nation: our plan for growing Scotland’s exports’**
 * **Increase the involvement of private sector expertise, facilitating peer-to-peer networking and learning to grow our exports and imports**
 * **A new Food and Drink 5-Year Export Plan**
@@ -25,7 +28,12 @@ We have established a Trade Board and a network of Trade Envoys to champion Scot
 To support trade in Scotland’s outstanding produce, we will publish a new Food and Drink 5-Year Export Plan and bring forward new measures to promote and market our produce in overseas markets.  We will also increase the number of Scottish products with Protected Geographic Indicators.
 
 
-## Key resources: 
+## Key resources:
+**[Scottish Government: International Trade Policy](https://beta.gov.scot/policies/international-trade-and-investment/latest/)**  
 
- 
+**[Scottish Enterprise: Support for Businesses](https://www.scottish-enterprise.com/support-for-businesses/exports-and-international-markets)**  
+
+**[Scottish Government: Ministerial Trade Board](https://beta.gov.scot/groups/ministerial-trade-board/)**  
+
+**[Scottish Enterprise: Business Guides](https://www.scottish-enterprise.com/learning-zone/business-guides-and-webinars/components-folder/business-guides-and-webinar-listing/prepare-for-brexit-toolkit)**
  
