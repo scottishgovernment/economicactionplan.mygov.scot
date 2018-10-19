@@ -2,15 +2,15 @@
 layout: default
 title:  "Carbon Neutral Economy"
 category: sustainability
-summary: "Leading the transition to a carbon neutral economy ."
+summary: "Leading the transition to a carbon neutral economy."
 index: 2
 parent: sustainability
 permalink: /sustainability/carbon-neutral/
-next: { title: "Circular Economy and Green Innovation", url: "/sustainability/carbon-neutral/" }
+next: { title: "Circular Economy and Green Innovation", url: "/sustainability/circular-economy/" }
 prev: { title: "Introduction", url: "/sustainability/sustainability-introduction" }
 ---
 
-![Exports Photo](/assets/images/pageimages/Sustainability1.jpg)
+![Carbon Neutral Photo](/assets/images/pageimages/Sustainability1.jpg)
 <br>
 <hr>
 * **A £20 million Energy Investment Fund**

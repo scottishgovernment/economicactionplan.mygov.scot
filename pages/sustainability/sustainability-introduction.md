@@ -6,7 +6,7 @@ summary: "Seizing the economic opportunities through the transition to a carbon 
 index: 1
 parent: sustainability
 permalink: /sustainability/sustainability-introduction/
-next: { title: "Carbon Neutral Economy", url: "/sustainability/sustainability-introduction/" }
+next: { title: "Carbon Neutral Economy", url: "/sustainability/carbon-neutral/" }
 ---
 
 ![Sustainability Photo](/assets/images/pageimages/sustainability.jpg)

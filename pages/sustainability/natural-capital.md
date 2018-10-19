@@ -6,13 +6,13 @@ summary: "Protecting and enhancing Scotland’s natural assets."
 index: 4
 parent: sustainability
 permalink: /sustainability/natural-capital/
-next: { title: "Promoting Scotland", url: "/international/promoting-scotland/" }
-prev: { title: "Introduction", url: "/international/introduction" }
+next: { title: "Ultra-low Emission Vehicles", url: "/sustainability/ultra-low/" }
+prev: { title: "Circular Economy and Green Spaces", url: "/sustainability/circular-economy" }
 ---
-![Natural Capital Photo](/assets/images/pageimages/sustainability4.jpg)
+![Natural Capital Photo](/assets/images/pageimages/sustainability3.jpg)
 <br>
 <hr>
-* **•	Investment in Scotland’s natural assets – air, water, land and nature – will deliver a healthier and more prosperous Scotland.**
+* **Investment in Scotland’s natural assets – air, water, land and nature – will deliver a healthier and more prosperous Scotland.**
 
 <hr>
 
