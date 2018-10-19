@@ -9,17 +9,17 @@ permalink: /international/exports/
 next: { title: "Promoting Scotland", url: "/international/promoting-scotland/" }
 prev: { title: "Introduction", url: "/international/introduction" }
 ---
-![Exports Photo](/assets/images/pageimages/international1.jpg)
+![A shelf of whisky](/assets/images/pageimages/International.1.jpg)
 Image courtesy of Scotland is Now
 <br>
 <hr>
-* **£20 million in our new plan ‘A trading nation: our plan for growing Scotland’s exports’**
+* **£20 million in our new plan _‘A trading nation: our plan for growing Scotland’s exports’_**
 * **Increase the involvement of private sector expertise, facilitating peer-to-peer networking and learning to grow our exports and imports**
 * **A new Food and Drink 5-Year Export Plan**
 
 <hr>
 
-To improve the ability of Scotland’s businesses to export we will set out a range of detailed actions in A trading nation: our plan for growing Scotland’s exports by Spring 2019.  We will support our new plan with over £20 million investment in the next three years.  As part of that work we will:
+To improve the ability of Scotland’s businesses to export we will set out a range of detailed actions in _A trading nation: our plan for growing Scotland’s exports_ by Spring 2019.  We will support our new plan with over £20 million investment in the next three years.  As part of that work we will:
 * Invest £2 million over three years to intensively support 50 high export growth businesses per year to ramp up overseas ambitions and activity
 * We will also use this to create 100 new business to business peer mentorships per year for new exporters
 * Expand the network of in-market sector specialists working in overseas markets to identify untapped potential and connect Scottish business to exploit this
@@ -38,4 +38,5 @@ To support trade in Scotland’s outstanding produce, we will publish a new Food
 **[Scottish Government: Ministerial Trade Board](https://beta.gov.scot/groups/ministerial-trade-board/)**  
 
 **[Scottish Enterprise: Business Guides](https://www.scottish-enterprise.com/learning-zone/business-guides-and-webinars/components-folder/business-guides-and-webinar-listing/prepare-for-brexit-toolkit)**
- 
+
+**[Global Scotland: trade and investment strategy 2016-2021](https://beta.gov.scot/publications/global-scotland-scotlands-trade-investment-strategy-2016-2021/pages/1/)**

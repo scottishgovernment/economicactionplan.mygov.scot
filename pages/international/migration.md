@@ -9,7 +9,7 @@ permalink: /international/migration/
 prev: { title: "Foreign Direct Investment", url: "/international/foreign-direct-investment/" }
 next: { title: "Tourism", url: "/international/tourism/" }
 ---
-![Migration Photo](/assets/images/pageimages/international4.jpg)  
+![A crowd of people](/assets/images/pageimages/International.4.jpg)  
 <br>
 <hr>
 * **Push the UK Government to recognise the action that is needed to protect Scotland’s prosperity and wellbeing**

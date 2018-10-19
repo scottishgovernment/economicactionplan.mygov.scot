@@ -8,7 +8,7 @@ parent: international
 permalink: /international/tourism/
 prev: { title: "Migration", url: "/international/migration/" }
 ---
-![Tourism Photo](/assets/images/pageimages/international5.jpg)  
+![A sightseeing bus](/assets/images/pageimages/International.5.jpg)  
 Image courtesy of Scotland is Now
 <br>
 <hr>
@@ -27,19 +27,17 @@ Through  our mandatory Rural Rates Relief scheme and our small Business Bonus Sc
 
 We are working with partners to promote the South of Scotland as a visitor destination. We also supported destination development projects and organisations with in excess of £1m funding through Scottish Enterprise’s destination fund in 2018-19. This is alongside more than £3 million destination development support for Scotland’s biggest cities. We are providing £15m capital investment  through the Inverness and Region City Deal to enable Inverness Castle to be turned into a visitor attraction of national importance by 2021 for the economic benefit of the city and the wider Highlands.
 
-HIE  will also use the Northern Innovation Hub (£11.5m) part of the Inverness and Region  city deal to help develop the Highlands for adventure tourism, and encourage more tourism businesses to engage in international trade.  Digital city deal money (with HIE support) will be used for business development, skills and wi-fi open access.
+HIE will also use the Northern Innovation Hub (£11.5m) part of the Inverness and Region city deal to help develop the Highlands for adventure tourism, and encourage more tourism businesses to engage in international trade.  Digital city deal money (with HIE support) will be used for business development, skills and wi-fi open access.
 
 Along with our visitor economy agencies, we have continued to support Digital Tourism Scotland - a £1.2 million, 3 year public and private sector partnership project running until 2019 across Scotland, which will improve the digital skills and capabilities of tourism businesses.
 
 ## Key resources:
 
-**[Visit Scotland](https://www.visitscotland.com/)**   
+**[Scottish Government: Tourism in Scotland: the economic contribution of the sector](https://beta.gov.scot/publications/tourism-scotland-economic-contribution-sector/)**  
 
-**[Scottish Government: Tourism in Scotland Publication](https://beta.gov.scot/publications/tourism-scotland-economic-contribution-sector/)**  
+**[The Scottish Tourism Alliance tourism strategy](http://scottishtourismalliance.co.uk/page/national-strategy/)**  
 
-**[Scottish Tourism Alliance](http://scottishtourismalliance.co.uk/page/national-strategy/)**  
-
-**[Scottish Tourism Alliance: Annual Report](http://scottishtourismalliance.co.uk/uploads/TS2020/TS2018.compressed.pdf)**   
+**[The Scottish Tourism Alliance 2018 Annual report, March 2018](http://scottishtourismalliance.co.uk/uploads/TS2020/TS2018.compressed.pdf)**   
 
 
 
