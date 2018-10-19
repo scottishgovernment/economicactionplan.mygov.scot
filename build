@@ -5,11 +5,17 @@
 # ./build --incremental
 set -eu
 image=jekyll
+if tty -s; then
+  OPTS=-t
+else
+  OPTS=""
+fi
 if [ -z "$(docker images -q $image)" ]; then
   docker build -t jekyll .
 fi
-docker run --rm \
+docker run $OPTS \
+  --rm \
   -v $PWD:/srv/jekyll \
-  -it \
+  -i \
   $image \
   jekyll build "$@"
