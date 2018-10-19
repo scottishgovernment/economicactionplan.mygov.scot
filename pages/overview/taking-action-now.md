@@ -10,7 +10,7 @@ prev: { title: "A partnership approach", url: "/overview/a-partnership-approach/
 next: { title: "EU Exit", url: "/overview/eu-exit/"}
 ---
 
-![Dartboard with darts hitting the bullseye](/assets/images/pageimages/Overview7.jpg)
+![Dartboard with darts hitting the bullseye](/assets/images/pageimages/overview7.jpg)
 <br>
 <hr>
 

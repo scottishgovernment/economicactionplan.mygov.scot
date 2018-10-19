@@ -9,7 +9,7 @@ permalink: /enterprise/introduction/
 next: { title: "Delivering a Competitive Business Environment", url: "/enterprise/competitive-business-environment/" }
 ---
 
-![A city from above](/assets/images/pageimages/Enterprise.jpg)
+![A city from above](/assets/images/pageimages/enterprise.jpg)
 <br>
 <hr>
 

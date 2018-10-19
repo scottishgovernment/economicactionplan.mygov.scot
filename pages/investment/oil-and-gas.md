@@ -9,7 +9,7 @@ permalink: /investment/oil-and-gas/
 prev: { title: "Ultra-Low Emission Vehicles ", url: "/investment/ultra-low-emission-vehicles/" }
 ---
 
-![Petrol pumps](/assets/images/pageimages/Investment8.jpg)
+![Petrol pumps](/assets/images/pageimages/investment8.jpg)
 <br>
 <hr>
 * **The Oil and Gas Technology Centre is working to deploy new technology to transform the sector**

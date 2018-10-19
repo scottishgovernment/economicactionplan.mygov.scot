@@ -10,6 +10,6 @@ navitems: innovation
 thispage: innovation
 parent: home
 permalink: /innovation/
-hero: Innovation.png
+hero: innovation.png
 ---
 

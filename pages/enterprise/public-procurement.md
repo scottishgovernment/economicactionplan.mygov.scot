@@ -9,7 +9,7 @@ permalink: /enterprise/public-procurement/
 prev: { title: "Social Enterprises", url: "/enterprise/social-enterprises/" }
 ---
 
-![Money](/assets/images/pageimages/Enterprise11.jpg)
+![Money](/assets/images/pageimages/enterprise11.jpg)
 <br>
 <hr>
 * **Streamlined purchase to pay processes**

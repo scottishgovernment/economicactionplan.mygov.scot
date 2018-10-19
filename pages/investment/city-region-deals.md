@@ -10,7 +10,7 @@ prev: { title: "Housing", url: "/investment/housing/" }
 next: { title: "Carbon Neutral Economy", url: "/investment/carbon-neutral-economy/" }
 ---
 
-![City skyline](/assets/images/pageimages/Investment5.jpg)
+![City skyline](/assets/images/pageimages/investment5.jpg)
 <br>
 <hr>
 * **City Region Deals act as enablers to unlock economic assets**

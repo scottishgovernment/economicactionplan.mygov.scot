@@ -9,7 +9,7 @@ permalink: /innovation/introduction/
 next: { title: "Driving Business Innovation", url: "/innovation/driving-business-innovation/" }
 ---
 
-![A light show](/assets/images/pageimages/Innovation.jpg)  
+![A light show](/assets/images/pageimages/innovation.jpg)  
 <br>
 <hr>
 

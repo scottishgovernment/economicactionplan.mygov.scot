@@ -9,7 +9,7 @@ frontpage: yes
 navitems: skills
 thispage: skills
 parent: home
-hero: Skills.png
+hero: skills.png
 permalink: /skills/
 ---
 

@@ -10,7 +10,7 @@ prev: { title: "Supporting Scotland’s Rural Businesses", url: "/enterprise/sup
 next: { title: "Public Procurement", url: "/enterprise/public-procurement/" }
 ---
 
-![A Social Bite shop sign](/assets/images/pageimages/Enterprise10.jpg)
+![A Social Bite shop sign](/assets/images/pageimages/enterprise10.jpg)
 <br>
 <hr>
 * **We are raising awareness of social enterprise as a viable and rewarding career**

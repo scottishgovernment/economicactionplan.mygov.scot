@@ -10,7 +10,7 @@ prev: { title: "Getting the fundamentals right", url: "/overview/fundamentals/" 
 next: { title: "Scotland is open for business", url: "/overview/open-for-business/" }
 ---
 
-![Map of Scotland](/assets/images/pageimages/Overview4.jpg)
+![Map of Scotland](/assets/images/pageimages/overview4.jpg)
 <br>
 <hr>
 

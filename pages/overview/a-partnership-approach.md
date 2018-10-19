@@ -10,7 +10,7 @@ prev: { title: "Scotland is open for business", url: "/overview/open-for-busines
 next: { title: "Taking action now", url: "/overview/taking-action-now/" }
 ---
 
-![Two people shaking hands](/assets/images/pageimages/Overview6.jpg)
+![Two people shaking hands](/assets/images/pageimages/overview6.jpg)
 <br>
 <hr>
 

@@ -10,7 +10,7 @@ prev: { title: "Infrastructure Investment", url: "/investment/infrastructure/" }
 next: { title: "Transport Infrastructure and Connectivity", url: "/investment/transport-infrastructure/" }
 ---
 
-![Web browser](/assets/images/pageimages/Investment2.jpg)
+![Web browser](/assets/images/pageimages/investment2.jpg)
 <br>
 <hr>
 * **A £600 million final phase of 'Reaching 100%' investment to ensure every home and business in Scotland has access to superfast broadband by the end of 2021.** 

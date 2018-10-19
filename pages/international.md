@@ -10,6 +10,6 @@ navitems: international
 thispage: international
 parent: home
 permalink: /international/
-hero: International.png
+hero: international.png
 ---
 

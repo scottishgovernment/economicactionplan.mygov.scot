@@ -8,7 +8,7 @@ parent: international
 permalink: /international/tourism/
 prev: { title: "Migration", url: "/international/migration/" }
 ---
-![A sightseeing bus](/assets/images/pageimages/International.5.jpg)  
+![A sightseeing bus](/assets/images/pageimages/international.5.jpg)  
 Image courtesy of Scotland is Now
 <br>
 <hr>

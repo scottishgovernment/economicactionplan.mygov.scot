@@ -10,7 +10,7 @@ prev: { title: "City Region Deals", url: "/investment/city-region-deals/" }
 next: { title: "Ultra-Low Emission Vehicles ", url: "/investment/ultra-low-emission-vehicles/" }
 ---
 
-![Hill scenery](/assets/images/pageimages/Investment6.jpg)
+![Hill scenery](/assets/images/pageimages/investment6.jpg)
 <br>
 <hr>
 * **A £20 million Energy Investment Fund**

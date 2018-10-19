@@ -10,7 +10,7 @@ prev: { title: "Supporting Industry", url: "/enterprise/supporting-industry/" }
 next: { title: "Creative Industries", url: "/enterprise/creative-industries/" }
 ---
 
-![Some money and a calculator](/assets/images/pageimages/Enterprise6.jpg)
+![Some money and a calculator](/assets/images/pageimages/enterprise6.jpg)
 <br>
 <hr>
 * **Working in partnership through the Financial Services Advisory Board (FiSAB) to maintain and grow Scotland’s financial services sector**

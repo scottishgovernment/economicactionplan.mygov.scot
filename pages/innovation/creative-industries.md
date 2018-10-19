@@ -10,7 +10,7 @@ prev: { title: "Data Driven Innovation and Cyber Resilience", url: "/innovation/
 next: { title: "Circular Economy and Green Innovation", url: "/innovation/circular-economy/" }
 ---
 
-![A video game scene of a colourful landscape](/assets/images/pageimages/Innovation6.jpg)
+![A video game scene of a colourful landscape](/assets/images/pageimages/innovation6.jpg)
 <br>
 <hr>
 * **Scotland’s creative industries contributed £4.4 billion of GVA to Scotland in 2016, employing 84,000 people.**

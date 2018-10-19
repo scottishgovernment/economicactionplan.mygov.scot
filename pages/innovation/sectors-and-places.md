@@ -10,7 +10,7 @@ prev: { title: "Driving Business Innovation", url: "/innovation/driving-business
 next: { title: "Using Public Sector Spend to Catalyse Innovation", url: "/innovation/public-sector/" }
 ---
 
-![A glowing light bulb](/assets/images/pageimages/Innovation2.jpg)
+![A glowing light bulb](/assets/images/pageimages/innovation2.jpg)
 <br>
 <hr>
 * **Establishing the National Manufacturing Institute for Scotland and targeting up to £18 million of European funding to establish  an Advanced Manufacturing Challenge Fund**

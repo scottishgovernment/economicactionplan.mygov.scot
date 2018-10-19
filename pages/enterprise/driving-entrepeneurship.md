@@ -10,7 +10,7 @@ prev: { title: "Access to Finance", url: "/enterprise/access-to-finance/" }
 next: { title: "Supporting Industry", url: "/enterprise/supporting-industry/" }
 ---
 
-![A woman highlighting some documents](/assets/images/pageimages/Enterprise4.jpg)
+![A woman highlighting some documents](/assets/images/pageimages/enterprise4.jpg)
 <br>
 <hr>
 * **Expanding the ‘Can Do’ approach**

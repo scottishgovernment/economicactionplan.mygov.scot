@@ -9,7 +9,7 @@ permalink: /sustainability/sustainability-introduction/
 next: { title: "Carbon Neutral Economy", url: "/sustainability/sustainability-introduction/" }
 ---
 
-![Sustainability Photo](/assets/images/pageimages/Sustainability.jpg)
+![Sustainability Photo](/assets/images/pageimages/sustainability.jpg)
 <br>
 <hr>
 

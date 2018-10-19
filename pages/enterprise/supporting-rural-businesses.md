@@ -10,7 +10,7 @@ prev: { title: "Employee-Ownership", url: "/enterprise/employee-ownership/" }
 next: { title: "Social Enterprises", url: "/enterprise/social-enterprises/" }
 ---
 
-![A man working on a laptop in a farm field](/assets/images/pageimages/Enterprise9.jpg)
+![A man working on a laptop in a farm field](/assets/images/pageimages/enterprise9.jpg)
 <br>
 <hr>
 * **We are providing support to rural enterprises through our economic development agencies, Business Gateway and GrowBiz**

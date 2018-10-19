@@ -10,7 +10,7 @@ prev: { title: "Making Best Use of University and College Research, Knowledge an
 next: { title: "Creative Industries", url: "/innovation/creative-industries/" }
 ---
 
-![A circuit board](/assets/images/pageimages/Innovation5.jpg)
+![A circuit board](/assets/images/pageimages/innovation5.jpg)
 <br>
 <hr>
 * **£300 million investment in data driven innovation through the Edinburgh and South East Region City Deal**

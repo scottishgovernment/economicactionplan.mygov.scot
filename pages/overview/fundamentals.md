@@ -10,7 +10,7 @@ prev: { title: "Transforming Scotland’s Economic Future", url: "/overview/tran
 next: { title: "Scotland leading the way", url: "/overview/scotland-leading-the-way/"}
 ---
 
-![A pen ticking a checkbox](/assets/images/pageimages/Overview3.jpg)
+![A pen ticking a checkbox](/assets/images/pageimages/overview3.jpg)
 <br>
 <hr>
 

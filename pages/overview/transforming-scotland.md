@@ -10,7 +10,7 @@ prev: { title: "Our vision", url: "/overview/our-vision/" }
 next: { title: "Getting the fundamentals right", url: "/overview/fundamentals/" }
 ---
 
-![The riverside in Glasgow](/assets/images/pageimages/Overview2.jpg)
+![The riverside in Glasgow](/assets/images/pageimages/overview2.jpg)
 <br>
 <hr>
 

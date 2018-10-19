@@ -9,7 +9,7 @@ frontpage: yes
 navitems: place
 thispage: place
 parent: home
-hero: Place.png
+hero: place.png
 permalink: /place/
 ---
 

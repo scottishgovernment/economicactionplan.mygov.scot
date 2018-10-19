@@ -9,7 +9,7 @@ permalink: /investment/housing/
 prev: { title: "Transport Infrastructure and Connectivity", url: "/investment/transport-infrastructure/" }
 next: { title: "City Region Deals", url: "/investment/city-region-deals/" }
 ---
-![Houses by a harbour](/assets/images/pageimages/Investment4.jpg)
+![Houses by a harbour](/assets/images/pageimages/investment4.jpg)
 <br>
 <hr>
 * **A roadmap for how our homes and communities should look and feel in 2040**

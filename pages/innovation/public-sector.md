@@ -10,7 +10,7 @@ prev: { title: "Innovative Sectors and Places", url: "/innovation/sectors-and-pl
 next: { title: "Making Best Use of University and College Research, Knowledge and Talent", url: "/innovation/university-research/" }
 ---
 
-![A mind map illustration](/assets/images/pageimages/Innovation3.jpg)
+![A mind map illustration](/assets/images/pageimages/innovation3.jpg)
 <br>
 <hr>
 * **Boosting NHS collaboration with industry to deliver innovation and better outcomes for patients**

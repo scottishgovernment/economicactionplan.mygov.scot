@@ -10,7 +10,7 @@ prev: { title: "Introduction", url: "/enterprise/introduction/" }
 next: { title: "Enhancing Business Support", url: "/enterprise/enhancing-business-support/" }
 ---
 
-![A group of people looking at a presentation](/assets/images/pageimages/Enterprise1.jpg)
+![A group of people looking at a presentation](/assets/images/pageimages/enterprise1.jpg)
 <br>
 <hr>
 * **Committed to a highly competitive and fairer tax system, including the most competitive business rates package of reliefs in the UK**

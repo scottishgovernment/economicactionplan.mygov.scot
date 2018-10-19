@@ -10,7 +10,7 @@ prev: { title: "Scotland leading the way", url: "/overview/scotland-leading-the-
 next: { title: "A partnership approach", url: "/overview/a-partnership-approach/"}
 ---
 
-![A sign saying 'Open'](/assets/images/pageimages/Overview5.jpg)
+![A sign saying 'Open'](/assets/images/pageimages/overview5.jpg)
 <br>
 <hr>
 

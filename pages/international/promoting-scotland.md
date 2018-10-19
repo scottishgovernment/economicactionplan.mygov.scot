@@ -9,7 +9,7 @@ permalink: /international/promoting-scotland/
 prev: { title: "Exports", url: "/international/exports" }
 next: { title: "Foreign Direct Investment", url: "/international/foreign-direct-investment/" }
 ---
-![Edinburgh castle](/assets/images/pageimages/International.2.jpg)  
+![Edinburgh castle](/assets/images/pageimages/international.2.jpg)  
 Image courtesy of Scotland is Now
 <br>
 <hr>

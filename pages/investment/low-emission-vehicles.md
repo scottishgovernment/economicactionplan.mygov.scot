@@ -10,7 +10,7 @@ prev: { title: "Carbon Neutral Economy", url: "/investment/carbon-neutral-econom
 next: { title: "Oil and Gas and Carbon Capture ", url: "/investment/oil-and-gas/" }
 ---
 
-![A busy motorway](/assets/images/pageimages/Investment7.jpg)
+![A busy motorway](/assets/images/pageimages/investment7.jpg)
 <br>
 <hr>
 * **Investing £15 million to expand Scotland’s electric vehicle (EV) charging network**

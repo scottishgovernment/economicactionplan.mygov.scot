@@ -10,7 +10,7 @@ prev: { title: "Driving Entrepreneurship", url: "/enterprise/driving-entrepreneu
 next: { title: "Financial Services", url: "/enterprise/financial-services/" }
 ---
 
-![A man and a woman working in a warehouse](/assets/images/pageimages/Enterprise5.jpg)
+![A man and a woman working in a warehouse](/assets/images/pageimages/enterprise5.jpg)
 <br>
 <hr>
 * **Underwriting the future of aluminium production in Scotland**

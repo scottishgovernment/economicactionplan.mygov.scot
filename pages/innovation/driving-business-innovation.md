@@ -10,7 +10,7 @@ prev: { title: "Introduction", url: "/innovation/introduction/" }
 next: { title: "Innovative Sectors and Places", url: "/innovation/sectors-and-places/" }
 ---
 
-![Two people looking at a graph](/assets/images/pageimages/Innovation1.jpg)
+![Two people looking at a graph](/assets/images/pageimages/innovation1.jpg)
 <br>
 <hr>
 * **Over £110m in grant support for business research and development (R&D) over the next 3 years**

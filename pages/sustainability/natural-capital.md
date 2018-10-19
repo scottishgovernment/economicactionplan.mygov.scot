@@ -9,7 +9,7 @@ permalink: /sustainability/natural-capital/
 next: { title: "Promoting Scotland", url: "/international/promoting-scotland/" }
 prev: { title: "Introduction", url: "/international/introduction" }
 ---
-![Natural Capital Photo](/assets/images/pageimages/Sustainability4.jpg)
+![Natural Capital Photo](/assets/images/pageimages/sustainability4.jpg)
 <br>
 <hr>
 * **•	Investment in Scotland’s natural assets – air, water, land and nature – will deliver a healthier and more prosperous Scotland.**

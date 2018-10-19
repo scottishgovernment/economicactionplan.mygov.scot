@@ -9,7 +9,7 @@ frontpage: yes
 navitems: overview
 thispage: overview
 parent: home
-hero: TopLevelNav.png
+hero: toplevelnav.png
 permalink: /overview/
 ---
 

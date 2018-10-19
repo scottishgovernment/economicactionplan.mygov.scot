@@ -9,7 +9,7 @@ permalink: /overview/eu-exit/
 prev: { title: "Taking action now", url: "/overview/taking-action-now/" }
 ---
 
-![EU flags](/assets/images/pageimages/Overview8.jpg)
+![EU flags](/assets/images/pageimages/overview8.jpg)
 <br>
 <hr>
 

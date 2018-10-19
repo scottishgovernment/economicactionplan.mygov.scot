@@ -9,7 +9,7 @@ frontpage: yes
 navitems: people
 thispage: people
 parent: home
-hero: People.png
+hero: people.png
 permalink: /people/
 ---
 

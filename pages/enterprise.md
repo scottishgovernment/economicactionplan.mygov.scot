@@ -10,6 +10,6 @@ navitems: enterprise
 thispage: enterprise
 parent: home
 permalink: /enterprise/
-hero: Enterprise.png
+hero: enterprise.png
 ---
 

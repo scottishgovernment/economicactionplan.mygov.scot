@@ -10,7 +10,7 @@ prev: { title: "Using Public Sector Spend to Catalyse Innovation", url: "/innova
 next: { title: "Data Driven Innovation and Cyber Resilience", url: "/innovation/data-driven/" }
 ---
 
-![A woman in a library](/assets/images/pageimages/Innovation4.jpg)
+![A woman in a library](/assets/images/pageimages/innovation4.jpg)
 <br>
 <hr>
 * **Providing Scottish universities with funding via the Scottish Funding Council in support of excellent research and knowledge exchange between academia and businesses** 

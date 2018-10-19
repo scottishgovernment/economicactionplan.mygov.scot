@@ -10,7 +10,7 @@ prev: { title: "Introduction", url: "/investment/introduction/" }
 next: { title: "Digital and Mobile Connectivity", url: "/investment/digital-mobile-connectivity/" }
 ---
 
-![Fibre optic cable](/assets/images/pageimages/Investment1.jpg)  
+![Fibre optic cable](/assets/images/pageimages/investment1.jpg)  
 <br>
 <hr>
 * **Our new National Infrastructure Mission will increase Scotland’s annual infrastructure investment**

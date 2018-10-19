@@ -10,7 +10,7 @@ prev: { title: "Delivering a Competitive Business Environment", url: "/enterpris
 next: { title: "Access to Finance", url: "/enterprise/access-to-finance/" }
 ---
 
-![A picture of some graphs](/assets/images/pageimages/Enterprise2.jpg)
+![A picture of some graphs](/assets/images/pageimages/enterprise2.jpg)
 <br>
 <hr>
 * **Over £250 million each year to Scottish Enterprise to assist business to grow**

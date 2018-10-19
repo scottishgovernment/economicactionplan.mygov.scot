@@ -9,7 +9,7 @@ permalink: /investment/introduction/
 next: { title: "Infrastructure Investment", url: "/investment/infrastructure/" }
 ---
 
-![A pencil and a graph](/assets/images/pageimages/Investment.jpg)
+![A pencil and a graph](/assets/images/pageimages/investment.jpg)
 <br>
 <hr>
 We want to boost private and public investment to create the conditions for Scottish businesses and people to flourish. We will increase infrastructure investment to the most ambitious long-term level that Scotland has ever seen.  This will drive up connectivity, create jobs and deliver a long-term boost to productivity and sustainable and inclusive economic growth.

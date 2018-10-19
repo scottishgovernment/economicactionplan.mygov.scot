@@ -9,7 +9,7 @@ permalink: /international/exports/
 next: { title: "Promoting Scotland", url: "/international/promoting-scotland/" }
 prev: { title: "Introduction", url: "/international/introduction" }
 ---
-![A shelf of whisky](/assets/images/pageimages/International.1.jpg)
+![A shelf of whisky](/assets/images/pageimages/international.1.jpg)
 Image courtesy of Scotland is Now
 <br>
 <hr>

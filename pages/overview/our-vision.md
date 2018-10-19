@@ -9,7 +9,7 @@ permalink: /overview/our-vision/
 next: { title: "Transforming Scotland’s Economic Future", url: "/overview/transforming-scotland/"}
 ---
 
-![Scottish Saltire flag](/assets/images/pageimages/Overview1.jpg)
+![Scottish Saltire flag](/assets/images/pageimages/overview1.jpg)
 <br>
 <hr>
 

@@ -9,7 +9,7 @@ frontpage: yes
 navitems: sustainability
 thispage: sustainability
 parent: home
-hero: Sustainability.png
+hero: sustainability.png
 permalink: /sustainability/
 ---
 
