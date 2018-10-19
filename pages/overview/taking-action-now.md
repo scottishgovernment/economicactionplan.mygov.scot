@@ -1,12 +1,12 @@
 ---
 layout: default
-title:  "Taking action now"
+title:  "Taking Action Now"
 category: overview
 summary: "New policy commitments."
 index: 7
 parent: overview
 permalink: /overview/taking-action-now/
-prev: { title: "A partnership approach", url: "/overview/a-partnership-approach/"}
+prev: { title: "A Partnership Approach", url: "/overview/a-partnership-approach/"}
 next: { title: "EU Exit", url: "/overview/eu-exit/"}
 ---
 

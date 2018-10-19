@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "A partnership approach"
+title:  "A Partnership Approach"
 category: overview
 summary: "Progress through a place-based approach founded on consensus and collaboration."
 index: 6
 parent: overview
 permalink: /overview/a-partnership-approach/
-prev: { title: "Scotland is open for business", url: "/overview/open-for-business/" }
-next: { title: "Taking action now", url: "/overview/taking-action-now/" }
+prev: { title: "Scotland Is Open for Business", url: "/overview/open-for-business/" }
+next: { title: "Taking Action Now", url: "/overview/taking-action-now/" }
 ---
 
 ![Two people shaking hands](/assets/images/pageimages/overview6.jpg)

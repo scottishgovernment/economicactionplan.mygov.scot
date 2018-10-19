@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "Scotland is open for business"
+title:  "Scotland Is Open for Business"
 category: overview
 summary: "Supporting businesses to thrive."
 index: 5
 parent: overview
 permalink: /overview/open-for-business/
-prev: { title: "Scotland leading the way", url: "/overview/scotland-leading-the-way/"}
-next: { title: "A partnership approach", url: "/overview/a-partnership-approach/"}
+prev: { title: "Scotland Leading the Way", url: "/overview/scotland-leading-the-way/"}
+next: { title: "A Partnership Approach", url: "/overview/a-partnership-approach/"}
 ---
 
 ![A sign saying 'Open'](/assets/images/pageimages/overview5.jpg)

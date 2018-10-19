@@ -6,8 +6,8 @@ summary: "We are taking positive action to transform Scotland’s economic futur
 index: 2
 parent: overview
 permalink: /overview/transforming-scotland/
-prev: { title: "Our vision", url: "/overview/our-vision/" }
-next: { title: "Getting the fundamentals right", url: "/overview/fundamentals/" }
+prev: { title: "Our Vision", url: "/overview/our-vision/" }
+next: { title: "Getting the Fundamentals Right", url: "/overview/fundamentals/" }
 ---
 
 ![The riverside in Glasgow](/assets/images/pageimages/overview2.jpg)

@@ -6,7 +6,7 @@ summary: "We will seek to mitigate, as far as possible, the impacts of Brexit."
 index: 8
 parent: overview
 permalink: /overview/eu-exit/
-prev: { title: "Taking action now", url: "/overview/taking-action-now/" }
+prev: { title: "Taking Action Now", url: "/overview/taking-action-now/" }
 ---
 
 ![EU flags](/assets/images/pageimages/overview8.jpg)
