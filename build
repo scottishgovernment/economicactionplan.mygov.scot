@@ -1,0 +1,15 @@
+#!/bin/sh
+# Build the site using Jekyll in Docker
+# Options to docker build can be passed to
+# this script, e.g.
+# ./build --incremental
+set -eu
+image=jekyll
+if [ -z "$(docker images -q $image)" ]; then
+  docker build -t jekyll .
+fi
+docker run --rm \
+  -v $PWD:/srv/jekyll \
+  -it \
+  $image \
+  jekyll build "$@"
