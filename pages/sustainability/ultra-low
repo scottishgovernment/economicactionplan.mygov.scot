@@ -1,0 +1,11 @@
+---
+layout: default
+title:  "Natural capital and green spaces"
+category: sustainability
+summary: "Protecting and enhancing Scotland’s natural assets."
+index: 5
+parent: sustainability
+permalink: /sustainability/natural-capital/
+next: { title: "Promoting Scotland", url: "/international/promoting-scotland/" }
+prev: { title: "Introduction", url: "/international/introduction" }
+---
