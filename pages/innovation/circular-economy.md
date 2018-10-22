@@ -7,6 +7,7 @@ index: 8
 parent: innovation
 permalink: /innovation/circular-economy/
 prev: { title: "Creative Industries", url: "/innovation/creative-industries/" }
+next: { title: "Internationalising Research and Innovation Engagement", url: "/innovation/internationalising-research/" }
 ---
 
 ![A wind farm](/assets/images/pageimages/innovation7.jpg)
