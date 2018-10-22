@@ -42,8 +42,12 @@ A pilot phase of the NMIS Skills Academy is delivering a programme of Industry D
 
 **[Scottish Government: Universities policy](https://beta.gov.scot/policies/universities/)**
 
+**[Colleges Scotland](https://collegesscotland.ac.uk/)**
+
 **[Student Awards Agency Scotland](https://www.saas.gov.uk/)**
 
 **[Connected Scotland](http://connectedscotland.org/)**
 
 **[Scottish Funding Council](http://www.sfc.ac.uk/)**
+
+**[Education Maintenance Allowance (EMA)](https://www.mygov.scot/ema/)**

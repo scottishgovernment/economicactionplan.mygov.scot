@@ -7,7 +7,7 @@ index: 4
 parent: place
 permalink: /place/business-improvement-districts/
 next: { title: "Planning", url: "/place/planning/" }
-prev: { title: "Regional Economies and Economic Partnerships", url: "/place/regional-economies" }
+prev: { title: "Regional Economies and Economic Partnerships", url: "/place/regional-economies/" }
 ---
 ![Business Photo](/assets/images/pageimages/place3.jpg)
 <br>
@@ -25,3 +25,5 @@ We have also launched a pilot Digital Improvement District (DID) model, a BID de
 
 ## Key resources:
 **[Scottish Government: Business Improvement Districts](https://beta.gov.scot/policies/regeneration/business-improvement-districts-bids/)**  
+
+**[Scotland's Improvement Districts](https://improvementdistricts.scot)**

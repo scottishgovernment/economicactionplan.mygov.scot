@@ -30,8 +30,12 @@ Through the Local Governance Review, we will consider proposals for alternative 
 
 
 ## Key resources:
-**[Scottish Government: National Planning Framework](https://beta.gov.scot/publications/national-planning-framework-3/)**
-**[Scottish Government: Transport Strategy](https://www.transport.gov.scot/our-approach/strategy/strategic-transport-projects-review/# )**
-**[Building Planning and Design](https://beta.gov.scot/building-planning-and-design/ )**
-**[Scottish Government: Improving Public Services](https://beta.gov.scot/policies/improving-public-services/local-governance-review/)**
-**[Scottish Government: The Future of Transport Infrastructure](https://www.transport.gov.scot/news/the-future-of-transport-infrastructure/)**
+**[Scottish Government: National Planning Framework 3](https://beta.gov.scot/publications/national-planning-framework-3/)**
+
+**[Strategic Transport Projects Review](https://www.transport.gov.scot/our-approach/strategy/strategic-transport-projects-review/#)**
+
+**[Scottish Government: Building, Planning and Design](https://beta.gov.scot/building-planning-and-design/)**
+
+**[Scottish Government: Local Governance Review](https://beta.gov.scot/policies/improving-public-services/local-governance-review/)**
+
+**[Transport Scotland: The Future of Transport Infrastructure](https://www.transport.gov.scot/news/the-future-of-transport-infrastructure/)**

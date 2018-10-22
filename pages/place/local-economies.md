@@ -32,8 +32,12 @@ We have provided support for the CAN DO Places initiative, which supports the cr
 
 
 ## Key resources:
-**[Local Energy](https://www.localenergy.scot/)**  
+**[Local Energy Scotland](https://www.localenergy.scot/)**  
+
 **[Scotland's Towns](https://www.scotlandstowns.org/)**
-**[Scottish Government: Land Reform](https://beta.gov.scot/policies/land-reform/scottish-land-fund/)**
-**[Connect Local](https://connectlocal.scot/funding/regional-food-fund/)**
+
+**[Scottish Government: Scottish Land Fund](https://beta.gov.scot/policies/land-reform/scottish-land-fund/)**
+
+**[Connect Local Regional Food Fund](https://connectlocal.scot/funding/regional-food-fund/)**
+
 **[Can Do Places](http://www.candoplaces.org/)**

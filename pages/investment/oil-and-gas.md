@@ -33,4 +33,8 @@ We support Carbon Capture Utilisation & Storage (CCUS) as an important decarboni
 ## Key resources: 
 
 **[The Oil & Gas Technology Centre](https://theogtc.com/)**
+
+**[Scottish Government: Oil and Gas](https://www.gov.scot/Topics/Business-Industry/Energy/Energy-sources/traditional-fuels/oilandgas)**
+
+**[Scottish Government: Decommissioning Challenge Fund (DCF)](https://www.gov.scot/Topics/Business-Industry/Energy/Energy-sources/traditional-fuels/oilandgas/DCF)**
  

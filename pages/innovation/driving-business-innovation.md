@@ -33,8 +33,8 @@ We will also now expand the role, remit and membership of the Can Do Business In
 **[Scotland Can Do](http://www.cando.scot/)**
 
 **[Scottish Enterprise: Workplace Innovation Fund](https://www.scottish-enterprise.com/support-for-businesses/funding-and-grants/growing-your-business/workplace-innovation-fund)**
-  
 
+**[Fair Work Convention](http://www.fairworkconvention.scot/)**
 
 
 

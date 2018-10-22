@@ -31,3 +31,9 @@ We provided over £134,000 funding in 2018-19 to expand the innovative Community
 ## Key resources:
 
 **[Social Enterprise Scotland](https://www.socialenterprisescotland.org.uk/)**
+
+**[Firstport: Funding for your Social Enterprise](http://www.firstport.org.uk/funding)**
+
+**[Year of Young People 2018](https://yoyp2018.scot/)**
+
+**[Community Shares Scotland](http://communitysharesscotland.org.uk/)**

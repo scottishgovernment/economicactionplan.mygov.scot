@@ -29,6 +29,6 @@ The Digital Health and Care Strategy will be central in addressing the challenge
 
 
 ## Key resources:
-**[NHSScotland](https://www.scot.nhs.uk/ )**  
+**[NHS Scotland](https://www.scot.nhs.uk/)**  
 
-**[Scottish Government: Digital Health Care Strategy](https://beta.gov.scot/publications/scotlands-digital-health-care-strategy-enabling-connecting-empowering/ )**  
+**[Scottish Government: Digital Health Care Strategy](https://beta.gov.scot/publications/scotlands-digital-health-care-strategy-enabling-connecting-empowering/)**  

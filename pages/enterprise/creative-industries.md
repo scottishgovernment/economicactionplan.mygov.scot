@@ -39,6 +39,18 @@ As part of our ‘Can Do’ approach we will harness the energy and capacity of 
 
 **[Creative Scotland](https://www.creativescotland.com/)**
 
-**[Scotland Can Do](http://www.cando.scot/)**
+**[V&A Dundee](https://www.vam.ac.uk/dundee)**
+
+**[Edinburgh Festival City](https://www.edinburghfestivalcity.com/)**
 
 **[Scottish Government: Creative talent and engagement](https://beta.gov.scot/policies/arts-culture-heritage/creative-talent-and-engagement/)**
+
+**[Creative Scotland: Platforms for Creative Excellence Programme](https://www.creativescotland.com/funding/funding-programmes/targeted-funding/platforms-for-creative-excellence)**
+
+**[Creative Scotland: Screen Funding](https://www.creativescotland.com/funding/funding-programmes/targeted-funding/screen)**
+
+**[Screen Scotland: Broadcast Content Fund](https://www.screen.scot/funding-and-support/screen-scotland-funding/broadcast-content-fund)**
+
+**[National Film and Television School Scotland](https://nfts.co.uk/about-nfts-scotland)**
+
+**[Scotland Can Do](http://www.cando.scot/)**

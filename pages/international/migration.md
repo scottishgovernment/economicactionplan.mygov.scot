@@ -29,6 +29,7 @@ In addition, we will bring forward an Electoral Franchise Bill to give fair acce
 
 
 ## Key resources:
-**[One Scotland](https://onescotland.org/campaigns/we-are-scotland/)**   
 
-**[Scottish Government:Place in Europe Publication](https://beta.gov.scot/publications/scotlands-place-europe-people-jobs-investment/)**  
+**[Scottish Government:Place in Europe Publication](https://beta.gov.scot/publications/scotlands-place-europe-people-jobs-investment/)** 
+
+**[One Scotland: #WeAreScotland](https://onescotland.org/campaigns/we-are-scotland/)**

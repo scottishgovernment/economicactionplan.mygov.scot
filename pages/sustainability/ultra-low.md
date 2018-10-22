@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  "Ultra-low Emmission Vehicles"
+title:  "Ultra-Low Emmission Vehicles"
 category: sustainability
-summary: "Putting Scotland at the forefront of markets in Ultra Low Emissions Vehicles."
+summary: "Putting Scotland at the forefront of markets in Ultra Low Emission Vehicles."
 index: 5
 parent: sustainability
-permalink: /sustainability/ultra-low/
+permalink: /sustainability/ultra-low-emission-vehicles/
 prev: { title: "Natural Capital and Green Spaces", url: "/sustainability/natural-capital" }
 ---
 
@@ -33,4 +33,4 @@ We will also continue to encourage and support ongoing research, development, de
 
 **[Scottish Government: Climate Change Plan](https://beta.gov.scot/publications/scottish-governments-climate-change-plan-third-report-proposals-policies-2018/pages/12/)**
 
-**[Scottish Government: Energy Strategy](https://beta.gov.scot/binaries/content/documents/govscot/publications/publication/2017/12/scottish-energy-strategy-future-energy-scotland-9781788515276/documents/00529523-pdf/00529523-pdf/govscot:document/)**
+**[The future of energy in Scotland: Scottish energy strategy](https://beta.gov.scot/publications/scottish-energy-strategy-future-energy-scotland-9781788515276/)**

@@ -42,4 +42,15 @@ While it’s critical to broaden the pool of talent starting and growing new bus
 **[Highlands and Islands Enterprise](http://www.hie.co.uk/)**
 
 **[Scottish Framework and Action Plan for Women in Enterprise](https://beta.gov.scot/publications/scottish-framework-action-plan-women-enterprise/)**
- 
+
+**[CivTech](https://civtech.atlassian.net/wiki/spaces/CIV/overview?mode=global)**
+
+**[Women's Enterprise Scotland: Scottish Framework and Action Plan for Women's Enterprise](https://www.wescotland.co.uk/framework)**
+
+**[Investing Women](http://www.investingwomen.co.uk/)**
+
+**[Business Women Scotland](https://bwsltd.co.uk/)**
+
+**[Women's Enterprise Scotland: Ambassadors](https://www.wescotland.co.uk/ambassadors-role-models)**
+
+**[Scottish Chambers of Commerce: Women's Business Mentoring](https://www.scottishchambers.org.uk/services/womens-business-mentoring)**

@@ -6,7 +6,7 @@ summary: "Protecting and enhancing Scotland’s natural assets."
 index: 4
 parent: sustainability
 permalink: /sustainability/natural-capital/
-next: { title: "Ultra-low Emission Vehicles", url: "/sustainability/ultra-low/" }
+next: { title: "Ultra-Low Emission Vehicles", url: "/sustainability/ultra-low-emission-vehicles/" }
 prev: { title: "Circular Economy and Green Spaces", url: "/sustainability/circular-economy" }
 ---
 ![Natural Capital Photo](/assets/images/pageimages/sustainability3.jpg)
@@ -47,4 +47,4 @@ We are continuing to invest in our green infrastructure to support tourism growt
 
 **[Forestry Commission: Grants](https://scotland.forestry.gov.uk/supporting/grants-and-regulations/forestry-grants)**  
 
-**[SEPA](https://www.sepa.org.uk/ )**
+**[Scottish Environment Protection Agency (SEPA)](https://www.sepa.org.uk/)**

@@ -40,5 +40,9 @@ We will improve and speed up access to and decision making on support for busine
 **[Working Collaboratively for a Better Scotland: Strategic Plan](https://www.gov.scot/Resource/0054/00542105.pdf)**
 
 **[Redundancy support for people and businesses in Scotland](https://www.skillsdevelopmentscotland.co.uk/what-we-do/employability-skills/partnership-action-for-continuing-employment-pace/)**
- 
 
+**[Business rates guidance](https://www.mygov.scot/business-rates-guidance/)**
+
+**[Scottish Government: Non-domestic rates](https://beta.gov.scot/policies/local-government/non-domestic-rates/)**
+
+**[Business growth accelerator relief](https://www.mygov.scot/business-rates-relief/business-growth-accelerator-relief/)**

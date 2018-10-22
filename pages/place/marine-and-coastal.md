@@ -35,6 +35,13 @@ We have supported maritime business and coastal communities through the European
 
 
 ## Key resources:
-**[The European Marine Energy Centre](http://www.emec.org.uk/ )**  
+
+**[Scottish Government: Marine Planning](https://www.gov.scot/Topics/marine/seamanagement/regional)**
+
+**[The European Marine Energy Centre](http://www.emec.org.uk/)**  
+
 **[Aqua Culture Scotland](http://aquaculture.scotland.gov.uk/)**
+
 **[Scottish Aqua Culture](http://scottishaquaculture.com/)**
+
+**[Offshore wind, wave and tidal energy applications: consenting and licensing manual](https://beta.gov.scot/publications/marine-scotland-consenting-licensing-manual-offshore-wind-wave-tidal-energy-applications/)**

@@ -7,7 +7,7 @@ index: 3
 parent: place
 permalink: /place/regional-economies/
 next: { title: "Business Improvement Districts", url: "/place/business-improvement-districts/" }
-prev: { title: "City Region Deals", url: "/place/city-region" }
+prev: { title: "City Region Deals", url: "/place/city-region-deals/" }
 ---
 ![Regional Economies Photo](/assets/images/pageimages/place2.jpg)
 <br>
@@ -26,11 +26,11 @@ To achieve sustainable and inclusive economic growth in rural areas in the South
 
 In order to support community wealth building we will support the Glasgow procurement collaboration to further develop their work to increase the retention of local spending within the area. This will involve working with local businesses to ensure they are able to access contracts and supply goods and services, retaining expenditure investment and jobs within local communities.
 
-
-
+ 
 ## Key resources:
+
 **[Inclusive Growth](http://www.inclusivegrowth.scot/about-us/)**  
 
 **[South of Scotland Economic Partnership](http://www.sosep.co.uk/index.html)**  
 
-**[Scottish Government: South of Scotland Economic Agency Consultation Report](https://www.gov.scot/Publications/2018/10/9556/1 )**  
+**[Scottish Government: South of Scotland Economic Agency Consultation Report](https://www.gov.scot/Publications/2018/10/9556/1)**  

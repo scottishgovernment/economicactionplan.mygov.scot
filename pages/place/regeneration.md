@@ -32,4 +32,10 @@ Communities are a key driver for inclusive growth  and provide opportunities for
 
 
 ## Key resources:
-**[Scottish Government: Regeneration Policy](https://beta.gov.scot/policies/regeneration/)**
+**[Scottish Government: Regeneration policy](https://beta.gov.scot/policies/regeneration/)**
+
+**[Scottish Government: Community empowerment policy](https://beta.gov.scot/policies/community-empowerment/)**
+
+**[Clyde Gateway](http://www.clydegateway.com/)**
+
+**[Scotland's Towns Partnership](https://www.scotlandstowns.org/)**

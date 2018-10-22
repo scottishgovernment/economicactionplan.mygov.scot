@@ -38,8 +38,14 @@ Electricity & Gas Network businesses in Scotland, and their supply chain, will b
 
 **[Energy Efficient Scotland: route map](https://beta.gov.scot/publications/energy-efficient-scotland-route-map/)**
 
-**[Energy Investment Fund](https://www.scottish-enterprise.com/support-for-businesses/funding-and-grants/accessing-finance-and-attracting-investment/energy-investment-fund)**
+**[Scottish Enterprise: Energy Investment Fund](https://www.scottish-enterprise.com/support-for-businesses/funding-and-grants/accessing-finance-and-attracting-investment/energy-investment-fund)**
 
 **[Wave Energy Scotland](http://www.waveenergyscotland.co.uk/)**
 
 **[European Marine Energy Centre](http://www.emec.org.uk/)**  
+
+**[Scottish Government: Energy Investment Fund](https://beta.gov.scot/policies/renewable-and-low-carbon-energy/energy-investment-fund/)**
+
+**[Scottish Development International: Renewables](https://www.sdi.co.uk/business-in-scotland/key-sectors/renewables)**
+
+**[Low Carbon Infrastructure Transition Programme](https://www.gov.scot/Topics/Business-Industry/Energy/Action/lowcarbon/LCITP)**

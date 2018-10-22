@@ -6,7 +6,7 @@ summary: "Ensuring support is in place to allow everyone to access work and trai
 index: 3
 parent: people
 permalink: /people/inclusion/
-next: { title: "Fair work", url: "/people/fair-work/" }
+next: { title: "Fair Work", url: "/people/fair-work/" }
 prev: { title: "Better Outcomes for Children", url: "/people/outcomes-for-children" }
 ---
 ![Inclusion Photo](/assets/images/pageimages/people2.jpg)
@@ -37,7 +37,7 @@ We will implement the recommendations of the Commission on Widening Access to su
 
 
 ## Key resources:
-**[One Scotland](https://onescotland.org/equality-themes/advisory-council-women-girls/  )**  
+**[One Scotland](https://onescotland.org/equality-themes/advisory-council-women-girls/)**  
 
 **[Scottish Government: Fairer Scotland](https://beta.gov.scot/publications/fairer-scotland-action)**  
 

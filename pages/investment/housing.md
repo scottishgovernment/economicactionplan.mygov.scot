@@ -30,3 +30,11 @@ We will now enable businesses within the housing supply system to better plan ah
 ## Key resources: 
 
 **[Scottish Government: Housing](https://beta.gov.scot/housing/)**
+
+**[Housing Infrastructure Fund](https://beta.gov.scot/policies/more-homes/housing-infrastructure-fund/)**
+
+**[More Homes Scotland](https://beta.gov.scot/publications/more-homes-scotland/)**
+
+**[Affordable Housing Supply Programme](https://beta.gov.scot/policies/more-homes/affordable-housing-supply/)** 
+
+**[Scotland Self-Build Loan Fund](https://www.mygov.scot/self-build-loan-fund/)**

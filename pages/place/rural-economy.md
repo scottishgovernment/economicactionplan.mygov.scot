@@ -45,6 +45,9 @@ We will work with Scottish Enterprise to maximise the impact of the Rural Leader
 
 ## Key resources:
 **[Innovative Farmers](https://www.innovativefarmers.org/welcometoriss/)**  
+
 **[Scottish Government: Rural Farming](https://www.gov.scot/Topics/farmingrural/SRDP)**
+
 **[Scottish Rural Parliament](https://www.scottishruralparliament.org.uk/)**
-**[Rural Network](https://www.ruralnetwork.scot/funding/scottish-rural-development-programme )**
+
+**[Rural Network: Scottish Rural Development Programme](https://www.ruralnetwork.scot/funding/scottish-rural-development-programme)**

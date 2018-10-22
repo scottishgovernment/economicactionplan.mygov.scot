@@ -29,4 +29,5 @@ We are taking action as a Government to enhance recycling, including designing a
 We are also establishing a Just Transition Commission to advise Scottish Ministers on adjusting to a more sustainable and resource-efficient economic model in a fair way which will help to tackle inequality and poverty, and promote a fair and inclusive jobs market.
 
 ## Key resources:
+
 **[Zero Waste Scotland](https://www.zerowastescotland.org.uk)**

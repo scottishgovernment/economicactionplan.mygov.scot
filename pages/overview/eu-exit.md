@@ -24,4 +24,4 @@ Leaving the Single Market and Customs Union would also compromise the vast range
 We strongly believe that a commitment to maintaining membership of the Single Market and Customs Union would not only avoid a no-deal or blindfold deal that would be so damaging, but would secure a withdrawal agreement and provide clarity on the future relationship.
 
 
-**[‘Scotland’s Place in Europe: People, Jobs  and Investment’](https://beta.gov.scot/binaries/content/documents/govscot/publications/publication/2018/01/scotlands-place-europe-people-jobs-investment-summary/documents/00530168-pdf/00530168-pdf/govscot:document/)**
+**[‘Scotland’s Place in Europe: People, Jobs and Investment’](https://beta.gov.scot/binaries/content/documents/govscot/publications/publication/2018/01/scotlands-place-europe-people-jobs-investment-summary/documents/00530168-pdf/00530168-pdf/govscot:document/)**
