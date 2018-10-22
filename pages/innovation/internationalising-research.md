@@ -9,7 +9,7 @@ permalink: /innovation/internationalising-research/
 prev: { title: "Circular Economy and Green Innovation", url: "/innovation/circular-economy/" }
 ---
 
-![A light show](/assets/images/pageimages/innovation.jpg)  
+![A light show](/assets/images/pageimages/innovation8.jpg)  
 <br>
 <hr>
 * **The Scottish Government and Scotland’s business, academic and public sector partners value the relationships we have with our European partners forging research and innovation collaborations that can have a global impact**
