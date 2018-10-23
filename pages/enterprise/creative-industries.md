@@ -11,9 +11,8 @@ next: { title: "Employee-Ownership", url: "/enterprise/employee-ownership/" }
 ---
 
 ![A video game scene of a colourful landscape](/assets/images/pageimages/enterprise7.jpg)
-Image courtesy of Scottish Enterprise
+*Image courtesy of Scottish Enterprise*
 
-<br>
 <hr>
 * **Scotland’s creative industries contributed £4.4 billion of GVA to Scotland in 2016, employing 84,000 people**
 * **The creative sector promotes experimentation and idea generation, it helps drive innovation and transformation, and contributes to Scotland’s international reputation**

@@ -11,8 +11,8 @@ next: { title: "Circular Economy and Green Innovation", url: "/innovation/circul
 ---
 
 ![A video game scene of a colourful landscape](/assets/images/pageimages/innovation6.jpg)
-Image courtesy of Scottish Enterprise
-<br>
+*Image courtesy of Scottish Enterprise*
+
 <hr>
 * **Scotland’s creative industries contributed £4.4 billion of GVA to Scotland in 2016, employing 84,000 people**
 * **The creative sector promotes experimentation and idea generation, it helps drive innovation and transformation, and contributes to Scotland’s international reputation**

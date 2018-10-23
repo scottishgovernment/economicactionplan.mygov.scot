@@ -10,8 +10,8 @@ prev: { title: "Making Best Use of University and College Research, Knowledge an
 next: { title: "Data Driven Innovation and Cyber Resilience", url: "/innovation/data-driven/" }
 ---
 
-![A light show](/assets/images/pageimages/innovation8.jpg)  
-<br>
+![A light show](/assets/images/pageimages/innovation8.jpg)
+
 <hr>
 * **The Scottish Government and Scotland’s business, academic and public sector partners value the relationships we have with our European partners forging research and innovation collaborations that can have a global impact**
 * **Scottish organisations have already secured over €533 million to date from the current EU research and innovation funding programme (Horizon 2020)**

@@ -11,8 +11,8 @@ prev: { title: "Carbon Neutral Economy", url: "/sustainability/carbon-neutral" }
 ---
 
 ![Circular Economy Photo](/assets/images/pageimages/Sustainability2.jpg)
-Image courtesy of Scottish Enterprise
-<br>
+*Image courtesy of Scottish Enterprise*
+
 <hr>
 **A more circular economy will benefit:**
 

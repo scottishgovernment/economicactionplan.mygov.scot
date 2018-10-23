@@ -10,7 +10,7 @@ prev: { title: "Creative Industries", url: "/innovation/creative-industries/" }
 ---
 
 ![A wind farm](/assets/images/pageimages/innovation7.jpg)
-<br>
+
 <hr>
 **A more circular economy will benefit:**
 

@@ -9,8 +9,8 @@ permalink: /international/foreign-direct-investment/
 prev: { title: "Promoting Scotland", url: "/international/promoting-scotland/" }
 next: { title: "Migration", url: "/international/migration/" }
 ---
-![Money](/assets/images/pageimages/international.3.jpg)  
-<br>
+![Money](/assets/images/pageimages/international.3.jpg)
+
 <hr>
 * **Our new Invest in Scotland Prospectus will target key markets and sectors with positive reasons to invest in Scotland**
 * **Extend the range and reach of our international network to support investment in Scotland**

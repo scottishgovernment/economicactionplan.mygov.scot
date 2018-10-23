@@ -10,8 +10,8 @@ next: { title: "Promoting Scotland", url: "/international/promoting-scotland/" }
 prev: { title: "Introduction", url: "/international/introduction" }
 ---
 ![A shelf of whisky](/assets/images/pageimages/international.1.jpg)
-Image courtesy of Scotland is Now
-<br>
+*Image courtesy of Scotland is Now*
+
 <hr>
 * **£20 million in our new plan _‘A trading nation: our plan for growing Scotland’s exports’_**
 * **Increase the involvement of private sector expertise, facilitating peer-to-peer networking and learning to grow our exports and imports**

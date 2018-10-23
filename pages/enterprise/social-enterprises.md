@@ -11,8 +11,8 @@ next: { title: "Public Procurement", url: "/enterprise/public-procurement/" }
 ---
 
 ![A Social Bite shop sign](/assets/images/pageimages/enterprise10.jpg)
-Image courtesy of Scotland is Now
-<br>
+*Image courtesy of Scotland is Now*
+
 <hr>
 * **We are raising awareness of social enterprise as a viable and rewarding career**
 * **We have established a national social enterprise incubator**

@@ -9,8 +9,8 @@ permalink: /international/migration/
 prev: { title: "Foreign Direct Investment", url: "/international/foreign-direct-investment/" }
 next: { title: "Tourism", url: "/international/tourism/" }
 ---
-![A crowd of people](/assets/images/pageimages/international.4.jpg)  
-<br>
+![A crowd of people](/assets/images/pageimages/international.4.jpg)
+
 <hr>
 * **Push the UK Government to recognise the action that is needed to protect Scotland’s prosperity and wellbeing**
 * **Build on the success of the ‘We are Scotland’ social media campaign**
@@ -30,6 +30,6 @@ In addition, we will bring forward an Electoral Franchise Bill to give fair acce
 
 ## Key resources:
 
-**[Scottish Government:Place in Europe Publication](https://beta.gov.scot/publications/scotlands-place-europe-people-jobs-investment/)** 
+**[Scottish Government: Place in Europe Publication](https://beta.gov.scot/publications/scotlands-place-europe-people-jobs-investment/)** 
 
 **[One Scotland: #WeAreScotland](https://onescotland.org/campaigns/we-are-scotland/)**
