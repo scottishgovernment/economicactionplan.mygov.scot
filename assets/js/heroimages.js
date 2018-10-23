@@ -8,7 +8,7 @@ var loadHighResImages = function(){
         }
 
         var lowResSrc = heroImage.src;
-        var highResSrc = lowResSrc.replace(".", "-x2.");
+        var highResSrc = lowResSrc.replace(/.png$/, '-x2.png');
      	heroImage.src = highResSrc;
     }
 }
