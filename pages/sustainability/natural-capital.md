@@ -12,7 +12,7 @@ prev: { title: "Circular Economy and Green Spaces", url: "/sustainability/circul
 ![Natural Capital Photo](/assets/images/pageimages/sustainability3.jpg)
 <br>
 <hr>
-* **Investment in Scotland’s natural assets – air, water, land and nature – will deliver a healthier and more prosperous Scotland.**
+* **Investment in Scotland’s natural assets – air, water, land and nature – will deliver a healthier and more prosperous Scotland**
 
 <hr>
 

@@ -23,7 +23,7 @@ The Fair Work Convention’s vision, which the Scottish Government shares, is th
 
 We are introducing fair work criteria from the Scottish Business Pledge, including paying the living wage, excluding exploitative zero hours contracts and gender pay gap transparency to business support grants through Regional Selective Assistance and other large Scottish Enterprise job-related grants.
 
-Our target is that by the end of this Parliament, we will have extended fair work criteria to every type of grant, funding steam and business support budget open to us. We will also extend the range of Scottish Government and public sector contracts that fair work criteria will apply to. Our ‘Fair Work First’ approach will be developed with trade unions, business and the public sector.
+Our target is that by the end of this Parliament, we will have extended fair work criteria to every type of grant, funding stream and business support budget open to us. We will also extend the range of Scottish Government and public sector contracts that fair work criteria will apply to. Our ‘Fair Work First’ approach will be developed with trade unions, business and the public sector.
 
 We are exploring options to develop support and advice for small, micro and Business Pledge employers to support fair work practices in their businesses including employing disadvantaged groups.
 

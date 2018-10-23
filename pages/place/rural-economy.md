@@ -12,9 +12,9 @@ prev: { title: "Regeneration", url: "/place/regeneration" }
 ![Rural Photo](/assets/images/pageimages/place6.jpg)
 <br>
 <hr>
-* **We will support the development of a diverse and healthy rural economy through the growth of traditional and non-traditional sectors.**
-* **We will invest in our infrastructure to deliver housing, improved access to services and connectivity enabling improved sustainable and inclusive economic growth.**
-* **We will deliver a rural skills action plan to ensure that rural enterprises have access to a highly-skilled workforce.**
+* **We will support the development of a diverse and healthy rural economy through the growth of traditional and non-traditional sectors**
+* **We will invest in our infrastructure to deliver housing, improved access to services and connectivity enabling improved sustainable and inclusive economic growth**
+* **We will deliver a rural skills action plan to ensure that rural enterprises have access to a highly-skilled workforce**
 
 
 <hr>

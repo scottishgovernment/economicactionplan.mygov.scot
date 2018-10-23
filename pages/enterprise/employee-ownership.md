@@ -18,7 +18,7 @@ next: { title: "Supporting Scotland’s Rural Businesses", url: "/enterprise/sup
 
 <hr>
 
-The health of the Scottish economy depends on having a diverse range of business-types. Employee ownership has an important role to play.
+The health of the Scottish economy depends on having a diverse range of business types. Employee ownership has an important role to play.
 
 We are making it easier for companies and workers to find out more about employee ownership and to move towards it if it’s right for them. Scotland for EO will help to make this into a real option for businesses and workers across Scotland.
 

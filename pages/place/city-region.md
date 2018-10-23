@@ -2,10 +2,11 @@
 layout: default
 title:  "City Region and Other Growth Deals"
 category: place
-summary: "Delivering transformational investment for Scotland’s city regions ."
+summary: "Delivering transformational investment for Scotland’s city regions."
 index: 2
 parent: place
 permalink: /place/city-region-deals/
+prev: { title: "Introduction", url: "/place/introduction/" }
 next: { title: "Regional Economies and Economic Partnerships", url: "/place/regional-economies/" }
 ---
 ![City Photo](/assets/images/pageimages/place1.jpg)

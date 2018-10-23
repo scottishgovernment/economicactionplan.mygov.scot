@@ -12,7 +12,7 @@ prev: { title: "Business Improvement Districts", url: "/place/business-improveme
 ![Planning Photo](/assets/images/pageimages/place4.jpg)
 <br>
 <hr>
-* **We will ensure that the planning system develops to support inclusive economic growth and delivers for investors and communities.**
+* **We will ensure that the planning system develops to support inclusive economic growth and delivers for investors and communities**
 
 
 <hr>

@@ -2,7 +2,7 @@
 layout: default
 title:  "Regeneration"
 category: place
-summary: "Place-based policy to tackle inequality and supports local aspirations."
+summary: "Place-based policy to tackle inequality and support local aspirations."
 index: 6
 parent: place
 permalink: /place/regeneration/
@@ -12,7 +12,7 @@ prev: { title: "Planning", url: "/place/planning" }
 ![Regeneration Photo](/assets/images/pageimages/place5.jpg)
 <br>
 <hr>
-* **Stimulating inclusive growth through the Regeneration Capital Grant Fund and the Vacant and Derelict Land Fund.**
+* **Stimulating inclusive growth through the Regeneration Capital Grant Fund and the Vacant and Derelict Land Fund**
 * **Provide investment for commercial projects through our SPRUCE investment loan fund**
 
 

@@ -11,8 +11,8 @@ prev: { title: "Marine and Coastal Economy and Communities", url: "/place/marine
 ![Marine Photo](/assets/images/pageimages/place8.jpg)
 <br>
 <hr>
-* **Increasing shared ownership of renewable energy.**
-* **Giving local communities control of land and properties.**
+* **Increasing shared ownership of renewable energy**
+* **Giving local communities control of land and properties**
 
 <hr>
 

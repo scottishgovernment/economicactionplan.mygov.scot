@@ -5,8 +5,8 @@ category: place
 summary: "Supporting thriving places throughout Scotland: in our regions, cities, towns and the rural economy."
 index: 1
 parent: place
-permalink: /place/place-introduction/
-next: { title: "City Region Deals", url: "/place/city-region-deals/" }
+permalink: /place/introduction/
+next: { title: "City Region and Other Growth Deals", url: "/place/city-region-deals/" }
 ---
 ![Places Photo](/assets/images/pageimages/place.jpg)
 <br>

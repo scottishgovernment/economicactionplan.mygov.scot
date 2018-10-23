@@ -7,17 +7,16 @@ index: 8
 parent: innovation
 permalink: /innovation/circular-economy/
 prev: { title: "Creative Industries", url: "/innovation/creative-industries/" }
-next: { title: "Internationalising Research and Innovation Engagement", url: "/innovation/internationalising-research/" }
 ---
 
 ![A wind farm](/assets/images/pageimages/innovation7.jpg)
 <br>
 <hr>
-**A more circular economy will benefit**
+**A more circular economy will benefit:**
 
-* **The environment by cutting waste and carbon emissions.**
-* **The economy by improving productivity and opening up new markets.**
-* **Communities by providing new local employment opportunities and lower cost options to access the goods we need.**
+* **The environment by cutting waste and carbon emissions**
+* **The economy by improving productivity and opening up new markets**
+* **Communities by providing new local employment opportunities and lower cost options to access the goods we need**
 
 <hr>
 

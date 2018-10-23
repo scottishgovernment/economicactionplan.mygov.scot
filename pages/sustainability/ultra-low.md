@@ -2,7 +2,7 @@
 layout: default
 title:  "Ultra-Low Emmission Vehicles"
 category: sustainability
-summary: "Putting Scotland at the forefront of markets in Ultra Low Emission Vehicles."
+summary: "Putting Scotland at the forefront of markets in Ultra-Low Emission Vehicles."
 index: 5
 parent: sustainability
 permalink: /sustainability/ultra-low-emission-vehicles/
