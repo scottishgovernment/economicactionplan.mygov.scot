@@ -24,7 +24,9 @@ To maintain competitive economic conditions in an increasingly global market, an
 
 It is vital that the right investments are made that generate inclusive growth and deliver our carbon neutral objectives.  Investment in economic infrastructure is a key driver of growth. For example, investment in broadband, transport and utilities provides the foundation for companies to invest and brings new economic opportunities to remote and deprived parts of the country.  We will identify the priority infrastructure projects that can unlock the greatest productivity gains advised by a new Infrastructure Commission and through the development of the next Infrastructure Investment Plan. 
 
-The Infrastructure Commission that will identify key strategic investments in Scotland to be made to boost economic growth and support public services will also be asked to report on creating a Scottish National Infrastructure Company.
+The chair of the Infrastructure Commission will be appointed shortly, and it will be asked to report to ministers on the identification of key strategic investments in Scotland to boost economic growth and support public services by the end of 2019.
+
+Following the completion of this report the commission will be asked to provide advice to ministers on the delivery of infrastructure in Scotland, including the possible creation of a Scottish National Infrastructure Company.
 
 ## Construction Industry
 
