@@ -36,7 +36,7 @@ next: { title: "EU Exit", url: "/overview/eu-exit/"}
 
 * We will **set up Procurement Innovation Partnerships** to solve social challenges while creating opportunities for SMEs. 
 
-* We will look to realise the potential of **women’s contribution** to economic success through the Womens’ Enterprise Action Framework and the delivery of our forthcoming Gender Pay Gap Action Plan.
+* We will look to realise the potential of **women’s contribution** to economic success through the Women in Enterprise Action Framework and the delivery of our forthcoming Gender Pay Gap Action Plan.
 
 * We will **integrate and expand upskilling and reskilling provision**, working with the new National Retraining Partnership involving unions and employers’ organisations to shape the public and private sector response to this. 
 

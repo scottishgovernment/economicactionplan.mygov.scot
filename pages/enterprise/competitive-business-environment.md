@@ -19,14 +19,15 @@ next: { title: "Enhancing Business Support", url: "/enterprise/enhancing-busines
 
 <hr>
 
+## Competitive and stable tax system
+
 We know that businesses want a competitive and stable tax system, streamlined and simple information, advice and support, and appropriate and proportionate regulation. We are taking action to deliver this supportive business environment and are committing to a competitive and stable fiscal regime.
 
-We have significantly reduced or abolished business rates for 100,000 premises – saving small businesses almost £1.5 billion since 2008  – and providing an extra £100 million of business rate support, including a new Growth Accelerator that ensures new or improved properties pay no rates for a year. 
+## Business rates
 
-We will bring forward a Non-Domestic Rates Bill to implement further recommendations from the Barclay Review in early 2019 and ensure that tax decisions in the forthcoming Budget embed Scotland’s competitive position as an attractive place to do business and provide certainty to investors.
+We have significantly reduced or abolished business rates for over 100,000 premises – saving small businesses almost £1.5 billion cumulatively since 2008  – and are providing an extra £100 million of business rate support in 2018-19, including a new Growth Accelerator. This measure, unique in the UK, suspends the non-domestic rates liability for new build properties until 12 months after they are first occupied and ensures improved properties will not see increases in their rates bill resulting from the improvements until one year after completion of the works.
 
-We will also work with the Regulatory Review Group and key stakeholders to better understand public sector policy and regulation impacts on our businesses and, in particular, our small businesses in Scotland.
-
+We will bring forward a Non-Domestic Rates Bill to implement the agreed recommendations of the Barclay Review that require primary legislation in early 2019 such as the move to three-yearly revaluations from 2022, a move widely welcomed by business. We will also ensure that tax decisions in the forthcoming Budget embed Scotland’s competitive position as an attractive place to do business and provide certainty to investors.
 
 ## Key resources: 
 

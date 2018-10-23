@@ -21,9 +21,15 @@ next: { title: "Circular Economy and Green Innovation", url: "/innovation/circul
 
 We will work with industry to promote the value of design, use of design thinking, and build design capability across sectors. We have supported the development of the iconic V&A Dundee, Scotland’s first design museum, which will provide significant economic benefit through employment generation and contributing to Scotland’s international reputation.
 
+## Edinburgh Festivals
+
 Providing an important opportunity to build innovation across Scotland’s leading festivals, we will invest a total of £2 million in the Edinburgh Festivals in 2018/19 through the continuation of the EXPO fund. Since 2008 the Scottish Government Expo Fund has supported the delivery and further expansion of Scotland's major festivals‎ with an investment of £21 million, making a massive contribution in cementing Edinburgh's reputation as a world leading festival city.
 
+## Platform for Creative Excellence 
+
 We will provide £1 million towards PLACE (Platform for Creative Excellence) partnership in 2018/19. As a 3-way matched funding arrangement between Edinburgh’s Festivals, Scottish Government and City of Edinburgh Council, it will support proposals for strategic development activity across Edinburgh’s festivals.
+
+## Screen
 
 We have committed an additional £10 million in 2018-19 for screen production, development and growth, doubling the screen budget to £20 million. New increased funds to support film and television production have been rolled out this year with a larger Production Growth Fund to attract inward investment and a new television Broadcast Content Fund for television.
 

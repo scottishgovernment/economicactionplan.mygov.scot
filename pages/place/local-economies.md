@@ -22,13 +22,13 @@ We will continue to support Scotland’s Towns Partnership to promote the Town C
 
 Building on the Town Centre First Principle, we will support and promote the Place Principle which asks that all those responsible for providing services and looking after assets in a place need to work and plan together, and with local communities, to improve the lives of people, support inclusive growth and create more successful places.
 
-Asset Transfer legislation gives community organisations a right to ask to take over control of land or buildings owned by local councils, Scottish Government, and other public authorities - this is helping revitalise local economies by putting control of these properties into community hands and supporting community development
+Asset Transfer legislation gives community organisations a right to ask to take over control of land or buildings owned by local councils, Scottish Government, and other public authorities – this is helping revitalise local economies by putting control of these properties into community hands and supporting community development
 
 We are supporting communities to become more resilient and sustainable through the ownership and management of land and land assets, with our £10 million per year Scottish Land Fund extended to 2021.
 
 We have launched a Regional Food Fund of £250k to support growth in Scotland’s local/regional food and drink sector to double the amount that visitors spend on food and drink.
 
-We have provided support for the CAN DO Places initiative, which supports the creation of co-working spaces that benefit communities, amounting to £150,000 from 2016 to 2017.
+We have provided support for the Can Do Places initiative, which supports the creation of co-working spaces that benefit communities, amounting to £150,000 from 2016 to 2017.
 
 
 ## Key resources:

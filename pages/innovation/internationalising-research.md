@@ -18,7 +18,9 @@ next: { title: "Data Driven Innovation and Cyber Resilience", url: "/innovation/
 
 <hr>
 
-Collaboration and sharing of good practice with EU partners has been a cornerstone of our ability to tackle shared challenges from the domestic to the global e.g. tackling organised crime that does not respect boundaries, action on climate change, space exploration to name a few. Through our European Networks we can target business, public sector and academic leadership in areas in major economic opportunity for Scotland. Working in partnership will allow us to accelerate the development of new innovative approaches in Scotland; show leadership in emerging business and sectoral opportunities and enhance our standing on the world stage.
+Collaboration and sharing of good practice with EU partners has been a cornerstone of our ability to tackle shared challenges from the domestic to the global e.g. tackling organised crime that does not respect boundaries, action on climate change and space exploration to name a few. Through our European Networks we can target business, public sector and academic leadership in areas in major economic opportunity for Scotland. Working in partnership will allow us to accelerate the development of new innovative approaches in Scotland; show leadership in emerging business and sectoral opportunities and enhance our standing on the world stage.
+
+## European Networks 
 
 We recognise the benefits of active collaboration of academia, business and the public sector in European research and innovation activity: through shared access to European networks; mobility and career development opportunities for researchers, building reputational opportunities for science and business, and being part of pan-European collaborations with the benefits that projects of these size and scale offer to all participants including to leverage the collaborations as points of external investment.
 

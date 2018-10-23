@@ -20,11 +20,19 @@ next: { title: "Access to Finance", url: "/enterprise/access-to-finance/" }
 
 <hr>
 
+## Enterprise Agencies
+
 We provide over £250 million each year to support Scottish Enterprise to promote sustainable and inclusive growth through providing practical support and opportunities for sectors and businesses to develop, grow and invest in Scotland; and a further £71m goes to Highlands and Islands Enterprise to provide tailored support across the region.
  
+## Information, advice and support
+
 We will maximise the impact of the investment we make in enterprise and skills development by implementing the recommendations of the business-led Strategic Board and ensuring our agencies operate as a single system that delivers the right information, advice and support at the right time for business. This includes building on the established success of the Partnership Action for Continued Employment (PACE) model by enhancing data-led analysis of sectoral and company resilience, to deliver through agencies a consistent yet targeted service to companies across Scotland, when they need support. 
 
-We will also task the agencies to work with Scotland’s wide range of leadership and enterprise support organisations as well as business, employers and colleges and universities, especially business schools, to develop and deliver a range of different types of leadership and management support which meet the needs of individuals and businesses at different stages of career development and company growth.
+## Leadership
+
+We will also task the agencies to work with Scotland’s wide range of leadership and enterprise support organisations as well as business, employers, and colleges and universities, especially business schools, to develop and deliver a range of different types of leadership and management support which meet the needs of individuals and businesses at different stages of career development and company growth.
+
+## Single Digital Portal
 
 We will improve and speed up access to and decision making on support for businesses – including implementing a single digital portal with online needs assessment and instant decisions on eligibility based financial support.
 

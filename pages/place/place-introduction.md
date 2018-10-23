@@ -13,7 +13,7 @@ next: { title: "City Region and Other Growth Deals", url: "/place/city-region-de
 <hr>
 
 
-We recognise that a ‘one-size fits all’ approach to sustainable and inclusive growth can have unintended consequences. Supporting businesses and growth across all of Scotland, requires us to tailor our actions to address specific conditions in our sectors, regions and rural economy.
+We recognise that a ‘one size fits all’ approach to sustainable and inclusive growth can have unintended consequences. Supporting businesses and growth across all of Scotland, requires us to tailor our actions to address specific conditions in our sectors, regions and rural economy.
 
 We are improving regional economies through our City Region deals and through transformational investment across all of Scotland.  Whether urban, rural or island we know that with ambition, and the right support, communities can develop and regenerate places and spaces where they live and make them even better.
 

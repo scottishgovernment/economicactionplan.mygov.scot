@@ -23,6 +23,6 @@ Leaving the Single Market and Customs Union would also compromise the vast range
 
 We strongly believe that a commitment to maintaining membership of the Single Market and Customs Union would not only avoid a no-deal or blindfold deal that would be so damaging, but would secure a withdrawal agreement and provide clarity on the future relationship.
 
-Taking action to mitigate impacts, the Prepare for Brexit campaign, led by the enterprise and skills agencies, will help business review their plans in light of Brexit to ensure they can continue to develop their workforce, grow their business, export, innovate and access finance and investment.
+Taking action to mitigate impacts, the Prepare for Brexit campaign, led by the enterprise and skills agencies, will help businesses review their plans in light of Brexit to ensure they can continue to develop their workforce, grow their business, export, innovate and access finance and investment.
 
 **[‘Scotland’s Place in Europe: People, Jobs and Investment’](https://beta.gov.scot/binaries/content/documents/govscot/publications/publication/2018/01/scotlands-place-europe-people-jobs-investment-summary/documents/00530168-pdf/00530168-pdf/govscot:document/)**

@@ -2,7 +2,7 @@
 layout: default
 title:  "Getting the Fundamentals Right "
 category: overview
-summary: "We are taking action across all elements of Inclusive Growth."
+summary: "We are taking action across all elements of inclusive growth."
 index: 3
 parent: overview
 permalink: /overview/fundamentals/

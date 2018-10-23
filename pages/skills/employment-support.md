@@ -13,12 +13,12 @@ next: { title: "Further Education and Higher Education", url: "/skills/further-h
 ![Five people waiting in line in chairs](/assets/images/pageimages/skills1.jpg)
 <br>
 <hr>
-* **Our employment support service - Fair Start Scotland – is designed to give individualised support to 38,000 individuals furthest removed from the labour market**
+* **Our employment support service – Fair Start Scotland – is designed to give individualised support to 38,000 individuals furthest removed from the labour market**
 * **Supporting those affected by redundancy through the Partnership Action for Continuing Employment (PACE)**
 
 <hr>
 
-We have developed an employment support service - Fair Start Scotland - to help those facing the greatest barriers to work to find and stay in jobs, based on our over-arching principles of fairness and respect. 
+We have developed an employment support service – Fair Start Scotland – to help those facing the greatest barriers to work to find and stay in jobs, based on our over-arching principles of fairness and respect. 
 
 We are also setting out how we will deliver more effective and joined up employability support across Scotland with the publication of No One Left Behind – Next Steps for the Integration and Alignment of Employability Support in Scotland.
 

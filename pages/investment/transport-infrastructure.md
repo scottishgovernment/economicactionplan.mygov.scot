@@ -19,17 +19,29 @@ next: { title: "Housing", url: "/investment/housing/" }
 
 <hr>
 
-Since 2007, we have supported our transport systems with over £20 billion investment across trunk roads, rail, buses, ferries and air services as well as active travel, including delivery of the iconic £1.35 billion Queensferry Crossing and the M8/M73/M74 Motorway Improvements projects. Building on this, the second Strategic Transport Projects Review by 2020 will now identify the strategic transport infrastructure investments required to support the Scotland’s Economy over the next 20 years.
+## Strategic Transport Projects
+
+Since 2007, we have supported our transport systems with over £20 billion investment across trunk roads, rail, buses, ferries and air services as well as active travel, including delivery of the iconic £1.35 billion Queensferry Crossing and the M8/M73/M74 Motorway Improvements projects. Building on this, the second Strategic Transport Projects Review by 2020 will now identify the strategic transport infrastructure investments required to support Scotland’s economy over the next 20 years.
 
 We continue to progress work on the A9 and A96 dualling programmes and spend £1bn per year supporting public transport, providing people with access to jobs and services. 
 
+## Aberdeen Western Peripheral Route
+
 The opening of the Aberdeen Western Peripheral Route will bring about transformational change which will improve business competitiveness and stimulate investment enhancing market conditions for key sectors, while helping to retain and attract jobs in those sectors, guaranteeing a fast link for freight and goods from the north east to markets in the south and expand labour catchment areas. 
+
+## A77 Maybole bypass
 
 The construction of the £30 million A77 Maybole bypass will remove a constraint on our important route to the ports at Cairnryan as well as removing traffic from the town itself, making it a better place to live.
 
+## Borders Railway
+
 The Borders Railway opened in 2015. It’s the longest new line built, in the UK, for over a century, and takes passengers between Tweedbank and Edinburgh in less than an hour. Since opening, the line has had a significant economic and social impact on the area, with passenger numbers increasing each year through 4 million journeys. The Borders Railway is now attracting new workers, homeowners and tourists to communities served by the line.
 
+## Rail Stations
+
 We are improving our major rail stations at Motherwell, Aberdeen, Inverness and Stirling and master planning with partners around others including Edinburgh Waverley.
+
+## Low Emission Zones
 
 We are introducing Low Emission Zones in four cities – Glasgow, Edinburgh, Aberdeen and Dundee – which will encourage investment in cleaner transport technologies.
 
