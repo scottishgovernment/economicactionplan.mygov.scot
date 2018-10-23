@@ -30,7 +30,7 @@ We will also establish a National Retraining Partnership with employers, unions,
 
 ## Flexible Workforce Development Fund 
 
-In addition we will continue to provide opportunities for the existing workforce through a range of programmes including the Flexible Workforce Development Fund (increasing the cap from £10,000 to £15,000), Individual Training Accounts and the Scottish Union Learning Fund.  Through the £12m Transition Training Fund, we are also helping individuals to retrain, up-skill or get accreditation or certification that would help in securing a new job in oil and gas, the wider energy sector, or engineering and manufacturing. 
+In addition we will continue to provide opportunities for the existing workforce through a range of programmes including the [Flexible Workforce Development Fund](https://beta.gov.scot/publications/evaluation-first-year-flexible-workforce-development-fund/) (increasing the cap from £10,000 to £15,000), Individual Training Accounts and the Scottish Union Learning Fund.  Through the £12m [Transition Training Fund](https://transitiontrainingfund.co.uk/), we are also helping individuals to retrain, up-skill or get accreditation or certification that would help in securing a new job in oil and gas, the wider energy sector, or engineering and manufacturing. 
 
 
 ## Key resources: 
@@ -38,9 +38,3 @@ In addition we will continue to provide opportunities for the existing workforce
 **[Flexible workforce development fund: first year evaluation](https://beta.gov.scot/publications/evaluation-first-year-flexible-workforce-development-fund/)**
 
 **[Transition Training Fund](https://transitiontrainingfund.co.uk/)**
-
-
-
-
-
-

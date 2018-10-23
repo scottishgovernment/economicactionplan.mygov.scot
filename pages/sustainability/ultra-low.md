@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Ultra-Low Emmission Vehicles"
+title:  "Ultra-Low Emission Vehicles"
 category: sustainability
 summary: "Putting Scotland at the forefront of markets in Ultra-Low Emission Vehicles."
 index: 5
@@ -25,7 +25,7 @@ We want Scotland to be at the forefront of growth in ultra-low emission vehicles
 
 ## Charging network
 
-This year we are making available almost £50m to continue to support the take up of low emission vehicles and expand Scotland’s electric vehicle (EV) charging network (Charge Place Scotland). This includes important initiatives such as the Electric A9 which will see us will work with our stakeholders to support new commercial opportunities while delivering benefits to consumers and integrating EVs into our electricity networks.
+This year we are making available almost £50m to continue to support the take up of low emission vehicles and expand Scotland’s electric vehicle (EV) charging network ([Charge Place Scotland](https://chargeplacescotland.org/)). This includes important initiatives such as the Electric A9 which will see us work with our stakeholders to support new commercial opportunities while delivering benefits to consumers and integrating EVs into our electricity networks.
 
 In collaboration with our enterprise agencies, we will invest in emerging research and commercial opportunities, with a particular emphasis on testing and demonstration facilities and innovation at the interface between energy and mobility.
 

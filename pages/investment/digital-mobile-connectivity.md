@@ -13,7 +13,7 @@ next: { title: "Transport Infrastructure and Connectivity", url: "/investment/tr
 ![Web browser](/assets/images/pageimages/investment2.jpg)
 <br>
 <hr>
-* **A £600 million final phase of 'Reaching 100%' investment to ensure every home and business in Scotland has access to superfast broadband by the end of 2021** 
+* **A £600 million final phase of '[Reaching 100%](https://beta.gov.scot/publications/digital-scotland-reaching-100-programme/)' investment to ensure every home and business in Scotland has access to superfast broadband by the end of 2021** 
 * **New 4G masts in remote rural areas**
 * **A new 5G strategy**
 
@@ -21,7 +21,7 @@ next: { title: "Transport Infrastructure and Connectivity", url: "/investment/tr
 
 ## 'Reaching 100%' (R100)
 
-Having already exceeded our target of 95% fibre broadband coverage across Scotland, we will now complete the first phase of procurement for 'Reaching 100%' (R100), our programme of investment to deliver 100% access to superfast broadband of 30Mbps to all homes and businesses by the end of 2021.
+Having already exceeded our target of 95% fibre broadband coverage across Scotland, we will now complete the first phase of procurement for '[Reaching 100%](https://beta.gov.scot/publications/digital-scotland-reaching-100-programme/)' (R100), our programme of investment to deliver 100% access to superfast broadband of 30Mbps to all homes and businesses by the end of 2021.
 
 ## Digital Economy
 

@@ -13,14 +13,14 @@ next: { title: "Up-skilling and Re-skilling", url: "/skills/upskilling-and-reski
 ![A man explaining something to two young people](/assets/images/pageimages/skills3.jpg)
 <br>
 <hr>
-* **Investing £193 million in Skills Development Scotland**
-* **30,000 Apprenticeships by 2020, developing the Apprenticeship pathway through Foundation, Modern, and Graduate Apprenticeships**
+* **Investing £193 million in [Skills Development Scotland](https://www.skillsdevelopmentscotland.co.uk/)**
+* **30,000 [Apprenticeships](https://www.apprenticeships.scot/) by 2020, developing the Apprenticeship pathway through Foundation, Modern, and Graduate Apprenticeships**
 
 <hr>
 
 ## Skills Development Scotland 
 
-We are investing £193 million in Skills Development Scotland in 2018/19 to deliver interventions including Modern Apprenticeships, Foundation Apprenticeships, Graduate Apprenticeships, pre-employment training and careers services, and to play a central role in the implementation of Developing the Young Workforce (DYW).
+We are investing £193 million in [Skills Development Scotland](https://www.skillsdevelopmentscotland.co.uk/) in 2018/19 to deliver interventions including Modern Apprenticeships, Foundation Apprenticeships, Graduate Apprenticeships, pre-employment training and careers services, and to play a central role in the implementation of [Developing the Young Workforce](https://beta.gov.scot/publications/developing-young-workforce-scotlands-youth-employment-strategy/) (DYW).
 
 ## Apprenticeships
 
@@ -36,4 +36,3 @@ We will expand the number of Foundation Apprenticeships, helping to equip more y
 **[Developing the young workforce: Scotland's youth employment strategy](https://beta.gov.scot/publications/developing-young-workforce-scotlands-youth-employment-strategy/)**
 
 **[Apprenticeships.scot](https://www.apprenticeships.scot/)**
-

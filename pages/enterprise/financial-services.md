@@ -13,8 +13,8 @@ next: { title: "Creative Industries", url: "/enterprise/creative-industries/" }
 ![Some money and a calculator](/assets/images/pageimages/enterprise6.jpg)
 <br>
 <hr>
-* **Working in partnership through the Financial Services Advisory Board (FiSAB) to maintain and grow Scotland’s financial services sector**
-* **Supporting financial innovation through the establishment of FinTech Scotland, support for the Ethical Finance Hub and initiatives such as the Global Open Banking Centre of Excellence**
+* **Working in partnership through the [Financial Services Advisory Board (FiSAB)](https://beta.gov.scot/groups/fisab/) to maintain and grow Scotland’s financial services sector**
+* **Supporting financial innovation through the establishment of [FinTech Scotland](https://www.fintechscotland.com/), support for the Ethical Finance Hub and initiatives such as the Global Open Banking Centre of Excellence**
 
 <hr>
 
@@ -24,11 +24,11 @@ We will continue to work with the sector to attract new investment and jobs to S
 
 ## Financial Services Advisory Board
 
-The Financial Services Advisory Board (FISAB) is co-chaired by the First Minister and Scottish Financial Enterprise, and we are now forming a new Banking and Economy Forum – chaired by the Cabinet Secretary for Finance, the Economy and Fair Work – to focus on the relationship between banking and the economy and the role of banking in Scotland.
+The [Financial Services Advisory Board](https://beta.gov.scot/groups/fisab/) (FISAB) is co-chaired by the First Minister and Scottish Financial Enterprise, and we are now forming a new Banking and Economy Forum – chaired by the Cabinet Secretary for Finance, the Economy and Fair Work – to focus on the relationship between banking and the economy and the role of banking in Scotland.
 
 ## FinTech
 
-We will build on our support for financial technology (FinTech), through the newly-established FinTech Scotland, to support innovation and diversity in the sector, taking full advantage of Scotland’s strength and history in finance and technology. Proposals to develop a Global Open Banking Centre of Excellence in Edinburgh, supported by FinTech Scotland, the University of Edinburgh and a broad spectrum of business and public sector partners is a prime example of how Scotland is seizing the opportunities offered by new technology and building on our well established strengths in financial services and technology. We will also support the Ethical Finance Hub.
+We will build on our support for financial technology (FinTech), through the newly-established [FinTech Scotland](https://www.fintechscotland.com/), to support innovation and diversity in the sector, taking full advantage of Scotland’s strength and history in finance and technology. Proposals to develop a Global Open Banking Centre of Excellence in Edinburgh, supported by FinTech Scotland, the University of Edinburgh and a broad spectrum of business and public sector partners is a prime example of how Scotland is seizing the opportunities offered by new technology and building on our well established strengths in financial services and technology. We will also support the Ethical Finance Hub.
 
 
 ## Key resources: 

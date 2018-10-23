@@ -12,7 +12,7 @@ next: { title: "Regional Economies and Economic Partnerships", url: "/place/regi
 ![City Photo](/assets/images/pageimages/place1.jpg)
 <br>
 <hr>
-* **City Region Deals act as enablers to unlock economic assets**
+* **[City Region Deals](https://beta.gov.scot/policies/cities-regions/city-region-deals/) act as enablers to unlock economic assets**
 * **We will deliver City Region Deals for all our cities and have already committed investment of up to £1.125 billion over the next 10-20 years for City Region Deals across Scotland** 
 * **We want to achieve 100% coverage of Scotland with growth deals**
 
@@ -20,7 +20,7 @@ next: { title: "Regional Economies and Economic Partnerships", url: "/place/regi
 
 ## City Region Deals
 
-City deals worth up to £1.125 billion over the next 10 to 20 years have been agreed for the Glasgow City Region, Aberdeen and Aberdeenshire, Inverness and Highland, Edinburgh and South East Scotland. Heads of Terms for an agreement have been reached for Stirling and Clackmannanshire.  Signing of Heads of Terms for the Tay Cities Region is imminent.
+City deals worth up to £1.125 billion over the next 10 to 20 years have been agreed for the [Glasgow City Region](http://www.glasgowcityregion.co.uk/), [Aberdeen and Aberdeenshire](http://www.abzdeal.com/), [Inverness and Highland](https://www.highland.gov.uk/cityregiondeal), and [Edinburgh and South East Scotland](http://www.acceleratinggrowth.org.uk/). Heads of Terms for an agreement have been reached for Stirling and Clackmannanshire.  Signing of Heads of Terms for the [Tay Cities Region](https://www.taycities.co.uk/) is imminent.
 
 Each deal is tailored to the social and economic situation of its region, with projects such as the Oil and Gas Technology Centre in Aberdeen, the distributed learning of STEM subjects across Highland, and a focus on capitalising on data driven innovation in Edinburgh.
 

@@ -29,7 +29,7 @@ To improve the ability of Scotland’s businesses to export we will build on the
 
 ## Trade Board and Envoys
 
-We have established a Trade Board and a network of Trade Envoys to champion Scottish businesses and exports abroad, and will ask these talented Scots to help Scottish businesses grow exports and imports. We have launched the Brexit Readiness toolkit for businesses and specifically for exporters to help them plan their way through the uncertainty and minimise the impact.
+We have established a [Trade Board](https://beta.gov.scot/groups/ministerial-trade-board/) and a network of Trade Envoys to champion Scottish businesses and exports abroad, and will ask these talented Scots to help Scottish businesses grow exports and imports. We have launched the Brexit Readiness toolkit for businesses and specifically for exporters to help them plan their way through the uncertainty and minimise the impact.
 
 ## Food and Drink 5-Year Export Plan
 

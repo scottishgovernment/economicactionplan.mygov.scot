@@ -13,7 +13,7 @@ prev: { title: "Labour Market Access and Inclusion", url: "/people/inclusion" }
 <br>
 <hr>
 * **We will publish a Fair Work Action Plan**
-* **We are introducing fair work criteria from the Scottish Business Pledge to business support grants**
+* **We are introducing fair work criteria from the [Scottish Business Pledge](https://scottishbusinesspledge.scot/) to business support grants**
 
 <hr>
 
@@ -23,11 +23,11 @@ To boost productivity, competitiveness and inclusive growth and to develop Scotl
 
 ## Fair Work Convention
 
-The Fair Work Convention’s vision, which the Scottish Government shares, is that by 2025 people in Scotland will have a world-leading working life where fair work drives success, wellbeing and prosperity for individuals, businesses, organisations and society. The Fair Work Action Plan will set out the next steps we will take with the powers open to us to embed Fair Work practices in Scottish workplaces. 
+The [Fair Work Convention](http://www.fairworkconvention.scot/)’s vision, which the Scottish Government shares, is that by 2025 people in Scotland will have a world-leading working life where fair work drives success, wellbeing and prosperity for individuals, businesses, organisations and society. The Fair Work Action Plan will set out the next steps we will take with the powers open to us to embed Fair Work practices in Scottish workplaces. 
 
 ## Scottish Business Pledge
 
-We are introducing fair work criteria from the Scottish Business Pledge, including paying the living wage, excluding exploitative zero hours contracts and gender pay gap transparency to business support grants through Regional Selective Assistance and other large Scottish Enterprise job-related grants.
+We are introducing fair work criteria from the [Scottish Business Pledge](https://scottishbusinesspledge.scot/), including paying the living wage, excluding exploitative zero hours contracts and gender pay gap transparency to business support grants through Regional Selective Assistance and other large Scottish Enterprise job-related grants.
 
 ## ‘Fair Work First’ 
 

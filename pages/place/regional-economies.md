@@ -26,7 +26,7 @@ Regional economic partnerships such as the Glasgow City Regional Partnership are
 
 ## South of Scotland Enterprise Agency 
 
-To achieve sustainable and inclusive economic growth in rural areas in the South of Scotland we are introducing legislation to create a new South of Scotland enterprise agency. In advance of this coming into effect we have established an interim Economic Partnership, backed with £10 million of investment.  
+To achieve sustainable and inclusive economic growth in rural areas in the South of Scotland we are introducing legislation to create a new South of Scotland enterprise agency. In advance of this coming into effect we have established an interim [Economic Partnership](http://www.sosep.co.uk/index.html), backed with £10 million of investment.  
 
 ## Community Wealth Building
 

@@ -21,7 +21,7 @@ prev: { title: "Rural Economy and Communities", url: "/place/rural-economy/" }
 
 ## Innovation, Technology and Skills
 
-The Highlands and Islands of Scotland are uniquely placed to take advantage of the considerable growth potential in the marine economy. The region has extremely valuable natural assets, including 61% of the UK coastline, combined with innovative businesses, outstanding research capability, a skilled workforce and an international reputation and market reach.  The potential of the marine economy has already been demonstrated within the wave and tidal energy sector by the world-leading European Marine Energy Centre in Orkney, and there is now a significant opportunity to build on this through an increased focus on aquaculture and marine biotechnology.  
+The Highlands and Islands of Scotland are uniquely placed to take advantage of the considerable growth potential in the marine economy. The region has extremely valuable natural assets, including 61% of the UK coastline, combined with innovative businesses, outstanding research capability, a skilled workforce and an international reputation and market reach.  The potential of the marine economy has already been demonstrated within the wave and tidal energy sector by the world-leading [The European Marine Energy Centre](http://www.emec.org.uk/) in Orkney, and there is now a significant opportunity to build on this through an increased focus on aquaculture and marine biotechnology.  
 
 Building on Highlands and Islands Enterprise’s “MAXiMAR” Science and Innovation audit, HIE will seek to maximise the region's marine innovation, technology and skills, not only for the benefit of the Highlands and Islands, but for the whole of the UK.
 
@@ -48,8 +48,8 @@ We have supported maritime business and coastal communities through the European
 
 **[The European Marine Energy Centre](http://www.emec.org.uk/)**  
 
-**[Aqua Culture Scotland](http://aquaculture.scotland.gov.uk/)**
+**[Aquaculture Scotland](http://aquaculture.scotland.gov.uk/)**
 
-**[Scottish Aqua Culture](http://scottishaquaculture.com/)**
+**[Scottish Aquaculture](http://scottishaquaculture.com/)**
 
 **[Offshore wind, wave and tidal energy applications: consenting and licensing manual](https://beta.gov.scot/publications/marine-scotland-consenting-licensing-manual-offshore-wind-wave-tidal-energy-applications/)**

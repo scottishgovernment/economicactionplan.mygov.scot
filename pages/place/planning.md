@@ -22,7 +22,7 @@ We will use the National Planning Framework 4 to promote sustainable and inclusi
 
 ## Strategic Transport Projects Review 
 
-Future transport investment through Strategic Transport Projects Review (STPR2), will be aligned with the national planning framework, creating well connected places for the people of Scotland.
+Future transport investment through [Strategic Transport Projects Review](https://www.transport.gov.scot/our-approach/strategy/strategic-transport-projects-review/#) (STPR2), will be aligned with the national planning framework, creating well connected places for the people of Scotland.
 
 ## Planning Fees Regulations 
 
@@ -32,7 +32,7 @@ We will consult on a review of our planning fees regulations, including the prin
 
 We will support and promote the Place Principle which asks that all those responsible for providing services and looking after assets in a place work and plan together, with local communities, to create more successful places.
 
-Through the Local Governance Review, we will consider proposals for alternative governance arrangements at local council / Community Planning Partnership level, or more regionally. A key objective will be to help drive inclusive growth in those places.  
+Through the [Local Governance Review](https://beta.gov.scot/policies/improving-public-services/local-governance-review/), we will consider proposals for alternative governance arrangements at local council / Community Planning Partnership level, or more regionally. A key objective will be to help drive inclusive growth in those places.  
 
 
 

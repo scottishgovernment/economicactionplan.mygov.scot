@@ -14,7 +14,7 @@ next: { title: "Using Public Sector Spend to Catalyse Innovation", url: "/innova
 <br>
 <hr>
 * **Establishing the National Manufacturing Institute for Scotland and targeting up to £18 million of European funding to establish an Advanced Manufacturing Challenge Fund**
-* **A new £56 million Medicines Manufacturing Innovation Centre will put Scotland at the forefront of pharmaceutical and fine chemical manufacturing**
+* **A new £56 million [Medicines Manufacturing Innovation Centre](https://www.strath.ac.uk/whystrathclyde/news/strathclydeinmedicinesmanufacturinginnovationcentre/) will put Scotland at the forefront of pharmaceutical and fine chemical manufacturing**
 * **£4.2m to build on our strengths in precision medicine**
 * **The new Northern Innovation Hub is driving innovation across the Inverness City Region** 
 
@@ -26,7 +26,7 @@ We want businesses across Scotland to be able to take advantage of, and respond 
 
 We will support Scotland’s thriving life sciences community in achieving its goal of doubling its turnover to £8 billion by 2025 by: increasing exports; creating the right business environment to flourish; innovation; and the development of new manufacturing facilities. 
 
-The sector is at the cutting edge of new technologies and medical devices and leveraging data to support the growth of precision medicine. The Scottish Government, NHS Scotland and industry are working together to realise the benefits of advances in data and digital for patients and the economy. We are also investing £4.2 million into building the precision medicine ecosystem to capitalise on Scotland’s strengths in this area. In addition, the £56 million Medicines Manufacturing Innovation Centre (MMIC) is a world first which will boost the competitiveness of the pharmaceutical and fine chemicals sector when it opens in 2021.
+The sector is at the cutting edge of new technologies and medical devices and leveraging data to support the growth of precision medicine. The Scottish Government, NHS Scotland and industry are working together to realise the benefits of advances in data and digital for patients and the economy. We are also investing £4.2 million into building the precision medicine ecosystem to capitalise on Scotland’s strengths in this area. In addition, the £56 million [Medicines Manufacturing Innovation Centre](https://www.strath.ac.uk/whystrathclyde/news/strathclydeinmedicinesmanufacturinginnovationcentre/) (MMIC) is a world first which will boost the competitiveness of the pharmaceutical and fine chemicals sector when it opens in 2021.
 
 ## National Manufacturing Institute for Scotland 
 
@@ -38,7 +38,7 @@ Our investments in the Medicines Manufacturing Innovation Centre (MMIC) and the 
 
 ## Space Technologies
 
-Scotland has strong industrial and academic capability in space technologies including payload development, mission control, data gathering and application, and satellite manufacture – we manufacture more micro-satellites than any other country in Europe. We are working with the Scottish Space Leadership Council to help deliver the industry’s growth ambitions and with Highlands and Islands Enterprise, the UK Space Agency and industry to deliver the UK’s only vertical launch spaceport in Sutherland. This will mean that satellites can be built, launched and operated from Scotland.
+Scotland has strong industrial and academic capability in space technologies including payload development, mission control, data gathering and application, and satellite manufacture – we manufacture more micro-satellites than any other country in Europe. We are working with the Scottish Space Leadership Council to help deliver the industry’s growth ambitions and with Highlands and Islands Enterprise, the UK Space Agency and industry to deliver [the UK’s only vertical launch spaceport in Sutherland](http://www.hie.co.uk/regional-information/area-information/caithness-and-sutherland/uk-space-port/default.html). This will mean that satellites can be built, launched and operated from Scotland.
 
 ## UK Industrial Strategy 
 

@@ -14,7 +14,7 @@ next: { title: "Making Best Use of University and College Research, Knowledge an
 <br>
 <hr>
 * **Boosting NHS collaboration with industry to deliver innovation and better outcomes for patients**
-* **Enhancing the CAN DO Innovation Challenge Fund and launching an open innovation portal that will deliver easy access for business to public sector innovation challenge opportunities across Scotland**
+* **Enhancing the [CAN DO Innovation Challenge Fund](https://www.scottish-enterprise.com/support-for-businesses/develop-products-and-services/find-new-opportunities/can-do-innovation-challenge-fund) and launching an open innovation portal that will deliver easy access for business to public sector innovation challenge opportunities across Scotland**
 * **Delivering ‘Procurement Innovation Partnerships’ which will streamline how the Scottish public sector and business collaborate on the procurement and dissemination of innovation**
 
 <hr>
@@ -25,7 +25,7 @@ We are committed to increasing the value of NHS collaborative innovation.  NHS S
 
 ## CivTech
 
-We are improving people’s lives with better, faster and easier public service products through CivTech and have delivered the first two CivTech cohorts, which have seen the participating companies to date win over £1.75m in contracts after the programme, create new jobs and secure equity investment. The next round of 11 challenges has elicited 129 applications from across the UK and the CivTech model is sparking interest across the world. 
+We are improving people’s lives with better, faster and easier public service products through [CivTech](https://civtech.atlassian.net/wiki/spaces/CIV/overview?mode=global) and have delivered the first two CivTech cohorts, which have seen the participating companies to date win over £1.75m in contracts after the programme, create new jobs and secure equity investment. The next round of 11 challenges has elicited 129 applications from across the UK and the CivTech model is sparking interest across the world. 
 
 ## Procurement Innovation Partnerships 
 

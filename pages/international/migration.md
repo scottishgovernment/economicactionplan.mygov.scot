@@ -13,7 +13,7 @@ next: { title: "Tourism", url: "/international/tourism/" }
 
 <hr>
 * **Push the UK Government to recognise the action that is needed to protect Scotland’s prosperity and wellbeing**
-* **Build on the success of the ‘We are Scotland’ social media campaign**
+* **Build on the success of the ‘[We are Scotland](https://onescotland.org/campaigns/we-are-scotland/)’ social media campaign**
 * **Bring forward an Electoral Franchise Bill**
 * **Launch a ‘Come to Scotland’ campaign to attract talent and investment**
 
@@ -25,7 +25,7 @@ We will continue to push the UK Government to recognise the action that is neede
 
 ## 'Come to Scotland' campaign 
 
-We will now build on the success of the ‘We are Scotland’ social media campaign to launch a ‘Come to Scotland’ campaign to attract talent and investment.
+We will now build on the success of the ‘[We are Scotland](https://onescotland.org/campaigns/we-are-scotland/)’ social media campaign to launch a ‘Come to Scotland’ campaign to attract talent and investment.
 
 In addition, we will bring forward an Electoral Franchise Bill to give fair access to voting rights for all those who have a legal right to live in Scotland. EU students already studying here, starting a degree in the autumn this year or next year (2019) will continue to be eligible to receive free tuition.
 

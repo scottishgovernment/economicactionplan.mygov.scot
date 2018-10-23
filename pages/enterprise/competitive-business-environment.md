@@ -13,9 +13,9 @@ next: { title: "Enhancing Business Support", url: "/enterprise/enhancing-busines
 ![A group of people looking at a presentation](/assets/images/pageimages/enterprise1.jpg)
 <br>
 <hr>
-* **Committed to a highly competitive and fairer tax system, including the most competitive business rates package of reliefs in the UK**
+* **Committed to a highly competitive and fairer tax system, including the most competitive [business rates package of reliefs](https://www.mygov.scot/business-rates-relief/overview/) in the UK**
 * **Significantly reducing or abolishing business rates for 100,000 premises**
-* **Implementing further recommendations from the Barclay Review**
+* **Implementing further recommendations from the [Barclay Review](https://beta.gov.scot/publications/report-barclay-review-non-domestic-rates/)**
 
 <hr>
 

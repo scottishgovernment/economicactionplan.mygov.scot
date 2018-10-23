@@ -11,7 +11,7 @@ next: { title: "Labour Market Access and Inclusion", url: "/people/inclusion/" }
 ![Children Photo](/assets/images/pageimages/people1.jpg)
 <br>
 <hr>
-* **The Child Poverty (Scotland) Act 2017 sets out our ambition for reducing and ultimately eradicating child poverty**
+* **The [Child Poverty (Scotland) Act 2017](http://www.legislation.gov.uk/asp/2017/6/enacted) sets out our ambition for reducing and ultimately eradicating child poverty**
 * **Spend on early learning and childcare will more than double to reach nearly £1 billion a year by 2021-22**
 * **£750 million over this Parliament to tackle the poverty-related attainment gap**
 
@@ -19,7 +19,7 @@ next: { title: "Labour Market Access and Inclusion", url: "/people/inclusion/" }
 
 ## Reducing Child Poverty
 
-Our child poverty legislation, and the action plan ‘Every Child, Every Chance’, focus on lifting children and families out of poverty, driven by our vision of genuinely inclusive economic growth. The plan is backed by a range of investments including the £50 million Tackling Child Poverty Fund.
+Our child poverty legislation, and the action plan ‘[Every Child, Every Chance](https://beta.gov.scot/publications/child-chance-tackling-child-poverty-delivery-plan-2018-22/)’, focus on lifting children and families out of poverty, driven by our vision of genuinely inclusive economic growth. The plan is backed by a range of investments including the £50 million Tackling Child Poverty Fund.
 
 ## Early Learning and Childcare
 
@@ -33,7 +33,7 @@ We will provide £750 million through the Scottish Attainment Challenge during t
 
 ## ‘Scotland’s Enterprising Schools’ 
 
-We are supporting Young Enterprise Scotland to deliver ‘Scotland’s Enterprising Schools’ to ensure a future involving enterprising activity is valid and viable for all young Scots.
+We are supporting Young Enterprise Scotland to deliver ‘[Scotland's Enterprising Schools](http://enterprisingschools.scot/)’ to ensure a future involving enterprising activity is valid and viable for all young Scots.
 
 
 ## Key resources:

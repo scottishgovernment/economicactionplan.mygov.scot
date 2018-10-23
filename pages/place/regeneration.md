@@ -30,7 +30,7 @@ We will provide new loan investment for commercial projects which support inclus
 
 ## Clyde Gateway
 
-We will continue our sponsorship of Clyde Gateway and pilot actions to increase local spend by anchor institutions through procurement techniques and supporting local suppliers.
+We will continue our sponsorship of [Clyde Gateway](http://www.clydegateway.com/) and pilot actions to increase local spend by anchor institutions through procurement techniques and supporting local suppliers.
 
 ## Empowering Communities
 

@@ -25,11 +25,11 @@ Similarly, we are committed to supporting, strengthening and protecting island c
 
 ## Scottish Rural Parliament 
 
-We established a Scottish Rural Parliament that has empowered rural communities across Scotland by giving them a stronger voice to initiate change at a local and national level.
+We established a [Scottish Rural Parliament](https://www.scottishruralparliament.org.uk/) that has empowered rural communities across Scotland by giving them a stronger voice to initiate change at a local and national level.
 
 ## Scottish Rural Development Programme 
 
-We have provided over £750 million of support to over 10,000 individual projects across Scotland through the Scottish Rural Development Programme; including over 240 LEADER projects to encourage communities and individuals to develop projects to meet local needs.
+We have provided over £750 million of support to over 10,000 individual projects across Scotland through the [Scottish Rural Development Programme](https://www.ruralnetwork.scot/funding/scottish-rural-development-programme); including over 240 LEADER projects to encourage communities and individuals to develop projects to meet local needs.
 
 ## Housing
 

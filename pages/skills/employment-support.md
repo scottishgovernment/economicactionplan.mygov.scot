@@ -32,7 +32,7 @@ We have launched Individual Training Accounts (ITAs) to support employability by
 
 ## Partnership Action for Continuing Employment 
 
-We will continue to support those affected by redundancy through the Partnership Action for Continuing Employment (PACE), while providing careers and skills advice to people of all ages through the Skills Development Scotland agency.
+We will continue to support those affected by redundancy through the Partnership Action for Continuing Employment (PACE), while providing careers and skills advice to people of all ages through the [Skills Development Scotland](https://www.skillsdevelopmentscotland.co.uk/) agency.
 
 
 ## Key resources:

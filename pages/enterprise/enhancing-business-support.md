@@ -13,9 +13,9 @@ next: { title: "Access to Finance", url: "/enterprise/access-to-finance/" }
 ![A picture of some graphs](/assets/images/pageimages/enterprise2.jpg)
 <br>
 <hr>
-* **Over £250 million each year to Scottish Enterprise and**
-* **£71m to Highlands and Islands Enterprise to secure sustainable and inclusive growth across all of Scotland**
-* **Implementing the recommendations of the business-led Strategic Board**
+* **Over £250 million each year to [Scottish Enterprise](https://www.scottish-enterprise.com/)**
+* **£71m to [Highlands and Islands Enterprise](http://www.hie.co.uk/) to secure sustainable and inclusive growth across all of Scotland**
+* **Implementing the recommendations of the business-led [Strategic Board](https://beta.gov.scot/groups/enterprise-and-skills-strategic-board/)**
 * **A single, online point of entry for business support – enabling businesses to rapidly navigate support and speed up decision making on eligibility-based support such as grants**
 
 <hr>
@@ -26,7 +26,7 @@ We provide over £250 million each year to support Scottish Enterprise to promot
  
 ## Information, advice and support
 
-We will maximise the impact of the investment we make in enterprise and skills development by implementing the recommendations of the business-led Strategic Board and ensuring our agencies operate as a single system that delivers the right information, advice and support at the right time for business. This includes building on the established success of the Partnership Action for Continued Employment (PACE) model by enhancing data-led analysis of sectoral and company resilience, to deliver through agencies a consistent yet targeted service to companies across Scotland, when they need support. 
+We will maximise the impact of the investment we make in enterprise and skills development by implementing the recommendations of the business-led [Strategic Board](https://beta.gov.scot/groups/enterprise-and-skills-strategic-board/) and ensuring our agencies operate as a single system that delivers the right information, advice and support at the right time for business. This includes building on the established success of the Partnership Action for Continued Employment (PACE) model by enhancing data-led analysis of sectoral and company resilience, to deliver through agencies a consistent yet targeted service to companies across Scotland, when they need support. 
 
 ## Leadership
 

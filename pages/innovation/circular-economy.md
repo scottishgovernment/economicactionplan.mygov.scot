@@ -20,7 +20,7 @@ prev: { title: "Creative Industries", url: "/innovation/creative-industries/" }
 
 <hr>
 
-A circular economy fosters innovation and encourages the development of business models which re-use products and materials and create value where before there was waste. Zero Waste Scotland are encouraging the development of innovative new circular economic business models such as that developed by Moock Environmental that can potentially be used in high value industries and turn a waste product into an economic opportunity. We want Scotland to be involved in driving circular economy opportunities across all sectors of the economy.
+A circular economy fosters innovation and encourages the development of business models which re-use products and materials and create value where before there was waste. [Zero Waste Scotland](https://www.zerowastescotland.org.uk) are encouraging the development of innovative new circular economic business models such as that developed by Moock Environmental that can potentially be used in high value industries and turn a waste product into an economic opportunity. We want Scotland to be involved in driving circular economy opportunities across all sectors of the economy.
 
 ## Deposit Return Scheme
 

@@ -24,11 +24,11 @@ next: { title: "Social Enterprises", url: "/enterprise/social-enterprises/" }
 
 There is a greater proportion of microenterprises in rural Scotland than anywhere else in the country. By-and-large these enterprises operate a business model where profit margins and turnover are lower, they have slower trajectories for growth, and the levels of self-employment are higher. These enterprises play an important role in their local economy and are a major source of development with growth of £6.6 billion between 2007-2015. There is untapped potential in our rural economy as its true value to the economy of Scotland is under-represented in statistics due to turnover levels of some microenterprises falling below those required for VAT registration.
 
-We are delivering over £119 million of enterprise support through GrowBiz, LEADER, Highlands and Islands Enterprise and Scottish Enterprise to nearly 1,500 community based and/or micro enterprise projects operating in the rural economy.
+We are delivering over £119 million of enterprise support through [GrowBiz](https://growbiz.co.uk/), [LEADER](https://www.gov.scot/Topics/farmingrural/SRDP/LEADER), [Highlands and Islands Enterprise](http://www.hie.co.uk/) and [Scottish Enterprise](https://www.scottish-enterprise.com/) to nearly 1,500 community based and/or micro enterprise projects operating in the rural economy.
 
 ## South of Scotland Enterprise Agency 
 
-To achieve sustainable and inclusive economic growth in rural areas in the South of Scotland we will create a new enterprise agency in the South of Scotland with an interim Economic Partnership in place, backed with £10 million of investment.
+To achieve sustainable and inclusive economic growth in rural areas in the South of Scotland we will create a new enterprise agency in the South of Scotland with an interim [Economic Partnership](http://www.sosep.co.uk/index.html) in place, backed with £10 million of investment.
 
 ## Food and Drink
 

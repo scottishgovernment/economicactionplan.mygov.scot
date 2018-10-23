@@ -14,7 +14,7 @@ next: { title: "Migration", url: "/international/migration/" }
 <hr>
 * **Our new Invest in Scotland Prospectus will target key markets and sectors with positive reasons to invest in Scotland**
 * **Extend the range and reach of our international network to support investment in Scotland**
-* **Reduce the burden of Air Departure Tax by 50%**
+* **Reduce the burden of [Air Departure Tax](https://beta.gov.scot/policies/taxes/air-departure-tax/) by 50%**
 
 <hr>
 
@@ -24,11 +24,11 @@ Our new Invest in Scotland Prospectus will build on Scotland’s outstanding rec
 
 ## International network
 
-We will continue to develop the range and reach of our international network, ensuring that trade and investment is central to its purpose, including opening a new office in Paris with an enhanced Scottish Development International (SDI) presence and enhancing our presence in Canada by opening an office in Ottawa in 2018.
+We will continue to develop the range and reach of our international network, ensuring that trade and investment is central to its purpose, including opening a new office in Paris with an enhanced [Scottish Development International](https://www.sdi.co.uk/) (SDI) presence and enhancing our presence in Canada by opening an office in Ottawa in 2018.
 
 ## Air Departure Tax
 
-We will aim to reduce the burden of Air Departure Tax by 50% by the end of this Parliament, increasing Scotland’s attractiveness as an international business destination.
+We will aim to reduce the burden of [Air Departure Tax](https://beta.gov.scot/policies/taxes/air-departure-tax/) by 50% by the end of this Parliament, increasing Scotland’s attractiveness as an international business destination.
 
 
 ## Key resources:

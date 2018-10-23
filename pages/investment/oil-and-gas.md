@@ -12,8 +12,8 @@ prev: { title: "Ultra-Low Emission Vehicles ", url: "/investment/ultra-low-emiss
 ![Petrol pumps](/assets/images/pageimages/investment8.jpg)
 <br>
 <hr>
-* **The Oil and Gas Technology Centre is working to deploy new technology to transform the sector**
-* **Enhancing Scotland’s decommissioning capability through the Decommissioning Challenge Fund**
+* **The [Oil and Gas Technology Centre](https://theogtc.com/) is working to deploy new technology to transform the sector**
+* **Enhancing Scotland’s decommissioning capability through the [Decommissioning Challenge Fund](https://www.gov.scot/Topics/Business-Industry/Energy/Energy-sources/traditional-fuels/oilandgas/DCF)]d**
 * **Supporting a Scottish location for a deep water port for decommissioning**
 * **Supporting Carbon Capture Utilisation & Storage (CCUS)**
 
@@ -25,7 +25,7 @@ The sector has faced a challenging few years but industry reports are now showin
 
 ## Oil and Gas Technology Centre 
 
-We established the Oil and Gas Technology Centre (OGTC) in October 2016 with £180 million funding as part of the Aberdeen City Region Deal and are working in collaboration with other sectors to deploy new technology that could transform the sector.
+We established the [Oil & Gas Technology Centre](https://theogtc.com/) (OGTC) in October 2016 with £180 million funding as part of the Aberdeen City Region Deal and are working in collaboration with other sectors to deploy new technology that could transform the sector.
 
 ## Investment, innovation and diversification
 

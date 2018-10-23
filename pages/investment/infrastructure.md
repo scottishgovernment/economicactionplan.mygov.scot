@@ -28,13 +28,18 @@ The chair of the Infrastructure Commission will be appointed shortly, and it wil
 
 Following the completion of this report the commission will be asked to provide advice to ministers on the delivery of infrastructure in Scotland, including the possible creation of a Scottish National Infrastructure Company.
 
+As we step up our investment in infrastructure, continue to deliver on our commitment to 50,000 new affordable homes and take forward plans for the Scottish National Investment Bank, we will also step up our engagement with the construction sector to support its plans to develop and grow a more sustainable, productive and innovative industry and to enhance the sector’s contribution to the economy and employment and career opportunities across Scotland. In particular, working across procurement, infrastructure, economic development and built environment interests and with our enterprise and skills agencies, we will work with organisations such as Construction Scotland, the Civil Engineering Contractors Association, the Construction Scotland Innovation Centre and the trade unions to help the sector thrive and grow.
+
+Water is one of our most important natural assets, and Scottish Water will continue to invest around £600 million each year in our water and wastewater infrastructure, supporting jobs across the economy whilst providing 1.38 billion litres of fresh, high quality drinking water every day, and treating our waste water before returning it safely to the environment.
+
 ## Construction Industry
 
 Our ambitious infrastructure plans will rely on a construction industry that is both well positioned to deliver and understands the wider social and economic wellbeing priorities associated with that delivery. Working across government, we will take steps to form a refreshed and stronger relationship between government and the construction sector (including organisations such as Construction Scotland, the Civil Engineering Contractors Association, the Construction Scotland Innovation Centre and the trade unions) around a set of common goals to help the sector grow.
 
 ## Scottish Water
 
-Water is one of our most important natural assets, and Scottish Water will continue to invest around £600 million each year in our water and wastewater infrastructure, supporting jobs across the economy whilst providing 1.38 billion litres of fresh, high quality drinking water every day, and treating our waste water before returning it safely to the environment.
+Water is one of our most important natural assets, and [Scottish Water](https://www.scottishwater.co.uk/) will continue to invest around £600 million each year in our water and wastewater infrastructure, supporting jobs across the economy whilst providing 1.38 billion litres of fresh, high quality drinking water every day, and treating our waste water before returning it safely to the environment.
+
 
 
 ## Key resources: 

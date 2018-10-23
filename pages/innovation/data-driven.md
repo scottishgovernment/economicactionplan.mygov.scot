@@ -13,19 +13,19 @@ next: { title: "Creative Industries", url: "/innovation/creative-industries/" }
 ![A circuit board](/assets/images/pageimages/innovation5.jpg)
 <br>
 <hr>
-* **£300 million investment in data-driven innovation through the Edinburgh and South East Region City Deal**
+* **£300 million investment in data-driven innovation through the [Edinburgh and South East Scotland Region City Deal](http://www.acceleratinggrowth.org.uk/)**
 * **£1.5 million over 3 years to support the establishment of a UNICEF Data for Children Hub in Scotland in partnership with UNICEF, The Data Lab and the University of Edinburgh**
 * **£13.5m to support the next phase of The Data Lab Innovation Centre to cement Scotland’s position as a global data leader**
 
 <hr>
 
-We are investing £300 million in the Edinburgh City Deal which, with other partners will deliver an overall £1.3bn investment to unlock the region’s potential to become a global powerhouse in data-driven innovation. 
+We are investing £300 million in the [Edinburgh City Deal](http://www.acceleratinggrowth.org.uk/) which, with other partners will deliver an overall £1.3bn investment to unlock the region’s potential to become a global powerhouse in data-driven innovation. 
 
 Our investment in The Data Lab and Censis will promote digitisation across our industries and help address the digital and data skills gap.
 
 ## Digital Skills
 
-Since 2014, we have provided Skills Development Scotland with £10.5 million to deliver a digital skills programme including support for CodeClan, an industry-led digital skills academy in Edinburgh. Organisations like CodeClan are changing the fortunes of many.
+Since 2014, we have provided [Skills Development Scotland](https://www.skillsdevelopmentscotland.co.uk/) with £10.5 million to deliver a digital skills programme including support for [CodeClan](https://codeclan.com/), an industry-led digital skills academy in Edinburgh. Organisations like CodeClan are changing the fortunes of many.
 
 ## Digital Growth Fund 
 
@@ -44,7 +44,7 @@ We are also embarking on a programme of work to capture the economic opportuniti
 
 ## Key resources:
 
-**[Edinburgh and South East Scotland City Region Deal](http://www.acceleratinggrowth.org.uk/)**
+**[Edinburgh and South East Scotland Region City Deal](http://www.acceleratinggrowth.org.uk/)**
 
 **[Data Collaboratives](http://datacollaboratives.org/)**
 

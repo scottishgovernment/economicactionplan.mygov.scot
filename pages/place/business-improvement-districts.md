@@ -12,7 +12,7 @@ prev: { title: "Regional Economies and Economic Partnerships", url: "/place/regi
 ![Business Photo](/assets/images/pageimages/place3.jpg)
 <br>
 <hr>
-* **A new generation of Business Improvement Districts (BIDs) will develop more inclusive and energetic partnerships to increase impact**
+* **A new generation of [Business Improvement Districts](https://beta.gov.scot/policies/regeneration/business-improvement-districts-bids/) (BIDs) will develop more inclusive and energetic partnerships to increase impact**
 
 
 <hr>

@@ -13,8 +13,8 @@ next: { title: "Internationalising Research and Innovation Engagement", url: "/i
 ![A woman in a library](/assets/images/pageimages/innovation4.jpg)
 <br>
 <hr>
-* **Providing Scottish universities with funding via the Scottish Funding Council in support of excellent research and knowledge exchange between academia and businesses** 
-* **Continuing to support Scotland’s programme of Innovation Centres** 
+* **Providing Scottish universities with funding via the [Scottish Funding Council](http://www.sfc.ac.uk/) in support of excellent research and knowledge exchange between academia and businesses** 
+* **Continuing to support Scotland’s programme of [Innovation Centres](http://www.sfc.ac.uk/innovation/innovation-centres/innovation-centres.aspx)** 
 * **Piloting a new £500k College Innovation Fund to encourage translation of academic research and vocational skills into business innovation** 
 * **Increasing our commitment to the value of research as a driver of innovation and to academia-industry collaboration by investing a further £17.6m in Scottish universities in 2018-19**
 
@@ -22,7 +22,7 @@ The global strength and excellence of Scotland’s universities is reflected in 
 
 ## Innovation Centres
 
-We are working collaboratively across the public sector by building on the £100 million already invested in Scotland’s eight, university-hosted Innovation Centres. These are having a transformational effect on our economy. Future funding has already been agreed for Censis – Centre of excellence for Sensor and Imaging Systems (£9.25m), IBIoIC – Scotland’s Industrial Biotechnology Innovation Centre (£11.1m), and the DataLab (£13.5m).
+We are working collaboratively across the public sector by building on the £100 million already invested in Scotland’s eight, university-hosted Innovation Centres. These are having a transformational effect on our economy. Future funding has already been agreed for [Censis – Centre of excellence for Sensor and Imaging Systems](https://censis.org.uk/) (£9.25m), [IBIoIC – Scotland’s Industrial Biotechnology Innovation Centre](http://www.ibioic.com/) (£11.1m), and the [Data Lab](https://www.thedatalab.com/) (£13.5m).
 
 We are committed to enabling our colleges and universities to play an active role in business innovation. We are providing Scottish universities with funding to encourage closer links between academia and industry and supporting Interface to help businesses find and access academic expertise, research, technologies, specialist facilities and funding, and to work collaboratively with each other and academia to tackle industry sector challenges.
 
