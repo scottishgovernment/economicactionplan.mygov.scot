@@ -19,7 +19,7 @@ Image courtesy of Scotland is Now
 
 <hr>
 
-In partnership with the social enterprise sector, we published a ten-year social enterprise strategy and, since 2009, we have invested almost £4 million in the Social Entrepreneurs Fund to support social enterprise activity.
+In partnership with the social enterprise sector, we published a ten-year social enterprise strategy and, since 2009, we have invested almost £4 million in the Social Entrepreneurs Fund to support social enterprise activity. Highland and Islands Enterprise play a role in account managing and growing social enterprises.
 
 We are using the Year of Young People 2018 and our delivery of social enterprise activity in schools and early learning establishments across Scotland to raise awareness of social enterprise as a viable and rewarding career.
 

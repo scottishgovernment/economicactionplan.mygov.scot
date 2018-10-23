@@ -19,7 +19,7 @@ prev: { title: "Business Improvement Districts", url: "/place/business-improveme
 
 We will use the National Planning Framework 4 to promote sustainable and inclusive economic growth across all of our regions, and to create high-quality, diverse and sustainable places that promote wellbeing and attract investment.
 
-Future transport investment through Strategic Transport Projects Review (STPR2), will be aligned with the national planning framework,  creating well connected places for the people of Scotland.
+Future transport investment through Strategic Transport Projects Review (STPR2), will be aligned with the national planning framework, creating well connected places for the people of Scotland.
 
 We will consult on a review of our planning fees regulations, including the principle for a developer to pay a higher planning application fee for an accelerated service from the planning authority in its handling of the application.
 

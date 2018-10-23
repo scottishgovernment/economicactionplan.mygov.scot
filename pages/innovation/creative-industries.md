@@ -19,7 +19,7 @@ Image courtesy of Scottish Enterprise
 
 <hr>
 
-We will work with industry to promote the value of design,  use of design thinking, and build design capability across sectors. We have supported the development of the iconic V&A Dundee, Scotland’s first design museum, which will provide significant economic benefit through employment generation and contributing to Scotland’s international reputation.
+We will work with industry to promote the value of design, use of design thinking, and build design capability across sectors. We have supported the development of the iconic V&A Dundee, Scotland’s first design museum, which will provide significant economic benefit through employment generation and contributing to Scotland’s international reputation.
 
 Providing an important opportunity to build innovation across Scotland’s leading festivals, we will invest a total of £2 million in the Edinburgh Festivals in 2018/19 through the continuation of the EXPO fund. Since 2008 the Scottish Government Expo Fund has supported the delivery and further expansion of Scotland's major festivals‎ with an investment of £21 million, making a massive contribution in cementing Edinburgh's reputation as a world leading festival city.
 
@@ -29,7 +29,7 @@ We have committed an additional £10 million in 2018-19 for screen production, d
 
 We are providing £475,000 to support the National Film and Television School to set up a base in Scotland that will help people in the screen sector move up the career ladder and employers to address skills gaps.
 
-We will work with creative businesses to identify where there are challenges and opportunities, including in public procurement,  and where they need support. We will  bring together creative industries and the public sector to share experience, with the aim of promoting growth in the creative and cultural economy.
+We will work with creative businesses to identify where there are challenges and opportunities, including in public procurement, and where they need support. We will bring together creative industries and the public sector to share experience, with the aim of promoting growth in the creative and cultural economy.
 
 As part of our ‘Can Do’ approach we will harness the energy and capacity of the creative industries to support our ambition to become the most entrepreneurial nation in the world and, in turn, ensure our approach to enterprise and business support and the wider entrepreneurial ecosystem support the particular needs of the creative industries.
 

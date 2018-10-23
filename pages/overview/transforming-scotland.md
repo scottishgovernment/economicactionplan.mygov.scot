@@ -26,7 +26,7 @@ The Scottish Government is taking positive action to transform Scotland’s econ
 
 * Boosting inwards migration through creating one of the most attractive societies to live, work and study in. 
 
-* Committing over £1 billion to deliver 100% coverage of city region growth deals throughout Scotland and supporting a diverse and vibrant rural economy.
+* Committing over £1 billion to deliver city region deals throughout Scotland and supporting a diverse and vibrant rural economy by achieving 100% coverage of Scotland with a growth deal.
 
 * Delivering 100% access to superfast broadband of 30Mbps to all homes and businesses across Scotland by the end of 2021.
 
@@ -34,7 +34,7 @@ The Scottish Government is taking positive action to transform Scotland’s econ
 
 * Boosting productivity by developing Scotland as a Fair Work Nation.
 
-* Investing £20m  over the next 3 years to enhance  and intensify support to businesses wishing to export.
+* Investing £20m over the next 3 years to enhance and intensify support to businesses wishing to export.
 
 
  

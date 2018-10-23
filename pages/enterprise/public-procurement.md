@@ -28,5 +28,5 @@ From January 2017 to March 2018 almost 700 SME subcontractors, two-thirds of whi
 * extend a requirement to use Public Contracts Scotland to facilitate access to sub-contract opportunities in major contracts for Scottish SMEs and the reporting of sub-contracted spend; 
 * continue to fund and support the Supplier Development Programme, helping local supply chains to maximise contracting and sub-contracting opportunities.
 
-We will launch a Digital Commercial Service that builds on our Civtech model and offers new opportunities to engage with the public sector through agile procurement at greater scale. We will also continue to extend the range of Scottish Government and public sector contracts to which the fair work criteria will apply.
+We will launch a Digital Commercial Service that builds on our CivTech model and offers new opportunities to engage with the public sector through agile procurement at greater scale. We will also continue to extend the range of Scottish Government and public sector contracts to which the fair work criteria will apply.
 

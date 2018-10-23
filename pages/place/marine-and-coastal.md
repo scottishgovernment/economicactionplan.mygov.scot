@@ -12,16 +12,16 @@ prev: { title: "Rural Economy and Communities", url: "/place/rural-economy/" }
 ![Marine Photo](/assets/images/pageimages/place7.jpg)
 <br>
 <hr>
-* **Developing Regional Marine Plans.**
-* **A new, world-leading approach to management of our sea fisheries.**
-* **Continued to support the sustainable growth of the aquaculture sector.**
+* **Developing Regional Marine Plans**
+* **A new, world-leading approach to management of our sea fisheries**
+* **Continued to support the sustainable growth of the aquaculture sector**
 
 
 <hr>
 
-The Highlands and Islands of Scotland are uniquely placed to take advantage of the considerable growth potential in the marine economy. The region has extremely valuable natural assets, including 61% of the UK coastline,  combined with innovative businesses, outstanding research capability, a skilled workforce and an international reputation and market reach.  The potential of the marine economy has already been demonstrated within the wave and tidal energy sector by the world-leading European Marine Energy Centre in Orkney, and there is now a significant opportunity to build on this through an increased focus on aquaculture and marine biotechnology.  
+The Highlands and Islands of Scotland are uniquely placed to take advantage of the considerable growth potential in the marine economy. The region has extremely valuable natural assets, including 61% of the UK coastline, combined with innovative businesses, outstanding research capability, a skilled workforce and an international reputation and market reach.  The potential of the marine economy has already been demonstrated within the wave and tidal energy sector by the world-leading European Marine Energy Centre in Orkney, and there is now a significant opportunity to build on this through an increased focus on aquaculture and marine biotechnology.  
 
-Building on Highlands and Islands Enterprise’s  “MAXiMAR” Science and Innovation audit, HIE are now developing a cluster model which will seek to maximise the region's marine innovation, technology and skills, not only for the benefit of the Highlands and Islands, but for the whole of the UK.
+Building on Highlands and Islands Enterprise’s “MAXiMAR” Science and Innovation audit, HIE will seek to maximise the region's marine innovation, technology and skills, not only for the benefit of the Highlands and Islands, but for the whole of the UK.
 
 We are developing Regional Marine Plans which are delegated to partnerships at a local level leading to increased local transparency.  The Regional Marine Plans can focus on the specific rural issues in their region.
 

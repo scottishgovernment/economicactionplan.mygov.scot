@@ -2,7 +2,7 @@
 layout: default
 title:  "Introduction"
 category: investment
-summary: "We want to boost private and public investment to create the conditions for Scottish business and people to flourish."
+summary: "Boosting private and public investment and delivering world-class infrastructure."
 index: 1
 parent: investment
 permalink: /investment/introduction/
@@ -21,7 +21,7 @@ We also know that the successful economies of the 21st century will be carbon ne
 * [Digital and Mobile Connectivity](/investment/digital-mobile-connectivity/)
 * [Transport Infrastructure and Connectivity](/investment/transport-infrastructure/)
 * [Housing](/investment/housing/)
-* [City Region Deals](/investment/city-region-deals/)
+* [City Region and Other Growth Deals](/investment/city-region-deals/)
 * [Carbon Neutral Economy](/investment/carbon-neutral-economy/)
 * [Ultra-Low Emission Vehicles](/investment/ultra-low-emission-vehicles/)
 * [Oil and Gas and Carbon Capture](/investment/oil-and-gas/) 

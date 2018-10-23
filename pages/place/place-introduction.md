@@ -18,7 +18,7 @@ We recognise that a ‘one-size fits all’ approach to sustainable and inclusiv
 We are improving regional economies through our City Region deals and through transformational investment across all of Scotland.  Whether urban, rural or island we know that with ambition, and the right support, communities can develop and regenerate places and spaces where they live and make them even better.
 
 
-* [City Region Deals](/place/city-region-deals/)
+* [City Region and Other Growth Deals](/place/city-region-deals/)
 * [Regional Economies and Economic Partnerships](/place/regional-economies/)
 * [Business Improvement Districts](/place/business-improvement-districts/)
 * [Planning](/place/planning/)

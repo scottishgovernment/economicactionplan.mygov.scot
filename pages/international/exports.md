@@ -19,15 +19,15 @@ Image courtesy of Scotland is Now
 
 <hr>
 
-To improve the ability of Scotland’s businesses to export we will set out a range of detailed actions in _A trading nation: our plan for growing Scotland’s exports_ by Spring 2019.  We will support our new plan with over £20 million investment in the next three years.  As part of that work we will:
-* Invest £2 million over three years to intensively support 50 high export growth businesses per year to ramp up overseas ambitions and activity
-* We will also use this to create 100 new business to business peer mentorships per year for new exporters
-* Expand the network of in-market sector specialists working in overseas markets to identify untapped potential and connect Scottish business to exploit this
-* Increase Export Finance support for Scottish companies looking to enter new markets
+To improve the ability of Scotland’s businesses to export we will build on the recommendations of the Enterprise and Skills Strategic Board to set out a range of detailed actions in _A trading nation: our plan for growing Scotland’s exports_ by Spring 2019.  We will support our new plan with over £20 million investment in the next three years. As part of that work we will:
+* Invest £2 million over three years to intensively support 50 high export growth businesses per year to ramp up overseas ambitions and activity.
+* We will also use this to create 100 new business to business peer mentorships per year for new exporters.
+* Expand the network of in-market sector specialists working in overseas markets to identify untapped potential and connect Scottish business to exploit this.
+* Increase Export Finance support for Scottish companies looking to enter new markets.
 
 We have established a Trade Board and a network of Trade Envoys to champion Scottish businesses and exports abroad, and will ask these talented Scots to help Scottish businesses grow exports and imports. We have launched the Brexit Readiness toolkit for businesses and specifically for exporters to help them plan their way through the uncertainty and minimise the impact.
 
-To support trade in Scotland’s outstanding produce, we will publish a new Food and Drink 5-Year Export Plan and bring forward new measures to promote and market our produce in overseas markets.  We will also increase the number of Scottish products with Protected Geographic Indicators.
+To support trade in Scotland’s outstanding produce, we will publish a new Food and Drink 5-Year Export Plan and bring forward new measures to promote and market our produce in overseas markets. We will also increase the number of Scottish products with Protected Geographic Indication.
 
 
 ## Key resources:

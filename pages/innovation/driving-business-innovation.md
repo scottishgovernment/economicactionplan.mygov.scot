@@ -19,9 +19,9 @@ next: { title: "Innovative Sectors and Places", url: "/innovation/sectors-and-pl
 
 <hr>
 
-We have  set an ambitious target of doubling Scotland’s business expenditure on research and development (R&D) from £875m in 2015 to £1.7bn by 2025.  To assist with this, we are providing over £110m in grant support for business R&D over the next 3 years by increasing grant support for  R&D from £22m to £37m per annum. Significant progress is already being made – business expenditure on R&D exceeded £1 billion for the first time in 2017.
+We have set an ambitious target of doubling Scotland’s business expenditure on research and development (R&D) from £875m in 2015 to £1.7bn by 2025. To assist with this, we are providing over £110m in grant support for business R&D over the next 3 years by increasing grant support for R&D from £22m to £37m per annum. Significant progress is already being made – business expenditure on R&D exceeded £1 billion for the first time in 2017.
 
-We recognise the importance of progressive business models, workplace innovation and Fair Work as central to our approach to creating value and business innovation.  In partnership with SCDI, we will work with business to pilot two Productivity Clubs.  The pilots – one urban, one largely rural - will support businesses who want to improve their own performance and share their advice and experiences to help others do the same. The Clubs will help support managerial capability and diffusion of innovation.
+We recognise the importance of progressive business models, workplace innovation and Fair Work as central to our approach to creating value and business innovation. In partnership with SCDI, we will work with business to pilot two Productivity Clubs. The pilots – one urban, one largely rural - will support businesses who want to improve their own performance and share their advice and experiences to help others do the same. The Clubs will help support managerial capability and diffusion of innovation.
 
 We will also now expand the role, remit and membership of the Can Do Business Innovation Forum to enable it to consider and take action on the economic and business opportunities and challenges of new and future technologies.
 

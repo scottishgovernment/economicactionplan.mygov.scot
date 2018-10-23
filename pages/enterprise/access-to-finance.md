@@ -20,16 +20,16 @@ next: { title: "Driving Entrepreneurship", url: "/enterprise/driving-entrepreneu
 
 <hr>
 
-To improve access to finance for Scottish businesses and transformative projects, we will introduce legislation to enable the establishment and capitalisation of the Scottish National Investment Bank.  Our aim is for the Bank to be investing in our businesses, communities and transformative projects from 2020 to promote innovative, carbon neutral and inclusive growth.  
+To improve access to finance for Scottish businesses and transformative projects, we will introduce legislation to enable the establishment and capitalisation of the Scottish National Investment Bank. Our aim is for the Bank to be investing in our businesses, communities and transformative projects from 2020 to promote innovative, carbon neutral and inclusive growth.  
 
 As a precursor to this, the £150 million Building Scotland Fund will provide £70 million in 2018 to 2019 and £80 million over 2019 to 2021 to:
 * the development of new affordable and private sector housing;
-* the development of modern industrial and commercial property;  and
+* the development of modern industrial and commercial property; and
 * support industry-led research and development.
 
 We will also stimulate private and partner investment in innovative and ambitious SMEs by providing micro-finance, debt and equity support through the Scottish Growth Scheme. The Scheme has already supported over £100m of investment in businesses and will deliver £500m by June 2020.  
 
-We have promoted financial best practice between businesses by encouraging SMEs to sign up to the Prompt Payment Code
+We have promoted financial best practice between businesses by encouraging SMEs to sign up to the Prompt Payment Code.
 
 
 ## Key resources: 

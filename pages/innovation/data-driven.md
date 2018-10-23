@@ -6,7 +6,7 @@ summary: "Harnessing the value of data for business and communities."
 index: 6
 parent: innovation
 permalink: /innovation/data-driven/
-prev: { title: "Making Best Use of University and College Research, Knowledge and Talent", url: "/innovation/university-research/" }
+prev: { title: "Internationalising Research and Innovation Engagement", url: "/innovation/internationalising-research/" }
 next: { title: "Creative Industries", url: "/innovation/creative-industries/" }
 ---
 
@@ -14,7 +14,7 @@ next: { title: "Creative Industries", url: "/innovation/creative-industries/" }
 <br>
 <hr>
 * **£300 million investment in data driven innovation through the Edinburgh and South East Region City Deal**
-* **£1.5 million over 3 years to support the establishment of a UNICEF Data for Children Hub in Scotland in partnership with UNICEF, The Data Lab and the University of Edinburgh.**
+* **£1.5 million over 3 years to support the establishment of a UNICEF Data for Children Hub in Scotland in partnership with UNICEF, The Data Lab and the University of Edinburgh**
 * **£13.5m to support the next phase of the DataLab Innovation Centre to cement Scotland’s position as a global data leader**
 
 <hr>
@@ -23,11 +23,11 @@ We are investing £300 million in the Edinburgh City Deal which, with other part
 
 Our investment in the DataLab and Censis will promote digitisation across our industries and help address the digital and data skills gap.
 
-Since 2014, we have provided Skills Development Scotland with £10.5 million to deliver a digital skills programme including support for CodeClan, an industry-led digital skills academy in Edinburgh.  Organisations like CodeClan are changing the fortunes of many.
+Since 2014, we have provided Skills Development Scotland with £10.5 million to deliver a digital skills programme including support for CodeClan, an industry-led digital skills academy in Edinburgh. Organisations like CodeClan are changing the fortunes of many.
 
 Our £36 million Digital Growth Fund has kicked off with interest free loans to businesses wanting to invest in digital equipment and skills. And we are supporting our Digital Boost programme to give advice and support that improves the level of digital maturity amongst businesses in every part of Scotland.
 
-The importance of, and global demand for cyber security services and expertise will continue to grow exponentially.  We are providing advice and support for workplace training on cyber security and financial support for smaller businesses and charities to put critical controls in place.
+The importance of, and global demand for cyber security services and expertise will continue to grow exponentially. We are providing advice and support for workplace training on cyber security and financial support for smaller businesses and charities to put critical controls in place.
 
 We will provide seed funding of over £350,000 for a Cluster Management Organisation to support the growing number of businesses in this sector and £250,000 for a cyber resilience innovation call, to stimulate fresh thinking in our private sector and help meet the future challenges our public sector will face.
 

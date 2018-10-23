@@ -14,7 +14,7 @@ next: { title: "Upskilling and Reskilling", url: "/skills/upskilling-and-reskill
 <br>
 <hr>
 * **Investing £193 million in Skills Development Scotland**
-* **30,000 Apprenticeships by 2020, developing the Apprenticeship pathway through Foundation, Modern, and Graduate Apprenticeships.**
+* **30,000 Apprenticeships by 2020, developing the Apprenticeship pathway through Foundation, Modern, and Graduate Apprenticeships**
 
 <hr>
 

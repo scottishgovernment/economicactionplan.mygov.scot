@@ -13,20 +13,20 @@ next: { title: "Access to Finance", url: "/enterprise/access-to-finance/" }
 ![A picture of some graphs](/assets/images/pageimages/enterprise2.jpg)
 <br>
 <hr>
-* **Over £250 million each year to Scottish Enterprise to assist business to grow**
-* **£71m to Highlands and Islands Enterprise to secure inclusive growth across the Highlands and Islands**
+* **Over £250 million each year to Scottish Enterprise and**
+* **£71m to Highlands and Islands Enterprise to secure sustainable and inclusive growth across all of Scotland**
 * **Implementing the recommendations of the business-led Strategic Board**
 * **A single, online point of entry for business support – enabling businesses to rapidly navigate support and speed up decision making on eligibility-based support such as grants**
 
 <hr>
 
-We provide over £250 million each year to support Scottish Enterprise to provide practical support and opportunities for sectors and businesses to develop, grow and invest in Scotland; and £71m goes to Highlands and Islands Enterprise to secure inclusive growth across the region.
+We provide over £250 million each year to support Scottish Enterprise to promote sustainable and inclusive growth through providing practical support and opportunities for sectors and businesses to develop, grow and invest in Scotland; and a further £71m goes to Highlands and Islands Enterprise to provide tailored support across the region.
  
 We will maximise the impact of the investment we make in enterprise and skills development by implementing the recommendations of the business-led Strategic Board and ensuring our agencies operate as a single system that delivers the right information, advice and support at the right time for business. This includes building on the established success of the Partnership Action for Continued Employment (PACE) model by enhancing data-led analysis of sectoral and company resilience, to deliver through agencies a consistent yet targeted service to companies across Scotland, when they need support. 
 
-We will also task the agencies to work with Scotland’s wide range of leadership and enterprise support organisations as well as  business, employers and colleges and universities, especially business schools, to develop and deliver a range of different types of leadership and management support which meet the needs of individuals and businesses at different stages of career development and company growth.
+We will also task the agencies to work with Scotland’s wide range of leadership and enterprise support organisations as well as business, employers and colleges and universities, especially business schools, to develop and deliver a range of different types of leadership and management support which meet the needs of individuals and businesses at different stages of career development and company growth.
 
-We will improve and speed up access to and decision making on support for businesses– including implementing a single digital portal with online needs assessment and instant decisions on eligibility based financial support.
+We will improve and speed up access to and decision making on support for businesses – including implementing a single digital portal with online needs assessment and instant decisions on eligibility based financial support.
 
 
 ## Key resources: 

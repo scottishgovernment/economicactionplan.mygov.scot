@@ -26,7 +26,7 @@ We will provide new loan investment for commercial projects which support inclus
 
 We will continue our sponsorship of Clyde Gateway and pilot actions to increase local spend by anchor institutions through procurement techniques and supporting local suppliers.
 
-Communities are a key driver for inclusive growth  and provide opportunities for employment, networking and social interaction.  Through our Empowering Communities we will continue to support community-led action to deliver inclusive growth.
+Communities are a key driver for inclusive growth and provide opportunities for employment, networking and social interaction.  Through our Empowering Communities we will continue to support community-led action to deliver inclusive growth.
 
 
 

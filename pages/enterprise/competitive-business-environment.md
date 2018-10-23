@@ -19,9 +19,9 @@ next: { title: "Enhancing Business Support", url: "/enterprise/enhancing-busines
 
 <hr>
 
-We know that businesses want a competitive and stable tax system, streamlined and simple information, advice and support, and appropriate and proportionate regulation.  We are taking action to deliver this supportive business environment and are committing to a competitive and stable fiscal regime.
+We know that businesses want a competitive and stable tax system, streamlined and simple information, advice and support, and appropriate and proportionate regulation. We are taking action to deliver this supportive business environment and are committing to a competitive and stable fiscal regime.
 
-We have significantly reduced  or abolished business rates for 100,000 premises – saving small businesses almost £1.5 billion since 2008  – and providing an extra £100 million of business rate support, including a new Growth Accelerator that ensures new or improved properties pay no rates for a year. 
+We have significantly reduced or abolished business rates for 100,000 premises – saving small businesses almost £1.5 billion since 2008  – and providing an extra £100 million of business rate support, including a new Growth Accelerator that ensures new or improved properties pay no rates for a year. 
 
 We will bring forward a Non-Domestic Rates Bill to implement further recommendations from the Barclay Review in early 2019 and ensure that tax decisions in the forthcoming Budget embed Scotland’s competitive position as an attractive place to do business and provide certainty to investors.
 

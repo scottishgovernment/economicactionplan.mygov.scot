@@ -23,7 +23,7 @@ We are taking action in the following key areas to make sure the fundamentals ar
 * **International:** growing exports and international investment and attracting global talent.
 * **Innovation:** supporting world-leading innovation and a dynamic digital economy.
 * **Skills:** providing a highly skilled workforce through education, training and re-skilling.
-* **Place:** supporting thriving places throughout Scotland: in our regions, cities, towns and the rural economy.
+* **Place:** supporting thriving places throughout Scotland: in our regions, cities, towns and rural areas, including our islands.
 * **People:** moving toward a world-leading working life where fair work drives success, wellbeing and prosperity for individuals, employers and society.
 * **Sustainability:** seizing the economic opportunities of the transition to a carbon neutral economy.
 
