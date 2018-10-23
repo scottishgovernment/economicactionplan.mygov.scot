@@ -91,6 +91,6 @@ var handleCookies = function(){
         cookieNotice.classList.add('hidden');
         utils.cookie('eap-cookie-notification-acknowledged', 'yes', 365);
     };
-}
+};
 
-window.addEventListener('load', handleCookies);
+handleCookies();
