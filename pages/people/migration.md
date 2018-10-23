@@ -22,6 +22,8 @@ To attract talent to Scotland and grow our population (including as part of the 
 
 We will continue to push the UK Government to recognise the action that is needed to protect Scotland’s prosperity and wellbeing. Scottish Ministers should have the powers to tailor migration policy, within a UK framework to meet Scotland’s distinct needs.
 
+## ‘Come to Scotland’ campaign
+
 We will now build on the success of the ‘We are Scotland’ social media campaign to launch a ‘Come to Scotland' campaign to attract talent and investment.  
 
 In addition, we will bring forward an Electoral Franchise Bill to give fair access to voting rights for all those who have a legal right to live in Scotland. EU students already studying here, starting a degree in the autumn this year or next year (2019) will continue to be eligible to receive free tuition.

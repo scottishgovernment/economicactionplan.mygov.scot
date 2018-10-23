@@ -18,13 +18,19 @@ next: { title: "Further Education and Higher Education", url: "/skills/further-h
 
 <hr>
 
+## Fair Start Scotland 
+
 We have developed an employment support service – Fair Start Scotland – to help those facing the greatest barriers to work to find and stay in jobs, based on our over-arching principles of fairness and respect. 
 
 We are also setting out how we will deliver more effective and joined up employability support across Scotland with the publication of No One Left Behind – Next Steps for the Integration and Alignment of Employability Support in Scotland.
 
 We are developing links between employment support and other services through the £2.5 million Employability Innovation and Integration Fund.
 
+## Individual Training Accounts 
+
 We have launched Individual Training Accounts (ITAs) to support employability by focusing funds on those actively seeking employment and those who are currently in low paid work and looking to progress.
+
+## Partnership Action for Continuing Employment 
 
 We will continue to support those affected by redundancy through the Partnership Action for Continuing Employment (PACE), while providing careers and skills advice to people of all ages through the Skills Development Scotland agency.
 

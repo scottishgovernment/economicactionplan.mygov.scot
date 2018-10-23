@@ -38,9 +38,9 @@ next: { title: "EU Exit", url: "/overview/eu-exit/"}
 
 * We will look to realise the potential of **women’s contribution** to economic success through the Women in Enterprise Action Framework and the delivery of our forthcoming Gender Pay Gap Action Plan.
 
-* We will **integrate and expand upskilling and reskilling provision**, working with the new National Retraining Partnership involving unions and employers’ organisations to shape the public and private sector response to this. 
+* We will **integrate and expand up-skilling and re-skilling provision**, working with the new National Retraining Partnership involving unions and employers’ organisations to shape the public and private sector response to this. 
 
-* We will work with SFC and SDS to **develop a more responsive funding model for work-based learning and upskilling**.
+* We will work with SFC and SDS to **develop a more responsive funding model for work-based learning and up-skilling**.
 
 * We will **increase the pace on the alignment of the education and skills system**. 
 

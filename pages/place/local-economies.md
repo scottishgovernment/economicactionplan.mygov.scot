@@ -16,15 +16,23 @@ prev: { title: "Marine and Coastal Economy and Communities", url: "/place/marine
 
 <hr>
 
-The new Community and Renewable Energy Scheme, worth £10 million per year, supports the development of shared ownership opportunities and we are publishing our review of Good Practice Principles for Shared Ownership of Onshore Renewable Energy Projects
+## Community and Renewable Energy Scheme 
+
+The new Community and Renewable Energy Scheme, worth £10 million per year, supports the development of shared ownership opportunities and we are publishing our review of Good Practice Principles for Shared Ownership of Onshore Renewable Energy Projects.
+
+## Towns
 
 We will continue to support Scotland’s Towns Partnership to promote the Town Centre First Principle and provide support and services which contribute to the vibrancy, vitality and viability of town centres and neighbourhoods.
 
 Building on the Town Centre First Principle, we will support and promote the Place Principle which asks that all those responsible for providing services and looking after assets in a place need to work and plan together, and with local communities, to improve the lives of people, support inclusive growth and create more successful places.
 
+## Asset Transfer 
+
 Asset Transfer legislation gives community organisations a right to ask to take over control of land or buildings owned by local councils, Scottish Government, and other public authorities – this is helping revitalise local economies by putting control of these properties into community hands and supporting community development
 
 We are supporting communities to become more resilient and sustainable through the ownership and management of land and land assets, with our £10 million per year Scottish Land Fund extended to 2021.
+
+## Food and Drink
 
 We have launched a Regional Food Fund of £250k to support growth in Scotland’s local/regional food and drink sector to double the amount that visitors spend on food and drink.
 

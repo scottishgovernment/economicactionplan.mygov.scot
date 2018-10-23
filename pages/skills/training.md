@@ -7,7 +7,7 @@ index: 4
 parent: skills
 permalink: /skills/training/
 prev: { title: "Further Education and Higher Education", url: "/skills/further-higher-education/" }
-next: { title: "Upskilling and Reskilling", url: "/skills/upskilling-and-reskilling/" }
+next: { title: "Up-skilling and Re-skilling", url: "/skills/upskilling-and-reskilling/" }
 ---
 
 ![A man explaining something to two young people](/assets/images/pageimages/skills3.jpg)
@@ -18,7 +18,11 @@ next: { title: "Upskilling and Reskilling", url: "/skills/upskilling-and-reskill
 
 <hr>
 
-We are investing £193 million in Skills Development Scotland in 2018/19 to deliver interventions including Modern Apprenticeships, Foundation Apprenticeships, Graduate Apprenticeships, pre-employment training and careers services, and to play a central role in the implementation of Developing the Young Workforce (DYW).  
+## Skills Development Scotland 
+
+We are investing £193 million in Skills Development Scotland in 2018/19 to deliver interventions including Modern Apprenticeships, Foundation Apprenticeships, Graduate Apprenticeships, pre-employment training and careers services, and to play a central role in the implementation of Developing the Young Workforce (DYW).
+
+## Apprenticeships
 
 As part of this investment, to ensure Scotland’s labour market is equipped with the skills required we will continue to improve opportunities for apprenticeships, delivering 30,000 Apprenticeships by 2020. This will include developing the Apprenticeship pathway through Foundation, Modern, and Graduate Apprenticeships.  
 

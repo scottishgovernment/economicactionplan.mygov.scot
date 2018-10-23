@@ -2,7 +2,7 @@
 layout: default
 title:  "Further Education and Higher Education"
 category: skills
-summary: "Investing in a world class education system."
+summary: "Investing in a world-class education system."
 index: 3
 parent: skills
 permalink: /skills/further-higher-education/
@@ -19,13 +19,21 @@ next: { title: "Training", url: "/skills/training/" }
 
 <hr>
 
+## Investment in Universities and Colleges
+
 We have invested over £1 billion every year since 2012-13 in our universities. This has enabled us to maintain free tuition fees for eligible students, while maintaining the high quality of education and ensuring that core outcomes are met and protected. In 2018-19 we are providing for over 128,000 funded places in our universities. 
 
 We are providing funding of over £590m in 2018-19 to colleges to enable tens of thousands of young and adult learners to obtain recognised vocational qualifications each year, increasing routes to work and higher level study. 
 
+## Student Support
+
 Following the independent review of further and higher education student support, we have committed additional funding of £21 million per year by the end of this parliamentary term for improvements to student support. We also provide Education Maintenance Allowances (EMAs) to young people from low income families to help them stay on in post-16 education either at school or college.
 
+## STEM
+
 We published our STEM Education and Training Strategy in October 2017, including making the achievement of a wider range of STEM skills in our young people a priority.  We will prioritise STEM subjects in our colleges and universities and higher level apprenticeships. 
+
+## Learner Journey review 
 
 We will accelerate the pace of implementation of the recommendations of the Learner Journey review to ensure the swifter alignment of the education and skills system, to better deliver on improved learner choice and greater system efficiency. 
 

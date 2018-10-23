@@ -20,9 +20,15 @@ prev: { title: "City Region and Other Growth Deals", url: "/place/city-region-de
 
 Through our work with local authorities on City Region and Growth Deals we have seen the value of partners using catalyst investment to collaborate to develop and share their passion and ambition to drive inclusive growth. To capitalise on this activity and to ensure that our collective public and private investment in infrastructure, jobs, housing and skills creates places that offer wealth, health and opportunity to all those who live there, we are supporting the development of Regional Economic Partnerships.
 
-Regional economic partnerships such as the Glasgow City Regional Partnership are already active across much of Scotland.  We will continue to support emerging partnerships, encouraging them to be ambitious for the future success of their region.  Working with those regional partners, the agencies will also ensure that our collective public and private investment in infrastructure, jobs, housing and skills creates places that offer wealth, health and opportunity to all those who live there. In parallel, we will task the agencies to build on existing work to develop a National Asset Register of sectors, skills and capabilities that is geographically focussed
+## Regional Economic Partnerships 
+
+Regional economic partnerships such as the Glasgow City Regional Partnership are already active across much of Scotland.  We will continue to support emerging partnerships, encouraging them to be ambitious for the future success of their region.  Working with those regional partners, the agencies will also ensure that our collective public and private investment in infrastructure, jobs, housing and skills creates places that offer wealth, health and opportunity to all those who live there. In parallel, we will task the agencies to build on existing work to develop a National Asset Register of sectors, skills and capabilities that is geographically focussed.
+
+## South of Scotland Enterprise Agency 
 
 To achieve sustainable and inclusive economic growth in rural areas in the South of Scotland we are introducing legislation to create a new South of Scotland enterprise agency. In advance of this coming into effect we have established an interim Economic Partnership, backed with £10 million of investment.  
+
+## Community Wealth Building
 
 In order to support community wealth building we will support the Glasgow procurement collaboration to further develop their work to increase the retention of local spending within the area. This will involve working with local businesses to ensure they are able to access contracts and supply goods and services, retaining expenditure investment and jobs within local communities.
 
