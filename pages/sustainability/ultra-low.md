@@ -9,7 +9,7 @@ permalink: /sustainability/ultra-low-emission-vehicles/
 prev: { title: "Natural Capital and Green Spaces", url: "/sustainability/natural-capital" }
 ---
 
-![Vehicles Photo](/assets/images/pageimages/Sustainability4.jpg)
+![Vehicles Photo](/assets/images/pageimages/sustainability4.jpg)
 <br>
 <hr>
 * **Investing £15 million to expand Scotland’s electric vehicle (EV) charging network**
