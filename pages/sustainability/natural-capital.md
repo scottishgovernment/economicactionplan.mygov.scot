@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Natural capital and green spaces"
+title:  "Natural Capital and Green Spaces"
 category: sustainability
 summary: "Protecting and enhancing Scotland’s natural assets."
 index: 4
