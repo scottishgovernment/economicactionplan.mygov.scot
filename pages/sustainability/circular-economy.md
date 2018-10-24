@@ -10,7 +10,7 @@ next: { title: "Natural Capital and Green Spaces", url: "/sustainability/natural
 prev: { title: "Carbon Neutral Economy", url: "/sustainability/carbon-neutral" }
 ---
 
-![Circular Economy Photo](/assets/images/pageimages/Sustainability2.jpg)
+![Circular Economy Photo](/assets/images/pageimages/sustainability2.jpg)
 *Image courtesy of Scottish Enterprise*
 
 <hr>

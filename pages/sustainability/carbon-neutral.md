@@ -10,7 +10,7 @@ next: { title: "Circular Economy and Green Innovation", url: "/sustainability/ci
 prev: { title: "Introduction", url: "/sustainability/sustainability-introduction" }
 ---
 
-![Carbon Neutral Photo](/assets/images/pageimages/Sustainability1.jpg)
+![Carbon Neutral Photo](/assets/images/pageimages/sustainability1.jpg)
 <br>
 <hr>
 * **A £20 million Energy Investment Fund**
