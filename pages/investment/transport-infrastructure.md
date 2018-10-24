@@ -21,7 +21,7 @@ next: { title: "Housing", url: "/investment/housing/" }
 
 ## Strategic Transport Projects
 
-Since 2007, we have supported our transport systems with over £20 billion investment across trunk roads, rail, buses, ferries and air services as well as active travel, including delivery of the iconic £1.35 billion Queensferry Crossing and the M8/M73/M74 Motorway Improvements projects. Building on this, the second Strategic Transport Projects Review by 2020 will now identify the strategic transport infrastructure investments required to support Scotland’s economy over the next 20 years.
+Since 2007, we have supported our transport systems with over £20 billion investment across trunk roads, rail, buses, ferries and air services as well as active travel, including delivery of the iconic £1.35 billion Queensferry Crossing and the M8/M73/M74 Motorway Improvements projects. Building on this, the second Strategic Transport Projects Review will identify the strategic transport infrastructure investments required to support Scotland’s economy over the next 20 years.
 
 We continue to progress work on the A9 and A96 dualling programmes and spend £1bn per year supporting public transport, providing people with access to jobs and services. 
 
