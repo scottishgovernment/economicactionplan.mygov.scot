@@ -17,7 +17,9 @@
                 </div>
 
                 {% if page.hero %}
-                    <img class="hero-header__image" src="/assets/images/hero/{{ page.hero }}" />
+                    <img class="hero-header__image"
+                        src="/assets/images/hero/{{ page.hero }}"
+                        srcset="/assets/images/hero/{{ page.hero }} 1x, /assets/images/hero/{{ page.hero | replace: ".png", "-x2.png"}} 2x"/>
                 {% endif %}
             </div><!--
         --></div>
