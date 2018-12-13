@@ -6,6 +6,7 @@ RUN \
   gem install -v 1.0.3 compass && \
   gem install -v 0.14.0 jekyll-redirect-from && \
   gem install -v 1.2.0 jekyll-sitemap
+RUN mkdir _site && chmod a+rwx _site
 USER jekyll
 ENV PATH=/usr/gem/bin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 ENV GEM_PATH=/usr/gem
