@@ -10,12 +10,13 @@ if tty -s; then
 else
   OPTS=""
 fi
-if [ -z "$(docker images -q $image)" ]; then
-  docker build -t jekyll .
-fi
+docker build -t jekyll .
 docker run $OPTS \
   --rm \
   -v $PWD:/srv/jekyll \
   -i \
+  -e FULL_CHOWN=1 \
+  -e JEKYLL_UID=$(id -u) \
+  -e JEKYLL_GID=$(id -g) \
   $image \
-  jekyll build "$@"
+  su jekyll -c "/usr/gem/bin/jekyll build \"$@\""
