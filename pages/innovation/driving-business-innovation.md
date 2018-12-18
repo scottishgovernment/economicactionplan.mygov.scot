@@ -21,7 +21,7 @@ next: { title: "Innovative Sectors and Places", url: "/innovation/sectors-and-pl
 
 ## Research and Development Expenditure
 
-We have set an ambitious target of doubling Scotland’s business expenditure on research and development (R&D) from £875m in 2015 to £1.7bn by 2025. To assist with this, we are providing over £110m in grant support for business R&D over the next 3 years by increasing grant support for R&D from £22m to £37m per annum. Significant progress is already being made – business expenditure on R&D exceeded £1 billion for the first time in 2017.
+We have set an ambitious target of doubling Scotland’s business expenditure on research and development (R&D) from £875m in 2015 to £1.7bn by 2025. To assist with this, we are providing over £110m in grant support for business R&D over the next 3 years by increasing grant support for R&D from £22m to £37m per annum. Significant progress is already being made – business expenditure on R&D exceeded £1 billion for the first time in 2016.
 
 ## Productivity Clubs
 
@@ -41,6 +41,3 @@ We will also now expand the role, remit and membership of the Can Do Business In
 **[Scottish Enterprise: Workplace Innovation Fund](https://www.scottish-enterprise.com/support-for-businesses/funding-and-grants/growing-your-business/workplace-innovation-fund)**
 
 **[Fair Work Convention](http://www.fairworkconvention.scot/)**
-
-
-

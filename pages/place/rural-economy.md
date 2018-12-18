@@ -9,7 +9,7 @@ permalink: /place/rural-economy/
 next: { title: "Marine and Coastal Economy and Communities", url: "/place/marine-and-coastal/" }
 prev: { title: "Regeneration", url: "/place/regeneration" }
 ---
-![Rural Photo](/assets/images/pageimages/place6.jpg)
+![Rural Photo](/assets/images/pageimages/place6-2.jpg)
 <br>
 <hr>
 * **We will support the development of a diverse and healthy rural economy through the growth of traditional and non-traditional sectors**

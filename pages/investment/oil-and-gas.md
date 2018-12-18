@@ -13,7 +13,7 @@ prev: { title: "Ultra-Low Emission Vehicles ", url: "/investment/ultra-low-emiss
 <br>
 <hr>
 * **The [Oil and Gas Technology Centre](https://theogtc.com/) is working to deploy new technology to transform the sector**
-* **Enhancing Scotland’s decommissioning capability through the [Decommissioning Challenge Fund](https://www.gov.scot/Topics/Business-Industry/Energy/Energy-sources/traditional-fuels/oilandgas/DCF)]d**
+* **Enhancing Scotland’s decommissioning capability through the [Decommissioning Challenge Fund](https://www.gov.scot/Topics/Business-Industry/Energy/Energy-sources/traditional-fuels/oilandgas/DCF)**
 * **Supporting a Scottish location for a deep water port for decommissioning**
 * **Supporting Carbon Capture Utilisation & Storage (CCUS)**
 

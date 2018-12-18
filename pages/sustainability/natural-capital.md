@@ -38,13 +38,13 @@ We will explore where these 3 funds can be brought together to optimise the bene
 
 ## Soil Quality
 
-Substantial investment has been made in improving our soil quality, through for example the Peatlands Action Fund, which restores degraded peatland so that it can store more carbon in future, with associated climate change benefits. And the Scottish Land Commission is working with SEPA to unlock potential growth by bringing vacant and derelict land back into economic use.
+Substantial investment has been made in improving our soil quality, through for example the Peatlands Action Fund which SNH are delivering, which restores degraded peatland so that it can store more carbon in future, with associated climate change benefits. And the Scottish Land Commission is working with SEPA to unlock potential growth by bringing vacant and derelict land back into economic use.
 
 ## Forestry
 
 Alongside this, we are committed to meeting our target of planting 10,000 hectares of woodland every year, and increase this by a further 50% by 2025; and we will deliver a new Scottish Forestry Strategy setting out the long-term vision and objectives for forestry and woodlands, including in support of the forestry sector which makes a substantial contribution to our economy.
 
-The Cairngorms National Park, Loch Lomond & The Trossachs National Park and the Royal Botanic Garden Edinburgh are playing a key role in supporting the strong growth in the tourism sector.  
+The Cairngorms National Park, Loch Lomond & The Trossachs National Park and the Royal Botanic Garden Edinburgh are playing a key role in supporting the strong growth in the tourism sector.
 
 We are continuing to invest in our green infrastructure to support tourism growth, such as the National Walking and Cycling Network which is attracting more visitors and generating £85 million expenditure in the local economy.
 
@@ -58,3 +58,5 @@ We are continuing to invest in our green infrastructure to support tourism growt
 **[Forestry Commission: Grants](https://scotland.forestry.gov.uk/supporting/grants-and-regulations/forestry-grants)**  
 
 **[Scottish Environment Protection Agency (SEPA)](https://www.sepa.org.uk/)**
+
+**[Peatland Action Fund (SNH)](https://www.nature.scot/climate-change/taking-action/peatland-action)**
