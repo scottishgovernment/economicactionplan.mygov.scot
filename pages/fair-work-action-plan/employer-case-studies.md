@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Employer case studies"
-category: fair-work-action-plan
+category: 
 summary: "Showcasing the Fair Work practices of employers"
 index: 23
 parent: fair-work-action-plan
