@@ -5,8 +5,8 @@ category: fair-work-action-plan
 summary: "We want Scotland to be a world-leading Fair Work Nation by 2025"
 index: 0
 parent: fair-work-action-plan
-permalink: /fair-work-action-plan/ministerial-foreword/
-next: { title: "Purpose", url: "/fair-work-action-plan/purpose/" }
+permalink: /fair-work/ministerial-foreword/
+next: { title: "Purpose", url: "/fair-work/purpose/" }
 ---
 
 We want Scotland to be the best place to live, work, invest and do business.  

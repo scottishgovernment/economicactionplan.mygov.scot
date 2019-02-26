@@ -5,9 +5,9 @@ category: fair-work-action-plan
 summary: "Our approach to achieve the 2025 vision for Fair Work"
 index: 1
 parent: fair-work-action-plan
-permalink: /fair-work-action-plan/purpose/
-prev: { title: "Ministerial Foreword", url: "/fair-work-action-plan/ministerial-foreword/" }
-next: { title: "Achievements", url: "/fair-work-action-plan/achievements/" }
+permalink: /fair-work/purpose/
+prev: { title: "Ministerial Foreword", url: "/fair-work/ministerial-foreword/" }
+next: { title: "Achievements", url: "/fair-work/achievements/" }
 ---
 
 Fair Work can drive productivity, release untapped potential and inspire innovation - all of which add value to jobs and to business and in turn create stronger, more  sustainable and inclusive growth.  The Scottish Government’s commitment to promoting Fair Work is set out in [Scotland’s Economic Strategy](https://www.gov.scot/publications/scotlands-economic-strategy/), [National Performance Framework](https://nationalperformance.gov.scot/), [Economic Action Plan](https://economicactionplan.mygov.scot/) and our [Labour Market Strategy](https://www.gov.scot/publications/scotlands-labour-market-strategy/). 

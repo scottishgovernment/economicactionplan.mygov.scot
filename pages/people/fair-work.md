@@ -12,7 +12,7 @@ prev: { title: "Labour Market Access and Inclusion", url: "/people/inclusion" }
 ![Work Photo](/assets/images/pageimages/people3.jpg)
 <br>
 <hr>
-* **We will publish a Fair Work Action Plan**
+* **We will publish a [Fair Work Action Plan](/fair-work/)**
 * **We are introducing fair work criteria from the [Scottish Business Pledge](https://scottishbusinesspledge.scot/) to business support grants**
 
 <hr>
@@ -44,3 +44,5 @@ We are exploring options to develop support and advice for small, micro and Busi
 **[Scottish Government: Fair Work Practices in Procurement](https://beta.gov.scot/publications/fair-work-practices-in-procurement-toolkit/)**  
 
 **[Scottish Government: Fair work and pay](https://beta.gov.scot/policies/employment-support/fair-work-and-pay/)**
+
+**[Fair Work Action Plan](/fair-work/)**

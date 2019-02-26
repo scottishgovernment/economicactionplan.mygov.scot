@@ -5,9 +5,9 @@ category: fair-work-action-plan
 summary: "Taking forward action to refresh the Scottish Business Pledge to ensure closer alignment to the Fair Work Framework and build greater impact"
 index: 7
 parent: fair-work-action-plan
-permalink: /fair-work-action-plan/scottish-business-pledge/
-prev: { title: "Online service for small and micro employers", url: "/fair-work-action-plan/online-service/" }
-next: { title: "Future workforce and business leaders", url: "/fair-work-action-plan/future-workforce/" }
+permalink: /fair-work/scottish-business-pledge/
+prev: { title: "Online service for small and micro employers", url: "/fair-work/online-service/" }
+next: { title: "Future workforce and business leaders", url: "/fair-work/future-workforce/" }
 ---
 
 The [Scottish Business Pledge](https://scottishbusinesspledge.scot/) provides a means of bringing together the main themes identified in [Scotland’s Economic Strategy](https://www.gov.scot/publications/scotlands-economic-strategy/) as the drivers of inclusive, economic growth – innovation, internationalisation and investment in our people.  It offers a mechanism for business to understand how they can demonstrate their contribution to Scotland’s [National Performance Framework](https://nationalperformance.gov.scot/) as well as the [Fair Work Framework](https://www.fairworkconvention.scot/the-fair-work-framework/).  The elements focus on progressive business practices that have been shown to increase productivity and competitiveness.

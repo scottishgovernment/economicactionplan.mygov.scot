@@ -5,9 +5,9 @@ category: fair-work-action-plan
 summary: "Encouraging the inclusion of a collective disputes procedure in construction contracts"
 index: 14
 parent: fair-work-action-plan
-permalink: /fair-work-action-plan/the-construction-sector/
-prev: { title: "The collaborative economy", url: "/fair-work-action-plan/the-collaborative-economy/" }
-next: { title: "The social care sector", url: "/fair-work-action-plan/social-care-sector/" }
+permalink: /fair-work/the-construction-sector/
+prev: { title: "The collaborative economy", url: "/fair-work/the-collaborative-economy/" }
+next: { title: "The social care sector", url: "/fair-work/social-care-sector/" }
 ---
 
 The [Fair Work Convention](https://www.fairworkconvention.scot/) has identified construction as a sector that experiences significant challenges in terms of Fair Work practices. While Scotland has made progress in applying Fair Work to public procurement contracts, the Convention has highlighted the need for more robust monitoring and evaluation of how Fair Work is being applied in practice. The Convention has indicated that it will undertake an Inquiry into Fair Work in the Construction sector in 2019.

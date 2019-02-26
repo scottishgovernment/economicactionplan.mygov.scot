@@ -8,6 +8,6 @@ index: 13
 navitems: fair-work-action-plan
 thispage: fair-work-action-plan
 parent: home
-permalink: /fair-work-action-plan/
+permalink: /fair-work/
 hero: toplevelnav.png
 ---

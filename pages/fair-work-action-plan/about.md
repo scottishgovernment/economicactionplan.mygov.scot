@@ -5,9 +5,8 @@ category: fair-work-action-plan
 summary: "Information relating to the production of this Action Plan"
 index: 22
 parent: fair-work-action-plan
-permalink: /fair-work-action-plan/about/
-prev: { title: "Monitor and report", url: "/fair-work-action-plan/monitor-and-report/" }
-next: { title: "Employer case studies", url: "/fair-work-action-plan/employer-case-studies/" }
+permalink: /fair-work/about/
+prev: { title: "Monitor and report", url: "/fair-work/monitor-and-report/" }
 ---
 
 In developing the Fair Work Action Plan, we have sought to progress recommendations of the Fair Work Convention’s Fair Work Framework and to reflect advice provided from our key stakeholders, including the STUC and a range of employers, on how Fair Work can best be promoted and delivered.  
@@ -17,7 +16,7 @@ We will also build on the aims and the recommendations from the Enterprise and S
 There are many employers already championing the dimensions of Fair Work and there is an increasing evidence base demonstrating the benefits to workers and to business.  We must build on this and communicate a business case for Fair Work to employers across Scotland.    
 
 The Scottish Government and Business in the Community Scotland held five workshops in different parts of Scotland (September – November 2018) to gain employer input to the development of the Fair Work Action Plan.  Through these workshops we engaged with around 50 employers with a mix of sectoral representation and size of business.   This included sessions to:
-* Share best practice examples/ case studies of Fair Work 
+* Share best practice examples/case studies of Fair Work 
 * Understand barriers to implementing Fair Work – real or perceived 
 * Gain employer insight to the support/tools employers need to help them implement Fair Work practices
 

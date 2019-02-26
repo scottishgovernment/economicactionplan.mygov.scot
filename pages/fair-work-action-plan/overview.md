@@ -5,9 +5,9 @@ category: fair-work-action-plan
 summary: "An overview of the actions we are taking to achieve the 2025 vision for Fair Work"
 index: 3
 parent: fair-work-action-plan
-permalink: /fair-work-action-plan/overview/
-prev: { title: "Achievements", url: "/fair-work-action-plan/achievements/" }
-next: { title: "Fair Work First", url: "/fair-work-action-plan/fair-work-first/" }
+permalink: /fair-work/overview/
+prev: { title: "Achievements", url: "/fair-work/achievements/" }
+next: { title: "Fair Work First", url: "/fair-work/fair-work-first/" }
 ---
 
 ## Supporting employers adopt Fair Work practices

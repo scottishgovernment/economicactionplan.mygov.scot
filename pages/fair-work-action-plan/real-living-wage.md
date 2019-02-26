@@ -5,9 +5,9 @@ category: fair-work-action-plan
 summary: "Increasing the number of people employed who are paid the real Living Wage"
 index: 16
 parent: fair-work-action-plan
-permalink: /fair-work-action-plan/real-living-wage/
-prev: { title: "The social care sector", url: "/fair-work-action-plan/social-care-sector/" }
-next: { title: "Unpaid carers", url: "/fair-work-action-plan/unpaid-carers/" }
+permalink: /fair-work/real-living-wage/
+prev: { title: "The social care sector", url: "/fair-work/social-care-sector/" }
+next: { title: "Unpaid carers", url: "/fair-work/unpaid-carers/" }
 ---
 
 Research shows paying the [real Living Wage](https://scottishlivingwage.org/) can enhance productivity, reduce absenteeism, and improve staff morale.  Despite the UK Government’s austerity agenda, Scotland has the highest proportion of employees being paid at least the real Living Wage of all four U.K. nations - 80.6%, ahead of England 77.1%, Wales 74.0% and NI 72.3% and the UK 77.2%. There are currently over 1300 real Living Wage accredited employers in Scotland. 

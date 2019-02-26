@@ -5,9 +5,9 @@ category: fair-work-action-plan
 summary: "Demonstrating leadership as an employer by adopting Fair Work practices"
 index: 20
 parent: fair-work-action-plan
-permalink: /fair-work-action-plan/scottish-government-employer/
-prev: { title: "The UK Government", url: "/fair-work-action-plan/uk-government/" }
-next: { title: "Monitor and report", url: "/fair-work-action-plan/monitor-and-report/" }
+permalink: /fair-work/scottish-government-employer/
+prev: { title: "The UK Government", url: "/fair-work/uk-government/" }
+next: { title: "Monitor and report", url: "/fair-work/monitor-and-report/" }
 ---
 
 As an employer, the Scottish Government has shown leadership in adopting fairer working practices.  This includes:

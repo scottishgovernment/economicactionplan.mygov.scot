@@ -5,9 +5,9 @@ category: fair-work-action-plan
 summary: "Engaging with the UK Government to enhance worker’s rights"
 index: 19
 parent: fair-work-action-plan
-permalink: /fair-work-action-plan/uk-government/
-prev: { title: "The Scottish Government", url: "/fair-work-action-plan/scottish-government/" }
-next: { title: "The Scottish Government as an employer", url: "/fair-work-action-plan/scottish-government-employer/" }
+permalink: /fair-work/uk-government/
+prev: { title: "The Scottish Government", url: "/fair-work/scottish-government/" }
+next: { title: "The Scottish Government as an employer", url: "/fair-work/scottish-government-employer/" }
 ---
 
 The UK Government has recently published its [Good Work Plan](https://www.gov.uk/government/publications/good-work-plan/good-work-plan) which sets out the action it will take in response to the [Matthew Taylor Report on Good Work](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/627671/good-work-taylor-review-modern-working-practices-rg.pdf).  

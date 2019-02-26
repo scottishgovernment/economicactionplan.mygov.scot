@@ -5,9 +5,9 @@ category: fair-work-action-plan
 summary: "Promoting Fair Work in the collaborative economy"
 index: 13
 parent: fair-work-action-plan
-permalink: /fair-work-action-plan/the-collaborative-economy/
-prev: { title: "Collective bargaining", url: "/fair-work-action-plan/collective-bargaining/" }
-next: { title: "The construction sector", url: "/fair-work-action-plan/the-construction-sector/" }
+permalink: /fair-work/the-collaborative-economy/
+prev: { title: "Collective bargaining", url: "/fair-work/collective-bargaining/" }
+next: { title: "The construction sector", url: "/fair-work/the-construction-sector/" }
 ---
 
 In January 2018, the [Scottish Government’s Expert Advisory Panel on the Collaborative Economy](https://www.gov.scot/publications/scottish-expert-advisory-panel-collaborative-economy-report/) reported its findings, recommending a number of actions for Scotland to take advantage of the growing use of digital, collaborative platforms and to tackle some of the challenges that they pose to specific sectors.  The Expert Panel made recommendations aimed at improving the quality of employment opportunities in the collaborative economy.  
