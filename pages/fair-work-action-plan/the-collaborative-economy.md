@@ -2,7 +2,7 @@
 layout: default
 title:  "The collaborative economy"
 category: fair-work-action-plan
-summary: "Promoting Fair Work in the collaborative economy"
+summary: "Promoting Fair Work in the collaborative economy."
 index: 13
 parent: fair-work-action-plan
 permalink: /fair-work/the-collaborative-economy/

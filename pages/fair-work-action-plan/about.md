@@ -2,7 +2,7 @@
 layout: default
 title:  "About this Action Plan"
 category: fair-work-action-plan
-summary: "Information relating to the production of this Action Plan"
+summary: "Information relating to the production of this Action Plan."
 index: 22
 parent: fair-work-action-plan
 permalink: /fair-work/about/
@@ -20,7 +20,7 @@ The Scottish Government and Business in the Community Scotland held five worksho
 * Understand barriers to implementing Fair Work – real or perceived 
 * Gain employer insight to the support/tools employers need to help them implement Fair Work practices
 
-[Business in the Community](https://www.bitc.org.uk/) provided the Scottish Government with feedback and recommendations from the workshops which we have considered and reflected in the development of the Fair Work Action Plan.  Business in the Community have published a report on the workshops.
+[Business in the Community Scotland](https://www.bitc.org.uk/) provided the Scottish Government with feedback and recommendations from the workshops which we have considered and reflected in the development of the Fair Work Action Plan.  Business in the Community Scotlad have published a [report](https://www.bitc.org.uk/resources-training/resources/research/making-scotland-world-leader-fair-work-0) on the workshops.
 
 Additionally, a Fair Work Employer Survey was undertaken to engage with a wider range of employers on how Fair Work is currently being applied in workplaces.  Over 560 responses were received with a majority of responses from small and micro businesses.  
 

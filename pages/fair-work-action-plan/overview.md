@@ -2,7 +2,7 @@
 layout: default
 title:  "Overview of Actions"
 category: fair-work-action-plan
-summary: "An overview of the actions we are taking to achieve the 2025 vision for Fair Work"
+summary: "An overview of the actions we are taking to achieve the 2025 vision for Fair Work."
 index: 3
 parent: fair-work-action-plan
 permalink: /fair-work/overview/
@@ -11,9 +11,9 @@ next: { title: "Fair Work First", url: "/fair-work/fair-work-first/" }
 ---
 
 ## Supporting employers adopt Fair Work practices
-We recognise that there are challenging times ahead. By working in partnership with employers, workers and trade unions, we aim to build on the extensive evidence base that demonstrates Fair Work is good for business and that by embedding Fair Work in workplaces now, businesses are more likely to benefit from sustainable growth.    
+We recognise there are challenging times ahead. By working in partnership with employers, workers and trade unions, we aim to build on the extensive evidence base that demonstrates Fair Work is good for business, as well as for workers, and that by embedding Fair Work in workplaces now, businesses are more likely to benefit from sustainable growth.
 
-We are committed to working with employer organisations to implement the Fair Work Action Plan.  We will also work with the Fair Work Convention to promote understanding and application of the Fair Work Framework in workplaces across the country.  The Fair Work Convention’s 2019/20 work plan also focuses on employer engagement.
+We are committed to working with employer organisations to implement the Fair Work Action Plan.  We will also continue to work with the Fair Work Convention to promote understanding and application of the Fair Work Framework in workplaces across the country.  The Fair Work Convention’s 2019/20 work plan also includes a focus on employer engagement.
 
 The Scottish Government is already working with business in a number of important areas including:
 * Establishing the Scottish National Investment Bank and National Manufacturing Institute for Scotland.
@@ -25,7 +25,7 @@ The Scottish Government is already working with business in a number of importan
 * Supporting Entrepreneurial Scotland to play a broader role in helping Scotland become a world-leading entrepreneurial and innovative society.
 * Launching a ‘Come to Scotland campaign’ to attract talent and investment and help mitigate the impact of Brexit.
 
-In response to employer engagement already undertaken, we are committing to a suite of actions to support employers adopt and benefit from fairer workplace practices.
+In response to employer engagement already undertaken, we are committing to a range of actions to support employers adopt and benefit from fairer workplace practices.
 
 <hr>
 **We will:**
@@ -34,12 +34,12 @@ In response to employer engagement already undertaken, we are committing to a su
 * **Create a new online Fair Work service for small and micro employers so they can access support and guidance from a central point**
 * **Deliver the refreshed Scottish Business Pledge to build scale, impact and capability**
 * **Instil a Fair Work ethos in our future workforce and business leaders**
-* **Host an International Fair Work Summit with the Fair Work Convention**
+* **Co-host an International Fair Work Summit with the Fair Work Convention**
 <hr>
 <br>
 
 ## Delivering Fair Work to a diverse and inclusive workforce
-These actions highlight current and planned work of the Scottish Government and stakeholders, including the [STUC](http://www.stuc.org.uk/), [Fair Work Convention](https://www.fairworkconvention.scot/) and [The Poverty Alliance](https://www.povertyalliance.org/) to address challenges in delivering Fair Work in specific sectors. 
+These actions highlight current and planned work of the Scottish Government and stakeholders, including the [STUC](http://www.stuc.org.uk/), the [Fair Work Convention](https://www.fairworkconvention.scot/) and [The Poverty Alliance](https://www.povertyalliance.org/) to address challenges in delivering Fair Work in specific sectors. 
 
 <hr>
 **We will:**
@@ -55,20 +55,19 @@ These actions highlight current and planned work of the Scottish Government and 
 <br>
 
 ## Embedding Fair Work across the Scottish Government 
-The Enterprise and Skills Board’s Strategic Plan recommended that the “Scottish Government will embed progressive business models, workplace innovation and Fair Work in all instruments of government and agencies, ensuring business support is conditional upon a commitment to Fair Work”.
+The Enterprise and Skills Board’s Strategic Plan recommended that the Scottish Government "embed progressive business models, workplace innovation and Fair Work in all instruments of government and agencies, ensuring business support is conditional upon a commitment to Fair Work".
 
-Our commitment to Fair Work First is an important statement of our intent.  
+Fair Work First is an important statement of our intent in this area.  
 
-Embedding Fair Work across all of our functions will be challenging.  To support that process, we will take the following actions:
+Embedding Fair Work across all of our functions will be challenging.  To support that process, we will take a number of actions.
 
 <hr>
 **We will:**
 * **Ensure continued Ministerial direction and support through Fair Work and Gender Equality Ministerial Working Group**
 * **Appoint a Scottish Government Fair Work Champion**
 * **Develop Directorate-level Fair Work Action Plans**
-* **Work with the Fair Work Convention to develop a Fair Work narrative and communications plan**
 * **Engage with the UK Government and devolved nations on Fair Work and employment law**
 * **Demonstrate leadership as an employer**
-* **Measure, monitor and report on progress in delivering a Fair Work Nation**
+* **Measure, monitor and report on progress in becoming a Fair Work Nation**
 <hr>
 
