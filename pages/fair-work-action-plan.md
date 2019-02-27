@@ -1,7 +1,7 @@
 ---
 layout: tiles-hero
 title:  "Fair Work Action Plan"
-category: 
+category: economic-action-plan
 summary: "Boosting productivity by developing Scotland as a world-leading Fair Work Nation"
 subtitle: "Boosting productivity by developing Scotland as a world-leading Fair Work Nation"
 index: 13
