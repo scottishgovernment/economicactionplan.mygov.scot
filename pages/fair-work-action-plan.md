@@ -9,5 +9,5 @@ navitems: fair-work-action-plan
 thispage: fair-work-action-plan
 parent: home
 permalink: /fair-work/
-hero: toplevelnav.png
+hero: fairwork.png
 ---
