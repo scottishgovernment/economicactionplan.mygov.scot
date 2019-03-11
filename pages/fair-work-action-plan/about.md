@@ -26,3 +26,9 @@ Additionally, a Fair Work Employer Survey was undertaken to engage with a wider 
 
 Feedback from employers suggests that they want a mechanism through which they can engage and network with other employers.  We are working with employers through the [Scottish Business Pledge](https://scottishbusinesspledge.scot/) to develop mechanisms that help employers of all sizes, sectors and locations, align their policies and practices with the dimensions of Fair Work. Our ask of employers is therefore to work with government, with employees, with trade unions, and with each other to share best practice, to provide peer support and, ultimately, to help build a Fair Work movement which brings real value to all employers and all workers. 
 
+## Cookies
+We collect anonymous information about how people use mygov.scot so we can improve the site.
+
+We use 'cookies', which are small files we place onto your computer to collect information about how you browse.
+
+[Find out how we manage cookies and measure site usage.](/cookies/)
