@@ -1,5 +1,6 @@
 FROM jekyll/minimal:3.8.5
 RUN \
+  echo 'auth sufficient pam_shells.so' > /etc/pam.d/chsh && \
   chsh -s /bin/ash jekyll && \
   gem uninstall --force sass && \
   gem install -v 3.4.25 sass && \
