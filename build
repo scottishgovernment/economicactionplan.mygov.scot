@@ -1,22 +1,4 @@
 #!/bin/sh
 # Build the site using Jekyll in Docker
-# Options to docker build can be passed to
-# this script, e.g.
-# ./build --incremental
 set -eu
-image=jekyll
-if tty -s; then
-  OPTS=-t
-else
-  OPTS=""
-fi
-docker build -t jekyll .
-docker run $OPTS \
-  --rm \
-  -v $PWD:/srv/jekyll \
-  -i \
-  -e FULL_CHOWN=1 \
-  -e JEKYLL_UID=$(id -u) \
-  -e JEKYLL_GID=$(id -g) \
-  $image \
-  su jekyll -c "/usr/gem/bin/jekyll build \"$@\""
+./jekyll build
