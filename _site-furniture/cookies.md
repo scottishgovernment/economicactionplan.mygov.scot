@@ -25,13 +25,13 @@ We use Google Analytics, Google Optimize and Mouseflow software to collect infor
 We store information about:
 
 * the pages you visit and how long you spend on each page
-* how you got to resouces.mygov.scot
-* what you click on while you're visiting resouces.mygov.scot
+* how you got to mygov.scot
+* what you click on while you're visiting mygov.scot
 * which variation of a page you've visited when we are testing out small design changes using Google Optimize
 
 Any information we get is received in a way that we can't identify anyone by it. For example, we never receive your name or address.
 
-We don't make any attempt to find out the identities of people visiting resouces.mygov.scot, and we don't allow Google or Mouseflow to do this either.
+We don't make any attempt to find out the identities of people visiting mygov.scot, and we don't allow Google or Mouseflow to do this either.
 
 All information we get through cookies and analytics will be treated in confidence. We will never sell, trade or give your details to third parties, unless we're required to do it by law.
 
