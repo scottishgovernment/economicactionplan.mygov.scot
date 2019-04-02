@@ -43,7 +43,7 @@
 
             background: url('../images/icons/arrows/dd_handle.png') no-repeat $color__blue--base center;
             @include image-2x( '../images/icons/arrows/dd_handle_@2x.png', 56px, 56px);
-            @include transition(background-color 0.2s, border-color 0.2s);
+            transition: background-color 0.2s, border-color 0.2s;
         }
 
         &:active {
@@ -144,18 +144,18 @@
             padding-bottom: 14px;
         }
 
-        @include transition(background-color 1s);
+        transition: background-color 1s;
 
         &:hover {
             background-color: $color__grey--lighter;
             text-decoration: none;
-            @include transition(background-color 0.2s);
+            transition: background-color 0.2s;
         }
 
         &:active {
             background-color: $color__blue--light;
             outline: 0;
-            @include transition(none);
+            transition: none;
         }
     }
 
@@ -166,7 +166,7 @@
             display: block;
             content: '';
             height: 360px;
-            @include background-image(linear-gradient($color__grey--lighter, $color__white));
+            background-image: linear-gradient($color__grey--lighter, $color__white);
         }
 
         &--section-nav {
@@ -193,7 +193,7 @@
                 display: block;
                 // content: '';
                 height: 16px;
-                @include background-image(linear-gradient($color__grey--light, $color__grey--lighter));
+                background-image: linear-gradient($color__grey--light, $color__grey--lighter);
             }
         }
     }

@@ -6,4 +6,4 @@ _site
 Gemfile*
 .DS_Store
 .ruby-version
-assets/css/main2.css
+assets/css/main.css

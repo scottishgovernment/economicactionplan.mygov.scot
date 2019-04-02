@@ -82,11 +82,10 @@ body {
 
 .site-items {
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-  @include trailing-border(1px);
   list-style-type: none;
   margin: 0 0 21px;
-  padding-bottom: rhythm(3);
-  padding-top: rhythm(3);
+  padding-bottom: 21px;
+  padding-top: 21px;
 
   &__item {
     padding-top: 0;

@@ -83,7 +83,7 @@ ul {
 #site-nav {
   $dimension: baseline-nearest(50px);
 
-  font-size: $mobile-h2-size;
+  font-size: $mobile-h2-size
 
   #site-nav-toggler {
     background: url(../images/menu.png) $navy no-repeat 0 0;
@@ -95,7 +95,7 @@ ul {
     top: 0;
     width: 56px;
 
-    @include transition(background-color, 0.1s, ease-in-out);
+    transition: background-color, 0.1s, ease-in-out;
 
     &:hover {
       background-color: $blue;
@@ -144,7 +144,7 @@ ul {
           top: 0;
           width: 56px;
 
-          @include transition(background-color, 0.1s, ease-in-out);
+          transition: background-color, 0.1s, ease-in-out;
         }
 
         &:hover {
@@ -318,7 +318,7 @@ ol.nav {
         right: 0;
         top: 3px;
 
-        @include transition(color, 0.1s, ease-in-out);
+        transition: color, 0.1s, ease-in-out;
       }
 
       &:hover {
@@ -395,7 +395,7 @@ ol.nav {
       text-align: center;
       vertical-align: top;
 
-      @include transition(background-color, 0.1s, ease-in-out);
+      transition: background-color, 0.1s, ease-in-out;
 
       &.button-text {
         background: $blue;
@@ -560,7 +560,7 @@ ol.nav {
         color: $grey-dark;
         display: block;
 
-        @include transition(border-color, 0.1s, ease-in-out);
+        transition: border-color, 0.1s, ease-in-out;
       }
 
       .glyphicon {
@@ -576,7 +576,7 @@ ol.nav {
         top: auto;
         width: $dimension;
 
-        @include transition(background-color, 0.1s, ease-in-out);
+        transition: background-color, 0.1s, ease-in-out;
       }
 
       &:hover {

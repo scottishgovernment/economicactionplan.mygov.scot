@@ -13,6 +13,6 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@scottish-government/mygov-assets": "1.0.91"
+    "@scottish-government/mygov-assets": "latest"
   }
 }

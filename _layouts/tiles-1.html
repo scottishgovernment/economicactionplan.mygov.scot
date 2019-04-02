@@ -36,11 +36,11 @@
                     {% assign indexed = site.pages | where:"category", page.navitems | sort: 'index', 'first' %}
                     {% for item in indexed %}
              --><div class="grid__item medium--one-half large--four-twelfths">
-                        
+
                     <article class="card card--small card--hover">
-                        <a href="{{ item.url }}" class="category-item__link category-item__link--card" data-gtm="item-0">
+                        <a href="{{ item.url }}" class="category-item__link  card__content" data-gtm="item-0">
                             <h2 class="category-item__title">{{item.title}}</h2>
-                            
+
                             <p class="category-item__summary">
                                 {{item.summary}}
                             </p>
