@@ -27,7 +27,7 @@ Our Gender Pay Gap Working Group includes expert stakeholders such as Close the 
 
 The First Minister’s National Advisory Council on Women and Girls was formed as a catalyst for change to address gender inequality by providing independent strategic advice to the First Minister. Their vision is of a Scotland which is recognised as a world leader, for its commitment and action towards realising an equal society where all women and girls can reach their true potential.
 
-We will invest an additional £5 million over the next 3 years to support around 2,000 women to return to work.  We will also commit £250,000 over two years to develop Women in Agriculture and establish a Leadership Development Programme, improving training across the country for women involved in farming and crofting and developing a Charter for Equality.
+We will also commit £250,000 over two years to develop support and cultural change for Women in Agriculture, by delivering pilots in improving confidence of women, understanding your farming business and leadership development, improving training across the country for women involved in farming and crofting and developing a Charter for Equality.
 
 ## Disability Employment 
 

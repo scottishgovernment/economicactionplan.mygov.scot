@@ -28,7 +28,7 @@ This approach – along with the combined efforts of the entrepreneurial communi
 
 Through the Unlocking Ambition Challenge we will provide up to 40 budding entrepreneurs each year with the best possible advice and support, including tailored training; mentoring from successful business leaders, and access to professional, financial and entrepreneurial networks to help them grow their business.
 
-This builds on the success of programs such as Converge Challenge and [Scottish EDGE](https://scottishedge.com/. Over the last six years, Converge Challenge, Scotland’s company creation programme for staff, students and recent graduates of Scottish Universities and Research Institutes has created more than 120 companies that have collectively secured £79 million in funding and have an 88% survival rate after three years. Meanwhile, the Scottish EDGE competition which identifies and supports entrepreneurs and start-ups has supported over 300 businesses to create over 1,300 new jobs.
+This builds on the success of programs such as Converge Challenge and [Scottish EDGE](https://scottishedge.com/). Over the last six years, Converge Challenge, Scotland’s company creation programme for staff, students and recent graduates of Scottish Universities and Research Institutes has created more than 120 companies that have collectively secured £79 million in funding and have an 88% survival rate after three years. Meanwhile, the Scottish EDGE competition which identifies and supports entrepreneurs and start-ups has supported over 300 businesses to create over 1,300 new jobs.
 
 ## Women in Enterprise
 
