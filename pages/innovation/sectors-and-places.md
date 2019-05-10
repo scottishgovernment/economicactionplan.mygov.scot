@@ -52,6 +52,12 @@ For rural areas, our Knowledge Transfer and Innovation Fund, which is part of th
 
 We are working with SE, HIE Interface and Scotland Food & Drink to make it easier for our food and drink businesses to innovate and to profit from innovative approaches. We have also launched a single gateway for food and drink businesses to access tailored advice and support on innovation.
 
+## Housing
+
+We are committing up to £750,000 until 2020 to support the Rural Innovation Support Service to broker collaborative innovation in the food and drink supply chain.
+
+We will continue to support the building of more houses in rural areas to meet local needs, including via the £30 million Rural and Island Housing Fund.  Through the Self-Build Loan Fund piloted in the Highland Council Area we have delivered 14 new homes.
+
 
 ## Key resources:
 

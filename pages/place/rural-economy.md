@@ -31,12 +31,6 @@ We established a [Scottish Rural Parliament](https://www.scottishruralparliament
 
 We have provided over £750 million of support to over 10,000 individual projects across Scotland through the [Scottish Rural Development Programme](https://www.ruralnetwork.scot/funding/scottish-rural-development-programme); including over 240 LEADER projects to encourage communities and individuals to develop projects to meet local needs.
 
-## Housing
-
-We are committing up to £750,000 until 2020 to support the Rural Innovation Support Service to broker collaborative innovation in the food and drink supply chain.
-
-We will continue to support the building of more houses in rural areas to meet local needs, including via the £30 million Rural and Island Housing Fund.  Through the Self-Build Loan Fund piloted in the Highland Council Area we have delivered 14 new homes.
-
 ## Transport
 
 We are working collaboratively with Regional Transport Partnerships, Scottish Rural Action and other key rural stakeholders to ensure that rural needs are being captured as part of the development of policies that will underpin the new National Transport Strategy to be published by the end of 2019.  
@@ -55,6 +49,19 @@ We will publish and implement a rural skills action plan that will seek to ensur
 
 We will work with Scottish Enterprise to maximise the impact of the Rural Leadership Programme. We will draw upon graduates’ skills enabling them to: become pacesetters in their sectors and communities, stimulating business innovation, creativity, know-how and collaboration; and contribute to the development of initiatives that will unleash the potential of young people in rural communities to support them into positive destinations.
 
+## Harris
+
+In 2002, the community company North Harris Trust (NHT) was formed to purchase the North Harris Estate and move it into community ownership.  In 2005 the neighbouring 3 ha Seaforth Estate was similarly acquired, followed in 2013 by the addition of Scalpay Island, which had been gifted by the then owner to the residents of the island, but which the people chose, through a community ballot, to assimilate into North Harris Estate. The total land mass of the estate is 25,900ha. The land acquisitions by NHT were a significant catalyst for the economic and social growth of Harris .
+
+North Harris Trust’s stated aims are: to increase employment opportunities; address local housing needs; and protect and enhance natural and cultural heritage.
+
+A vital characteristic of the culture of Harris has been the ability to bring local and external stakeholders together around a vision for a more vibrant Harris, with economic opportunities helping to retain and grow the population of the area.  NHT works closely with SNH, the John Muir Trust and RSBP to manage environmentally important areas of the Estate, including designated areas recognised for the quality of their landscape or wildlife.  NHT also liaises with the local housing associations, Hebridean Housing Partnership (HHP) and Tighean Innse Gall, local grazings committees, and Comhairle nan Eilean Siar to deliver its housing ambitions.  NHT is account managed by HIE to deliver a plan for growth.
+
+North Harris Trust is also currently an active partner on the Harris Forum which brings together community stakeholders to develop and implement a Harris wide Plan.  This process, which extends beyond the Estate is supported by HIE through a Community Account Management relationship, with Harris Development Ltd as the ‘lead’ or ‘anchor’ organisation.  The CPP has, on the strength of this forum, selected Harris as a pilot into a place based collaborative focus.
+
+In pursuit of its aims for the estate and the community living on it, NHT has made significant achievements to date, providing 2 new homes on Scalpay and in partnership with HHP developed 8 houses in North Harris.  Further housing developments are planned.  It has also provided 3 high specification business units which are fully occupied and providing jobs in the community and rental income to the estate.  It has ambitions for more and is testing the market for the most appropriate type and location.  In addition NHT has created 8 jobs at the Trust including a land manager post with responsibility for stewardship of nationally and internationally designated areas of North Harris and of running the annual mountain festival.  Tourism developments include the popular eagle observatory, path networks, a campervan site at the remote village of Huisinis and the most recent project, an observatory and viewing area within a woodland trail at the northern edge of the Estate.  In partnership with a private developer, a hydro scheme and 3 turbines have been completed which will in time generate income for the community.  The needs of young families have been catered for through the purchase of an old school for conversion into a soft play facility.
+
+HIE support to the people in the estate area extends beyond the direct support to NHT.  Harris Development Ltd has received support to deliver two new marina facilities at Scalpay and Tarbert and support through the private sector, includes the development of the highly successful Harris Distillery which now employs 30 people.
 
 
 ## Key resources:
