@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  "About this Action Plan"
-category: economic-action-plan
 summary: "Information relating to the production of this Action Plan."
 index: 12
 parent: home
