@@ -5,11 +5,10 @@ category: economic-action-plan
 summary: "An introduction and foreword to Scotland's Economic Action Plan."
 subtitle: "An introduction and foreword to Scotland's Economic Action Plan."
 index: 1
-frontpage: yes
+homepage: true
 navitems: overview
 thispage: overview
 parent: home
 hero: toplevelnav.png
 permalink: /overview/
 ---
-

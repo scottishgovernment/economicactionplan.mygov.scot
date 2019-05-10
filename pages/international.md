@@ -5,11 +5,10 @@ category: economic-action-plan
 summary: "Growing exports and international investment and attracting global talent."
 subtitle: "Growing exports and international investment and attracting global talent."
 index: 4
-frontpage: yes
+homepage: true
 navitems: international
 thispage: international
 parent: home
 permalink: /international/
 hero: international.png
 ---
-

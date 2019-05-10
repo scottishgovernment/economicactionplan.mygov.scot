@@ -4,7 +4,6 @@ title:  "About this Action Plan"
 category: economic-action-plan
 summary: "Information relating to the production of this Action Plan."
 index: 12
-frontpage: yes
 parent: home
 permalink: /about/
 ---
