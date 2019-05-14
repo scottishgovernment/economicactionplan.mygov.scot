@@ -5402,6 +5402,52 @@ h2 > a:hover {
     height: 186px;
   }
 }
+/* line 1, ../_scss/components/_component.case-study.scss */
+.case-study {
+  background-color: #f8f8f8;
+  border-left: 4px solid #0065bd;
+  clear: both;
+  font-size: 15px;
+  line-height: 21px;
+  margin: 35px 0;
+  padding: 14px 10px 14px 21px;
+}
+
+/* line 12, ../_scss/components/_component.case-study.scss */
+.case-study h2 {
+  font-weight: 100;
+  font-size: 35px;
+  margin-top: 21px;
+  margin-bottom: 14px;
+}
+
+/* line 19, ../_scss/components/_component.case-study.scss */
+.case-study h2:before {
+  content: "case study";
+  text-transform: uppercase;
+  display: block;
+  font-size: 12px;
+  margin-top: -14px;
+  margin-bottom: 0;
+  color: #005db6;
+  font-weight: 700;
+}
+
+@media (min-width: 768px) {
+  /* line 32, ../_scss/components/_component.case-study.scss */
+  .case-study {
+    font-size: 19px;
+    line-height: 28px;
+    padding-right: 35px;
+    padding-left: 35px;
+    top: 0;
+  }
+
+  /* line 40, ../_scss/components/_component.case-study.scss */
+  .case-study h2:before {
+    margin-bottom: -7px;
+  }
+}
 /*------------------------------------*\
     $CATEGORY ITEM
     Navigation elements for different levels of category navigation. Includes classes for layout of these elements in a list.
@@ -5410,7 +5456,7 @@ h2 > a:hover {
 .category-item {
   margin-bottom: 28px;
   padding: 0 0 0 10px;
-  border-left: 1px solid #aecce6;
+  border-left: 1px solid #adcbe6;
   transition: border-color 1s;
 }
 /* line 13, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-item.scss */
@@ -8444,12 +8490,12 @@ body.home {
   color: #333;
 }
 
-/* line 143, ../_scss/main.scss */
+/* line 144, ../_scss/main.scss */
 .main-content > h2 {
   margin-top: 0 !important;
 }
 
-/* line 147, ../_scss/main.scss */
+/* line 148, ../_scss/main.scss */
 .main-content p + h2, .main-content ul + h2 {
   margin-top: 1.6em !important;
 }

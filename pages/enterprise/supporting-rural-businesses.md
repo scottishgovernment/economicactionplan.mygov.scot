@@ -26,13 +26,17 @@ There is a greater proportion of microenterprises in rural Scotland than anywher
 
 We are delivering over £119 million of enterprise support through [GrowBiz](https://growbiz.co.uk/), [LEADER](https://www.gov.scot/Topics/farmingrural/SRDP/LEADER), [Highlands and Islands Enterprise](http://www.hie.co.uk/) and [Scottish Enterprise](https://www.scottish-enterprise.com/) to nearly 1,500 community based and/or micro enterprise projects operating in the rural economy.
 
-## GrowBiz
+<div class="case-study" markdown="1">
+
+## *case study:*{:.hidden} GrowBiz
 
 Established in 2007, GrowBiz is a community-based enterprise support organisation located in Perthshire. It provides services across rural Perth & Kinross, and increasingly to other parts of Scotland, and has engaged with more than 800 small and micro-businesses in the last two years.
 
 With funding and support from the Rural Perth & Kinross LEADER programme, Scottish Government, Scottish Enterprise and Perth & Kinross Council – and also private sector support from SSE and RBS - GrowBiz has created a unique model of enterprise support which has contributed to a more sustainable and diverse rural economy. It offers flexible and individually-tailored support to anyone wanting to start or grow a business, or social enterprise, contracting a team of freelance enterprise facilitators to provide specialist 1:1 support, responsive to local needs. Its peer learning and networking events have supported more than 2,500 individuals since 2017, and GrowBiz’s client businesses represent a wide diversity of sectors, including tourism, creative, digital services, care & wellbeing and niche manufacturing.
 
 GrowBiz’s award-winning mentoring programme has trained more than 60 local mentors, and its Creative Care project has developed an innovative approach to delivering social care and wellbeing in rural areas through a network of micro-enterprises and self-employed carers – addressing issues of social isolation, as well as enabling elderly people to stay in their communities. One significant measure of the effectiveness of the GrowBiz model is the high survivability rates of businesses, with more than 95% of the businesses started with support from GrowBiz over the last four years continuing to trade.
+
+</div>
 
 ## South of Scotland Enterprise Agency 
 

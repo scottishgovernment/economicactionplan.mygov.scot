@@ -49,7 +49,9 @@ We will publish and implement a rural skills action plan that will seek to ensur
 
 We will work with Scottish Enterprise to maximise the impact of the Rural Leadership Programme. We will draw upon graduates’ skills enabling them to: become pacesetters in their sectors and communities, stimulating business innovation, creativity, know-how and collaboration; and contribute to the development of initiatives that will unleash the potential of young people in rural communities to support them into positive destinations.
 
-## Harris
+<div class="case-study" markdown="1">
+
+## *case study:*{:.hidden} Harris
 
 In 2002, the community company North Harris Trust (NHT) was formed to purchase the North Harris Estate and move it into community ownership.  In 2005 the neighbouring 3 ha Seaforth Estate was similarly acquired, followed in 2013 by the addition of Scalpay Island, which had been gifted by the then owner to the residents of the island, but which the people chose, through a community ballot, to assimilate into North Harris Estate. The total land mass of the estate is 25,900ha. The land acquisitions by NHT were a significant catalyst for the economic and social growth of Harris .
 
@@ -62,6 +64,8 @@ North Harris Trust is also currently an active partner on the Harris Forum which
 In pursuit of its aims for the estate and the community living on it, NHT has made significant achievements to date, providing 2 new homes on Scalpay and in partnership with HHP developed 8 houses in North Harris.  Further housing developments are planned.  It has also provided 3 high specification business units which are fully occupied and providing jobs in the community and rental income to the estate.  It has ambitions for more and is testing the market for the most appropriate type and location.  In addition NHT has created 8 jobs at the Trust including a land manager post with responsibility for stewardship of nationally and internationally designated areas of North Harris and of running the annual mountain festival.  Tourism developments include the popular eagle observatory, path networks, a campervan site at the remote village of Huisinis and the most recent project, an observatory and viewing area within a woodland trail at the northern edge of the Estate.  In partnership with a private developer, a hydro scheme and 3 turbines have been completed which will in time generate income for the community.  The needs of young families have been catered for through the purchase of an old school for conversion into a soft play facility.
 
 HIE support to the people in the estate area extends beyond the direct support to NHT.  Harris Development Ltd has received support to deliver two new marina facilities at Scalpay and Tarbert and support through the private sector, includes the development of the highly successful Harris Distillery which now employs 30 people.
+
+</div>
 
 
 ## Key resources:

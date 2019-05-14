@@ -37,7 +37,9 @@ To maintain Scotland’s position as a world leader in wave and tidal energy tec
 
 Electricity and gas network businesses in Scotland, and their supply chain, will be key to realising our transition to a carbon neutral economy. We are working with these companies, as well as the wider sector and the regulator, to ensure these future plans are aligned to our vision for the sector.
 
-## Orkney Renewable Energy
+<div class="case-study" markdown="1">
+
+## *case study:*{:.hidden} Orkney Renewable Energy
 
 Wind turbine power is a well-established technology in the Orkney islands. The islands are now at the forefront of efforts to develop commercially viable devices to harness wave and tidal energy resources. The European Marine Energy Centre in Stromness was established in 2003. These world-class test facilities, alongside a wealth of academic and maritime expertise and a growing number of specialist supply chain businesses, have helped make Orkney a global centre for renewable energy development.
 
@@ -48,6 +50,8 @@ The Orkney community has been quick to embrace the renewables industry, recognis
 Community owned wind turbines in Orkney generate electricity, providing revenue to support local projects and address fuel poverty. Curtailment has resulted in communities becoming involved in highly innovative projects piloting hydrogen production and energy storage systems.
 
 Renewable energy now supports around 300 jobs in Orkney across a wide range of sectors, from manufacturing and engineering, to marine work, research and consultancy services, with additional posts being created every year. Orkney’s entire electricity needs are regularly met from local renewables sources.
+
+</div>
 
 
 ## Key resources:
