@@ -33,10 +33,7 @@ As a precursor to this, the £150 million [Building Scotland Fund](https://www.m
 
 ## Scottish Growth Scheme
 
-We will also stimulate private and partner investment in innovative and ambitious SMEs by providing microfinance, debt and equity support through the [Scottish Growth Scheme](https://www.mygov.scot/scottish-growth-scheme/). The Scheme has already supported over £100m of investment in businesses and will deliver £500m by June 2020.  
-
-We have promoted financial best practice between businesses by encouraging SMEs to sign up to the [Prompt Payment Code](http://www.promptpaymentcode.org.uk/).
-
+We will also stimulate private and partner investment in innovative and ambitious SMEs by providing microfinance, debt and equity support through the [Scottish Growth Scheme](https://www.mygov.scot/scottish-growth-scheme/). The Scheme has already supported some £125m of investment in businesses and will deliver up to £500m by June 2020.
 
 ## Key resources: 
 
