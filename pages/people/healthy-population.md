@@ -26,7 +26,7 @@ Delivery of high quality and timely healthcare is essential, and ensures that ou
 
 We will promote recruitment from more deprived areas to [NHS Scotland](https://www.scot.nhs.uk/), which is the largest employer in Scotland, with just over 6% of the workforce.  Including social care, this grows to 14% of the workforce, equivalent to 364,000 people. This employment is spread across the whole country, helping to sustain rural economies and generating local employment.  
 
-Investment in pay across the workforce is a key lever to attract and retain the skills required to deliver a sustainable service. This investment means that over 15% of the workforce are higher rate tax payers. We have awarded 147,000 NHS staff earning under £80,000 a minimum pay rise of 9% over the next three years and we will proceed with the implementation of a new contract for GPs.  
+Investment in pay across the workforce is a key lever to attract and retain the skills required to deliver a sustainable service. This investment means that over 15% of the workforce are higher rate tax payers. We have awarded 147,000 NHS staff earning under £80,000 a minimum pay rise of 9% over the next three years and we are implementing the new GP contract.
 
 The Digital Health and Care Strategy will be central in addressing the challenges and realising the opportunities we face in health and social care.  Investment in our digital infrastructure is in excess of £200 million per annum.
 

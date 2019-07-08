@@ -14,8 +14,8 @@ next: { title: "Creative Industries", url: "/enterprise/creative-industries/" }
 <br>
 <hr>
 * **Working in partnership through the [Financial Services Advisory Board (FiSAB)](https://beta.gov.scot/groups/fisab/) to maintain and grow Scotland’s financial services sector**
-* **Supporting financial innovation through the establishment of [FinTech Scotland](https://www.fintechscotland.com/), support for the Ethical Finance Hub and initiatives such as the Global Open Banking Centre of Excellence**
-
+* **Supporting financial innovation through the establishment of [FinTech Scotland (FTS)](https://www.fintechscotland.com/) which is now operational and making good progress on the development of the sector. FTS are now considering future funding requirements and the processes associated with this.**
+* **Establishing a Global Finance Initiative (GEFI) and initiatives such as the Global Open Finance Centre of Excellence**
 <hr>
 
 Scotland is an established, successful financial hub and the financial services sector plays a significant role in Scotland’s economy – both in its own right as one of our most significant employers, with 86,000 employed directly in the sector, and also as a driver and supporter of wider economic activity across the country.
