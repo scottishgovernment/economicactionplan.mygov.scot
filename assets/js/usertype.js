@@ -10,6 +10,6 @@
             window.dataLayer[0].userType = response.userType;
         }
     };
-    xhr.open('GET', 'https://www.gov.scot/service/usertype', true);
+    xhr.open('GET', '/service/usertype', true);
     xhr.send(null);
 })();
