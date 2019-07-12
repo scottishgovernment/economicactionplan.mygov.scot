@@ -10,8 +10,6 @@ headings:
  - name: Cookies that we set
    nested:
     - name: Google Analytics
-    - name: Mouseflow
-    - name: Google Optimize
     - name: YouTube
  - name: Further information
 introduction: A cookie lets a website recognise your device and store some information about your preferences or interactions.
@@ -25,13 +23,11 @@ The cookies that we set on economicactionplan.mygov.scot cannot be used to ident
 </div>
 
 ## Cookies that we set
-We use several tools &mdash; Google Analytics, Google Optimize and Mouseflow &mdash; to collect information about how you use mygov.scot.
 
 We store information about:
 * the pages you visit and how long you spend on each page
 * how you got to mygov.scot
 * what you click on while you're visiting mygov.scot
-* which variation of a page you've visited when we are testing out small design changes using Google Optimize
 
 We do not:
 * collect information that can be used to identify you; for example, we never receive your name or address
@@ -72,54 +68,6 @@ You can opt [out of Google analytics](https://tools.google.com/dlpage/gaoptout) 
             <td>_gat</td>
             <td>We use Google Tag Manager to tailor our tracking in case we have different elements that are being tested. For example, setting a tag to track how far a user is having to scroll down a long page. The _gat tag pushes the request rate through quicker.</td>
             <td>1 Minute</td>
-        </tr>
-    </tbody>
-</table>
-
-### Mouseflow
-
-We anonymise the last 3 digits of all economicactionplan.mygov.scot user IP addresses for Mouseflow, so that we can ensure you are protected.
-
-You can [opt out of Mouseflow](https://mouseflow.com/opt-out/) cookies.
-
-<table>
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Information</th>
-            <th>Expiry</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>mf_[session]</td>
-            <td>This is a first-party cookie, and we have set an expiration date of a lifetime. This cookie identifies the browser session while it happens. The cookie is deleted as soon as the session ends, meaning when the user leaves the website.</td>
-            <td>Session Lifetime</td>
-        </tr>
-        <tr>
-            <td>mf_user</td>
-            <td>This cookie establishes whether the user is a returning or first time visitor. No further information about the user is stored.</td>
-            <td>90 Days</td>
-        </tr>
-    </tbody>
-</table>
-
-### Google Optimize
-We use Google Optimize to run A/B testing on mygov.scot. An example would be to test the same page but with two slightly different formats &mdash; from this we are able to understand what types of page work better for you.
-
-<table>
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Information</th>
-            <th>Expiry</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>_gaexp</td>
-            <td>Used to determine a user's inclusion in an experiment and the expiry of experiments a user has been included in.</td>
-            <td>Depends on the length of the experiment but typically 90 days</td>
         </tr>
     </tbody>
 </table>
