@@ -1,6 +1,5 @@
 (function() {
     window.dataLayer = window.dataLayer || [];
-    window.dataLayer[0].userType = 'unspecified';
 
     var xhr = new XMLHttpRequest();
     xhr.onreadystatechange = function () {
