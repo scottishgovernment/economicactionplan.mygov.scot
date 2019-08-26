@@ -5,24 +5,26 @@ category: future-skills-action-plan
 summary: "How we build on the Enterprise and Skills Strategic Board’s Future Skills Mission."
 index: 50
 parent: future-skills-action-plan
+thispage: future-skills-action-plan
+type: future-skills
 permalink: /future-skills/future-skills-mission-recommendations/
 prev: { title: "Skills matter for Scotland", url: "/future-skills/skills-matter-for-scotland/" }
 next: { title: "Our Vision and how we will deliver it", url: "/future-skills/our-vision/" }
 ---
 
-This Future Skills Action Plan fully endorses the recommendations made by the Enterprise and Skills Strategic Board’s Future Skills Mission as described in their 2018 Strategic Plan.  
+This Future Skills Action Plan fully endorses the recommendations made by the Enterprise and Skills Strategic Board’s Future Skills Mission as described in their 2018 Strategic Plan.
 
 We are committed to working jointly with both SDS, SFC and wider partners to coherently deliver on both the actions and recommendations of the Future Skills mission.
 
 They are:
 
-## Actions
+### Actions
 
 - Fully implement the joint 5 stage skills alignment planning model, aligning provision with industry needs and critical skills as set out in the demand evidence. SFC and SDS will collaborate further to create a seamless, one system approach for learners, employers and the economy.
 
 - Define the ‘meta skills’ required to thrive in the future economy as the basis for future skills provision.
 
-## Recommendations
+### Recommendations
 
 - Use funding for colleges, universities and training providers to provide more agile support for workers and employers to upskill and reskill, increasing provision of in-work learning. The Scottish Funding Council (SFC) and Skills Development Scotland (SDS) will jointly plan and deliver new models of provision.
 

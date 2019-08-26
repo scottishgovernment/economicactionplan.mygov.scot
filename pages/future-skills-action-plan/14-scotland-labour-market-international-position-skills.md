@@ -5,6 +5,8 @@ category: future-skills-action-plan
 summary: "Contextualising Scotland’s labour market and skills system."
 index: 140
 parent: future-skills-action-plan
+thispage: future-skills-action-plan
+type: future-skills
 permalink: /future-skills/scotland-labour-market-international-position-skills/
 prev: { title: "Understanding Scotland's skills system", url: "/future-skills/understanding-scotland-skills-system/" }
 next: { title: "Continuing skills gaps", url: "/future-skills/continuing-skills-gaps" }
@@ -12,12 +14,11 @@ next: { title: "Continuing skills gaps", url: "/future-skills/continuing-skills-
 
 Scotland’s labour market is in a strong position with a record high employment rate (75.9%, Feb-April) and record low unemployment rate (3.1%, Jan-Mar 19).
 
-Furthermore, labour market records have also been broken for women and young people. Between February and April 2019, the employment rate for women in Scotland reached a record high of 72.7% and the unemployment rate for young people (16-24) fell to a record low of 6.1%.
-   
-Across a number of key labour market indicators Scotland has out-performed the UK as a whole. As of August 2019  unemployment in Scotland has been lower than in the UK for the previous 11 months and July’s labour market statistics (for Mar-May ’19) showed Scotland out-performed the UK on employment, unemployment and inactivity rates for women and young people.   
+Furthermore, labour market records have also been broken for women and young people. Between February and April 2019, the employment rate for women in Scotland reached a record high of 72.7% and the unemployment rate for young people (16-24) fell to a record low of 6.1%.  
+Across a number of key labour market indicators Scotland has out-performed the UK as a whole. As of August 2019  unemployment in Scotland has been lower than in the UK for the previous 11 months and July’s labour market statistics (for Mar-May ’19) showed Scotland out-performed the UK on employment, unemployment and inactivity rates for women and young people.
 
 - Scotland is ranked 1st out of 36 OECD countries in terms of high-level qualifications;
-- In Scotland more people (47.4%) aged 25-64 are educated to tertiary level (levels 5-8) than any other country in Europe. 
+- In Scotland more people (47.4%) aged 25-64 are educated to tertiary level (levels 5-8) than any other country in Europe.
 - Almost half (48.9%) of workers aged 16-64 years in Scotland have further or higher education qualifications (SCQF level 7+) compared to 38.2% in 2008 and 44.3% across the UK
 - Between 2008 and 2018 the percentage of Scotland’s population with low (SCQF level 4 or below) or no qualifications fell from 16.3% to 11.6%.
 
