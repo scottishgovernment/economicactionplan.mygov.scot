@@ -9,5 +9,5 @@ navitems: future-skills-action-plan
 thispage: future-skills-action-plan
 parent: home
 permalink: /future-skills/
-hero: FutureSkillsHome.svg
+hero: FutureSkillsfinal.svg
 ---
