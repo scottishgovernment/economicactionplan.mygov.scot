@@ -14,63 +14,75 @@ next: { title: "Ministerial Foreword", url: "/2685bd4/future-skills/ministerial-
 <img src="/assets/images/infographics/fsap-overview.png" alt=""/>
 
 <div class="hidden">
+<h2 id="vision">Vision</h2>
 
-## Vision
+<p>Scotland’s highly skilled workforce ensures we are an ambitious, productive and competitive nation. Scotland’s skills system will be the foundation on which we will deliver these ambitions, supporting our people through-out their working lives, and empowering our business to take advantage of future opportunities. A culture of shared investment in Scotland’s future workforce will unlock the potential of our people and businesses to deliver inclusive growth.</p>
 
-Scotland's highly skilled workforce ensures we are an ambitious, productive and competitive nation. Scotland's skills system will be the foundation on which we will deliver these ambitions, supporting our people through-out their working lives, and empowering our business to take advantage of future opportunities. A culture of shared investment in Scotland's future workforce will unlock the potential of our people and businesses to deliver inclusive growth.
+<h2 id="purpose">Purpose</h2>
 
-## Purpose
+<p>To focus government and public services on creating a more successful country, with opportunities for all of Scotland to flourish, through increasing sustainable economic growth</p>
 
-To focus government and public services on creating a more successful country, with opportunities for all of Scotland to flourish, through increasing sustainable economic growth
+<h2 id="national-performance-framework-indicators">National Performance Framework indicators</h2>
 
-## National Performance Framework indicators	
+<ul>
+  <li>Economy - we have a globally competitive, entrepeneurial, inclusive and sustainable economy</li>
+  <li>Environment - we value, enjoy, protect and enhance our environment</li>
+  <li>Fair Work and Business - we have thriving and innovative businesses, with quality jobs and fair work for everyone</li>
+  <li>Poverty - we tackle poverty by sharing wealth and power more equally</li>
+  <li>Education - We are well educated, skilled and able to contribute to society</li>
+</ul>
 
-* Economy - we have a globally competitive, entrepeneurial, inclusive and sustainable economy
-* Environment - we value, enjoy, protect and enhance our environment
-* Fair Work and Business - we have thriving and innovative businesses, with quality jobs and fair work for everyone
-* Poverty - we tackle poverty by sharing wealth and power more equally
-* Education - We are well educated, skilled and able to contribute to society
+<h2 id="strategic-labour-market-outcomes">Strategic labour market outcomes:</h2>
+<ul>
+  <li>Skilled and productive workforce</li>
+  <li>Sustainable working population</li>
+  <li>High employment and low unemployment</li>
+  <li>Equal opportunities</li>
+  <li>Fair work</li>
+</ul>
 
-## Strategic labour market outcomes:
-* Skilled and productive workforce
-* Sustainable working population
-* High employment and low unemployment
-* Equal opportunities
-* Fair work
+<h2 id="inclusive-growth-priorities">Inclusive growth priorities:</h2>
 
-## Inclusive growth priorities:
+<ul>
+  <li>High employment</li>
+  <li>Growing and competitive businesses</li>
+  <li>A skilled population capable of meeting employer needs</li>
+  <li>Fair work being central to improving the lives of individuals and families</li>
+</ul>
 
-* High employment
-* Growing and competitive businesses
-* A skilled population capable of meeting employer needs
-* Fair work being central to improving the lives of individuals and families
+<h2 id="future-skills-action-plan-themes-and-actions">Future Skills Action Plan: themes and actions</h2>
 
-## Future Skills Action Plan: themes and actions
+<h3 id="increased-system-agility-and-employer-responsiveness">Increased system agility and employer responsiveness</h3>
+<ul>
+  <li>Develop and promote the definition and understanding of meta skills</li>
+  <li>Publish a Climate Emergency Skills Action Plan</li>
+  <li>Effective Brexit response, including retaining and attracting talent to address skills gaps and labour market shortages</li>
+  <li>Enhance the delivery of graduate apprenticeships available in critical subjects</li>
+  <li>Pilot programme to test approaches to ecommerce skills development</li>
+</ul>
 
-### Increased system agility and employer responsiveness
-* Develop and promote the definition and understanding of meta skills
-* Publish a Climate Emergency Skills Action Plan
-* Effective Brexit response, including retaining and attracting talent to address skills gaps and labour market shortages
-* Enhance the delivery of graduate apprenticeships available in critical subjects 
-* Pilot programme to test approaches to ecommerce skills development 
+<h3 id="more-opportunities-to-upskill-and-retrain">More Opportunities to Upskill and retrain</h3>
+<ul>
+  <li>CBI/STUC leading Scottish National Retraining Partnership</li>
+  <li>Increase investment in workforce development to £20m per annum from 2020/21</li>
+  <li>Improve access to work-based learning, education and skills training across the rural economy</li>
+  <li>Publish a careers strategy later in 2019 to support learners and workers in making more informed career choices</li>
+  <li>The development of advanced manufacturing modules through the National Manufacturing Institiute for Scotland (NMIS)</li>
+</ul>
 
-### More Opportunities to Upskill and retrain
-* CBI/STUC leading Scottish National Retraining Partnership
-* Increase investment in workforce development to £20m per annum from 2020/21
-* Improve access to work-based learning, education and skills training across the rural economy
-* Publish a careers strategy later in 2019 to support learners and workers in making more informed career choices
-* The development of advanced manufacturing modules through the National Manufacturing Institiute for Scotland (NMIS) 
+<h3 id="ensuring-financial-sustainability-of-the-system">Ensuring financial sustainability of the system</h3>
+<ul>
+  <li>Skills Investment in City and Regional Growth Deals</li>
+  <li>Implement Fair Work First to ensure skills and training are key considerations in the award of business support funding</li>
+  <li>Skills Development Scotland/Scottish Funding Council to deliver greater alignment of investment</li>
+  <li>Utilise data sharing across the skills and enterprise systems, to improve how resources are allocated</li>
+</ul>
 
-### Ensuring financial sustainability of the system
-* Skills Investment in City and Regional Growth Deals 
-* Implement Fair Work First to ensure skills and training are key considerations in the award of business support funding
-* Skills Development Scotland/Scottish Funding Council to deliver greater alignment of investment
-* Utilise data sharing across the skills and enterprise systems, to improve how resources are allocated
-
-### Accelerate Learner Journey Recommendations
-* Make work based learning an integral part of the skills offer
-* Enhance pathways from the college sector into graduate apprenticeships
-* Strengthen community-based adult learning provision
-* Continue to support industry-led Developing the Young Workforce Employer Groups
-
+<h3 id="accelerate-learner-journey-recommendations">Accelerate Learner Journey Recommendations</h3>
+<ul>
+  <li>Make work based learning an integral part of the skills offer</li>
+  <li>Enhance pathways from the college sector into graduate apprenticeships</li>
+  <li>Strengthen community-based adult learning provision</li>
+  <li>Continue to support industry-led Developing the Young Workforce Employer Groups</li>
+</ul>
 </div>
