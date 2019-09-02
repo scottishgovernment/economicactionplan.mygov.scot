@@ -3,7 +3,7 @@
 
 {% include head.html %}
 
-<body class="home">
+<body class="home tiles-hero">
 
 <div class="header-wrapper  header-wrapper--border  hero-header">
 {% include header.html %}
@@ -32,7 +32,7 @@
         <!-- Start category-list-0.hbs -->
         <div class="wrapper main category-list category-list--cards">
             <div class="grid"><!--
-                    {% assign indexed = site.pages | where:"category", page.navitems | sort: 'index', 'first' %}
+                    {% assign indexed = site.pages | where: 'homepage', 'true' | where:"category", page.navitems | sort: 'index', 'first' %}
                     {% for item in indexed %}
              --><div class="grid__item medium--one-half large--four-twelfths">
 

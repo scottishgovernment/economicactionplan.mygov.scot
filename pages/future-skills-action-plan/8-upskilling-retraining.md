@@ -7,10 +7,17 @@ index: 80
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
-permalink: /future-skills/upskilling-retraining/
-prev: { title: "Theme 1: Increasing system agility and employer responsiveness", url: "/future-skills/agility-responsiveness/" }
-next: { title: "Theme 3: Ensuring sustainability across the skills system", url: "/future-skills/financial-sustainability/" }
+permalink: /2685bd4/future-skills/upskilling-retraining/
+prev: { title: "Theme 1: Increasing system agility and employer responsiveness", url: "/2685bd4/future-skills/agility-responsiveness/" }
+next: { title: "Theme 3: Ensuring sustainability across the skills system", url: "/2685bd4/future-skills/financial-sustainability/" }
 ---
+
+![](/assets/images/infographics/fsap-upskilling-and-reskilling.svg)
+
+<aside class="hidden">
+<h2>Education</h2>
+<p>Scotland is ranked first out of 26 OECD countries in terms of high-level qualifications</p>
+</aside>
 
 Between 2016-2041, Scotland’s working age population is expected to grow by 1% compared with 8% in the UK. This  trend is one reason why we need to enhance access to upskilling, reskilling and retraining opportunities so that individuals are able to successfully gain new skills regardless of age or current qualification levels.
 

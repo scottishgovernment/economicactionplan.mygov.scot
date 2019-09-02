@@ -7,8 +7,8 @@ index: 170
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
-permalink: /future-skills/emerging-challenges-facing-labour-market/
-prev: { title: "Long-standing challenges facing the labour market", url: "/future-skills/long-term-challenges-facing-labour-market" }
+permalink: /2685bd4/future-skills/emerging-challenges-facing-labour-market/
+prev: { title: "Long-standing challenges facing the labour market", url: "/2685bd4/future-skills/long-term-challenges-facing-labour-market" }
 ---
 
 ### Climate Change

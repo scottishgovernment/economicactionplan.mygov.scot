@@ -7,10 +7,16 @@ index: 120
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
-permalink: /future-skills/phase-two-areas-development/
-prev: { title: "How we will develop Scotland's Future Skills Action Plan in the coming years", url: "/future-skills/develop-future-skills-action-plan/" }
-next: { title: "Supporting Evidence: Understanding Scotland's Skills System", url: "/future-skills/understanding-scotland-skills-system/" }
+permalink: /2685bd4/future-skills/phase-two-areas-development/
+prev: { title: "How we will develop Scotland's Future Skills Action Plan in the coming years", url: "/2685bd4/future-skills/develop-future-skills-action-plan/" }
+next: { title: "Supporting Evidence: Understanding Scotland's Skills System", url: "/2685bd4/future-skills/understanding-scotland-skills-system/" }
 ---
+
+![](/assets/images/infographics/fsap-phase-2.svg)
+
+<aside class="hidden">
+The OECD suggest that <q>Developing the right set of skills and making full use of them in the economy is a recipe for higher productivity, growth and includiveness</q>
+</aside>
 
 This plan provides a thematic framework through which we can demonstrate the development and re-focusing of Scotland’s skills system.
 

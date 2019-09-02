@@ -7,9 +7,9 @@ index: 20
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
-permalink: /future-skills/statement/
-prev: { title: "Ministerial foreword", url: "/future-skills/ministerial-foreword/" }
-next: { title: "Executive summary", url: "/future-skills/executive-summary/" }
+permalink: /2685bd4/future-skills/statement/
+prev: { title: "Ministerial foreword", url: "/2685bd4/future-skills/ministerial-foreword/" }
+next: { title: "Executive summary", url: "/2685bd4/future-skills/executive-summary/" }
 ---
 
 The Strategic Plan of the Enterprise and Skills Strategic Board is a vision for the future with a 20 year horizon. Its ambition is that the whole enterprise and skills system drives sustainable and inclusive economic growth.

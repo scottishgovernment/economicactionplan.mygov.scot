@@ -7,10 +7,25 @@ index: 40
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
-permalink: /future-skills/skills-matter-for-scotland/
-prev: { title: "Executive summary", url: "/future-skills/executive-summary/" }
-next: { title: "The Future Skills Mission’s recommendations", url: "/future-skills/future-skills-mission-recommendations/" }
+permalink: /2685bd4/future-skills/skills-matter-for-scotland/
+prev: { title: "Executive summary", url: "/2685bd4/future-skills/executive-summary/" }
+next: { title: "The Future Skills Mission’s recommendations", url: "/2685bd4/future-skills/future-skills-mission-recommendations/" }
 ---
+
+![](/assets/images/infographics/fsap-skills-matter-scotland.svg)
+
+<aside class="hidden">
+<h2>Current challenges in the labour market</h2>
+<ul>
+<li>Ageing population and low population growth</li>
+<li>EU exit</li>
+<li>Global climate emergency</li>
+<li>Rurality</li>
+<li>Technological advance</li>
+<li>Digitalisation</li>
+<li>Quality of work</li>
+</ul>
+</aside>
 
 Skills give us the ability to do things well. They are fluid and wide-ranging. While the ability to programme a computer requires technical skills, others relate to transferable abilities such as being able to think creatively, deliver as part of a team or successfully multitask.
 

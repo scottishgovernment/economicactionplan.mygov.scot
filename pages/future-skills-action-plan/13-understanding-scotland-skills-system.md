@@ -7,9 +7,9 @@ index: 130
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
-permalink: /future-skills/understanding-scotland-skills-system/
-prev: { title: "Scotland’s Future Skills Action Plan – Phase Two: Areas for development", url: "/future-skills/phase-two-areas-development/" }
-next: { title: "Supporting Evidence: Scotland’s comparable position on skills", url: "/future-skills/scotland-labour-market-international-position-skills/" }
+permalink: /2685bd4/future-skills/understanding-scotland-skills-system/
+prev: { title: "Scotland’s Future Skills Action Plan – Phase Two: Areas for development", url: "/2685bd4/future-skills/phase-two-areas-development/" }
+next: { title: "Supporting Evidence: Scotland’s comparable position on skills", url: "/2685bd4/future-skills/scotland-labour-market-international-position-skills/" }
 ---
 
 It is important to recognise that Scotland benefits from a strong, highly-developed skills system. Its cornerstones include:

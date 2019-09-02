@@ -7,9 +7,9 @@ index: 90
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
-permalink: /future-skills/financial-sustainability/
-prev: { title: "Theme 2: Enhancing access to upskilling and retraining opportunities", url: "/future-skills/upskilling-retraining/" }
-next: { title: "Theme 4: Accelerating the implementation of the learner journey review", url: "/future-skills/learner-journey-review/" }
+permalink: /2685bd4/future-skills/financial-sustainability/
+prev: { title: "Theme 2: Enhancing access to upskilling and retraining opportunities", url: "/2685bd4/future-skills/upskilling-retraining/" }
+next: { title: "Theme 4: Accelerating the implementation of the learner journey review", url: "/2685bd4/future-skills/learner-journey-review/" }
 ---
 
 We must ensure that Scotland’s skills system is efficient, able to deliver value for individuals, businesses and the economy, and can be sustained going forward.

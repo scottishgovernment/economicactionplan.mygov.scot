@@ -7,9 +7,9 @@ index: 60
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
-permalink: /future-skills/our-vision/
-prev: { title: "The Future Skills Mission’s recommendations", url: "/future-skills/future-skills-mission-recommendations/" }
-next: { title: "Theme 1: Agility and responsiveness", url: "/future-skills/agility-responsiveness/" }
+permalink: /2685bd4/future-skills/our-vision/
+prev: { title: "The Future Skills Mission’s recommendations", url: "/2685bd4/future-skills/future-skills-mission-recommendations/" }
+next: { title: "Theme 1: Agility and responsiveness", url: "/2685bd4/future-skills/agility-responsiveness/" }
 ---
 
 Improving productivity, inclusive growth, and fair work are critical for Scotland’s future success, and skills play a key role in each. From seizing emerging economic opportunities and supporting those in low-paid work, to stimulating development and progression, skills and training can help deliver sustainable and inclusive economic growth for all.
