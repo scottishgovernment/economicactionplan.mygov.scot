@@ -2,7 +2,7 @@
 layout: default
 title:  "Statement from Nora Senior"
 category: future-skills-action-plan
-summary: "We welcome this ambitious plan, which builds on Enterprise and Skills Strategic Board’s recommendations and reaffirms the Scottish Government’s commitment to an agile and responsive skills system."
+summary: "We welcome this ambitious plan, which builds on Enterprise and Skills Strategic Board’s recommendations and reaffirms this Government’s commitment to an agile, responsive skills system."
 index: 20
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
