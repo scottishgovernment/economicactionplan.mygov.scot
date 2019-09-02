@@ -5456,7 +5456,7 @@ h2 > a:hover {
 .category-item {
   margin-bottom: 28px;
   padding: 0 0 0 10px;
-  border-left: 1px solid #adcbe6;
+  border-left: 1px solid #aecce6;
   transition: border-color 1s;
 }
 /* line 13, ../../node_modules/@scottish-government/mygov-assets/scss/components/_component.category-item.scss */
@@ -8209,6 +8209,106 @@ body.home {
   white-space: nowrap;
 }
 
+/* future skills section homepage */
+/* site header - see _includes/header.html for switch script */
+/* line 8, ../_scss/trumps/_trump.future-skills.scss */
+.future-skills .site-header {
+  background-color: #ffffff;
+  box-shadow: 0px 3px 10px 0px rgba(114, 114, 114, 0.25);
+}
+/* line 13, ../_scss/trumps/_trump.future-skills.scss */
+.future-skills .site-header:before {
+  background-image: linear-gradient(to right, #F0A75A, #A51765);
+  content: '';
+  display: block;
+  height: 7px;
+  margin-bottom: 14px;
+  width: 100%;
+}
+/* line 25, ../_scss/trumps/_trump.future-skills.scss */
+.future-skills .hero-header {
+  background: none;
+  color: #000000;
+}
+/* line 31, ../_scss/trumps/_trump.future-skills.scss */
+.future-skills .hero-header .breadcrumbs__link {
+  color: #A51765;
+}
+/* line 35, ../_scss/trumps/_trump.future-skills.scss */
+.future-skills .hero-header .breadcrumbs {
+  color: #727272;
+}
+/* line 39, ../_scss/trumps/_trump.future-skills.scss */
+.future-skills .hero-header .hero-header__title {
+  border-left: 4px solid #F0A75A;
+  color: #A51765;
+}
+/* line 44, ../_scss/trumps/_trump.future-skills.scss */
+.future-skills .hero-header .hero-header__tagline {
+  display: block;
+  font-weight: 700;
+  line-height: 1.4em;
+  margin-top: 7px;
+  color: #333333;
+  margin-bottom: 0;
+}
+@media screen and (min-width: 768px) {
+  /* line 44, ../_scss/trumps/_trump.future-skills.scss */
+  .future-skills .hero-header .hero-header__tagline {
+    max-width: 80%;
+  }
+}
+/* line 61, ../_scss/trumps/_trump.future-skills.scss */
+.future-skills .hero-header__image {
+  position: relative;
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 61, ../_scss/trumps/_trump.future-skills.scss */
+  .future-skills .hero-header__image {
+    position: absolute;
+    max-width: 50%;
+    top: 142px;
+    right: 5px;
+  }
+}
+@media screen and (min-width: 992px) {
+  /* line 61, ../_scss/trumps/_trump.future-skills.scss */
+  .future-skills .hero-header__image {
+    position: absolute;
+    max-width: 43%;
+    right: 5px;
+  }
+}
+/* line 81, ../_scss/trumps/_trump.future-skills.scss */
+.future-skills .site-footer {
+  background: #A51765;
+}
+/* line 84, ../_scss/trumps/_trump.future-skills.scss */
+.future-skills .site-footer a {
+  color: #ffffff;
+}
+/* line 92, ../_scss/trumps/_trump.future-skills.scss */
+.future-skills a {
+  color: #A51765;
+}
+/* line 94, ../_scss/trumps/_trump.future-skills.scss */
+.future-skills .card--hover:after {
+  background-image: linear-gradient(to right, #F0A75A, #A51765);
+}
+/* line 98, ../_scss/trumps/_trump.future-skills.scss */
+.future-skills .page-nav__button--left:before, .future-skills .page-nav__button--right:before {
+  content: '';
+  height: 56px;
+  width: 56px;
+  background-color: #a51765;
+  background-position: center;
+  border-radius: 56px;
+  display: inline-block;
+  position: absolute;
+  top: 12px;
+  transition: background 1s;
+}
+
 /**
  * WHOLE THINGS
  */
@@ -8490,12 +8590,12 @@ body.home {
   color: #333;
 }
 
-/* line 144, ../_scss/main.scss */
+/* line 142, ../_scss/main.scss */
 .main-content > h2 {
   margin-top: 0 !important;
 }
 
-/* line 148, ../_scss/main.scss */
+/* line 146, ../_scss/main.scss */
 .main-content p + h2, .main-content ul + h2 {
   margin-top: 1.6em !important;
 }
