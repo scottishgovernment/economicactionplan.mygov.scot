@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "The Future Skills Mission’s Recommendations"
+title:  "The Future Skills Mission’s recommendations"
 category: future-skills-action-plan
 summary: "How we build on the Enterprise and Skills Strategic Board’s Future Skills Mission."
 index: 50
@@ -12,9 +12,9 @@ prev: { title: "Skills matter for Scotland", url: "/future-skills/skills-matter-
 next: { title: "Our Vision and how we will deliver it", url: "/future-skills/our-vision/" }
 ---
 
-This Future Skills Action Plan fully endorses the recommendations made by the Enterprise and Skills Strategic Board’s Future Skills Mission as described in their 2018 Strategic Plan.
+Scotland's Future Skills Action Plan fully endorses the recommendations made by the Enterprise and Skills Strategic Board’s *Future Skills Mission* as described in their 2018 Strategic Plan.
 
-We are committed to working jointly with both SDS, SFC and wider partners to coherently deliver on both the actions and recommendations of the Future Skills mission.
+We are committed to working jointly with both Skills Development Scotland, the Scottish Funding Council and wider partners to coherently deliver on both the actions and recommendations of the Future Skills mission.
 
 They are:
 

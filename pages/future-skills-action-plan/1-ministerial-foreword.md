@@ -17,11 +17,13 @@ Our skills system is among the world’s most successful. We have more people wi
 
 In response to the ever changing world we live in, we must build on our success to date to develop our skills system to deliver for the future.
 
-This Future Skills Action Plan aims to set out how we do so, starting on the basis that it fully accepts and endorses the recommendations made by the Enterprise and Skills Strategic Board in its 2018 Strategic Plan.
+Scotland's Future Skills Action Plan aims to set out how we do so, starting on the basis that it fully accepts and endorses the recommendations made by the Enterprise and Skills Strategic Board in its 2018 Strategic Plan.
 
 Our plan outlines our vision for Scotland’s skills system and identifies the critical challenges we will need to overcome. It sets out the work already being undertaken to meet the Board’s recommendations, and commits to ongoing work with partners from across the country to achieve our shared ambitions for our skills system, and for Scotland.
 
 We need a skills system that is characterised by agility and flexibility, which understands and responds at pace to the needs of business, is responsive to shifting wider economic circumstances and local and regional employer demand, and ensures Scotland has a highly-skilled working population. It must also deliver for the diverse needs of Scotland’s people and support them at all stages of their career.
+
+Our skills system must also support our efforts to attract the most talented people to Scotland. We want our economy to be vibrant and open, welcoming all those who wish to contribute to it. Our ability to provide high-quality training and upskilling opportunities will play a central role in this.
 
 Transforming Scotland’s skills system is a long-term process of iterative progressive improvement. We must deliver relevant and adaptive changes to respond to the ever-changing needs of individuals, businesses and our economy.
 
