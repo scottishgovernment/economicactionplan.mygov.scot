@@ -2,7 +2,7 @@
 layout: default
 title:  "Skills matter for Scotland"
 category: future-skills-action-plan
-summary: "Scotland is an economically successful country supported by a successful skills system, however we must ensure that the system can adapt to meet the challenges and opportunities ahead."
+summary: "Scotland has a strong economy supported by a successful skills system. However, we must ensure that our skills system can adapt to meet the challenges and opportunities ahead."
 index: 40
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
@@ -41,8 +41,7 @@ We also recognise that our system delivers for all of Scotland and must take acc
 
 Individuals and businesses will require access to specific technical skills training, for example to utilise new technology or equipment.  However, more general skills training in personal capacity, including areas such as creativity and effective management and leadership, are vital to ensure everyone can play a part in the economy and successfully navigate an increasingly fluid labour market.
 
-As Skills Development Scotland have set out in their document [Skills 4.0 – A skills model to drive Scotland’s Future](https://www.skillsdevelopmentscotland.co.uk/media/44684/skills-40_a-skills-model.pdf), meta-skills are the timeless, higher order skills that create adaptive learners and promote success in whatever context the future brings. These form a critical part of Scotland’s future skills mix.
-Technological developments have opened up a range of new possibilities. A range of views exist around the opportunities and risks presented by these changes and Government has a role in leading that debate, including in relation to the impact on skills. We recognise the concerns individuals and others may have around the potential pace at which technology could change the working environment and the need to take steps now to mitigate those.
+As Skills Development Scotland have set out in [Skills 4.0 – A skills model to drive Scotland’s Future](https://www.skillsdevelopmentscotland.co.uk/media/44684/skills-40_a-skills-model.pdf), meta-skills are the timeless, higher order skills that create adaptive learners and promote success in whatever context the future brings. These form a critical part of Scotland’s future skills mix. Technological developments have opened up a range of new possibilities. A range of views exist around the opportunities and risks presented by these changes and Government has a role in leading that debate, including in relation to the impact on skills. We recognise concerns around the pace at which technology could change the working environment and the need to take steps now to mitigate them.
 
 As we take forward the next phase of this Plan, tackling inequality will be at the heart of the work we do. Delivery of this plan will therefore closely align with our existing efforts to promote inclusive, diverse and fair participation in the labour market, and support the action the Scottish Government is already taking to reduce these inequalities through [A fairer Scotland for women: gender pay gap action plan](https://www.gov.scot/publications/fairer-scotland-women-gender-pay-gap-action-plan/), [A fairer Scotland for disabled people: employment action plan](https://www.gov.scot/publications/fairer-scotland-disabled-people-employment-action-plan/) and its [Race Equality Action Plan](https://www.gov.scot/publications/fairer-scotland-race-equality-action-plan-2017-2021-highlight-report/).
 

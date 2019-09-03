@@ -30,7 +30,7 @@ Scotland’s population growth has traditionally been slower than the UK as a wh
 
 Although migration to Scotland has to date eased some of the pressures resulting from an ageing population, this slowed over the year to 2018 – ending a period of growth since the EU expansion in 2004[^6].
 
-Our ageing population presents challenges to labour supply with added implications for fiscal sustainability through income tax returns and public sector expenditure. And as the average age of our workforce increases, it is likely that the need to provide retraining and upskilling opportunities for older workers will rise substantially.
+Our ageing population presents challenges to labour supply and as the average age of our workforce increases, it is likely that the need to provide retraining and upskilling opportunities for older workers will rise substantially.
 
 ### Inequalities
 

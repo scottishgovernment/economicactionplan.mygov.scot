@@ -2,7 +2,7 @@
 layout: default
 title:  "Theme 2: Enhancing access to upskilling and retraining opportunities"
 category: future-skills-action-plan
-summary: "Recognising the importance of lifelong learning, retraining and upskilling and ensuring they are available to all."
+summary: "Recognising the importance of lifelong learning, retraining and upskilling."
 index: 80
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
@@ -25,7 +25,7 @@ Between 2016-2041, Scotland’s working age population is expected to grow by 1%
 
 Job-related training in Scotland has steadily declined over the last 15 years. Reversing this trend creates an opportunity to reinforce a culture of investment in human capital as a means of both increasing productivity and ensure both Scottish employers and employees are prepared for new and potentially unpredicted challenges and opportunities ahead.
 
-We will work with employers, and other system stakeholders, to arrest the reductions in workforce development by employers observed within Scotland over the last decade.
+We will work with business, and other system stakeholders, to encourage investment in workforce development by employers in Scotland.
 
 ### Next steps
 

@@ -28,7 +28,7 @@ Equipping our young people with the skills required to fulfil their potential re
 
 As our skills system evolves to meet Scotland’s future skills needs, its ability to demonstrate a clear contribution to the Scottish Government’s strategic outcomes will be central to our ambitions for the system.
 
-We will review how we address opportunity across elements of the skills system, to ensure they drive greater collaboration and more aligned delivery, and support our ambitions to improve Scotland’s productivity, equality, wellbeing and sustainability.
+We will ensure collaboration and aligned delivery across all elements of the skills system, to ensure they support our ambitions to improve Scotland’s productivity, equality, wellbeing and sustainability.
 
 ### Who will be involved
 

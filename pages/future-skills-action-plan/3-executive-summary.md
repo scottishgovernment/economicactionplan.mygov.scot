@@ -41,6 +41,6 @@ Key actions include:
 
 We also outline our proposals to take the Plan’s second phase forward. In particular, we will establish a thematic approach to our work with stakeholders from across the skills system to identify and co-create the specific solutions required to deliver this plan in the medium to long terms.
 
-Finally, the Plan summarises the findings set out in [Scotland’s Future Skills Action Plan – Evidence and Analysis Annex](https://www.gov.scot/isbn/9781839601057/) which we have published it to provide more detail on Scotland’s strengths and weaknesses and the long-term and emerging challenges facing the labour market.
+Finally, the Plan summarises the findings set out in [Scotland’s Future Skills Action Plan – Evidence and Analysis Annex](https://www.gov.scot/isbn/9781839601057/) which we have published providing more detail on Scotland’s strengths and weaknesses; and the long-term and emerging challenges facing the labour market.
 
 Meeting Scotland’s skills challenges cannot be met by Government alone, and will require collective action from across society and the economy. The publication of Scotland's Future Skills Action Plan’s first phase is a step towards achieving this goal.

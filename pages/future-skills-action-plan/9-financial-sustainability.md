@@ -14,7 +14,7 @@ next: { title: "Theme 4: Accelerating the implementation of the learner journey 
 
 We must ensure that Scotland’s skills system is efficient, able to deliver value for individuals, businesses and the economy, and can be sustained going forward.
 
-The dynamism of Scotland’s economy and the accelerating pace of change necessitates flexible funding mechanisms that are accessible and responsive to changing needs. We must ensure that individuals and employers of all sizes are supported - regardless of their location - and that financial investment is bolstered with expert advice.
+The dynamism of Scotland’s economy and the accelerating pace of change necessitates flexible funding mechanisms that are accessible and responsive to changing needs. We must ensure that individuals and employers of all sizes are supported.
 
 ### Next steps
 

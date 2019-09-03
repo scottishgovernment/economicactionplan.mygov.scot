@@ -22,9 +22,9 @@ next: { title: "Supporting evidence: Understanding Scotland's skills system", ur
 
 This plan provides a thematic framework through which we can demonstrate the development and re-focusing of Scotland’s skills system.
 
-We will adopt a thematic approach to engage with colleagues across the Scottish Government, agencies and skills system, and develop a set of initial propositions that can be tested at the National Economic Forum in December 2019. We will report regularly to Ministers on progress, and engage workers, employers, educational institutions and independent experts to enable us to harness expertise and develop a collective vision for the skills system.
+We will adopt a thematic approach to engage with colleagues across the Scottish Government, agencies and skills system, and develop a set of initial propositions that can be tested at the National Economic Forum in December 2019. We will engage workers, employers, educational institutions and independent experts to harness expertise and deliver our vision for the skills system.
 
-As we take this work forward, we will consider the National, regional and local dimensions of the effective skills delivery in the future including in remote, rural and island communities.
+As we take this work forward, we will consider the regional and local dimensions of the effective skills delivery in the future including in remote, rural and island communities.
 
 We will ensure continued stakeholder input into further updates to the Plan.
 
@@ -32,7 +32,7 @@ We will ensure continued stakeholder input into further updates to the Plan.
 
 ***How can we best enable long-term strategic partnerships between employers, business and industry, and colleges and universities?***
 
-Over the coming year, we will respond to the recommendations of two independent reports -  one led by Professor Sir Anton Muscatelli and the other by Edinburgh College Principal Audrey Cumberford and City of Glasgow Principal Paul Little - on how our universities and colleges could further improve their engagement with employers - from supporting collaboration between universities, colleges and businesses, to improving business performance through innovation and upskilling and reskilling the workforce.
+Over the coming year, we will respond to the recommendations of two independent reports - one led by Professor Sir Anton Muscatelli and the other by Edinburgh College Principal Audrey Cumberford and City of Glasgow Principal Paul Little. These will explore the economic impact of our universities and colleges including how they can further improve engagement with employers.
 
 ***How do we define the employer role within skills system delivery and embed talent development in employer’s workforce strategy?***
 
@@ -50,7 +50,7 @@ We will take forward with both SFC and SDS and colleges, universities and employ
 
 Responding to the challenges and opportunities of digitalisation is a major cross-cutting issue for Government. As part of our response, we will develop an Artificial Intelligence (AI) Strategy which will help to ensure that Scotland maximises the potential economic and social benefits of AI and sends a strong signal to the world about our ambition.  We will establish Research Data Scotland to enable our data to be used for trustworthy research in the public interest.  Skills will be a key work stream for the development of the Strategy.
 
-***How should we continue to modernise to deliver greater flexibility and modularisation to enable more routes into progressive employment?***
+***How should we continue to deliver greater flexibility and modularisation to enable more routes into progressive employment?***
 
 We will explore flexible incentives for all relevant stakeholders, including colleges, universities and training providers, to develop new approaches to upskilling and lifelong learning. This will include, for example, more flexible and online delivery models, and developing ‘micro-credentials’ that are recognised by industry and professional bodies.
 

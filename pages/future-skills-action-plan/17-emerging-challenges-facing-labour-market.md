@@ -17,7 +17,7 @@ The Global Climate Emergency is one of the defining issues of our time and poses
 
 Analysis by the European Union suggests a move towards a net zero emissions economy will have a positive impact on employment in the UK[^10]. However, the Scottish Government set up the Just Transition Commission to make recommendations how to understand and mitigate risks to regional cohesion, equalities, poverty and a sustainable and inclusive labour market of the shift towards a net zero emissions economy[^11].
 
-Through Skills Development Scotland, the Scottish Government has also agreed to a review of current investment to ensure it is supporting market demand for the skills required to deliver net zero emissions. Looking ahead, it is essential that upskilling and retraining opportunities are available and that the skills system has the flexibility and agility required to adapt to changing conditions.
+Through Skills Development Scotland, the Scottish Government has committed to develop a ‘Climate Emergency Skills Action Plan’ to ensure it is supporting market demand for the skills required to deliver net zero emissions. Looking ahead, it is essential that upskilling and retraining opportunities are available and that the skills system has the flexibility and agility required to adapt to changing conditions.
 
 ### Technological Development
 

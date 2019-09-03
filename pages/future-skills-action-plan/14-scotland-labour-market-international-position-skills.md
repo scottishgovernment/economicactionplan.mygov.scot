@@ -9,7 +9,7 @@ thispage: future-skills-action-plan
 type: future-skills
 permalink: /2685bd4/future-skills/scotland-labour-market-international-position-skills/
 prev: { title: "Supporting evidence: Understanding Scotland's skills system", url: "/2685bd4/future-skills/understanding-scotland-skills-system/" }
-next: { title: "Continuing skills gaps", url: "/2685bd4/future-skills/continuing-skills-gaps" }
+next: { title: "Supporting evidence: Continuing skills gaps", url: "/2685bd4/future-skills/continuing-skills-gaps" }
 ---
 
 <figure>
