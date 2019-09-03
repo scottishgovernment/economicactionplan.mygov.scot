@@ -7,9 +7,9 @@ index: 160
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
-permalink: future-skills/long-term-challenges-facing-labour-market/
-prev: { title: "Supporting evidence: Continuing skills gaps", url: "future-skills/continuing-skills-gaps" }
-next: { title: "Supporting evidence: Emerging opportunities and challenges facing the labour market", url: "future-skills/emerging-challenges-facing-labour-market" }
+permalink: /future-skills/long-term-challenges-facing-labour-market/
+prev: { title: "Supporting evidence: Continuing skills gaps", url: "/future-skills/continuing-skills-gaps" }
+next: { title: "Supporting evidence: Emerging opportunities and challenges facing the labour market", url: "/future-skills/emerging-challenges-facing-labour-market" }
 ---
 
 ### Quality of Work

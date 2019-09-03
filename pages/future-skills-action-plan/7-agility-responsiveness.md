@@ -7,9 +7,9 @@ index: 70
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
-permalink: future-skills/agility-responsiveness/
-prev: { title: "Our vision and how we will deliver it", url: "future-skills/our-vision/" }
-next: { title: "Theme 2: Enhancing access to upskilling and retraining opportunities", url: "future-skills/upskilling-retraining/" }
+permalink: /future-skills/agility-responsiveness/
+prev: { title: "Our vision and how we will deliver it", url: "/future-skills/our-vision/" }
+next: { title: "Theme 2: Enhancing access to upskilling and retraining opportunities", url: "/future-skills/upskilling-retraining/" }
 ---
 Scotland’s skills system needs to be flexible, agile and responsive. These attributes will enable it to continue delivering strong results in an uncertain future, and continue to support Scotland’s workforce and employers.
 

@@ -7,8 +7,8 @@ index: 0
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
-permalink: future-skills/overview/
-next: { title: "Ministerial foreword", url: "future-skills/ministerial-foreword/" }
+permalink: /future-skills/overview/
+next: { title: "Ministerial foreword", url: "/future-skills/ministerial-foreword/" }
 ---
 
 <img class="hidden-small  hidden-xsmall" src="/assets/images/infographics/fsap-overview.png" alt=""/>

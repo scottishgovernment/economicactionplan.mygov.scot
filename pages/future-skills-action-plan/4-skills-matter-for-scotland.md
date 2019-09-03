@@ -7,9 +7,9 @@ index: 40
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
-permalink: future-skills/skills-matter-for-scotland/
-prev: { title: "Executive summary", url: "future-skills/executive-summary/" }
-next: { title: "The Future Skills Mission’s recommendations", url: "future-skills/future-skills-mission-recommendations/" }
+permalink: /future-skills/skills-matter-for-scotland/
+prev: { title: "Executive summary", url: "/future-skills/executive-summary/" }
+next: { title: "The Future Skills Mission’s recommendations", url: "/future-skills/future-skills-mission-recommendations/" }
 ---
 
 <figure>

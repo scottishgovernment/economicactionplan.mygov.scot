@@ -7,9 +7,9 @@ index: 30
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
-permalink: future-skills/executive-summary/
-prev: { title: "Statement from Nora Senior", url: "future-skills/statement/" }
-next: { title: "Skills matter for Scotland", url: "future-skills/skills-matter-for-scotland/" }
+permalink: /future-skills/executive-summary/
+prev: { title: "Statement from Nora Senior", url: "/future-skills/statement/" }
+next: { title: "Skills matter for Scotland", url: "/future-skills/skills-matter-for-scotland/" }
 ---
 
 *Scotland’s highly skilled workforce ensures we are an ambitious, productive and competitive nation. Scotland’s skills system will be the foundation on which we will deliver these ambitions, supporting our people through-out their working lives, and empowering our business to take advantage of future opportunities. A culture of shared investment in Scotland’s future workforce will unlock the potential of our people and businesses and deliver inclusive growth.*  

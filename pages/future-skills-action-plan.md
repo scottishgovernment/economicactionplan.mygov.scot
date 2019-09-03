@@ -8,7 +8,7 @@ index: 100
 navitems: future-skills-action-plan
 thispage: future-skills-action-plan
 parent: home
-permalink: future-skills/
+permalink: /future-skills/
 hero: FutureSkillsfinal.svg
 homepage: true
 ---

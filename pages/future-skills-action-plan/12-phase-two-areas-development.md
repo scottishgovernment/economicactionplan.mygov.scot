@@ -7,9 +7,9 @@ index: 120
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
-permalink: future-skills/phase-two-areas-development/
-prev: { title: "How we will develop Scotland's Future Skills Action Plan in the coming years", url: "future-skills/develop-future-skills-action-plan/" }
-next: { title: "Supporting evidence: Understanding Scotland's skills system", url: "future-skills/understanding-scotland-skills-system/" }
+permalink: /future-skills/phase-two-areas-development/
+prev: { title: "How we will develop Scotland's Future Skills Action Plan in the coming years", url: "/future-skills/develop-future-skills-action-plan/" }
+next: { title: "Supporting evidence: Understanding Scotland's skills system", url: "/future-skills/understanding-scotland-skills-system/" }
 ---
 
 <figure>

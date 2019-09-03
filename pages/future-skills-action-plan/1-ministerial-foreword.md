@@ -7,9 +7,9 @@ index: 10
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
-permalink: future-skills/ministerial-foreword/
-prev: { title: "Plan overview", url: "future-skills/overview/" }
-next: { title: "Statement from Nora Senior", url: "future-skills/statement/" }
+permalink: /future-skills/ministerial-foreword/
+prev: { title: "Plan overview", url: "/future-skills/overview/" }
+next: { title: "Statement from Nora Senior", url: "/future-skills/statement/" }
 ---
 
 <figure>
