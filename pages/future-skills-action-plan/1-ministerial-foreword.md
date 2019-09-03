@@ -11,17 +11,19 @@ permalink: /2685bd4/future-skills/ministerial-foreword/
 next: { title: "Statement from Nora Senior", url: "/2685bd4/future-skills/statement/" }
 ---
 
-![](/assets/images/infographics/fsap-ministerial-foreword.svg)
+<figure>
+    <img src="/assets/images/infographics/fsap-ministerial-foreword.svg" alt=""/>
 
-<aside class="hidden">
-<h2>Skills and qualification profile of Scotland</h2>
-<ul>
-<li>Scotland is ranked first out of 36 OECD countries in terms of high-level qualifications</li>
-<li>Scotland has more people aged 25-64 who are tertiary-level educated than any other EU country</li>
-<li>11.6% of people aged 16-64 in Scotland had low or no skills in 2018 (No improvement since 2015)</li>
-<li>16% of establishments in Scotland reported skills gaps among their workforce</li>
-</ul>
-</aside>
+    <figcaption class="hidden">
+        <h2>Skills and qualification profile of Scotland</h2>
+        <ul>
+            <li>Scotland is ranked first out of 36 OECD countries in terms of high-level qualifications</li>
+            <li>Scotland has more people aged 25-64 who are tertiary-level educated than any other EU country</li>
+            <li>11.6% of people aged 16-64 in Scotland had low or no skills in 2018 (No improvement since 2015)</li>
+            <li>16% of establishments in Scotland reported skills gaps among their workforce</li>
+        </ul>
+    </figcaption>
+</figure>
 
 For many individuals and businesses, skills are an important part of their identity, helping them to define who they are, and who they want to be. This applies equally to Scotland: our skills tell the world about our strengths, our ambitions for growth and the contribution we will make in future.
 

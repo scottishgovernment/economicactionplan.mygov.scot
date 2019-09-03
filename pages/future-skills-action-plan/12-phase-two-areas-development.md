@@ -12,11 +12,13 @@ prev: { title: "How we will develop Scotland's Future Skills Action Plan in the 
 next: { title: "Supporting Evidence: Understanding Scotland's Skills System", url: "/2685bd4/future-skills/understanding-scotland-skills-system/" }
 ---
 
-![](/assets/images/infographics/fsap-phase-2.svg)
+<figure>
+    <img src="/assets/images/infographics/fsap-phase-2.svg" alt="" />
 
-<aside class="hidden">
-The OECD suggest that <q>Developing the right set of skills and making full use of them in the economy is a recipe for higher productivity, growth and includiveness</q>
-</aside>
+    <figcaption class="hidden">
+    The OECD suggest that <q>Developing the right set of skills and making full use of them in the economy is a recipe for higher productivity, growth and includiveness</q>
+    </figcaption>
+</figure>
 
 This plan provides a thematic framework through which we can demonstrate the development and re-focusing of Scotland’s skills system.
 

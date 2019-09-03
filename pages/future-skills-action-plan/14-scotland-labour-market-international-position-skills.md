@@ -12,15 +12,17 @@ prev: { title: "Supporting Evidence: Understanding Scotland's Skills System", ur
 next: { title: "Continuing skills gaps", url: "/2685bd4/future-skills/continuing-skills-gaps" }
 ---
 
-![](/assets/images/infographics/fsap-labour-market-and-international.svg)
+<figure>
+    <img src="/assets/images/infographics/fsap-labour-market-and-international.svg" alt="" />
 
-<aside class="hidden">
-<h2>Employment in Scotland this year</h2>
-<ul>
-<li>Record high employment of 75.9%</li>
-<li>Record low unemployment of 3.2%</li>
-</ul>
-</aside>
+    <figcaption class="hidden">
+        <h2>Employment in Scotland this year</h2>
+        <ul>
+            <li>Record high employment of 75.9%</li>
+            <li>Record low unemployment of 3.2%</li>
+        </ul>
+    </figcaption>
+</figure>
 
 Scotland’s labour market has performed particularly strongly in recent times, mirroring the strength of the UK labour market and breaking records on employment (75.9%, Feb-April 2019) and unemployment (3.2%, Jan-Mar 2019). Labour market statistics released in August 2019 showed that there were 121,000 more people in work in Scotland than the pre-recession peak (Mar-May 2008).  
 

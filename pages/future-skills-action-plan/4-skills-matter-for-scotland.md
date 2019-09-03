@@ -12,20 +12,22 @@ prev: { title: "Executive summary", url: "/2685bd4/future-skills/executive-summa
 next: { title: "The Future Skills Mission’s recommendations", url: "/2685bd4/future-skills/future-skills-mission-recommendations/" }
 ---
 
-![](/assets/images/infographics/fsap-skills-matter-scotland.svg)
+<figure>
+    <img src="/assets/images/infographics/fsap-skills-matter-scotland.svg" alt="" />
 
-<aside class="hidden">
-<h2>Current challenges in the labour market</h2>
-<ul>
-<li>Ageing population and low population growth</li>
-<li>EU exit</li>
-<li>Global climate emergency</li>
-<li>Rurality</li>
-<li>Technological advance</li>
-<li>Digitalisation</li>
-<li>Quality of work</li>
-</ul>
-</aside>
+    <figcaption class="hidden">
+        <h2>Current challenges in the labour market</h2>
+        <ul>
+            <li>Ageing population and low population growth</li>
+            <li>EU exit</li>
+            <li>Global climate emergency</li>
+            <li>Rurality</li>
+            <li>Technological advance</li>
+            <li>Digitalisation</li>
+            <li>Quality of work</li>
+        </ul>
+    </figcaption>
+</figure>
 
 Skills give us the ability to do things well. They are fluid and wide-ranging. While the ability to programme a computer requires technical skills, others relate to transferable abilities such as being able to think creatively, deliver as part of a team or successfully multitask.
 
