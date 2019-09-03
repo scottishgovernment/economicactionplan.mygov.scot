@@ -7,9 +7,9 @@ index: 100
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
-permalink: /2685bd4/future-skills/learner-journey-review/
-prev: { title: "Theme 3: Ensuring sustainability across the skills system", url: "/2685bd4/future-skills/financial-sustainability/" }
-next: { title: "How we will develop Scotland’s Future Skills Action Plan in the coming years", url: "/2685bd4/future-skills/develop-future-skills-action-plan/" }
+permalink: future-skills/learner-journey-review/
+prev: { title: "Theme 3: Ensuring sustainability across the skills system", url: "future-skills/financial-sustainability/" }
+next: { title: "How we will develop Scotland’s Future Skills Action Plan in the coming years", url: "future-skills/develop-future-skills-action-plan/" }
 ---
 
 As identified by the Strategic Plan of the Enterprise and Skills Strategic Board, the accelerated implementation of the recommendations of the Learner Journey Review presents an opportunity to enhance the experience of 15-24 year olds in Scotland’s education system. This is critical to safeguard Scotland’s long-term economic prosperity.

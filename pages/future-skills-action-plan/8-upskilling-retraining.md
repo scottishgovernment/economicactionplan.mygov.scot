@@ -7,9 +7,9 @@ index: 80
 parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
-permalink: /2685bd4/future-skills/upskilling-retraining/
-prev: { title: "Theme 1: Increasing system agility and employer responsiveness", url: "/2685bd4/future-skills/agility-responsiveness/" }
-next: { title: "Theme 3: Ensuring sustainability across the skills system", url: "/2685bd4/future-skills/financial-sustainability/" }
+permalink: future-skills/upskilling-retraining/
+prev: { title: "Theme 1: Increasing system agility and employer responsiveness", url: "future-skills/agility-responsiveness/" }
+next: { title: "Theme 3: Ensuring sustainability across the skills system", url: "future-skills/financial-sustainability/" }
 ---
 
 <figure>
