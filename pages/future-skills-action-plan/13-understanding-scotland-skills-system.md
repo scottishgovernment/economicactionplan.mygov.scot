@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Supporting Evidence: Understanding Scotland's Skills System"
+title:  "Supporting evidence: Understanding Scotland's skills system"
 category: future-skills-action-plan
 summary: "Understanding how skills training is delivered through institutions and in the work place."
 index: 130
@@ -8,8 +8,8 @@ parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
 permalink: /2685bd4/future-skills/understanding-scotland-skills-system/
-prev: { title: "Scotland’s Future Skills Action Plan – Phase Two: Areas for development", url: "/2685bd4/future-skills/phase-two-areas-development/" }
-next: { title: "Supporting Evidence: Scotland’s comparable position on skills", url: "/2685bd4/future-skills/scotland-labour-market-international-position-skills/" }
+prev: { title: "Scotland’s Future Skills Action Plan – Phase two: Areas for development", url: "/2685bd4/future-skills/phase-two-areas-development/" }
+next: { title: "Supporting evidence: Scotland’s comparable position on skills", url: "/2685bd4/future-skills/scotland-labour-market-international-position-skills/" }
 ---
 
 It is important to recognise that Scotland benefits from a strong, highly-developed skills system. Its cornerstones include:

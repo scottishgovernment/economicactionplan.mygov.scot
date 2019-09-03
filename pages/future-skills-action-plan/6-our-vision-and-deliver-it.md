@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Our Vision and how we will Deliver it"
+title:  "Our vision and how we will deliver it"
 category: future-skills-action-plan
 summary: "How we will meet the future skills challenge."
 index: 60

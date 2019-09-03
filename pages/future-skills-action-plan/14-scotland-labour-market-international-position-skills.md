@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Supporting Evidence: Scotland’s comparable position on skills"
+title:  "Supporting evidence: Scotland’s comparable position on skills"
 category: future-skills-action-plan
 summary: "Contextualising Scotland’s labour market and skills system."
 index: 140
@@ -8,7 +8,7 @@ parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
 permalink: /2685bd4/future-skills/scotland-labour-market-international-position-skills/
-prev: { title: "Supporting Evidence: Understanding Scotland's Skills System", url: "/2685bd4/future-skills/understanding-scotland-skills-system/" }
+prev: { title: "Supporting evidence: Understanding Scotland's skills system", url: "/2685bd4/future-skills/understanding-scotland-skills-system/" }
 next: { title: "Continuing skills gaps", url: "/2685bd4/future-skills/continuing-skills-gaps" }
 ---
 

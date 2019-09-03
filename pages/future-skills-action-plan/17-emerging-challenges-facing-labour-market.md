@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Supporting Evidence: Emerging opportunities and challenges facing the labour market"
+title:  "Supporting evidence: Emerging opportunities and challenges facing the labour market"
 category: future-skills-action-plan
 summary: "International uncertainty and the importance of skills training in Scotland’s climate change strategy."
 index: 170
@@ -8,7 +8,7 @@ parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
 permalink: /2685bd4/future-skills/emerging-challenges-facing-labour-market/
-prev: { title: "Supporting Evidence: Long-standing challenges facing the labour market", url: "/2685bd4/future-skills/long-term-challenges-facing-labour-market" }
+prev: { title: "Supporting evidence: Long-standing challenges facing the labour market", url: "/2685bd4/future-skills/long-term-challenges-facing-labour-market" }
 ---
 
 ### Global Climate Emergency

@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Executive Summary"
+title:  "Executive summary"
 category: future-skills-action-plan
 summary: "The plan highlights the vital role of the skills system in ensuring equality, wellbeing and sustainability and sets out key actions now and in the future to achieve our ambition."
 index: 30
@@ -16,7 +16,7 @@ next: { title: "Skills matter for Scotland", url: "/2685bd4/future-skills/skills
 
 Scotland’s Enterprise and Skills Strategic Board set out [four key future skills recommendations](https://www.gov.scot/publications/working-collaboratively-better-scotland/) for Government in its 2018 Strategic Plan. That plan recognised the crucial role of the skills system in ensuring equality, wellbeing and sustainability.
 
-The publication of Phase 1 of the Future Skills Action Plan fulfils our commitment to respond to those recommendations, which we endorse in full.  It also reaffirms the importance of skills in helping people reach their potential and achieving our goal of an inclusive, growing and more productive economy.
+The publication of Phase 1 of Scotland's Future Skills Action Plan fulfils our commitment to respond to those recommendations, which we endorse in full.  It also reaffirms the importance of skills in helping people reach their potential and achieving our goal of an inclusive, growing and more productive economy.
 
 Across four themes the Plan highlights the vital role the skills system will play in helping Scotland to respond to future socio-economic challenges, such as demographic changes and the climate emergency.
 
@@ -43,4 +43,4 @@ We also outline our proposals to take the Plan’s second phase forward. In part
 
 Finally, the Plan summarises the findings set out in [Scotland’s Future Skills Action Plan – Evidence and Analysis Annex](https://www.gov.scot/isbn/9781839601057/) which we have published it to provide more detail on Scotland’s strengths and weaknesses and the long-term and emerging challenges facing the labour market.
 
-Meeting Scotland’s skills challenges cannot be met by Government alone, and will require collective action from across society and the economy. The publication of the Future Skills Action Plan’s first phase is a step towards achieving this goal.
+Meeting Scotland’s skills challenges cannot be met by Government alone, and will require collective action from across society and the economy. The publication of Scotland's Future Skills Action Plan’s first phase is a step towards achieving this goal.

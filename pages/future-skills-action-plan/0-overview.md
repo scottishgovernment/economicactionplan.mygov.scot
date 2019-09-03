@@ -8,12 +8,12 @@ parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
 permalink: /2685bd4/future-skills/overview/
-next: { title: "Ministerial Foreword", url: "/2685bd4/future-skills/ministerial-foreword/" }
+next: { title: "Ministerial foreword", url: "/2685bd4/future-skills/ministerial-foreword/" }
 ---
 
-<img class="hidden-small" src="/assets/images/infographics/fsap-overview.png" alt=""/>
+<img class="hidden-small  hidden-xsmall" src="/assets/images/infographics/fsap-overview.png" alt=""/>
 
-<div class="visible-small">
+<div class="visible-small  visible-xsmall">
 <h2 id="vision">Vision</h2>
 
 <p>Scotland’s highly skilled workforce ensures we are an ambitious, productive and competitive nation. Scotland’s skills system will be the foundation on which we will deliver these ambitions, supporting our people through-out their working lives, and empowering our business to take advantage of future opportunities. A culture of shared investment in Scotland’s future workforce will unlock the potential of our people and businesses to deliver inclusive growth.</p>
@@ -50,7 +50,7 @@ next: { title: "Ministerial Foreword", url: "/2685bd4/future-skills/ministerial-
   <li>Fair work being central to improving the lives of individuals and families</li>
 </ul>
 
-<h2 id="future-skills-action-plan-themes-and-actions">Future Skills Action Plan: themes and actions</h2>
+<h2 id="future-skills-action-plan-themes-and-actions">Scotland's Future Skills Action Plan: themes and actions</h2>
 
 <h3 id="increased-system-agility-and-employer-responsiveness">Increased system agility and employer responsiveness</h3>
 <ul>

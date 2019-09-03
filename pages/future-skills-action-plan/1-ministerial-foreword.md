@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Ministerial Foreword"
+title:  "Ministerial foreword"
 category: future-skills-action-plan
 summary: "We are committed to developing our skills system to meet the challenges of the future, enhance productivity and ensure that inclusive growth is enjoyed by all across Scotland."
 index: 10
@@ -8,6 +8,7 @@ parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
 permalink: /2685bd4/future-skills/ministerial-foreword/
+prev: { title: "Plan overview", url: "/2685bd4/future-skills/overview/" }
 next: { title: "Statement from Nora Senior", url: "/2685bd4/future-skills/statement/" }
 ---
 

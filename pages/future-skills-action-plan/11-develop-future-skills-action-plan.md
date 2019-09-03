@@ -9,7 +9,7 @@ thispage: future-skills-action-plan
 type: future-skills
 permalink: /2685bd4/future-skills/develop-future-skills-action-plan/
 prev: { title: "Theme 4: Accelerating the implementation of the learner journey review", url: "/2685bd4/future-skills/learner-journey-review/" }
-next: { title: "Scotland’s Future Skills Action Plan – Phase Two: Areas for development", url: "/2685bd4/future-skills/phase-two-areas-development/" }
+next: { title: "Scotland’s Future Skills Action Plan – Phase two: Areas for development", url: "/2685bd4/future-skills/phase-two-areas-development/" }
 ---
 
 There is much to celebrate in Scotland’s skills system, both in terms of its existing success and how it is already responding to the ambitions of Scotland’s Future Skills Action Plan. These are strong foundations to build upon.  As we develop the Plan we will seek to develop appropriate labour market information to enhance our understanding of its strengths and weaknesses, and to more accurately assess our progress.

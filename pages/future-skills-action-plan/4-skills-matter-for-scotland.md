@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Skills Matter for Scotland"
+title:  "Skills matter for Scotland"
 category: future-skills-action-plan
 summary: "Scotland is an economically successful country supported by a successful skills system, however we must ensure that the system can adapt to meet the challenges and opportunities ahead."
 index: 40
@@ -31,7 +31,7 @@ next: { title: "The Future Skills Mission’s recommendations", url: "/2685bd4/f
 
 Skills give us the ability to do things well. They are fluid and wide-ranging. While the ability to programme a computer requires technical skills, others relate to transferable abilities such as being able to think creatively, deliver as part of a team or successfully multitask.
 
-The Scotland's Future Skills Action Plan recognises that, whilst Scotland is a highly-skilled country supported by a successful skills system that continues to deliver strong outcomes, we must ensure the system adapts to meet the challenges and opportunities ahead.
+Scotland's Future Skills Action Plan recognises that, whilst Scotland is a highly-skilled country supported by a successful skills system that continues to deliver strong outcomes, we must ensure the system adapts to meet the challenges and opportunities ahead.
 
 Socio-economic trends, including the global climate emergency, demographic changes and the uncertain impact of technology, necessitate that Scotland’s skills system evolves and becomes more adaptable.
 

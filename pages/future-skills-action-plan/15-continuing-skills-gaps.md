@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Supporting Evidence: Continuing skills gaps"
+title:  "Supporting evidence: Continuing skills gaps"
 category: future-skills-action-plan
 summary: "Understanding technical and sectoral skills gaps and skills underutilisation in Scotland."
 index: 150
@@ -8,8 +8,8 @@ parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
 permalink: /2685bd4/future-skills/continuing-skills-gaps/
-prev: { title: "Supporting Evidence: Scotland’s comparable position on skills", url: "/2685bd4/future-skills/scotland-labour-market-international-position-skills/" }
-next: { title: "Supporting Evidence: Long-standing challenges facing the labour market", url: "/2685bd4/future-skills/long-term-challenges-facing-labour-market" }
+prev: { title: "Supporting evidence: Scotland’s comparable position on skills", url: "/2685bd4/future-skills/scotland-labour-market-international-position-skills/" }
+next: { title: "Supporting evidence: Long-standing challenges facing the labour market", url: "/2685bd4/future-skills/long-term-challenges-facing-labour-market" }
 ---
 
 Although educational access and attainment have improved, skills gaps have increased due to a tightening labour supply. The 2017 Employer Skills Survey (ESS) revealed that 16% of Scottish employers reported skills gaps and estimated that 5% of the workforce lacks full proficiency: largely unchanged since 2015. Among those organisations that reported skills shortages, both technical and personal skills were cited in the ESS. For example, 59% suggested that specialist skills were needed, while 46% suggested that the ability to manage and prioritise were required.

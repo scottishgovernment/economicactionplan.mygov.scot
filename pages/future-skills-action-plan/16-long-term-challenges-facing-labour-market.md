@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Supporting Evidence: Long-standing challenges facing the labour market"
+title:  "Supporting evidence: Long-standing challenges facing the labour market"
 category: future-skills-action-plan
 summary: "Reflecting on the implications of demographic and technological change."
 index: 160
@@ -8,8 +8,8 @@ parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
 permalink: /2685bd4/future-skills/long-term-challenges-facing-labour-market/
-prev: { title: "Supporting Evidence: Continuing skills gaps", url: "/2685bd4/future-skills/continuing-skills-gaps" }
-next: { title: "Supporting Evidence: Emerging opportunities and challenges facing the labour market", url: "/2685bd4/future-skills/emerging-challenges-facing-labour-market" }
+prev: { title: "Supporting evidence: Continuing skills gaps", url: "/2685bd4/future-skills/continuing-skills-gaps" }
+next: { title: "Supporting evidence: Emerging opportunities and challenges facing the labour market", url: "/2685bd4/future-skills/emerging-challenges-facing-labour-market" }
 ---
 
 ### Quality of Work
