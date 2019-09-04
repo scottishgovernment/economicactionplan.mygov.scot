@@ -10,5 +10,4 @@ thispage: fair-work-action-plan
 parent: home
 permalink: /fair-work/
 hero: fairwork.png
-homepage: true
 ---
