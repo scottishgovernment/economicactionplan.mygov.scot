@@ -2,6 +2,7 @@
 
 /* site header - see _includes/header.html for switch script */
 
+
 .future-skills {
 
     // SG logo header
@@ -75,6 +76,9 @@
     }
 
 
+    
+
+
 
     // footer 
 
@@ -89,10 +93,18 @@
 
     // section pages
 
-    a {color: #A51765;}
+    
+    .breadcrumbs__link {color: #A51765;}
+    
 
     .card--hover:after {
         background-image: linear-gradient(to right, #F0A75A, #A51765);
+    }
+
+    .category-item__title, .page-nav__text, .main-content a {
+    
+       color: #A51765; 
+
     }
 
     .page-nav__button--left:before, .page-nav__button--right:before {
@@ -107,5 +119,6 @@
         position: absolute;
         top: 12px;
         transition: background 1s;
+            
     }
 }
