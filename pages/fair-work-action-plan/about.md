@@ -7,6 +7,7 @@ index: 22
 parent: fair-work-action-plan
 permalink: /fair-work/about/
 prev: { title: "Monitor and report", url: "/fair-work/monitor-and-report/" }
+next: { title: "Fair Work in Practice", url: "/fair-work/fair-work-in-practice/" }
 ---
 
 In developing the Fair Work Action Plan, we have sought to progress recommendations of the Fair Work Convention’s Fair Work Framework and to reflect advice provided from our key stakeholders, including the STUC and a range of employers, on how Fair Work can best be promoted and delivered.  
