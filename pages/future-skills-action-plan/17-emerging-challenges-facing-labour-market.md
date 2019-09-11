@@ -8,7 +8,7 @@ parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
 permalink: /future-skills/emerging-challenges-facing-labour-market/
-prev: { title: "Supporting evidence: Long-standing challenges facing the labour market", url: "/future-skills/long-term-challenges-facing-labour-market" }
+prev: { title: "Supporting evidence: Long-standing challenges facing the labour market", url: "/future-skills/long-term-challenges-facing-labour-market/" }
 ---
 
 ### Global Climate Emergency
@@ -41,12 +41,12 @@ The sectors of our economy deemed most at risk from Brexit[^18], such as manufac
 
 In the longer term, Brexit may create a greater need for older workers to upskill and/or retrain if sectoral downturns lead to job losses. Workers leaving these industries may have highly specialised skills and require significant re-skilling to secure employment in other sectors.
 
-[^10]: [https://ec.europa.eu/social/main.jsp?catId=738&langId=en&pubId=8219](https://ec.europa.eu/social/main.jsp?catId=738&langId=en&pubId=8219)
+[^10]: [https://ec.europa.eu/social/main.jsp?catId=738&langId=en&pubId=8219](https://ec.europa.eu/social/main.jsp?catId=738&langId=en&pubId=8219/)
 [^11]: [https://www.gov.scot/groups/just-transition-commission/](https://www.gov.scot/groups/just-transition-commission/)
 [^12]: [https://www.gov.scot/groups/just-transition-commission/](https://www.gov.scot/groups/just-transition-commission/)
-[^13]: [https://www.ippr.org/research/publications/women-automation-and-equality](https://www.ippr.org/research/publications/women-automation-and-equality)
+[^13]: [https://www.ippr.org/research/publications/women-automation-and-equality](https://www.ippr.org/research/publications/women-automation-and-equality/)
 [^14]: [https://www.tuc.org.uk/sites/default/files/IndustrialTransformationinPractice.pdf](https://www.tuc.org.uk/sites/default/files/IndustrialTransformationinPractice.pdf)
-[^15]: [https://www.nesta.org.uk/report/the-future-of-skills-employment-in-2030](https://www.nesta.org.uk/report/the-future-of-skills-employment-in-2030)
-[^16]: [https://www.worldbank.org/en/news/press-release/2019/06/04/global-growth-to-weaken-to-26-in-2019-substantial-risks-seen](https://www.worldbank.org/en/news/press-release/2019/06/04/global-growth-to-weaken-to-26-in-2019-substantial-risks-seen)
+[^15]: [https://www.nesta.org.uk/report/the-future-of-skills-employment-in-2030](https://www.nesta.org.uk/report/the-future-of-skills-employment-in-2030/)
+[^16]: [https://www.worldbank.org/en/news/press-release/2019/06/04/global-growth-to-weaken-to-26-in-2019-substantial-risks-seen](https://www.worldbank.org/en/news/press-release/2019/06/04/global-growth-to-weaken-to-26-in-2019-substantial-risks-seen/)
 [^17]: [https://www.gov.scot/publications/deal-brexit-economic-implications-scotland/](https://www.gov.scot/publications/deal-brexit-economic-implications-scotland/)
 [^18]: [https://www.gov.scot/binaries/content/documents/govscot/publications/publication/2019/02/state-economy-february-2019/documents/brexit-scottish-sectoral-economic-impact-analysis/brexit-scottish-sectoral-economic-impact-analysis/govscot%3Adocument/00546072.pdf](https://www.gov.scot/binaries/content/documents/govscot/publications/publication/2019/02/state-economy-february-2019/documents/brexit-scottish-sectoral-economic-impact-analysis/brexit-scottish-sectoral-economic-impact-analysis/govscot%3Adocument/00546072.pdf)

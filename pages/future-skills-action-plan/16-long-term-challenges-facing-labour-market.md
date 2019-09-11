@@ -8,8 +8,8 @@ parent: future-skills-action-plan
 thispage: future-skills-action-plan
 type: future-skills
 permalink: /future-skills/long-term-challenges-facing-labour-market/
-prev: { title: "Supporting evidence: Continuing skills gaps", url: "/future-skills/continuing-skills-gaps" }
-next: { title: "Supporting evidence: Emerging opportunities and challenges facing the labour market", url: "/future-skills/emerging-challenges-facing-labour-market" }
+prev: { title: "Supporting evidence: Continuing skills gaps", url: "/future-skills/continuing-skills-gaps/" }
+next: { title: "Supporting evidence: Emerging opportunities and challenges facing the labour market", url: "/future-skills/emerging-challenges-facing-labour-market/" }
 ---
 
 ### Quality of Work
@@ -48,9 +48,9 @@ We know that increasing skills levels can make a difference to these disparities
 
 [^4]: [OECD Compendium of Productivity Indicators](http://www.oecd.org/sdd/productivity-stats/oecd-compendium-of-productivity-indicators-22252126.htm)
 
-[^5]: [https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-projections/population-projections-scotland/2016-based)](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-projections/population-projections-scotland/2016-based)
+[^5]: [https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-projections/population-projections-scotland/2016-based)](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-projections/population-projections-scotland/2016-based/)
 
-[^6]:[https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/migration/migration-statistics/migration-flows](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/migration/migration-statistics/migration-flows)
+[^6]:[https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/migration/migration-statistics/migration-flows](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/migration/migration-statistics/migration-flows/)
 
 [^7]:[https://www.gov.scot/publications/regional-employment-patterns-scotland-statistics-annual-population-survey-2018/](https://www.gov.scot/publications/regional-employment-patterns-scotland-statistics-annual-population-survey-2018/)
 

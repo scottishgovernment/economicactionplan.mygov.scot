@@ -9,7 +9,7 @@ thispage: future-skills-action-plan
 type: future-skills
 permalink: /future-skills/scotland-labour-market-international-position-skills/
 prev: { title: "Supporting evidence: Understanding Scotland's skills system", url: "/future-skills/understanding-scotland-skills-system/" }
-next: { title: "Supporting evidence: Continuing skills gaps", url: "/future-skills/continuing-skills-gaps" }
+next: { title: "Supporting evidence: Continuing skills gaps", url: "/future-skills/continuing-skills-gaps/" }
 ---
 
 <figure>
@@ -40,4 +40,4 @@ Increasing skills levels in Scotland mirror enhanced access to full-time higher 
 
 However, even as access to formal education has increased, in-work training has fallen. In 2018, 22.5% of 16-64 year olds in work received training at work, down from 31.2% in 2004.
 
-[^1]: [Scotland's Labour Markets Statistics](https://www2.gov.scot/Topics/Statistics/Browse/Labour-Market/LMTrends)
+[^1]: [Scotland's Labour Markets Statistics](https://www2.gov.scot/Topics/Statistics/Browse/Labour-Market/LMTrends/)
