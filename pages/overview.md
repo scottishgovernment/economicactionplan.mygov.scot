@@ -9,6 +9,7 @@ homepage: true
 navitems: overview
 thispage: overview
 parent: home
-hero: toplevelnav.png
+hero: EAPHeroBlues.png
 permalink: /overview/
+cardcategoryimage: DerekMackay.jpg
 ---

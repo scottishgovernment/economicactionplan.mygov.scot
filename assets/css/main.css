@@ -8313,6 +8313,87 @@ body.home {
   transition: background 1s;
 }
 
+/*** PATTERNS ***/
+/* website palette */
+/** category list (card)  **/
+/* include image in tile */
+/* remove tile padding */
+/* line 20, ../_scss/trumps/_trump.eap-redesign.scss */
+.category-item__link {
+  padding: 0;
+}
+
+/* new class - tile image */
+/* line 25, ../_scss/trumps/_trump.eap-redesign.scss */
+.category-item__image {
+  border-bottom: 4px solid #00a4b4;
+  max-width: 100%;
+  width: 100%;
+  height: 150px;
+  margin: 0 auto;
+}
+
+/* line 33, ../_scss/trumps/_trump.eap-redesign.scss */
+.category-item__title {
+  padding: 7px 7px 0;
+  text-align: center;
+  color: #000;
+  margin: 0 0 14px;
+}
+
+/* line 40, ../_scss/trumps/_trump.eap-redesign.scss */
+.category-item__summary {
+  padding: 0 10px 10px;
+  text-align: center;
+}
+
+/* new class - tile button */
+/* line 47, ../_scss/trumps/_trump.eap-redesign.scss */
+.category-item__button {
+  text-align: center;
+}
+/* line 51, ../_scss/trumps/_trump.eap-redesign.scss */
+.category-item__button span {
+  color: #fff;
+  background: #0065bd;
+  padding: 7px 21px;
+  position: absolute;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: table;
+}
+
+/* tile min height */
+/* line 66, ../_scss/trumps/_trump.eap-redesign.scss */
+.card--small {
+  min-height: 285px;
+}
+@media (min-width: 768px) {
+  /* line 66, ../_scss/trumps/_trump.eap-redesign.scss */
+  .card--small {
+    min-height: 330px;
+  }
+}
+
+/** OTHER ELEMENTS **/
+/* line 84, ../_scss/trumps/_trump.eap-redesign.scss */
+.hero-header {
+  background: none;
+  color: #00a4b4;
+}
+
+/* line 92, ../_scss/trumps/_trump.eap-redesign.scss */
+article a {
+  color: inherit;
+  text-decoration: none;
+}
+/* line 96, ../_scss/trumps/_trump.eap-redesign.scss */
+article a:hover {
+  background: #00a4b4;
+}
+
 /**
  * WHOLE THINGS
  */
@@ -8594,12 +8675,12 @@ body.home {
   color: #333;
 }
 
-/* line 142, ../_scss/main.scss */
+/* line 143, ../_scss/main.scss */
 .main-content > h2 {
   margin-top: 0 !important;
 }
 
-/* line 146, ../_scss/main.scss */
+/* line 147, ../_scss/main.scss */
 .main-content p + h2, .main-content ul + h2 {
   margin-top: 1.6em !important;
 }

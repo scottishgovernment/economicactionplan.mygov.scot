@@ -37,12 +37,25 @@
              --><div class="grid__item medium--one-half large--four-twelfths">
 
                     <article class="card card--small card--hover">
+
                         <a href="{{ item.url }}" class="category-item__link  card__content" data-gtm="item-0">
+
+                           
+                            {% if item.cardcategoryimage %}
+                                <img class="category-item__image"
+                                    src="/assets/images/cardcategoryimages/{{item.cardcategoryimage}}"
+                                    srcset="/assets/images/cardcategoryimages/{{item.cardcategoryimage}}"/>
+                            {% endif %}
+                           
+        
                             <h2 class="category-item__title">{{item.title}}</h2>
 
                             <p class="category-item__summary">
                                 {{item.summary}}
                             </p>
+
+                            <p class="category-item__button"><span>Find out more</span></p>    
+
                         </a>
                     </article>
                 </div><!--

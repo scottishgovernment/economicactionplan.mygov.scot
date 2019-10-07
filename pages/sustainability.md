@@ -11,4 +11,5 @@ thispage: sustainability
 parent: home
 hero: sustainability.png
 permalink: /sustainability/
+cardcategoryimage: DSC_0037.jpg
 ---

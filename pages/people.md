@@ -11,4 +11,5 @@ thispage: people
 parent: home
 hero: people.png
 permalink: /people/
+cardcategoryimage: 267398.jpg
 ---
