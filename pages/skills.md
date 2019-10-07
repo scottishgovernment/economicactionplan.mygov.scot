@@ -11,4 +11,5 @@ thispage: skills
 parent: home
 hero: skills.png
 permalink: /skills/
+cardcategoryimage: 233688.jpg
 ---

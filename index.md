@@ -4,5 +4,5 @@ subtitle: "Supporting business, accelerating growth and prosperity for all."
 layout: tiles-hero
 navitems: economic-action-plan
 thispage: home
-hero: toplevelnav.png
+hero: EAPHeroBlues.png
 ---
