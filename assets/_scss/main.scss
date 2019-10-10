@@ -46,17 +46,11 @@ $breakpoint-has-pull:   ('medium', 'large', 'xlarge');
 
 @import "../../node_modules/@scottish-government/mygov-assets/scss/grid";
 
-
-
-
 /*
  * The core mygov styles. These core styles are required for correct display of
  * all of the MyGov Assets components.
  */
  @import "../../node_modules/@scottish-government/mygov-assets/scss/core";
-
-
-
 
 /**
  * HELPERS
