@@ -8124,14 +8124,15 @@ body.home {
 /* line 29, ../_scss/trumps/_trump.hero-header.scss */
 .hero-header__content {
   position: relative;
+  clear: both;
 }
-/* line 33, ../_scss/trumps/_trump.hero-header.scss */
+/* line 34, ../_scss/trumps/_trump.hero-header.scss */
 .hero-header__title {
   border-left: 4px solid #002d54;
   margin: 14px 0 28px;
   padding-left: 20px;
 }
-/* line 39, ../_scss/trumps/_trump.hero-header.scss */
+/* line 40, ../_scss/trumps/_trump.hero-header.scss */
 .hero-header__image {
   display: block;
   margin-left: auto;
@@ -8140,12 +8141,12 @@ body.home {
   max-width: 85%;
   max-height: 100%;
 }
-/* line 48, ../_scss/trumps/_trump.hero-header.scss */
+/* line 49, ../_scss/trumps/_trump.hero-header.scss */
 .hero-header h1 {
   font-weight: 100;
   margin: 0;
 }
-/* line 53, ../_scss/trumps/_trump.hero-header.scss */
+/* line 54, ../_scss/trumps/_trump.hero-header.scss */
 .hero-header__tagline {
   display: block;
   font-weight: 700;
@@ -8156,21 +8157,21 @@ body.home {
   margin-bottom: 0;
 }
 
-/* line 64, ../_scss/trumps/_trump.hero-header.scss */
+/* line 65, ../_scss/trumps/_trump.hero-header.scss */
 .hero-header--secondary {
   background: #002d54;
 }
-/* line 67, ../_scss/trumps/_trump.hero-header.scss */
+/* line 68, ../_scss/trumps/_trump.hero-header.scss */
 .hero-header--secondary .hero-header__title {
   border-left: 4px solid #0065bd;
 }
-/* line 71, ../_scss/trumps/_trump.hero-header.scss */
+/* line 72, ../_scss/trumps/_trump.hero-header.scss */
 .hero-header--secondary .hero-header__tagline {
   color: #00a4b4;
 }
 
 @media (min-width: 768px) {
-  /* line 77, ../_scss/trumps/_trump.hero-header.scss */
+  /* line 78, ../_scss/trumps/_trump.hero-header.scss */
   .hero-header__image {
     position: absolute;
     bottom: 0;
@@ -8179,12 +8180,12 @@ body.home {
     max-width: 100%;
   }
 
-  /* line 85, ../_scss/trumps/_trump.hero-header.scss */
+  /* line 86, ../_scss/trumps/_trump.hero-header.scss */
   .hero-header__content {
     min-height: 210px;
   }
 
-  /* line 89, ../_scss/trumps/_trump.hero-header.scss */
+  /* line 90, ../_scss/trumps/_trump.hero-header.scss */
   .hero-header__title {
     margin: 28px 0 35px;
     max-width: 470px;
@@ -8192,13 +8193,13 @@ body.home {
     z-index: 5000;
   }
 
-  /* line 97, ../_scss/trumps/_trump.hero-header.scss */
+  /* line 98, ../_scss/trumps/_trump.hero-header.scss */
   .hero-header__tagline {
     margin-top: 14px;
   }
 }
 @media (min-width: 992px) {
-  /* line 104, ../_scss/trumps/_trump.hero-header.scss */
+  /* line 105, ../_scss/trumps/_trump.hero-header.scss */
   .hero-header__title {
     margin: 56px 0 89px;
     max-width: 680px;
@@ -8315,17 +8316,59 @@ body.home {
 
 /*** PATTERNS ***/
 /* website palette */
+/** Site Header **/
+/* line 14, ../_scss/trumps/_trump.eap-redesign.scss */
+.site-header {
+  background-color: #fff;
+  box-shadow: 0px 3px 10px 0px rgba(114, 114, 114, 0.25);
+  display: flow-root;
+}
+/* line 19, ../_scss/trumps/_trump.eap-redesign.scss */
+.site-header:before {
+  background-image: linear-gradient(to right, #00a4b4, #00437e);
+  content: '';
+  display: block;
+  height: 7px;
+  margin-bottom: 14px;
+  width: 100%;
+}
+
+/** Epilogue **/
+/* line 32, ../_scss/trumps/_trump.eap-redesign.scss */
+.epilogue {
+  display: block;
+  width: 100%;
+  background: #00a4b4;
+  color: #fff;
+  padding: 20px;
+}
+/* line 40, ../_scss/trumps/_trump.eap-redesign.scss */
+.epilogue .text {
+  display: inline-block;
+  font-style: italic;
+}
+@media (min-width: 768px) {
+  /* line 40, ../_scss/trumps/_trump.eap-redesign.scss */
+  .epilogue .text {
+    max-width: 80%;
+  }
+}
+/* line 50, ../_scss/trumps/_trump.eap-redesign.scss */
+.epilogue .name {
+  font-weight: bold;
+}
+
 /** category list (card)  **/
 /* include image in tile */
 /* remove tile padding */
-/* line 20, ../_scss/trumps/_trump.eap-redesign.scss */
+/* line 63, ../_scss/trumps/_trump.eap-redesign.scss */
 .category-item__link {
   padding: 0;
 }
 
 /* new class - tile image */
-/* line 25, ../_scss/trumps/_trump.eap-redesign.scss */
-.category-item__image {
+/* line 68, ../_scss/trumps/_trump.eap-redesign.scss */
+.home-category-item__image {
   border-bottom: 4px solid #00a4b4;
   max-width: 100%;
   width: 100%;
@@ -8333,65 +8376,85 @@ body.home {
   margin: 0 auto;
 }
 
-/* line 33, ../_scss/trumps/_trump.eap-redesign.scss */
-.category-item__title {
+/* line 76, ../_scss/trumps/_trump.eap-redesign.scss */
+.home-category-item__title {
   padding: 7px 7px 0;
   text-align: center;
   color: #000;
   margin: 0 0 14px;
 }
 
-/* line 40, ../_scss/trumps/_trump.eap-redesign.scss */
-.category-item__summary {
+/* line 83, ../_scss/trumps/_trump.eap-redesign.scss */
+.home-category-item__summary {
   padding: 0 10px 10px;
   text-align: center;
 }
 
 /* new class - tile button */
-/* line 47, ../_scss/trumps/_trump.eap-redesign.scss */
-.category-item__button {
-  text-align: center;
-}
-/* line 51, ../_scss/trumps/_trump.eap-redesign.scss */
-.category-item__button span {
+/* line 90, ../_scss/trumps/_trump.eap-redesign.scss */
+.home-category-item__button {
   color: #fff;
-  background: #0065bd;
+  background: #00437e;
   padding: 7px 21px;
-  position: absolute;
   margin: 0 auto;
-  left: 0;
-  right: 0;
-  bottom: 0;
   display: table;
+}
+/* line 99, ../_scss/trumps/_trump.eap-redesign.scss */
+.home-category-item__button span {
+  display: table-cell;
+  vertical-align: bottom;
 }
 
 /* tile min height */
-/* line 66, ../_scss/trumps/_trump.eap-redesign.scss */
+/* line 107, ../_scss/trumps/_trump.eap-redesign.scss */
 .card--small {
   min-height: 285px;
 }
 @media (min-width: 768px) {
-  /* line 66, ../_scss/trumps/_trump.eap-redesign.scss */
+  /* line 107, ../_scss/trumps/_trump.eap-redesign.scss */
   .card--small {
     min-height: 330px;
   }
 }
 
 /** OTHER ELEMENTS **/
-/* line 84, ../_scss/trumps/_trump.eap-redesign.scss */
+/* line 125, ../_scss/trumps/_trump.eap-redesign.scss */
 .hero-header {
   background: none;
-  color: #00a4b4;
+  color: #00437e;
+}
+/* line 129, ../_scss/trumps/_trump.eap-redesign.scss */
+.hero-header a, .hero-header .link {
+  color: #00437e;
 }
 
-/* line 92, ../_scss/trumps/_trump.eap-redesign.scss */
+/* line 134, ../_scss/trumps/_trump.eap-redesign.scss */
+.hero-header__image {
+  padding: 10px;
+}
+
+/* line 141, ../_scss/trumps/_trump.eap-redesign.scss */
+.breadcrumbs .breadcrumbs__link {
+  color: #00437e;
+}
+/* line 145, ../_scss/trumps/_trump.eap-redesign.scss */
+.breadcrumbs .breadcrumbs__item {
+  color: #727272;
+}
+
+/* line 154, ../_scss/trumps/_trump.eap-redesign.scss */
 article a {
   color: inherit;
   text-decoration: none;
 }
-/* line 96, ../_scss/trumps/_trump.eap-redesign.scss */
+/* line 158, ../_scss/trumps/_trump.eap-redesign.scss */
 article a:hover {
   background: #00a4b4;
+}
+
+/* line 177, ../_scss/trumps/_trump.eap-redesign.scss */
+#site-footer {
+  background: #00437e;
 }
 
 /**
@@ -8675,12 +8738,12 @@ article a:hover {
   color: #333;
 }
 
-/* line 143, ../_scss/main.scss */
+/* line 137, ../_scss/main.scss */
 .main-content > h2 {
   margin-top: 0 !important;
 }
 
-/* line 147, ../_scss/main.scss */
+/* line 141, ../_scss/main.scss */
 .main-content p + h2, .main-content ul + h2 {
   margin-top: 1.6em !important;
 }
