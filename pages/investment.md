@@ -11,5 +11,5 @@ thispage: investment
 parent: home
 hero: investment.png
 permalink: /investment/
-cardcategoryimage: 5820.jpg
+cardcategoryimage: Investment.jpg
 ---

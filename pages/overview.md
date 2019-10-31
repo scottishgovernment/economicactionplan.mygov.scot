@@ -11,5 +11,5 @@ thispage: overview
 parent: home
 hero: EAPHeroBlues.png
 permalink: /overview/
-cardcategoryimage: DerekMackay.jpg
+cardcategoryimage: Overview.jpg
 ---

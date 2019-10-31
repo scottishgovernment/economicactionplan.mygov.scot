@@ -2,8 +2,8 @@
 
     /* website palette */
 
-    $color__brand--primary: #00a4b4;
-    $color__brand--secondary: #00437e;
+    $color__brand--primary: #00a5b5;
+    $color__brand--secondary: #002d54;
     $brand-gradient-direction: left;
     $category-header__border-color: $color__brand--secondary;
     $category-header__title-color: $color__brand--primary;
@@ -31,8 +31,13 @@
 
 .epilogue {
         display: block;
-        width: 100%;
+        margin: 0 auto;
+        padding: 0 10px;
+    
 
+    .container {
+
+        width: 100%;
         background: $color__brand--primary;
         color: #fff;
         padding:20px;
@@ -50,7 +55,7 @@
         .name { 
             font-weight: bold;
         }
-       
+    } 
 }
 
 
@@ -66,24 +71,30 @@
 
     /* new class - tile image */    
         .home-category-item__image {
-            border-bottom: 4px solid $color__brand--primary;
+            border-bottom: 5px solid $color__brand--primary;
             max-width: 100%;
             width:100%;
-            height: 150px;
+       
             margin: 0 auto;
-        }
 
+            @media (min-width: 768px) {
+            
+                height: 142px;
+            }
+        }  
         .home-category-item__title {
             padding: 7px 7px 0;
             text-align: center;
             color:#000;
-            margin:0 0 14px;
+            margin:0;
         }
 
         .home-category-item__summary {
 
-            padding: 0 10px 10px;
+            font-size: 16px;
+            padding: 0 10px;
             text-align: center;
+            line-height: 21px;
         }
  
     /* new class - tile button */    
@@ -94,7 +105,14 @@
             padding:7px 21px;
             margin: 0 auto;
             display: table;
-   
+        
+        
+            @media (min-width: 768px) {
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                right: 0;
+            }    
     
             span {
                 display: table-cell;
@@ -104,12 +122,20 @@
         }
 
     /* tile min height */
+    .card {
+  
+        margin: 10px -5px;
+    }
+
+
     .card--small {
-        min-height: 285px;
+      
+  
 
         @media (min-width: 768px) {
 
-                min-height: 330px;
+            min-height: 294px;
+
         }
     
         @media (min-width: 992px) {
@@ -122,8 +148,46 @@
 
 /** OTHER ELEMENTS **/
 
+    // SG logo header
+    .site-header {
+
+        background-color: #ffffff;
+        box-shadow: 0px 3px 10px 0px rgba(114, 114, 114, 0.25);
+      
+            &:before {
+                background-image: linear-gradient(to right,  $color__brand--primary, $color__brand--secondary);
+                content: '';
+                display: block;
+                height: 7px;
+                margin-bottom: 14px;
+                width: 100%;
+            }
+
+
+        .site-header__title {
+
+            border-left: 2px solid $color__brand--primary;
+            display: inline-block;
+            vertical-align: top;
+            line-height: 38px;
+        
+            
+            a.site-header__link {
+                vertical-align: top;
+                text-decoration: none;
+                margin-left: 15px;
+                font-weight: 300;
+                color: #333;
+    
+            }
+        } 
+    }
+
+
+
+// Hero Header 
 .hero-header {
-    background: none; 
+    background: #ffffff; 
     color: $color__brand--secondary;
 
     a, .link {
@@ -148,15 +212,42 @@
 
 }
 
+.hero-header__title {
 
-article {   
+    h1 {
+        color: $color__brand--secondary;
+    }
+
+    border-left: 4px solid $color__brand--primary;
+}
+
+.hero-header__tagline {
+
+    font-weight: normal;
+}
+
+.hero-header__image {
+    padding: 20px;
+}
+
+
+
+//Prologue
+
+  .prolgue {background: $color__brand--primary;}  
+
+
+.tiles-hero {
+
+    article {   
     
             a {
                 color: inherit;
                 text-decoration: none;
         
                 &:hover {
-                    background: $color__brand--primary;
+                    background: rgba(0,164,180,0.2);
+           
         
                 }
         
@@ -168,11 +259,10 @@ article {
       
                 }
             }
+    } 
+}    
+    .card--hover::after {background: none;}
 
 
-
-
-    }       
-
-#site-footer {background: $color__brand--secondary;}    
-  
+#site-footer {background: $color__brand--secondary;}   
+        
