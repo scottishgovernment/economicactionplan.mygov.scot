@@ -11,5 +11,5 @@ thispage: innovation
 parent: home
 permalink: /innovation/
 hero: innovation.png
-cardcategoryimage: 181436.jpg
+cardcategoryimage: Innovation.jpg
 ---
