@@ -1,13 +1,13 @@
----
+--
 layout: default
 title:  "EU Exit"
 category: overview
 summary: "We will seek to mitigate, as far as possible, the impacts of Brexit."
-index: 8
+index: 99
 parent: overview
 permalink: /overview/eu-exit/
 prev: { title: "Taking Action Now", url: "/overview/taking-action-now/" }
----
+--
 
 ![EU flags](/assets/images/pageimages/overview8.jpg)
 <br>

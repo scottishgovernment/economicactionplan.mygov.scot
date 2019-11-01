@@ -1,13 +1,13 @@
----
+--
 layout: default
 title:  "Our Vision"
 category: overview
 summary: "We want Scotland to be a leader in the technological and social innovations of the future, to harness that innovation to improve lives for the better and to export our solutions to the rest of the world."
-index: 1
+index: 99
 parent: overview
 permalink: /overview/our-vision/
 next: { title: "Transforming Scotland’s Economic Future", url: "/overview/transforming-scotland/"}
----
+--
 
 ![Scottish Saltire flag](/assets/images/pageimages/overview1.jpg)
 <br>

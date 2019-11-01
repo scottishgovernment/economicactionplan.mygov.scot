@@ -1,14 +1,14 @@
----
+--
 layout: default
 title:  "Transforming Scotland’s Economic Future"
 category: overview
 summary: "We are taking positive action to transform Scotland’s economic future."
-index: 2
+index: 99
 parent: overview
 permalink: /overview/transforming-scotland/
 prev: { title: "Our Vision", url: "/overview/our-vision/" }
 next: { title: "Getting the Fundamentals Right", url: "/overview/fundamentals/" }
----
+--
 
 ![The riverside in Glasgow](/assets/images/pageimages/overview2.jpg)
 <br>

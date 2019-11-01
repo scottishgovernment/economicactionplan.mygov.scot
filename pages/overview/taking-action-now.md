@@ -1,14 +1,14 @@
----
+--
 layout: default
 title:  "Taking Action Now"
 category: overview
 summary: "New policy commitments."
-index: 7
+index: 99
 parent: overview
 permalink: /overview/taking-action-now/
 prev: { title: "A Partnership Approach", url: "/overview/a-partnership-approach/"}
 next: { title: "EU Exit", url: "/overview/eu-exit/"}
----
+--
 
 ![Dartboard with darts hitting the bullseye](/assets/images/pageimages/overview7.jpg)
 <br>

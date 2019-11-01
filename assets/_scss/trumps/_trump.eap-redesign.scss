@@ -8,6 +8,11 @@
     $category-header__border-color: $color__brand--secondary;
     $category-header__title-color: $color__brand--primary;
     $site-logo__height--medium: 35px;
+    a, .link {color: $color__brand--secondary;}
+
+    .color-primary-img-wash {
+        background-color: rgba(0,165,181,0.5);
+      }
 
 /** Site Header **/
 
@@ -40,12 +45,13 @@
         width: 100%;
         background: $color__brand--primary;
         color: #fff;
-        padding:20px;
+        padding:30px;
 
         .text {
             display: inline-block;
             font-style: italic; 
-     
+            max-width: 100%;
+
 
                 @media (min-width: 768px) {
                     max-width: 80%;
@@ -74,14 +80,23 @@
             border-bottom: 5px solid $color__brand--primary;
             max-width: 100%;
             width:100%;
-       
+            display: block;
+            position: relative;
             margin: 0 auto;
 
             @media (min-width: 768px) {
             
                 height: 142px;
             }
-        }  
+            img {
+                background-color: 
+                linear-gradient(
+                    rgba(255, 0, 0, 0.45), 
+                    rgba(255, 0, 0, 0.45)
+                )
+            }    
+        }
+
         .home-category-item__title {
             padding: 7px 7px 0;
             text-align: center;
@@ -98,15 +113,14 @@
         }
  
     /* new class - tile button */    
+        
         .home-category-item__button {
             
-            color:#fff;
-            background: $color__brand--secondary;
-            padding:7px 21px;
+            display: block;
             margin: 0 auto;
-            display: table;
-        
-        
+            vertical-align: bottom;
+            text-align: center;
+
             @media (min-width: 768px) {
                 position: absolute;
                 bottom: 0;
@@ -115,13 +129,15 @@
             }    
     
             span {
-                display: table-cell;
-                vertical-align: bottom;
+                    display: inline-block;
+                    color:#fff;
+                    background: $color__brand--secondary;
+                    padding:7px 21px;
                 }
 
         }
 
-    /* tile min height */
+    /* card min height */
     .card {
   
         margin: 10px -5px;
@@ -189,10 +205,6 @@
 .hero-header {
     background: #ffffff; 
     color: $color__brand--secondary;
-
-    a, .link {
-        color: $color__brand--secondary;
-    }
 }
 
 .hero-header__image {
@@ -260,9 +272,43 @@
                 }
             }
     } 
-}    
+
     .card--hover::after {background: none;}
+
+    /* card min height */
+    .card {
+  
+        margin: 10px -5px;
+    }
+
+
+    .card--small {
+  
+        @media (min-width: 768px) {
+
+            min-height: 294px;
+
+        }
+
+        @media (min-width: 992px) {
+     
+        }
+
+    } 
+
+}    
+   
 
 
 #site-footer {background: $color__brand--secondary;}   
-        
+
+.ds_site-footer__copyright-logo {
+
+    img {
+
+    height: 15px;
+    }
+}
+
+/* Image Mask */
+

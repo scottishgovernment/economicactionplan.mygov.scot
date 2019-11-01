@@ -1,14 +1,14 @@
----
+--
 layout: default
 title:  "Getting the Fundamentals Right "
 category: overview
 summary: "We are taking action across all elements of inclusive growth."
-index: 3
+index: 99
 parent: overview
 permalink: /overview/fundamentals/
 prev: { title: "Transforming Scotland’s Economic Future", url: "/overview/transforming-scotland/"}
 next: { title: "Scotland Leading the Way", url: "/overview/scotland-leading-the-way/"}
----
+--
 
 ![A pen ticking a checkbox](/assets/images/pageimages/overview3.jpg)
 <br>
