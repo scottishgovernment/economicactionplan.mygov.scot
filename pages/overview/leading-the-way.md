@@ -1,14 +1,14 @@
----
+--
 layout: default
 title:  "Scotland Leading the Way"
 category: overview
 summary: "Responding to global challenges."
-index: 4
+index: 99
 parent: overview
 permalink: /overview/scotland-leading-the-way/
 prev: { title: "Getting the Fundamentals Right", url: "/overview/fundamentals/" }
 next: { title: "Scotland Is Open for Business", url: "/overview/open-for-business/" }
----
+--
 
 ![Map of Scotland](/assets/images/pageimages/overview4.jpg)
 <br>

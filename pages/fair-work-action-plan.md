@@ -1,4 +1,4 @@
----
+--
 layout: tiles-hero
 title:  "Fair Work Action Plan"
 category: economic-action-plan
@@ -10,4 +10,4 @@ thispage: fair-work-action-plan
 parent: home
 permalink: /fair-work/
 hero: fairwork.png
----
+--

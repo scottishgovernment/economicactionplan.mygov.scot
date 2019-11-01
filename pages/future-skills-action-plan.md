@@ -1,4 +1,4 @@
----
+--
 layout: tiles-hero-future-skills
 title:  "Scotland's Future Skills Action Plan"
 category: economic-action-plan
@@ -11,4 +11,4 @@ parent: home
 permalink: /future-skills/
 hero: FutureSkillsfinal.svg
 homepage: true
----
+--

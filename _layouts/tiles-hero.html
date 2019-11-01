@@ -28,15 +28,17 @@
 
 <div id="body-wrapper">
 
-        <div class="wrapper main epilogue">
-            <div class="container">
-                <span class="text">"Our Economic Action Plan sets out the steps we are taking to
-                create a low carbon and sustainable economy based on Scotland's Economic Strategy, which benefits
-                everyone in Scotland. "</span>
-                <span class="name">Mr Derek Mackay MSP</span>
-            </div>
-        </div>
 
+        {% if page.thispage == 'home' and page.thispage != 404 %}
+            <div class="wrapper main epilogue">
+                <div class="container">
+                     <span class="text">"Our Economic Action Plan sets out the steps we are taking to
+                    create a low carbon and sustainable economy based on Scotland's Economic Strategy, which benefits
+                    everyone in Scotland. "</span>
+                    <span class="name">Mr Derek Mackay MSP</span>
+                </div>
+            </div>
+        {% endif %}
 
 
     <div class="category-list-container">
@@ -66,7 +68,7 @@
                                 {{item.summary}}
                             </p>
 
-                            <p class="home-category-item__button"><span>Find out more</span></p>    
+                            <div class="home-category-item__button"><span>Find out more</span></div>    
                 {% else %}
    
                             <h2 class="category-item__title">{{item.title}}</h2>
