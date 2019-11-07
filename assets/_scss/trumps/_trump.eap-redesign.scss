@@ -35,35 +35,34 @@
 /** Epilogue **/
 
 .epilogue {
+
+    display: none;
+
+    @media (min-width: 768px) {
         display: block;
         margin: 0 auto;
         padding: 0 10px;
     
 
-    .container {
+        .container {
 
-        width: 100%;
-        background: $color__brand--primary;
-        color: #fff;
-        padding:30px;
+            width: 100%;
+            background: $color__brand--primary;
+            color: #fff;
+            padding:30px;
 
-        .text {
-            display: inline-block;
-            font-style: italic; 
-            max-width: 100%;
-
-
-                @media (min-width: 768px) {
-                    max-width: 80%;
-                }
+            .text {
+                display: inline-block;
+                font-style: italic; 
+                max-width: 80%;       
             }
         
-        .name { 
-            font-weight: bold;
-        }
-    } 
+            .name { 
+                font-weight: bold;
+            }
+        } 
+    }
 }
-
 
 
 /** category list (card)  **/
@@ -87,14 +86,7 @@
             @media (min-width: 768px) {
             
                 height: 142px;
-            }
-            img {
-                background-color: 
-                linear-gradient(
-                    rgba(255, 0, 0, 0.45), 
-                    rgba(255, 0, 0, 0.45)
-                )
-            }    
+            }   
         }
 
         .home-category-item__title {
@@ -185,8 +177,13 @@
             border-left: 2px solid $color__brand--primary;
             display: inline-block;
             vertical-align: top;
-            line-height: 38px;
-        
+            line-height: 28px;
+            margin-bottom: 7px;
+
+            @media (min-width: 768px) {
+                line-height: 38px;
+                margin-bottom: 0;
+            }
             
             a.site-header__link {
                 vertical-align: top;
@@ -209,7 +206,11 @@
 
 .hero-header__image {
 
-    padding: 10px;
+    display: none;
+        @media (min-width: 768px) {
+            display: block;
+            padding: 10px;
+    }
 }
 
 .breadcrumbs {
@@ -236,6 +237,12 @@
 .hero-header__tagline {
 
     font-weight: normal;
+    font-size: 18px;
+
+    @media (min-width: 768px) {
+        font-size: 24px;
+   
+    }
 }
 
 .hero-header__image {
@@ -259,16 +266,13 @@
         
                 &:hover {
                     background: rgba(0,164,180,0.2);
-           
-        
                 }
-        
-                &:active {
-
-                }
-        
+                
                 &:focus {
       
+                    background: rgba(255,255,255,1);
+                    border: 4px solid $color__brand--secondary;
+                    margin: -4px;
                 }
             }
     } 
@@ -300,15 +304,30 @@
    
 
 
-#site-footer {background: $color__brand--secondary;}   
+#site-footer {background: $color__brand--secondary;
 
-.ds_site-footer__copyright-logo {
 
-    img {
+    .site-footer__gov-logo {
 
-    height: 15px;
+        padding: 0 0 30px;
+        display: inline-block;
+        margin:0;
+        font-weight: bold;
+
+        @media (min-width: 768px) {
+
+            padding-bottom: 0;
+            display: block;
+    
+        }
+    }
+
+
+    .ds_site-footer__copyright-logo {
+
+        img {
+
+        height: 15px;
+        }
     }
 }
-
-/* Image Mask */
-
