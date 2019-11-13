@@ -41,9 +41,13 @@
     </script>
     <!-- End Google Tag Manager -->
 
-    <script type="text/javascript" src="/assets/js/usertype.js"></script>
+    <!-- Browsers with ES module support load these files -->
+    <script type="module" src="/assets/scripts/dist/usertype.js"></script>
 
-  
+    <!-- Older browsers load these files -->
+    <!-- (and module-supporting browsers know *not* to load these files) -->
+    <script nomodule="" src="/assets/scripts/dist/usertype.es5.js"></script>
+
   <style>
         /* captions for images, hacked together for markdown */
         img + em {

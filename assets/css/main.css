@@ -7924,73 +7924,163 @@ body.home {
   padding: 0.2em 1.5em 1em;
 }
 
-/* line 1, ../_scss/components/_component.notifications.scss */
-.notification {
-  top: -100%;
-  -webkit-transition: top .4s;
-  transition: top .4s;
-  background: #333333;
-  border-bottom: 1px solid #ffffff;
-  color: #ffffff;
+/*------------------------------------*\
+    NOTIFICATION BANNER
+\*------------------------------------*/
+/* line 11, ../_scss/components/_component.notifications.scss */
+.ds_reversed a,
+.ds_reversed .ds_link {
+  color: currentColor;
 }
-/* line 10, ../_scss/components/_component.notifications.scss */
-.notification p {
-  margin: 7px 0 0;
-  padding-right: 40px;
-}
-/* line 15, ../_scss/components/_component.notifications.scss */
-.notification a {
-  color: #ffffff;
-}
-/* line 19, ../_scss/components/_component.notifications.scss */
-.notification .wrapper {
-  position: relative;
-  padding: 8px 15px 12px;
-}
-/* line 24, ../_scss/components/_component.notifications.scss */
-.notification .close-notification {
-  background: url(../images/icons/notification_close_white.png) no-repeat top right transparent;
-  height: 27px;
-  margin: 0;
+
+/* line 16, ../_scss/components/_component.notifications.scss */
+.visually-hidden {
+  clip: rect(1px 1px 1px 1px);
+  /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  width: 1px;
   overflow: hidden;
-  position: absolute;
-  right: 15px;
-  text-indent: -999em;
-  top: 14px;
-  width: 27px;
-  transition: opacity 1s;
+  position: absolute !important;
 }
-@media only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx) {
-  /* line 24, ../_scss/components/_component.notifications.scss */
-  .notification .close-notification {
-    background-image: url("../images/icons/notification_close_white_@2x.png");
-    background-size: 27px 27px;
-  }
+
+/* line 24, ../_scss/components/_component.notifications.scss */
+.fully-hidden {
+  display: none;
 }
-/* line 39, ../_scss/components/_component.notifications.scss */
-.notification .close-notification:hover, .notification .close-notification:active {
-  opacity: 0.5;
-  transition: opacity 0.2s;
+
+/* line 31, ../_scss/components/_component.notifications.scss */
+.ds_notification {
+  background: #333333;
+  color: #ffffff;
+  margin-bottom: 1px;
+  background: #e5f0f8;
+  color: #333333;
+}
+/* line 40, ../_scss/components/_component.notifications.scss */
+.ds_notification__content {
+  display: flex;
+  align-items: center;
+  padding: 14px 0;
+  position: relative;
 }
 /* line 47, ../_scss/components/_component.notifications.scss */
-.notification.strong {
+.ds_notification__content--has-close {
+  padding-right: 45px;
+}
+/* line 52, ../_scss/components/_component.notifications.scss */
+.ds_notification__text {
+  display: inline-block;
+  margin-right: 20px;
+}
+/* line 56, ../_scss/components/_component.notifications.scss */
+.ds_notification__text > :last-child {
+  margin-bottom: 0;
+}
+/* line 60, ../_scss/components/_component.notifications.scss */
+.ds_notification__text:last-child {
+  margin-bottom: 0;
+}
+/* line 65, ../_scss/components/_component.notifications.scss */
+.ds_notification__actions {
+  display: inline-block;
+  margin: 7px 0 -7px;
+}
+/* line 69, ../_scss/components/_component.notifications.scss */
+.ds_notification__actions > * {
+  margin-top: 0;
+  margin-right: 5px;
+  margin-bottom: 14px;
+}
+/* line 76, ../_scss/components/_component.notifications.scss */
+.ds_notification__icon {
+  background-color: currentColor;
+  border-radius: 100px;
+  display: block;
+  float: left;
+  height: 29px;
+  line-height: 0;
+  margin-left: -5px;
+  padding: 5px;
+  width: 29px;
+}
+/* line 87, ../_scss/components/_component.notifications.scss */
+.ds_notification__icon + .ds_notification__text {
+  margin-left: 40px;
+}
+/* line 92, ../_scss/components/_component.notifications.scss */
+.ds_notification__close {
+  background: transparent;
+  box-sizing: content-box;
+  color: currentColor;
+  display: none;
+  font-size: 14px;
+  height: 21px;
+  margin: -5px -5px -5px 25px;
+  padding: 5px;
+  position: absolute;
+  right: 0;
+  top: 14px;
+  width: 21px;
+}
+/* line 106, ../_scss/components/_component.notifications.scss */
+.ds_notification__close:hover {
+  background-color: transparent;
+}
+/* line 110, ../_scss/components/_component.notifications.scss */
+.ds_notification__close:hover:not(:focus) {
+  background-color: transparent;
+  color: currentColor;
+  outline: 2px solid currentColor;
+}
+/* line 117, ../_scss/components/_component.notifications.scss */
+.ds_notification--major {
   background: #ffb644;
+}
+/* line 120, ../_scss/components/_component.notifications.scss */
+.ds_notification--major .ds_notification__icon svg {
+  fill: #ffb644;
+}
+/* line 127, ../_scss/components/_component.notifications.scss */
+.ds_notification--major .ds_notification__close:focus,
+.ds_notification--major a:focus {
+  outline-color: #333333;
   color: #333333;
 }
-/* line 51, ../_scss/components/_component.notifications.scss */
-.notification.strong a {
-  color: #333333;
+/* line 132, ../_scss/components/_component.notifications.scss */
+.ds_notification--major .ds_notification__close:active,
+.ds_notification--major a:active {
+  background-color: #333333;
+  color: #ffb644 !important;
 }
-/* line 55, ../_scss/components/_component.notifications.scss */
-.notification.strong .close-notification {
-  background-image: url(../images/icons/notification_close_grey.png);
+/* line 139, ../_scss/components/_component.notifications.scss */
+.ds_notification--positive {
+  background: #4e9d52;
+  color: #ffffff;
 }
-@media only screen and (min--moz-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 2.6 / 2), only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (min-device-pixel-ratio: 1.3), only screen and (min-resolution: 1.3dppx) {
-  /* line 55, ../_scss/components/_component.notifications.scss */
-  .notification.strong .close-notification {
-    background-image: url("../images/icons/notification_close_grey_@2x.png");
-    background-size: 27px 27px;
+/* line 143, ../_scss/components/_component.notifications.scss */
+.ds_notification--positive .ds_notification__icon svg {
+  fill: #4e9d52;
+}
+/* line 148, ../_scss/components/_component.notifications.scss */
+.ds_notification--negative {
+  background: #d32205;
+  color: #ffffff;
+}
+/* line 152, ../_scss/components/_component.notifications.scss */
+.ds_notification--negative .ds_notification__icon svg {
+  fill: #d32205;
+}
+
+@media (min-width: 768px) {
+  /* line 159, ../_scss/components/_component.notifications.scss */
+  .ds_notification__close {
+    top: 18px;
   }
+}
+/* line 165, ../_scss/components/_component.notifications.scss */
+.js-enabled .ds_notification__close {
+  display: block;
 }
 
 /**

@@ -1,61 +1,168 @@
-.notification {
+/*------------------------------------*\
+    NOTIFICATION BANNER
+\*------------------------------------*/
 
-  top: -100%;
-  -webkit-transition: top .4s;
-  transition: top .4s;
-  background: $notification__background--normal;;
-  border-bottom: 1px solid $color__white;
-  color: $notification__foreground--normal;
+$pl-prefix: 'ds_';
+$small-size--fixed: 14px;
 
-  p {
-    margin: 7px 0 0;
-    padding-right: 40px;
-  }
+$notification-banner__close-padding: 5px !default;
+$notification-banner__icon-padding: $notification-banner__close-padding !default;
 
-  a {
-    color: $notification__foreground--normal;
-  }
+.#{$pl-prefix}reversed a,
+.#{$pl-prefix}reversed .#{$pl-prefix}link {
+  color: currentColor;
+}
 
-  .wrapper {
-    position: relative;
-    padding: 8px 15px 12px;
-  }
+.visually-hidden {
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px; width: 1px;
+  overflow: hidden;
+  position: absolute !important;
+}
 
-  .close-notification {
-    background: url(../images/icons/notification_close_white.png) no-repeat top right transparent;
-    height: 27px;
-    margin: 0;
-    overflow: hidden;
-    position: absolute;
-    right: 15px;
-    text-indent: -999em;
-    top: 14px;
-    width: 27px;
+.fully-hidden {
+  display: none;
+}
 
-    transition: opacity $transition-out-time;
 
-    @include image-2x(get2xImage('../images/icons/notification_close_white.png'), 27px, 27px);
 
-    &:hover,
-    &:active {
-      opacity: 0.5;
 
-      transition: opacity $transition-in-time;
-    }
-  }
+.#{$pl-prefix}notification {
+    background: $color__grey--dark;
+    color: $color__white;
+    margin-bottom: 1px;
 
-  &.strong {
-    background: $notification__background--strong;
-    color: $notification__foreground--strong;
 
-    a {
-      color: $notification__foreground--strong;
+    background: $color__blue--lighter;
+    color: $color__body;
+
+    &__content {
+      display: flex;
+      align-items: center;
+
+        padding: 14px 0;
+        position: relative;
+
+        &--has-close {
+            padding-right: 45px;
+        }
     }
 
-    .close-notification {
-      background-image: url(../images/icons/notification_close_grey.png);
+    &__text {
+        display: inline-block;
+        margin-right: 20px;
 
-      @include image-2x(get2xImage('../images/icons/notification_close_grey.png'), 27px, 27px);
+        > :last-child {
+            margin-bottom: 0;
+        }
+
+        &:last-child {
+            margin-bottom: 0;
+        }
     }
-  }
+
+    &__actions {
+        display: inline-block;
+        margin: 7px 0 -7px;
+
+        > * {
+            margin-top: 0;
+            margin-right: 5px;
+            margin-bottom: 14px;
+        }
+    }
+
+    &__icon {
+        background-color: currentColor;
+        border-radius: 100px;
+        display: block;
+        float: left;
+        height: 29px;
+        line-height: 0;
+        margin-left: -5px;
+        padding: 5px;
+        width: 29px;
+
+        + .#{$pl-prefix}notification__text {
+            margin-left: 40px;
+        }
+    }
+
+    &__close {
+        background: transparent;
+        box-sizing: content-box;
+        color: currentColor;
+        display: none;
+        font-size: $small-size--fixed;
+        height: 21px;
+        margin: #{$notification-banner__close-padding * -1} #{$notification-banner__close-padding * -1} #{$notification-banner__close-padding * -1} 25px;
+        padding: $notification-banner__close-padding;
+        position: absolute;
+        right: 0;
+        top: 14px;
+        width: 21px;
+
+        &:hover {
+            background-color: transparent;
+        }
+
+        &:hover:not(:focus) {
+            background-color: transparent;
+            color: currentColor;
+            outline: 2px solid currentColor;
+        }
+    }
+
+    &--major {
+        background: $color__gold--base;
+
+        .#{$pl-prefix}notification__icon svg {
+            fill: $color__gold--base;
+        }
+
+        // major needs special behavour for focus/active state of its interactive elements
+        .#{$pl_prefix}notification__close,
+        a {
+            &:focus {
+                outline-color: $color__body;
+                color: $color__body;
+            }
+
+            &:active {
+                background-color: $color__body;
+                color: $color__gold--base !important;
+            }
+        }
+    }
+
+    &--positive {
+        background: $color__green--base;
+        color: $color__white;
+
+        .#{$pl-prefix}notification__icon svg {
+            fill: $color__green--base;
+        }
+    }
+
+    &--negative {
+        background: $color__red--base;
+        color: $color__white;
+
+        .#{$pl-prefix}notification__icon svg {
+            fill: $color__red--base;
+        }
+    }
+}
+
+@include media-query(medium) {
+    .#{$pl-prefix}notification__close {
+        top: 18px;
+    }
+}
+
+.js-enabled {
+    .#{$pl-prefix}notification__close {
+        display: block;
+    }
 }
