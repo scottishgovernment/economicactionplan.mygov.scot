@@ -28,11 +28,10 @@
 
 <div id="body-wrapper">
 
-
         {% if page.thispage == 'home' and page.thispage != 404 %}
-            <div class="wrapper main epilogue">
+            <div class="wrapper main prologue">
                 <div class="container">
-                     <span class="text">"Our Economic Action Plan sets out the steps we are taking to
+                     <span class="text">" Our Economic Action Plan sets out the steps we are taking to
                     create a low carbon and sustainable economy based on Scotland's Economic Strategy, which benefits
                     everyone in Scotland. "</span>
                     <span class="name">Mr Derek Mackay MSP</span>
@@ -49,37 +48,25 @@
                     {% for item in indexed %}
              --><div class="grid__item medium--one-half large--four-twelfths">
 
-                    <article class="card card--small card--hover">
+                    <article class="card card--small card--hover card-image">
 
                         <a href="{{ item.url }}" class="category-item__link  card__content" data-gtm="item-0">
 
-                {% if page.thispage == 'home' and page.thispage != 404 %}
                            
                             {% if item.cardcategoryimage %}
-                                <img class="home-category-item__image"
+                                <img class="category-item__image"
                                     src="/assets/images/cardcategoryimages/{{item.cardcategoryimage}}"
                                     srcset="/assets/images/cardcategoryimages/{{item.cardcategoryimage}}"/>
                             {% endif %}
                            
-        
-                            <h2 class="home-category-item__title">{{item.title}}</h2>
+                                <h2 class="category-item__title">{{item.title}}</h2>
 
-                            <p class="home-category-item__summary">
-                                {{item.summary}}
-                            </p>
+                                <p class="category-item__summary">{{item.summary}}</p>
 
-                            <div class="home-category-item__button"><span>Find out more</span></div>    
-                {% else %}
-   
-                            <h2 class="category-item__title">{{item.title}}</h2>
-
-                            <p class="category-item__summary">
-                                {{item.summary}}
-                            </p>
-
-                {% endif %}
-   
+                                <div class="category-item__button"><span>Find out more</span></div>    
+                
                         </a>
+
                     </article>
                 </div><!--
                     {% endfor %}
@@ -88,15 +75,10 @@
         </div>
         <br class="clearfix">
     </div>
-    
-
-
 
 </div>
-
 
 {% include footer.html %}
 
 </body>
-
 </html>

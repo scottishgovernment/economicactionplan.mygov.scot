@@ -1,13 +1,13 @@
 ---
 layout: default
 title:  "Realising the climate enterprise opportunity"
-category: overview
+category: the-3rs
 summary: "Description TBC"
 index: 5
-parent: overview
-permalink: /overview/realising-the-climate-enterprise-opportunity/
-prev: { title: "Transforming our support for business", url: "/overview/transforming-our-support-for-business/" }
-next: { title: "Unlocking entrepreneurship", url: "/overview/unlocking-entrepreneurship"}
+parent: the-3rs
+permalink: /overview/the-3rs/realising-the-climate-enterprise-opportunity/
+prev: { title: "Transforming our support for business", url: "/overview/the-3rs/transforming-our-support-for-business/" }
+next: { title: "Unlocking entrepreneurship", url: "/overview/the-3rs/unlocking-entrepreneurship"}
 ---
 
 The climate emergency brings challenges which we are facing head-on, but it also creates an unprecedented opportunity to share our leading expertise and skills in this area across the globe.  

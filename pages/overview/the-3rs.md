@@ -4,6 +4,8 @@ title:  "The 3Rs: Resilience, Recovery and Restructuring"
 category: overview
 summary: "Description TBC"
 index: 2
+navitems: the-3rs
+thispage: the-3rs
 parent: overview
 permalink: /overview/resilience-recovery-restructuring/
 prev: { title: "Foreword", url: "/overview/foreword/" }
@@ -26,8 +28,8 @@ The initiatives set out in our Economic Action Plan are organised by the fundame
 
 To ensure we build resilience, enable recovery and growth, and restructure for the future, there will be a particular focus on:
 
-- Transforming our support for business [link]
-- Realising the climate enterprise opportunity [link]
+- [Transforming our support for business ](/overview/the-3rs/transforming-our-support-for-business/)
+- [Realising the climate enterprise opportunity](/overview/the-3rs/realising-the-climate-enterprise-opportunity/)
 - Unlocking entrepreneurship [link]
 - Developing the right skills [link]
 - Emphasising the importance of every place in Scotland [link] 
