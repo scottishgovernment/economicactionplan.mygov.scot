@@ -5,6 +5,18 @@
 
 <body class="home tiles-hero">
 
+<!-- image wash values -->
+    <svg class="wash-val">
+        <filter id="monochrome" color-interpolation-filters="linearRGB"
+            x="0" y="0" height="100%" width="100%">
+            <feColorMatrix type="matrix"
+            values="0.5   0    0     0     0
+                    0     0.65  0    0     0
+                    0     0     0.71 0     0
+                    0     0     0    0.9   0"/>
+        </filter>
+    </svg>
+
 <div class="header-wrapper  header-wrapper--border  hero-header">
 {% include header.html %}
 
@@ -52,12 +64,12 @@
 
                         <a href="{{ item.url }}" class="category-item__link  card__content" data-gtm="item-0">
 
-                           
-                            {% if item.cardcategoryimage %}
-                                <img class="category-item__image"
+                            {% if item.cardcategoryimage %}              
+                                <img class="category-item__image img-wash"
                                     src="/assets/images/cardcategoryimages/{{item.cardcategoryimage}}"
                                     srcset="/assets/images/cardcategoryimages/{{item.cardcategoryimage}}"/>
                             {% endif %}
+
                            
                                 <h2 class="category-item__title">{{item.title}}</h2>
 
