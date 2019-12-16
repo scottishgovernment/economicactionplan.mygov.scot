@@ -38,7 +38,6 @@ $notification-banner__icon-padding: $notification-banner__close-padding !default
     color: $color__body;
 
     &__content {
-      display: flex;
       align-items: center;
 
         padding: 14px 0;
@@ -52,10 +51,6 @@ $notification-banner__icon-padding: $notification-banner__close-padding !default
     &__text {
         display: inline-block;
         margin-right: 20px;
-
-        > :last-child {
-            margin-bottom: 0;
-        }
 
         &:last-child {
             margin-bottom: 0;

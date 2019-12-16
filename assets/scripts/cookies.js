@@ -38,7 +38,7 @@ const cookieModule = {
             );
 
             storage.setCookie(
-                storage.categories.preferences,
+                storage.categories.necessary,
                 'cookie-notification-acknowledged',
                 'yes',
                 365
@@ -125,18 +125,17 @@ const cookieModule = {
 
                 storage.set({
                     type: 'cookie',
-                    category: 'preferences',
+                    category: 'necessary',
                     name: 'cookie-notification-acknowledged',
                     value: 'yes',
                     expires: 365
                 });
 
-                document.querySelector('#cookie-success-message').classList.remove('fully-hidden');
-                document.querySelector('#cookie-success-message').style.top = '35px';
-
                 // hide cookie notice
                 that.cookieNotice.classList.add('fully-hidden');
                 that.cookieConfirm.classList.remove('fully-hidden');
+
+                window.scrollTo(window.scrollX, 0);
             });
         }
 

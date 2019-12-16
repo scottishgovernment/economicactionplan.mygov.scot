@@ -7959,40 +7959,35 @@ body.home {
 }
 /* line 40, ../_scss/components/_component.notifications.scss */
 .ds_notification__content {
-  display: flex;
   align-items: center;
   padding: 14px 0;
   position: relative;
 }
-/* line 47, ../_scss/components/_component.notifications.scss */
+/* line 46, ../_scss/components/_component.notifications.scss */
 .ds_notification__content--has-close {
   padding-right: 45px;
 }
-/* line 52, ../_scss/components/_component.notifications.scss */
+/* line 51, ../_scss/components/_component.notifications.scss */
 .ds_notification__text {
   display: inline-block;
   margin-right: 20px;
 }
-/* line 56, ../_scss/components/_component.notifications.scss */
-.ds_notification__text > :last-child {
-  margin-bottom: 0;
-}
-/* line 60, ../_scss/components/_component.notifications.scss */
+/* line 55, ../_scss/components/_component.notifications.scss */
 .ds_notification__text:last-child {
   margin-bottom: 0;
 }
-/* line 65, ../_scss/components/_component.notifications.scss */
+/* line 60, ../_scss/components/_component.notifications.scss */
 .ds_notification__actions {
   display: inline-block;
   margin: 7px 0 -7px;
 }
-/* line 69, ../_scss/components/_component.notifications.scss */
+/* line 64, ../_scss/components/_component.notifications.scss */
 .ds_notification__actions > * {
   margin-top: 0;
   margin-right: 5px;
   margin-bottom: 14px;
 }
-/* line 76, ../_scss/components/_component.notifications.scss */
+/* line 71, ../_scss/components/_component.notifications.scss */
 .ds_notification__icon {
   background-color: currentColor;
   border-radius: 100px;
@@ -8004,11 +7999,11 @@ body.home {
   padding: 5px;
   width: 29px;
 }
-/* line 87, ../_scss/components/_component.notifications.scss */
+/* line 82, ../_scss/components/_component.notifications.scss */
 .ds_notification__icon + .ds_notification__text {
   margin-left: 40px;
 }
-/* line 92, ../_scss/components/_component.notifications.scss */
+/* line 87, ../_scss/components/_component.notifications.scss */
 .ds_notification__close {
   background: transparent;
   box-sizing: content-box;
@@ -8023,62 +8018,62 @@ body.home {
   top: 14px;
   width: 21px;
 }
-/* line 106, ../_scss/components/_component.notifications.scss */
+/* line 101, ../_scss/components/_component.notifications.scss */
 .ds_notification__close:hover {
   background-color: transparent;
 }
-/* line 110, ../_scss/components/_component.notifications.scss */
+/* line 105, ../_scss/components/_component.notifications.scss */
 .ds_notification__close:hover:not(:focus) {
   background-color: transparent;
   color: currentColor;
   outline: 2px solid currentColor;
 }
-/* line 117, ../_scss/components/_component.notifications.scss */
+/* line 112, ../_scss/components/_component.notifications.scss */
 .ds_notification--major {
   background: #ffb644;
 }
-/* line 120, ../_scss/components/_component.notifications.scss */
+/* line 115, ../_scss/components/_component.notifications.scss */
 .ds_notification--major .ds_notification__icon svg {
   fill: #ffb644;
 }
-/* line 127, ../_scss/components/_component.notifications.scss */
+/* line 122, ../_scss/components/_component.notifications.scss */
 .ds_notification--major .ds_notification__close:focus,
 .ds_notification--major a:focus {
   outline-color: #333333;
   color: #333333;
 }
-/* line 132, ../_scss/components/_component.notifications.scss */
+/* line 127, ../_scss/components/_component.notifications.scss */
 .ds_notification--major .ds_notification__close:active,
 .ds_notification--major a:active {
   background-color: #333333;
   color: #ffb644 !important;
 }
-/* line 139, ../_scss/components/_component.notifications.scss */
+/* line 134, ../_scss/components/_component.notifications.scss */
 .ds_notification--positive {
   background: #4e9d52;
   color: #ffffff;
 }
-/* line 143, ../_scss/components/_component.notifications.scss */
+/* line 138, ../_scss/components/_component.notifications.scss */
 .ds_notification--positive .ds_notification__icon svg {
   fill: #4e9d52;
 }
-/* line 148, ../_scss/components/_component.notifications.scss */
+/* line 143, ../_scss/components/_component.notifications.scss */
 .ds_notification--negative {
   background: #d32205;
   color: #ffffff;
 }
-/* line 152, ../_scss/components/_component.notifications.scss */
+/* line 147, ../_scss/components/_component.notifications.scss */
 .ds_notification--negative .ds_notification__icon svg {
   fill: #d32205;
 }
 
 @media (min-width: 768px) {
-  /* line 159, ../_scss/components/_component.notifications.scss */
+  /* line 154, ../_scss/components/_component.notifications.scss */
   .ds_notification__close {
     top: 18px;
   }
 }
-/* line 165, ../_scss/components/_component.notifications.scss */
+/* line 160, ../_scss/components/_component.notifications.scss */
 .js-enabled .ds_notification__close {
   display: block;
 }
