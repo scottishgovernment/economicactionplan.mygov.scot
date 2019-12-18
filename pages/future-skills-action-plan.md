@@ -1,7 +1,7 @@
---
+---
 layout: tiles-hero-future-skills
 title:  "Scotland's Future Skills Action Plan"
-category: economic-action-plan
+category: economic-action-plan--hold
 summary: "Scotland's  Future Skills Action Plan reaffirms the importance of skills in helping individuals reach their potential and achieving our goal of a more inclusive & productive economy."
 subtitle: "Scotland's  Future Skills Action Plan reaffirms the importance of skills in helping individuals reach their potential and achieving our goal of a more inclusive & productive economy."
 index: 100
@@ -11,4 +11,4 @@ parent: home
 permalink: /future-skills/
 hero: FutureSkillsfinal.svg
 homepage: true
---
+---

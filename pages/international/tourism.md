@@ -8,8 +8,7 @@ parent: international
 permalink: /international/tourism/
 prev: { title: "Migration", url: "/international/migration/" }
 ---
-![A sightseeing bus](/assets/images/pageimages/international.5.jpg)
-*Image courtesy of Scotland is Now*
+![](/assets/images/pageimages/International.18.jpg)
 
 <hr>
 * **Our national tourism organisation VisitScotland has a budget of more than £45 million a year**

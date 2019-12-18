@@ -27,9 +27,12 @@ We know that businesses want a competitive and stable tax system, streamlined an
 
 We have significantly reduced or abolished business rates for over 100,000 premises – saving small businesses almost £1.5 billion cumulatively since 2008  – and are providing an extra £100 million of business rate support in 2018-19, including a new Growth Accelerator. This measure, unique in the UK, suspends the non-domestic rates liability for new build properties until 12 months after they are first occupied and ensures improved properties will not see increases in their rates bill resulting from the improvements until one year after completion of the works.
 
+![](/assets/images/infographics/Enterprise.16.jpg)
+<br>
+
 We will bring forward a Non-Domestic Rates Bill to implement the agreed recommendations of the Barclay Review that require primary legislation in early 2019 such as the move to three-yearly revaluations from 2022, a move widely welcomed by business. We will also ensure that tax decisions in the forthcoming Budget embed Scotland’s competitive position as an attractive place to do business and provide certainty to investors.
 
-## Key resources: 
+## Key resources:  
 
 **[Non-domestic tax rates review: Barclay report](https://beta.gov.scot/publications/report-barclay-review-non-domestic-rates/)**
 
@@ -37,4 +40,4 @@ We will bring forward a Non-Domestic Rates Bill to implement the agreed recommen
 
 **[Regulatory Review Group](https://beta.gov.scot/groups/regulatory-review-group/)**
 
-**[Business rates relief](https://www.mygov.scot/business-rates-relief/overview/)** 
+**[Business rates relief](https://www.mygov.scot/business-rates-relief/overview/)**  

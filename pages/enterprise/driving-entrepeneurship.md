@@ -20,9 +20,12 @@ next: { title: "Supporting Industry", url: "/enterprise/supporting-industry/" }
 
 ## Scotland ‘Can Do’
 
-[Scotland ‘Can Do’](http://www.cando.scot/) seeks to make Scotland a world leading entrepreneurial and innovative nation. We have worked closely with Entrepreneurial Scotland and other partners in the public and private sectors to develop the ‘Can Do’ approach to entrepreneurship and the ‘Can Do’ brand. 
+[Scotland ‘Can Do’](http://www.cando.scot/) seeks to make Scotland a world leading entrepreneurial and innovative nation. We have worked closely with Entrepreneurial Scotland and other partners in the public and private sectors to develop the ‘Can Do’ approach to entrepreneurship and the ‘Can Do’ brand.  
 
 This approach – along with the combined efforts of the entrepreneurial community – has seen Scotland’s support ecosystem ranked as the 5th most effective globally, up from 13th in 2013, and a doubling of the proportion of Scots actively trying to start a business. We will build on this positive momentum by asking the enterprise agencies to expand, enhance and support the Can Do approach still further and broadening our collective efforts to address the needs of women in enterprise and the Creative sector.
+
+![](/assets/images/infographics/Enterprise.5.jpg)
+<br>
 
 ## Unlocking Ambition Challenge
 

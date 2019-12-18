@@ -9,7 +9,10 @@ permalink: /overview/resilience-recovery-restructuring/growing-global-economy/
 prev: { title: "Building affordable and quality homes for everyone", url: "/overview/resilience-recovery-restructuring/building-affordable-and-quality-homes-for-everyone/" }
 next: { title: "Launching the Scottish National Investment Bank", url: "/overview/resilience-recovery-restructuring/launching-scottish-national-investment-bank/" }
 ---
- 
+![](/assets/images/pageimages/Overview.2.jpg)
+<br>
+<hr>
+
 It has never been more important for us to invest in inward investment and the benefit it brings in jobs, capital and talent. We must continue to be an open economy in an increasingly competitive global marketplace.  
 
 Following this year's export plan A Trading Nation, we will deliver a foreign direct investment programme that will continue to bring high quality jobs to Scotland, and build the environment that encourages global businesses to base themselves here.  
