@@ -7,6 +7,7 @@ index: 12
 parent: enterprise
 permalink: /enterprise/public-procurement/
 prev: { title: "Social Enterprises", url: "/enterprise/social-enterprises/" }
+next: { title: "Small Businesses", url: "/enterprise/small-businesses/" }
 ---
 
 ![Money](/assets/images/pageimages/enterprise11.jpg)

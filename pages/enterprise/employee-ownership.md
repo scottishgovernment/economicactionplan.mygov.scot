@@ -10,7 +10,7 @@ prev: { title: "Creative Industries", url: "/enterprise/creative-industries/" }
 next: { title: "Supporting Scotland’s Rural Businesses", url: "/enterprise/supporting-rural-businesses/" }
 ---
 
-![Some people around a meeting table](/assets/images/pageimages/enterprise8.jpg)
+![](/assets/images/pageimages/Enterprise.13.jpg)
 <br>
 <hr>
 * **A newly-established industry led ‘Scotland for EO’**

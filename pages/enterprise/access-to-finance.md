@@ -10,7 +10,7 @@ prev: { title: "Enhancing Business Support", url: "/enterprise/enhancing-busines
 next: { title: "Driving Entrepreneurship", url: "/enterprise/driving-entrepreneurship/" }
 ---
 
-![Pound coins](/assets/images/pageimages/enterprise3.jpg)
+![](/assets/images/pageimages/Enterprise.14.jpg)
 <br>
 <hr>
 * **The [Scottish National Investment Bank](https://beta.gov.scot/publications/scottish-national-investment-bank-implementation-plan/) to be operational in 2020 and investing £2 billion in businesses and communities**

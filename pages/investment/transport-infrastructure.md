@@ -10,7 +10,7 @@ prev: { title: "Digital and Mobile Connectivity", url: "/investment/digital-mobi
 next: { title: "Housing", url: "/investment/housing/" }
 ---
 
-![Motorway](/assets/images/pageimages/investment3.jpg)
+![](/assets/images/pageimages/Investment.9.jpg)
 <br>
 <hr>
 * **Deliver the second Strategic Transport Projects Review by 2020**

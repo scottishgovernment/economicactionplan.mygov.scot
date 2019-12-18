@@ -3,7 +3,7 @@ layout: default
 title:  "Case Studies"
 category: overview
 summary: "Description TBC"
-index: 3
+index: 30
 parent: overview
 permalink: /overview/case-studies/
 prev: { title: " ", url: "/overview/ " }

@@ -9,9 +9,8 @@ permalink: /international/promoting-scotland/
 prev: { title: "Exports", url: "/international/exports" }
 next: { title: "Foreign Direct Investment", url: "/international/foreign-direct-investment/" }
 ---
-![Edinburgh castle](/assets/images/pageimages/international.2.jpg)
-*Image courtesy of Scotland is Now*
-
+![](/assets/images/pageimages/
+International.17.jpg)
 <hr>
 * **We will work with partners to develop and drive one clear brand Scotland**
 * **We now have a network of offices in 30 locations in 19 countries to drive trade and investment in Scotland**

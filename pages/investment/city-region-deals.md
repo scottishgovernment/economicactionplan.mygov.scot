@@ -9,7 +9,7 @@ permalink: /investment/city-region-deals/
 prev: { title: "Housing", url: "/investment/housing/" }
 next: { title: "Carbon Neutral Economy", url: "/investment/carbon-neutral-economy/" }
 ---
-![City Photo](/assets/images/pageimages/place1.jpg)
+![](/assets/images/pageimages/Investment.10.jpg)
 <br>
 <hr>
 * **[City Region Deals](https://www.gov.scot/policies/cities-regions/city-region-deals/) and [Regional Growth Deals](https://www.gov.scot/policies/cities-regions/regional-growth-deals/) act as enablers to unlock economic assets**

@@ -26,11 +26,14 @@ We provide over £250 million each year to support Scottish Enterprise to promot
  
 ## Information, advice and support
 
-We will maximise the impact of the investment we make in enterprise and skills development by implementing the recommendations of the business-led [Strategic Board](https://beta.gov.scot/groups/enterprise-and-skills-strategic-board/) and ensuring our agencies operate as a single system that delivers the right information, advice and support at the right time for business. This includes building on the established success of the Partnership Action for Continued Employment (PACE) model by enhancing data-led analysis of sectoral and company resilience, to deliver through agencies a consistent yet targeted service to companies across Scotland, when they need support. 
+We will maximise the impact of the investment we make in enterprise and skills development by implementing the recommendations of the business-led [Strategic Board](https://beta.gov.scot/groups/enterprise-and-skills-strategic-board/) and ensuring our agencies operate as a single system that delivers the right information, advice and support at the right time for business. This includes building on the established success of the Partnership Action for Continued Employment (PACE) model by enhancing data-led analysis of sectoral and company resilience, to deliver through agencies a consistent yet targeted service to companies across Scotland, when they need support.  
 
 ## Leadership
 
 We will also task the agencies to work with Scotland’s wide range of leadership and enterprise support organisations as well as business, employers, and colleges and universities, especially business schools, to develop and deliver a range of different types of leadership and management support which meet the needs of individuals and businesses at different stages of career development and company growth.
+
+![](/assets/images/infographics/Enterprise.7.jpg)
+<br>
 
 ## Single Digital Portal
 

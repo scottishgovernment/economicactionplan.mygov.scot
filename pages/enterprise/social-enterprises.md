@@ -10,9 +10,7 @@ prev: { title: "Supporting Scotland’s Rural Businesses", url: "/enterprise/sup
 next: { title: "Public Procurement", url: "/enterprise/public-procurement/" }
 ---
 
-![A Social Bite shop sign](/assets/images/pageimages/enterprise10.jpg)
-*Image courtesy of Scotland is Now*
-
+![](/assets/images/pageimages/Enterprise.12.jpg)
 <hr>
 * **We are raising awareness of social enterprise as a viable and rewarding career**
 * **We have established a national social enterprise incubator**
