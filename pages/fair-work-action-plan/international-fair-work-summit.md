@@ -5,6 +5,7 @@ category: fair-work-action-plan
 summary: "Showcasing our Fair Work achievements."
 index: 9
 parent: fair-work-action-plan
+thispage: fair-work-action-plan
 permalink: /fair-work/fair-work-summit/
 prev: { title: "Future workforce and business leaders", url: "/fair-work/future-workforce/" }
 next: { title: "Extend the Workplace Equality Fund", url: "/fair-work/workplace-equality-fund/" }

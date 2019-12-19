@@ -5,6 +5,7 @@ category: fair-work-action-plan
 summary: "Increasing the number of people employed who are paid the real Living Wage."
 index: 16
 parent: fair-work-action-plan
+thispage: fair-work-action-plan
 permalink: /fair-work/real-living-wage/
 prev: { title: "The social care sector", url: "/fair-work/social-care-sector/" }
 next: { title: "Unpaid carers", url: "/fair-work/unpaid-carers/" }

@@ -5,6 +5,7 @@ category: fair-work-action-plan
 summary: "Promoting Fair Work in the collaborative economy."
 index: 13
 parent: fair-work-action-plan
+thispage: fair-work-action-plan
 permalink: /fair-work/the-collaborative-economy/
 prev: { title: "Collective bargaining", url: "/fair-work/collective-bargaining/" }
 next: { title: "The construction sector", url: "/fair-work/the-construction-sector/" }

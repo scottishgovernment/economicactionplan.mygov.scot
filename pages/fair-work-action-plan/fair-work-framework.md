@@ -5,6 +5,7 @@ category: fair-work-action-plan
 summary: "Helping employers assess their Fair Work practices."
 index: 5
 parent: fair-work-action-plan
+thispage: fair-work-action-plan
 permalink: /fair-work/fair-work-framework/
 prev: { title: "Fair Work First", url: "/fair-work/fair-work-first/" }
 next: { title: "Online service for small and micro employers", url: "/fair-work/online-service/" }

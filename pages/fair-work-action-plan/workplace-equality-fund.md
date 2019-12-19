@@ -5,6 +5,7 @@ category: fair-work-action-plan
 summary: "Enabling businesses to implement innovative ideas to embed Fair Work."
 index: 10
 parent: fair-work-action-plan
+thispage: fair-work-action-plan
 permalink: /fair-work/workplace-equality-fund/
 prev: { title: "Co-Host an International Fair Work Summit", url: "/fair-work/fair-work-summit/" }
 next: { title: "Trade Unions", url: "/fair-work/trade-unions/" }

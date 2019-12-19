@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body class="home fair-work">
+
+<div class="header-wrapper  header-wrapper--border  hero-header">
+{% include header.html %}
+
+    <div class="wrapper  hero-header__content">
+        <div class="grid"><!--
+            --><div class="grid__item  medium--eight-twelfths">
+                <div class="hero-header__title">
+                    <h1>{{ page.title }}</h1>
+                    <p class="hero-header__tagline">{{ page.subtitle }}</p>
+                </div>
+
+                {% if page.hero %}
+                    <img class="hero-header__image"
+                        src="/assets/images/hero/{{ page.hero }}"
+                        srcset="/assets/images/hero/{{ page.hero }} 1x, /assets/images/hero/{{ page.hero | replace: ".png", "-x2.png"}} 2x"/>
+                {% endif %}
+            </div><!--
+        --></div>
+    </div>
+</div>
+
+<div id="body-wrapper">
+
+    <div class="category-list-container">
+        <!-- Start category-list-0.hbs -->
+        <div class="wrapper main category-list category-list--cards">
+
+            <style>
+            @media (min-width: 768px) {
+                .tiles-grid {
+                    overflow: hidden;
+                    padding-left: 5px;
+                }
+
+                .tiles-grid > * {
+                    float: left;
+                    width: calc(50% - 10px);
+                    margin-left: 20px;
+                }
+
+                .tiles-grid > *:nth-child(2n+1) {
+                    clear: left;
+                    margin-left: 0;
+                }
+            }
+
+            @media (min-width: 992px) {
+
+                .tiles-grid > * {
+                    width: calc(33% - 10px);
+                }
+
+                .tiles-grid > *:nth-child(n) {
+                    clear: none;
+                    margin-left: 20px;
+                    height: 203px;
+                }
+
+                .tiles-grid > *:nth-child(3n+1) {
+                    clear: none;
+                    margin-left: 0;
+                }
+            }
+
+            @media (min-width: 1200px) {
+                .tiles-grid > *:nth-child(n) {
+                    height: 184px;
+                }
+            }
+
+            @supports (display: grid) {
+                .tiles-grid {
+                    overflow: visible;
+                    padding-left: 0;
+                }
+
+                .tiles-grid > * {
+                    float: none;
+                    width: 100%;
+                }
+
+                .tiles-grid {
+                    display: grid;
+                    grid-template-columns: 1fr;
+                    grid-gap: 0 10px;
+                }
+
+                @media (min-width: 768px) {
+                    .tiles-grid {
+                        grid-template-columns: 1fr 1fr;
+                    }
+
+                    .card--small {
+                        height: auto !important;
+                        min-height: 186px;
+                    }
+
+                    .tiles-grid > * {
+                        margin-left: 0 !important;
+                    }
+                }
+
+                @media (min-width: 992px) {
+                    .tiles-grid {
+                        grid-template-columns: 1fr 1fr 1fr;
+                    }
+                }
+            }
+            </style>
+            <div class="tiles-grid">
+                {% assign indexed = site.pages | where:"category", page.navitems | sort: 'index', 'first' %}
+                {% for item in indexed %}
+                <article class="card card--small card--hover">
+                    <a href="{{ item.url }}" class="category-item__link  card__content" data-gtm="item-0">
+                        <h2 class="category-item__title">{{item.title}}</h2>
+
+                        <p class="category-item__summary">
+                            {{item.summary}}
+                        </p>
+                    </a>
+                </article>
+                {% endfor %}
+            </div>
+
+        </div>
+        <br class="clearfix">
+    </div>
+
+</div>
+
+
+{% include footer.html %}
+
+</body>
+
+</html>

@@ -5,6 +5,7 @@ category: fair-work-action-plan
 summary: "Responding to the Fair Work Convention’s Social Care Inquiry recommendations."
 index: 15
 parent: fair-work-action-plan
+thispage: fair-work-action-plan
 permalink: /fair-work/social-care-sector/
 prev: { title: "The construction sector", url: "/fair-work/the-construction-sector/" }
 next: { title: "The real Living Wage", url: "/fair-work/real-living-wage/" }

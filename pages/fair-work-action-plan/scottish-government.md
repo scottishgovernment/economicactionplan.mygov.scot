@@ -5,6 +5,7 @@ category: fair-work-action-plan
 summary: "Embedding Fair Work across Scottish Government portfolios."
 index: 18
 parent: fair-work-action-plan
+thispage: fair-work-action-plan
 permalink: /fair-work/scottish-government/
 prev: { title: "Unpaid carers", url: "/fair-work/unpaid-carers/" }
 next: { title: "The UK Government", url: "/fair-work/uk-government/" }
