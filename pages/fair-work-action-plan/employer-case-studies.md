@@ -5,6 +5,7 @@ category:
 summary: "Showcasing the Fair Work practices of employers"
 index: 23
 parent: fair-work-action-plan
+thispage: fair-work-action-plan
 permalink: /fair-work/employer-case-studies/
 prev: { title: "About this Action Plan", url: "/fair-work/about/" }
 ---

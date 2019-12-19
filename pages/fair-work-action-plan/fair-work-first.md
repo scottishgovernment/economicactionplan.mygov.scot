@@ -5,6 +5,7 @@ category: fair-work-action-plan
 summary: "Working with employers and partners to deliver Fair Work First."
 index: 4
 parent: fair-work-action-plan
+thispage: fair-work-action-plan
 permalink: /fair-work/fair-work-first/
 prev: { title: "Overview of Actions", url: "/fair-work/overview/" }
 next: { title: "Fair Work Framework benchmarking tool", url: "/fair-work/fair-work-framework/" }

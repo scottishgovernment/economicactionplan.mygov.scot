@@ -92,7 +92,10 @@
     .breadcrumbs__link {color: #A51765;}
 
 
-    .card {padding:20px;}
+    .card { 
+            margin: 5px -5px;
+            padding: 20px;
+        }
     
 
     .card--hover:after {
@@ -119,4 +122,17 @@
         transition: background 1s;
             
     }
+}
+
+/* fair work section homepage */
+
+/* site header - see _includes/header.html for switch script */
+
+.fair-work {
+
+    .card {
+        margin: 5px -5px;
+        padding: 20px;
+    }
+
 }

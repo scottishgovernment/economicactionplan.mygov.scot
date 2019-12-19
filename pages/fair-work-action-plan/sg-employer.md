@@ -5,6 +5,7 @@ category: fair-work-action-plan
 summary: "Demonstrating leadership as an employer by adopting Fair Work practices aligned with the Fair Work Framework."
 index: 20
 parent: fair-work-action-plan
+thispage: fair-work-action-plan
 permalink: /fair-work/scottish-government-employer/
 prev: { title: "The UK Government", url: "/fair-work/uk-government/" }
 next: { title: "Monitor and report", url: "/fair-work/monitor-and-report/" }

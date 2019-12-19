@@ -5,6 +5,7 @@ category: fair-work-action-plan
 summary: "Fair Work in the Scottish Government and public bodies"
 index: 100
 parent: fair-work-action-plan
+thispage: fair-work-action-plan
 permalink: /fair-work/fair-work-in-practice/
 prev: { title: "About this Action Plan", url: "/fair-work/about/" }
 ---

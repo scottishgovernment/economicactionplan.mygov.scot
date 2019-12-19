@@ -5,6 +5,7 @@ category: fair-work-action-plan
 summary: "Supporting trade unions to embed Fair Work in workplaces."
 index: 11
 parent: fair-work-action-plan
+thispage: fair-work-action-plan
 permalink: /fair-work/trade-unions/
 prev: { title: "Extend the Workplace Equality Fund", url: "/fair-work/workplace-equality-fund/" }
 next: { title: "Collective Bargaining", url: "/fair-work/collective-bargaining/" }

@@ -8294,17 +8294,18 @@ body.home {
 }
 /* line 95, ../_scss/trumps/_trump.future-skills.scss */
 .future-skills .card {
+  margin: 5px -5px;
   padding: 20px;
 }
-/* line 98, ../_scss/trumps/_trump.future-skills.scss */
+/* line 101, ../_scss/trumps/_trump.future-skills.scss */
 .future-skills .card--hover:after {
   background-image: linear-gradient(to right, #F0A75A, #A51765);
 }
-/* line 102, ../_scss/trumps/_trump.future-skills.scss */
+/* line 105, ../_scss/trumps/_trump.future-skills.scss */
 .future-skills .category-item__title, .future-skills .page-nav__text, .future-skills .main-content a {
   color: #A51765;
 }
-/* line 108, ../_scss/trumps/_trump.future-skills.scss */
+/* line 111, ../_scss/trumps/_trump.future-skills.scss */
 .future-skills .page-nav__button--left:before, .future-skills .page-nav__button--right:before {
   content: '';
   height: 56px;
@@ -8316,6 +8317,14 @@ body.home {
   position: absolute;
   top: 12px;
   transition: background 1s;
+}
+
+/* fair work section homepage */
+/* site header - see _includes/header.html for switch script */
+/* line 133, ../_scss/trumps/_trump.future-skills.scss */
+.fair-work .card {
+  margin: 5px -5px;
+  padding: 20px;
 }
 
 /*** PATTERNS ***/

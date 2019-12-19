@@ -5,6 +5,7 @@ category: fair-work-action-plan
 summary: "Fair Work progress and achievements to date."
 index: 2
 parent: fair-work-action-plan
+thispage: fair-work-action-plan
 permalink: /fair-work/achievements/
 prev: { title: "Purpose", url: "/fair-work/purpose/" }
 next: { title: "Overview of Actions", url: "/fair-work/overview/" }
