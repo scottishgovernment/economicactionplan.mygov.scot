@@ -7,8 +7,7 @@ index: 20
 parent: the-3rs
 permalink: /overview/resilience-recovery-restructuring/transforming-our-support-for-business/
 prev: { title: "Realising the climate enterprise opportunity", url: "/overview/resilience-recovery-restructuring/realising-the-climate-enterprise-opportunity "}
-next: { title: "Unlocking entrepreneurship", url: "/overview/resilience-recovery-restructuring/unlocking-entrepreneurship/" }
-
+next: { title: "Developing the right skills", url: "/overview/resilience-recovery-restructuring/developing-the-right-skills/" }
 ---
 ![A photograph of staff from the Scottish company Healthworks standing on a bridge](/assets/images/pageimages/Overview.4.jpg)  
 
