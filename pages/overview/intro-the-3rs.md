@@ -8,6 +8,6 @@ homepage: true
 navitems: the-3rs
 thispage: the-3rs
 parent: overview
-permalink: /overview/resilience-recovery-restructuring-list/
+permalink: /overview/resilience-recovery-restructuring/
 ---
 
