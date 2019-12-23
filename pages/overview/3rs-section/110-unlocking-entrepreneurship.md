@@ -3,11 +3,11 @@ layout: default
 title:  "Unlocking entrepreneurship"
 category: the-3rs
 summary: "Description TBC"
-index: 30
+index: 110
 parent: the-3rs
 permalink: /overview/resilience-recovery-restructuring/unlocking-entrepreneurship/
-prev: { title: "Transforming our support for business", url: "/overview/resilience-recovery-restructuring/transforming-our-support-for-business/" }
-next: { title: "Developing the right skills", url: "/overview/resilience-recovery-restructuring/developing-the-right-skills/" }
+prev: { title: "Scottish National Investment Bank", url: "/overview/resilience-recovery-restructuring/scottish-national-investment-bank/" }
+
 ---
 ![A photograph of staff at a Scottish Cyber Security Start Up](/assets/images/pageimages/Overview.3.jpg)  
 

@@ -33,6 +33,6 @@ I am delighted to announce that the Scottish Government and the Fair Work Conven
 
 I look forward to working together as we take the next steps in creating the Fair Work Nation that we all aspire to.  
 
-<br>
+<br/>
 **Jamie Hepburn MSP**  
 Minister for Business, Fair Work and Skills
