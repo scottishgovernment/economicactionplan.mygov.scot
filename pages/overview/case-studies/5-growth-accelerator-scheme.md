@@ -2,7 +2,7 @@
 layout: default
 title:  "Growth Accelerator Scheme"
 category: case-studies
-summary: "Description TBC"
+summary: "Growing investment across Scotland"
 index: 5
 parent: case-studies
 permalink: /overview/case-studies/growth-accelerator-scheme/
