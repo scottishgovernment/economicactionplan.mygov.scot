@@ -4,7 +4,7 @@ title:  "Collective Bargaining"
 category: fair-work-action-plan
 summary: "Increasing the number of workers in Scotland covered by collective bargaining."
 index: 12
-parent: fair-work-action-plan
+parent: fair-work-action-plan-home
 thispage: fair-work-action-plan
 permalink: /fair-work/collective-bargaining/
 prev: { title: "Trade Unions", url: "/fair-work/trade-unions/" }

@@ -1,5 +1,5 @@
 ---
-layout: tiles-3
+layout: default
 title:  "An Inclusive Growth approach to Economy"
 category: overview
 summary: "Description TBC"

@@ -4,7 +4,7 @@ title:  "Purpose"
 category: fair-work-action-plan
 summary: "Our approach to achieving the 2025 vision for Fair Work."
 index: 1
-parent: fair-work-action-plan
+parent: fair-work-action-plan-home
 thispage: fair-work-action-plan
 permalink: /fair-work/purpose/
 prev: { title: "Ministerial Foreword", url: "/fair-work/ministerial-foreword/" }

@@ -4,7 +4,7 @@ title:  "Co-Host an International Fair Work Summit with the Fair Work Convention
 category: fair-work-action-plan
 summary: "Showcasing our Fair Work achievements."
 index: 9
-parent: fair-work-action-plan
+parent: fair-work-action-plan-home
 thispage: fair-work-action-plan
 permalink: /fair-work/fair-work-summit/
 prev: { title: "Future workforce and business leaders", url: "/fair-work/future-workforce/" }

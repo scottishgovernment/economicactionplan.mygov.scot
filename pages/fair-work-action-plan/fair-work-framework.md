@@ -4,7 +4,7 @@ title:  "Fair Work Framework benchmarking tool"
 category: fair-work-action-plan
 summary: "Helping employers assess their Fair Work practices."
 index: 5
-parent: fair-work-action-plan
+parent: fair-work-action-plan-home
 thispage: fair-work-action-plan
 permalink: /fair-work/fair-work-framework/
 prev: { title: "Fair Work First", url: "/fair-work/fair-work-first/" }

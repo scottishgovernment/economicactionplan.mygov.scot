@@ -4,7 +4,7 @@ title:  "Achievements"
 category: fair-work-action-plan
 summary: "Fair Work progress and achievements to date."
 index: 2
-parent: fair-work-action-plan
+parent: fair-work-action-plan-home
 thispage: fair-work-action-plan
 permalink: /fair-work/achievements/
 prev: { title: "Purpose", url: "/fair-work/purpose/" }

@@ -4,7 +4,7 @@ title:  "The construction sector"
 category: fair-work-action-plan
 summary: "Encouraging the inclusion of a collective disputes procedure in construction contracts."
 index: 14
-parent: fair-work-action-plan
+parent: fair-work-action-plan-home
 thispage: fair-work-action-plan
 permalink: /fair-work/the-construction-sector/
 prev: { title: "The collaborative economy", url: "/fair-work/the-collaborative-economy/" }

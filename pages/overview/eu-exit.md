@@ -1,5 +1,5 @@
 ---
-layout: tiles-3
+layout: default
 title:  "EU exit"
 category: overview
 summary: "Description TBC"

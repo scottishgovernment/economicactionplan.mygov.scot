@@ -1,10 +1,11 @@
 ---
 layout: default
 title:  "About this Action Plan"
-category: fair-work-action-plan
+category: economic-action-plan
 summary: "Information relating to the production of this Action Plan."
 index: 22
-parent: fair-work-action-plan
+parent: fair-work-action-plan-home
+thispage: fair-work-action-plan
 permalink: /fair-work/about/
 prev: { title: "Monitor and report", url: "/fair-work/monitor-and-report/" }
 next: { title: "Fair Work in Practice", url: "/fair-work/fair-work-in-practice/" }

@@ -4,7 +4,7 @@ title:  "Monitor and report"
 category: fair-work-action-plan
 summary: "Measuring our progress in delivering a Fair Work Nation."
 index: 21
-parent: fair-work-action-plan
+parent: fair-work-action-plan-home
 thispage: fair-work-action-plan
 permalink: /fair-work/monitor-and-report/
 prev: { title: "The Scottish Government as an employer", url: "/fair-work/scottish-government-employer/" }
