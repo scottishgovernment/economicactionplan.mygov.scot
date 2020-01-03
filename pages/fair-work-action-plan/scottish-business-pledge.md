@@ -4,7 +4,7 @@ title:  "Delivering a refreshed Scottish Business Pledge"
 category: fair-work-action-plan
 summary: "Taking forward action to refresh the Scottish Business Pledge to ensure closer alignment to the Fair Work Framework and build greater impact."
 index: 7
-parent: fair-work-action-plan
+parent: fair-work-action-plan-home
 thispage: fair-work-action-plan
 permalink: /fair-work/scottish-business-pledge/
 prev: { title: "Online service for small and micro employers", url: "/fair-work/online-service/" }

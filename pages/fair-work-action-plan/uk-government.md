@@ -4,7 +4,7 @@ title:  "The UK Government"
 category: fair-work-action-plan
 summary: "Engaging with the UK Government to enhance workers' rights."
 index: 19
-parent: fair-work-action-plan
+parent: fair-work-action-plan-home
 thispage: fair-work-action-plan
 permalink: /fair-work/uk-government/
 prev: { title: "The Scottish Government", url: "/fair-work/scottish-government/" }

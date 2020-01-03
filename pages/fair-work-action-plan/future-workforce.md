@@ -4,7 +4,7 @@ title:  "Future workforce and business leaders"
 category: fair-work-action-plan
 summary: "Instilling a Fair Work ethos in our future workforce and business leaders."
 index: 8
-parent: fair-work-action-plan
+parent: fair-work-action-plan-home
 thispage: fair-work-action-plan
 permalink: /fair-work/future-workforce/
 prev: { title: "Refreshed Scottish Business Pledge", url: "/fair-work/scottish-business-pledge/" }

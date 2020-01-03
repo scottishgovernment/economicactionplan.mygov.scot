@@ -4,7 +4,7 @@ title:  "Overview of Actions"
 category: fair-work-action-plan
 summary: "An overview of the actions we are taking to achieve the 2025 vision for Fair Work."
 index: 3
-parent: fair-work-action-plan
+parent: fair-work-action-plan-home
 thispage: fair-work-action-plan
 permalink: /fair-work/overview/
 prev: { title: "Achievements", url: "/fair-work/achievements/" }

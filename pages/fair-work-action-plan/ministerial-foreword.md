@@ -4,7 +4,7 @@ title:  "Ministerial Foreword"
 category: fair-work-action-plan
 summary: "We want Scotland to be a world-leading Fair Work Nation by 2025"
 index: 0
-parent: fair-work-action-plan
+parent: fair-work-action-plan-home
 thispage: fair-work-action-plan
 permalink: /fair-work/ministerial-foreword/
 next: { title: "Purpose", url: "/fair-work/purpose/" }

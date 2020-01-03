@@ -4,7 +4,7 @@ title:  "Unpaid carers"
 category: fair-work-action-plan
 summary: "Promoting awareness and flexibility for unpaid carers in the workplace though Carer Positive."
 index: 17
-parent: fair-work-action-plan
+parent: fair-work-action-plan-home
 thispage: fair-work-action-plan
 permalink: /fair-work/unpaid-carers/
 prev: { title: "The real Living Wage", url: "/fair-work/real-living-wage/" }

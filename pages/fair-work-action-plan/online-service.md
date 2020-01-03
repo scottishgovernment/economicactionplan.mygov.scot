@@ -4,7 +4,7 @@ title:  "Online service for small and micro employers"
 category: fair-work-action-plan
 summary: "Supporting small and micro employers adopt Fair Work practices."
 index: 6
-parent: fair-work-action-plan
+parent: fair-work-action-plan-home
 thispage: fair-work-action-plan
 permalink: /fair-work/online-service/
 prev: { title: "Fair Work Framework benchmarking tool", url: "/fair-work/fair-work-framework/" }

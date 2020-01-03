@@ -4,7 +4,7 @@ title:  "Fair Work First"
 category: fair-work-action-plan
 summary: "Working with employers and partners to deliver Fair Work First."
 index: 4
-parent: fair-work-action-plan
+parent: fair-work-action-plan-home
 thispage: fair-work-action-plan
 permalink: /fair-work/fair-work-first/
 prev: { title: "Overview of Actions", url: "/fair-work/overview/" }
