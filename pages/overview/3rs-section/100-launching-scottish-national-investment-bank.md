@@ -12,7 +12,7 @@ next: { title: "Unlocking entrepreneurship", url: "/overview/resilience-recovery
  
 We have committed to investing £2 billion over 10 years to capitalise the Scottish National Investment Bank, making it a cornerstone of Scotland’s economy.  
 
-The Bank will be established in 2020 with investment “missions” that aim to address major societal challenges in order to achieve transformative and inclusive change.  This will allow us to create and shape future markets.  
+The Bank will be established in 2020 with investment "missions” that aim to address major societal challenges in order to achieve transformative and inclusive change.  This will allow us to create and shape future markets.  
 
 The Bank’s primary mission will be to support Scotland’s transition to a net zero economy.  The Bank will provide capital and growth finance and act to catalyse private sector investment, creating a step change in growth for the Scottish economy.  
 

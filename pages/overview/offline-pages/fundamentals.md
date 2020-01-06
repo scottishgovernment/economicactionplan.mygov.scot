@@ -14,7 +14,7 @@ next: { title: "Scotland Leading the Way", url: "/overview/scotland-leading-the-
 <br>
 <hr>
 
-The Scottish Government defines inclusive growth as: “Growth that combines increased prosperity with greater equity; that creates opportunities for all and distributes the dividends of increased prosperity fairly”. 
+The Scottish Government defines inclusive growth as: "Growth that combines increased prosperity with greater equity; that creates opportunities for all and distributes the dividends of increased prosperity fairly”. 
 
 We are taking action in the following key areas to make sure the fundamentals are right: 
 

@@ -3,11 +3,11 @@ layout: default
 title:  "Team Scotland Approach"
 category: case-studies
 summary: "A team approach brings new investment"
-index: 6
+index: 5
 parent: case-studies
 permalink: /overview/case-studies/team-scotland-approach/
-prev: {title: "Innovation and sustainability", url: "/overview/case-studies/innovation-sustainability/"}
-next: {title: "", url: ""}
+prev: {title: "Business resilience support: Arjowiggins, Aberdeen-based paper mill saved from closure", url: "/overview/case-studies/business-resilience-support/" }
+next: {title: "Inward investment: Spire, Glasgow-based space satellite company", url: "/overview/case-studies/inward-investment/" }
 ---
 
 ***A team approach brings new investment***
@@ -23,6 +23,6 @@ Next March we’ll be back at MIPIM 2020, with more than 26,800 participants fro
 Attendance at MIPIM and similar events has led directly to £2 billion of investment in Scotland over the past decade, with projects including the St James’ Centre in Edinburgh and Glasgow’s Central Quay redevelopment.  
 
 Stuart Parker, Managing Director of Construction Scotland at Morgan Sindall, said:
-“MIPIM 2020 will provide Team Scotland with an excellent opportunity to showcase its impressive investment portfolio. Scotland has rightly received global recognition as a growing economy, and the delegation’s presence will benefit not only in terms of profile, but as a stimulus for sustained development and urban regeneration.”  
+"MIPIM 2020 will provide Team Scotland with an excellent opportunity to showcase its impressive investment portfolio. Scotland has rightly received global recognition as a growing economy, and the delegation’s presence will benefit not only in terms of profile, but as a stimulus for sustained development and urban regeneration."  
 
 (234 words)

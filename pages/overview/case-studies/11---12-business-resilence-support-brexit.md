@@ -3,11 +3,11 @@ layout: default
 title:  "Business resilience support"
 category: case-studies
 summary: "Helping Scottish companies prepare for Brexit"
-index: 12
+index: 11
 parent: case-studies
 permalink: /overview/case-studies/business-resilience-support-prepare-for-brexit/
-prev: {title: "Growth Accelerator Scheme", url: "/overview/case-studies/growth-accelerator-scheme/"}
-next: {title: "", url: ""}
+prev: {title: "Inward investment & place regeneration: Barclays development at Tradeston, Glasgow", url: "/overview/case-studies/inward-investment-place-regeneration/" }
+next: {title: "Rural R&D support: Scottish Sea Farms, Highland based salmon farming business", url: "/overview/case-studies/rural-rd-suport/" }
 ---
 ***Helping Scottish companies prepare for Brexit***
 

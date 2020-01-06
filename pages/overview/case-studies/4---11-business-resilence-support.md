@@ -3,11 +3,11 @@ layout: default
 title:  "Business resilience support"
 category: case-studies
 summary: "Arjowiggins management buy-out safeguards 450 jobs in Aberdeen"
-index: 11
+index: 4
 parent: case-studies
 permalink: /overview/case-studies/business-resilience-support/
-prev: {title: "Growth Accelerator Scheme", url: "/overview/case-studies/growth-accelerator-scheme/"}
-next: {title: "", url: ""}
+prev: {title: "Social enterprise: Positive Changes CIC, chocolate maker employing women ex-offenders", url: "/overview/case-studies/social-enterprise/" }
+next: {title: "Team Scotland approach to MPIM: world’s leading physical development & investment showcase", url: "/overview/case-studies/team-scotland-approach/" }
 ---
 ***Arjowiggins management buy-out safeguards 450 jobs in Aberdeen***
 
@@ -21,6 +21,6 @@ This was led by Scottish Enterprise and included representatives of the company�
 
 The mill, which dates back to the 1700s, pioneered the production of fine paper in the 1800s. It now manufactures products for designers, printers and clients across the world under well known brands such as Conqueror, Curious Collection and Keaykolour.  
 
-The business will now be led by an eight-strong experienced leadership team headed by current MD Jonathan Mitchell. He said: “The support we have had from our staff, customers, suppliers and the Scottish Government has been incredible and without them this deal would not have been possible. There has been a real combined will to keep this historic business alive.”  
+The business will now be led by an eight-strong experienced leadership team headed by current MD Jonathan Mitchell. He said: "The support we have had from our staff, customers, suppliers and the Scottish Government has been incredible and without them this deal would not have been possible. There has been a real combined will to keep this historic business alive."  
 
 (227 words)

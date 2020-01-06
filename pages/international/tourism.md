@@ -18,7 +18,7 @@ prev: { title: "Migration", url: "/international/migration/" }
 
 Tourism makes a significant contribution to Scotland’s economy and international image. It is a significant employer in both rural and urban areas, making it important for our Inclusive Growth agenda.
 
-We are delivering support for the four priorities set out in the industry-led [Scottish Tourism Alliance (STA) “Tourism Scotland 2020” strategy](http://scottishtourismalliance.co.uk/page/national-strategy/), and sponsor Scotland’s national tourism organisation, VisitScotland, with a budget of more than £45 million a year.
+We are delivering support for the four priorities set out in the industry-led [Scottish Tourism Alliance (STA) "Tourism Scotland 2020” strategy](http://scottishtourismalliance.co.uk/page/national-strategy/), and sponsor Scotland’s national tourism organisation, VisitScotland, with a budget of more than £45 million a year.
 
 ## Sport
 
