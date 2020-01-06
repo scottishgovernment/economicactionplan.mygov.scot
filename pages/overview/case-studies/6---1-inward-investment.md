@@ -3,11 +3,11 @@ layout: default
 title:  "Inward Investment"
 category: case-studies
 summary: "Ready for take-off with Spire Global"
-index: 1
+index: 6
 parent: case-studies
 permalink: /overview/case-studies/inward-investment/
-prev: {title: "Innovation and sustainability", url: "/overview/case-studies/innovation-sustainability/"}
-next: {title: "", url: ""}
+prev: {title: "Team Scotland approach to MPIM: world’s leading physical development & investment showcase", url: "/overview/case-studies/team-scotland-approach/" }
+next: {title: "High growth spin-out: Nantantis, life-sciences spin-out from Heriot Watt", url: "/overview/case-studies/high-growth-spin-out/" }
 ---
 
 ***Ready for take-off with Spire Global***
@@ -22,6 +22,6 @@ The funding for Spire Global, which has offices across the world, demonstrates t
 
 There are now more than 130 space organisations in Scotland, including the headquarters of 84 UK space industry firms, with a combined income of £140 million. More small satellites are also built in Glasgow than any other place in Europe, and last year plans were announced for the UK’s first spaceport in the far north of Scotland. These and other advances mean Scotland’s space sector could be worth £4 billion by 2030.  
 
-Peter Platzer, co-Founder and CEO of Spire Global, said: “Glasgow has been a fantastic location for us, with exceptional talent and people with a phenomenal ‘can-do’ attitude and true grit.  We are excited to substantially expand our presence here and look forward to the continuation of strong partnerships within Scotland, the UK Space Agency, and the wider UK space ecosystems.”
+Peter Platzer, co-Founder and CEO of Spire Global, said: "Glasgow has been a fantastic location for us, with exceptional talent and people with a phenomenal ‘can-do’ attitude and true grit.  We are excited to substantially expand our presence here and look forward to the continuation of strong partnerships within Scotland, the UK Space Agency, and the wider UK space ecosystems."
 
 (249 words)

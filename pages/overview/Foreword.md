@@ -9,9 +9,9 @@ permalink: /overview/foreword/
 next: { title: "The 3Rs: Resilience, Recovery and Restructuring", url: "/overview/resilience-recovery-restructuring/"}
 ---
 
-![A photograph of Derek Mackay, Cabinet Secretary for Finance, Economy and Fair Work](/assets/images/pageimages/Overview.1.jpg)
-<br>
-<hr>
+![A photograph of Derek Mackay, Cabinet Secretary for Finance, Economy and Fair Work](/assets/images/pageimages/Overview.1.jpg)  
+
+---
 
 This updated Plan sits against a backdrop of continued uncertainty created by the UK’s forthcoming exit from the EU and the risk this poses to jobs, businesses, communities and our economy.  It sets out the suite of actions that we will take across all areas of Scotland’s economy, to deliver a high-performing, carbon-neutral, inclusive economy which benefits everyone in Scotland, regardless of where they live.  
 

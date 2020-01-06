@@ -2,12 +2,12 @@
 layout: default
 title:  "Inward investment & place regeneration"
 category: case-studies
-summary: "BBarclays world-class campus takes shape in Glasgow"
-index: 9
+summary: "Barclays world-class campus takes shape in Glasgow"
+index: 10
 parent: case-studies
 permalink: /overview/case-studies/inward-investment-place-regeneration/
-prev: {title: "Case studies", url: "/overview/case-studies/"}
-next: {title: "Growth Accelerator Scheme", url: "/overview/case-studies/growth-accelerator-scheme/"}
+prev: {title: "City Region & Growth deals: Aberdeen Harbour redevelopment", url: "/overview/case-studies/city-region-growth-deals/" }
+next: {title: "Business resilience support: Prepare for Brexit cross-agency response", url: "/overview/case-studies/business-resilience-support-prepare-for-brexit/" }
 ---
 
 ***Barclays world-class campus takes shape in Glasgow***
@@ -18,6 +18,6 @@ Barclays operates in 40 countries across the world, and the development in Glasg
 
 It is expected that once completed, the campus will be able to accommodate up to 2,500 additional roles, doubling Barclays’ current workforce in Scotland and making the bank one of Glasgow’s biggest commercial employers.  At least 42 per cent of the new jobs will be high value, and at least 341 will be for disadvantaged workers or those who have a disability.  
 
-Paul Compton, chief operating officer at Barclays, said: “This new campus is a flagship project for the bank, which builds on Barclays’ long history in Scotland and clearly demonstrates our commitment to supporting the UK economy.  This is a fantastic opportunity to deepen our close ties with local communities and academic institutions to attract and retain the very best talent. It will be somewhere that our colleagues are incredibly proud to work.”  
+Paul Compton, chief operating officer at Barclays, said: "This new campus is a flagship project for the bank, which builds on Barclays’ long history in Scotland and clearly demonstrates our commitment to supporting the UK economy.  This is a fantastic opportunity to deepen our close ties with local communities and academic institutions to attract and retain the very best talent. It will be somewhere that our colleagues are incredibly proud to work."  
 
-(222 words) 
+(222 words)  

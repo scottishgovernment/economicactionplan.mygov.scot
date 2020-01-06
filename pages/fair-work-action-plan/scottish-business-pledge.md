@@ -21,7 +21,7 @@ To refresh the Business Pledge structure and approach, we will:
 * Refresh the language around the employment aspects of the Business Pledge to fully reflect the Fair Work Framework and wider inclusive growth ambitions
 * Include an additional core element that focuses on improving workforce Diversity, particularly around the Gender Pay Gap
 * Add environmental impact as a new Business Pledge element
-* Develop a new “menu” approach that retains the core ask (Living Wage and two other elements), and seeks commitment to adopt a further five from the remaining seven elements over time. This will offer businesses an opportunity for a more tailored approach to the circumstances of each organisation
+* Develop a new "menu” approach that retains the core ask (Living Wage and two other elements), and seeks commitment to adopt a further five from the remaining seven elements over time. This will offer businesses an opportunity for a more tailored approach to the circumstances of each organisation
 * Support signatories to the Business Pledge to achieve or progress on each of the elements through a business to business learning network;
 * Build momentum and impact through a Business Pledge leadership group that will offer strategic direction to the learning network and to promotion of the Business Pledge, and 
 * Work with existing Business Pledge companies to support them to achieve the refreshed approach where appropriate. 

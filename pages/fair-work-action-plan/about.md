@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "About this Action Plan"
-category: economic-action-plan
+category: fair-work-action-plan
 summary: "Information relating to the production of this Action Plan."
 index: 22
 parent: fair-work-action-plan-home
@@ -13,7 +13,7 @@ next: { title: "Fair Work in Practice", url: "/fair-work/fair-work-in-practice/"
 
 In developing the Fair Work Action Plan, we have sought to progress recommendations of the Fair Work Convention’s Fair Work Framework and to reflect advice provided from our key stakeholders, including the STUC and a range of employers, on how Fair Work can best be promoted and delivered.  
 
-We will also build on the aims and the recommendations from the Enterprise and Skills Strategic Board.  A key recommendation from the [Enterprise and Skills Strategic Board’s Strategic Plan](https://www.gov.scot/publications/working-collaboratively-better-scotland/) is for the “Scottish Government to embed progressive business models, workplace innovation and Fair Work in all instruments of government and agencies, ensuring business support is conditional on a commitment to Fair Work”. Many public agencies are already making progress in mainstreaming Fair Work and we will build on and learn from these examples.
+We will also build on the aims and the recommendations from the Enterprise and Skills Strategic Board.  A key recommendation from the [Enterprise and Skills Strategic Board’s Strategic Plan](https://www.gov.scot/publications/working-collaboratively-better-scotland/) is for the "Scottish Government to embed progressive business models, workplace innovation and Fair Work in all instruments of government and agencies, ensuring business support is conditional on a commitment to Fair Work”. Many public agencies are already making progress in mainstreaming Fair Work and we will build on and learn from these examples.
 
 There are many employers already championing the dimensions of Fair Work and there is an increasing evidence base demonstrating the benefits to workers and to business.  We must build on this and communicate a business case for Fair Work to employers across Scotland.  
 

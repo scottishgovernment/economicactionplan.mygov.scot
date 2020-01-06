@@ -3,11 +3,11 @@ layout: default
 title:  "High growth spin out"
 category: case-studies
 summary: "University team develops innovative device to improve cancer diagnosis and treatment"
-index: 2
+index: 7
 parent: case-studies
 permalink: /overview/case-studies/high-growth-spin-out/
-prev: {title: "Innovation and sustainability", url: "/overview/case-studies/innovation-sustainability/"}
-next: {title: "", url: ""}
+prev: {title: "Inward investment: Spire, Glasgow-based space satellite company", url: "/overview/case-studies/inward-investment/" }
+next: {title: "Skills development: Brewdog, craft brewers use of graduate apprenticeships", url: "/overview/case-studies/skills-development/" }
 ---
 
 ***University team develops innovative device to improve cancer diagnosis and treatment***  
@@ -20,6 +20,6 @@ Extracting cfNA from blood has until now been a labour-intensive, highly-skilled
 
 The team showcased the technology at Heriot-Watt’s new GRID building – which stands for Global Research Innovation and Discovery. The facility is fully-equipped with next generation technologies that empower students, entrepreneurs and start-ups to commercialise creative ideas.  
 
-Natantis’ principal investigator, Dr Maiwenn Kersaudy-Kerhoas, said: “The High Growth Spin-out Programme is a fantastic opportunity to bridge the gap between the academic lab and the commercial enterprise. We’re looking forward to moving to the new GRID building as an incubator for Natantis, just a stone’s throw from Edinburgh Airport, with all the benefits of the campus’ facilities.”  
+Natantis’ principal investigator, Dr Maiwenn Kersaudy-Kerhoas, said: "The High Growth Spin-out Programme is a fantastic opportunity to bridge the gap between the academic lab and the commercial enterprise. We’re looking forward to moving to the new GRID building as an incubator for Natantis, just a stone’s throw from Edinburgh Airport, with all the benefits of the campus’ facilities."  
 
 (249 words)
