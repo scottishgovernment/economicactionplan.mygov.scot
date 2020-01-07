@@ -6,7 +6,7 @@ summary: "Record levels of infrastructure investment"
 index: 3
 parent: investment
 permalink: /investment/infrastructure/
-prev: { title: "Introduction", url: "/investment/introduction/" }
+prev: { title: "Oil and Gas and Carbon Capture", url: "/investment/oil-and-gas-carbon-capture/" }
 next: { title: "Digital and Mobile Connectivity", url: "/investment/digital-mobile-connectivity/" }
 ---
 ***Record levels of infrastructure investment***

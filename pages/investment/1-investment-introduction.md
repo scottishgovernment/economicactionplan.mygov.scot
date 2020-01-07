@@ -6,7 +6,7 @@ summary: "Boosting private and public investment and delivering world-class infr
 index: 1
 parent: investment
 permalink: /investment/introduction/
-next: { title: "Infrastructure Investment", url: "/investment/infrastructure/" }
+next: { title: "Oil and Gas and Carbon Capture", url: "/investment/oil-and-gas-carbon-capture/" }
 ---
 ***Boosting private and public investment and delivering world-class infrastructure***
 
@@ -17,6 +17,7 @@ We want to boost private and public investment to create the conditions for Scot
 
 We also know that the successful economies of the 21st century will be carbon neutral. That is why we are investing in sectors and businesses that have the potential to lead this transition and create global opportunities for Scottish goods and services.  
 
+* [Oil and Gas and Carbon Capture](/investment/oil-and-gas-carbon-capture/)
 * [Infrastructure Investment](/investment/infrastructure/)
 * [Digital and Mobile Connectivity](/investment/digital-mobile-connectivity/)
 * [Transport Infrastructure and Connectivity](/investment/transport-infrastructure/)
@@ -24,7 +25,6 @@ We also know that the successful economies of the 21st century will be carbon ne
 * [City Region and Other Growth Deals](/investment/city-region-deals/)
 * [Carbon Neutral Economy](/investment/carbon-neutral-economy/)
 * [Ultra-Low Emission Vehicles](/investment/ultra-low-emission-vehicles/)
-* [Oil and Gas and Carbon Capture](/investment/oil-and-gas/)
 
 ## Case study - City region & growth deals
 
@@ -37,5 +37,3 @@ Long recognised as a vital cog in Scotland’s economy – it has supported the 
 The Scottish Government is contributing £11.7 million to the overall project cost of £350 million. Once complete, the expansion of the harbour at Nigg Bay is expected to help Scotland tap into the opportunities presented by the renewables and cruise tourism industries.  
 
 Commenting on the award in 2017, Aberdeen Harbour’s then Chief Executive, Colin Parker, said: "This funding is immensely significant. It further demonstrates recognition of this strategic project as one of national and international importance. The facilities developed will transform the port’s ability to accommodate the trend for larger vessels we are witnessing across a whole range of industries, thereby encouraging commercial diversification and future-proofing the port’s ability to support large-scale marine operations."  
-
-[All Case studies](/overview/case-studies/)  

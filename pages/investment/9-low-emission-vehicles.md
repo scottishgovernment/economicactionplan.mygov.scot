@@ -7,7 +7,6 @@ index: 8
 parent: investment
 permalink: /investment/ultra-low-emission-vehicles/
 prev: { title: "Carbon Neutral Economy", url: "/investment/carbon-neutral-economy/" }
-next: { title: "Oil and Gas and Carbon Capture ", url: "/investment/oil-and-gas/" }
 ---
 ***Putting Scotland at the forefront of markets in Ultra Low Emissions Vehicles***
 

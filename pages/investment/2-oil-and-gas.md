@@ -6,7 +6,8 @@ summary: "Collaborative working to transform the sector"
 index: 2
 parent: investment
 permalink: /investment/oil-and-gas-carbon-capture/
-prev: { title: "Ultra-Low Emission Vehicles ", url: "/investment/ultra-low-emission-vehicles/" }
+prev: { title: "Introduction", url: "/investment/introduction/" }
+next: { title: "Infrastructure Investment", url: "/investment/infrastructure/" }
 ---
 ***Collaborative working to transform the sector***
 

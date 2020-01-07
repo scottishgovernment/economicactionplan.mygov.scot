@@ -34,7 +34,9 @@ City Region and Growth Deals build on our strong foundations of finding new ways
 
 In order to support community wealth building we will invest £3m in a community wealth building programme which is being developed as part of the Ayrshire Growth Deal. This aims to help maximise the local benefit within the area from key local employers, procurement spend, and assets.  
 
-***Case Study - Building Scotland’s biggest port***
+## Case study - City region & growth deals
+
+***Building Scotland’s biggest port***
 
 Established in 1136, Aberdeen Harbour is officially recognised by the Guinness Book of Records as one of Britain’s oldest existing businesses. Soon, it will be able to claim the title of Scotland’s biggest port.
 
