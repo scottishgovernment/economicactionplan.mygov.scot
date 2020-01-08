@@ -23,10 +23,14 @@ Through the business-led Enterprise and Skills Strategic Board, we are increasin
 * [Financial Services](/enterprise/financial-services/)
 * [Creative Industries](/enterprise/creative-industries/)
 * [Employee-Ownership](/enterprise/employee-ownership/)
-* [Supporting Scotland's Rural Businesses](/enterprise/supporting-rural-businesses/)
 * [Social Enterprises](/enterprise/social-enterprises/)
 * [Public Procurement](/enterprise/public-procurement/)
 * [Small businesses](/enterprise/small-businesses/)
+* [A CAN DO place for business](/enterprise/can-do-place-business/)
+* [Everyday support](/enterprise/everyday-support/)
+* [Start and Grow](/enterprise/start-and-grow/)
+* [Innovate, Export, Scale](/enterprise/innovate-export-scale/)
+* [Put Fair Work and Inclusive Growth First](/enterprise/put-fair-work-and-inclusive-growth-first/)
 
 <div class="case-study" markdown="1">
 
