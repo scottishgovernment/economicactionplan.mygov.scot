@@ -9,12 +9,13 @@ permalink: /enterprise/social-enterprises/
 prev: { title: "Employee ownership", url: "/enterprise/employee-ownership/" }
 next: { title: "Public Procurement", url: "/enterprise/public-procurement/" }
 ---
+***Scotland’s as a world-leading social enterprise nation***
+
 ![A photograph of staff standing outside the Social Bite, social enterprise in Edinburgh](/assets/images/pageimages/Enterprise.12.jpg)
 
 ---
-***Scotland’s as a world-leading social enterprise nation***
 
-Key points:  
+## Key points:
 
 - We have established a 10 year National Social Enterprise Strategy
 - Scotland is increasingly recognised as a world leader in developing social enterprise

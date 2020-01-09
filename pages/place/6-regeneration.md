@@ -9,13 +9,13 @@ permalink: /place/regeneration/
 next: { title: "Marine and Coastal economies", url: "/place/marine-and-coastal/" }
 prev: { title: "Planning", url: "/place/planning" }
 ---
+***Place-based policy to tackle inequality and supports local aspirations***
+
 ![A photograph of the waterfront at Dundee including part of the V&A building and sign](/assets/images/pageimages/Place.32.jpg)  
 
 ---
 
-***Place-based policy to tackle inequality and supports local aspirations***
-
-## Key Points:
+## Key points:
 
 * Stimulating inclusive growth through the Regeneration Capital Grant Fund and the Vacant and Derelict Land Fund
 * Provide investment for commercial projects through our SPRUCE investment loan fund
@@ -45,9 +45,10 @@ Paul Compton, chief operating officer at Barclays, said: "This new campus is a f
 </div>
 
 ## Key resources:
-**[Scottish Government: Regeneration policy](https://beta.gov.scot/policies/regeneration/)**
 
-**[Scottish Government: Community empowerment policy](https://beta.gov.scot/policies/community-empowerment/)**
+**[Scottish Government: Regeneration policy](https://www.gov.scot/policies/regeneration/)**
+
+**[Scottish Government: Community empowerment policy](https://www.gov.scot/policies/community-empowerment/)**
 
 **[Clyde Gateway](http://www.clydegateway.com/)**
 

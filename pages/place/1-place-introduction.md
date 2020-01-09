@@ -8,10 +8,11 @@ parent: place
 permalink: /place/introduction/
 next: { title: "City Region and Other Growth Deals", url: "/place/city-region-deals/" }
 ---
+***Supporting places to thrive throughout Scotland: in our regions, cities, towns and the rural economy***
+
 ![A photograph of the view of Princes Street in Edinburgh from Calton Hill](/assets/images/pageimages/Place.34.jpg)  
 
 ---
-***Supporting places to thrive throughout Scotland: in our regions, cities, towns and the rural economy***
 
 We recognise that a ‘one-size fits all’ approach to sustainable and inclusive growth can have unintended consequences. Supporting businesses and growth across all of Scotland, requires us to tailor our actions to address specific conditions in our sectors, regions and rural economy.  
 

@@ -31,6 +31,6 @@ We will also continue to encourage and support ongoing research, development, de
 
 **[ChargePlace Scotland](https://chargeplacescotland.org/)**
 
-**[Climate Change Plan: third report on proposals and policies 2018-2032 (RPP3)](https://beta.gov.scot/publications/scottish-governments-climate-change-plan-third-report-proposals-policies-2018/pages/12/)**
+**[Climate Change Plan: third report on proposals and policies 2018-2032 (RPP3)](https://www.gov.scot/publications/scottish-governments-climate-change-plan-third-report-proposals-policies-2018/pages/12/)**
 
-**[The future of energy in Scotland: Scottish energy strategy](https://beta.gov.scot/publications/scottish-energy-strategy-future-energy-scotland-9781788515276/)**
+**[The future of energy in Scotland: Scottish energy strategy](https://www.gov.scot/publications/scottish-energy-strategy-future-energy-scotland-9781788515276/)**

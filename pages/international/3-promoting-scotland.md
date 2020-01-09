@@ -9,12 +9,13 @@ permalink: /international/promoting-scotland/
 prev: { title: "Exports", url: "/international/exports/" }
 next: { title: "Inward Investment", url: "/international/inward-investment/" }
 ---
+***Promoting Scotland’s products on the world stage***
+
 ![A photograph of two attendees at the Scottish Export Awards](/assets/images/pageimages/International.17.jpg)
 
 ---
-***Promoting Scotland’s products on the world stage***
 
-## Key Points:
+## Key points:
 
 * We will work with partners to develop and drive one clear brand Scotland
 * We now have a network of offices in 30 locations in 19 countries to drive trade and investment in Scotland
@@ -44,7 +45,6 @@ Attendance at MIPIM and similar events has led directly to £2 billion of invest
 
 Stuart Parker, Managing Director of Construction Scotland at Morgan Sindall, said:
 "MIPIM 2020 will provide Team Scotland with an excellent opportunity to showcase its impressive investment portfolio. Scotland has rightly received global recognition as a growing economy, and the delegation’s presence will benefit not only in terms of profile, but as a stimulus for sustained development and urban regeneration."
-
 </div>
 
 ## Key resources:

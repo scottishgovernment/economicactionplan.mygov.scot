@@ -8,10 +8,9 @@ parent: skills
 permalink: /skills/upskilling-and-reskilling/
 prev: { title: "Training", url: "/skills/training/" }
 ---
-
 ***Recognising the need for lifelong learning***
 
-## Key Points:
+## Key points:
 
 * A Future Skills Action Plan to be published in early 2019
 * Delivering a Climate Emergency Skills Action Plan
@@ -51,7 +50,6 @@ Louise is employed as a senior customer service specialist by the multinational 
 
 Louise had been working as a senior UK customer service specialist for three years, before becoming the company’s UK customer service team lead. She sees her apprenticeship as a key part of her career progression.  
 She said: "I would definitely recommend Graduate Apprenticeships to others who are looking to further their career and expand their experience while working. Being able to take the theory you learn and immediately put it to use in your day job is very rewarding."
-
 </div>
 
 We have also introduced Project Lift a new, ambitious, whole-system approach to recruit, retain, develop and manage talent within Health and Social Care in Scotland.  It aims to enhance leadership capability and capacity at all levels of seniority by promoting senior workforce development and sustainability, and growing future leaders.  

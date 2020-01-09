@@ -9,7 +9,6 @@ permalink: /overview/case-studies/inward-investment-place-regeneration/
 prev: {title: "City Region & Growth deals: Aberdeen Harbour redevelopment", url: "/overview/case-studies/city-region-growth-deals/" }
 next: {title: "Business resilience support: Prepare for Brexit cross-agency response", url: "/overview/case-studies/business-resilience-support-prepare-for-brexit/" }
 ---
-
 ***Barclays world-class campus takes shape in Glasgow***
 
 Glasgow’s financial services sector received a major boost after Barclays announced plans to develop a new 5000-person campus on the banks for the River Clyde.  

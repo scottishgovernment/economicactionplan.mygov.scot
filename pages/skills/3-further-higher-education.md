@@ -9,13 +9,13 @@ permalink: /skills/further-higher-education/
 prev: { title: "Employment Support", url: "/skills/employment-support/" }
 next: { title: "Training", url: "/skills/training/" }
 ---
+***Investing in a world class education system***
 
 ![A photograph of students at a Scottish graduation ceremony](/assets/images/pageimages/Skills.27.jpg)  
 
 ---
-***Investing in a world class education system***
 
-## Key Points:
+## Key points:
 
 * Investing over £1 billion in 2018-19 in Scotland’s universities. 
 * Funding of over £600m in 2019-20 to deliver at least 116,000 full-time equivalent college places
@@ -34,13 +34,13 @@ A pilot phase of the NMIS Manufacturing Skills Academy is delivering a programme
 
 ## Key resources:
 
-**[Learner Journey Review Report](https://beta.gov.scot/publications/15-24-learner-journey-review-9781788518741/)**
+**[Learner Journey Review Report](https://www.gov.scot/publications/15-24-learner-journey-review-9781788518741/)**
 
-**[STEM Strategy](https://beta.gov.scot/publications/science-technology-engineering-mathematics-education-training-strategy-scotland/)**
+**[STEM Strategy](https://www.gov.scot/publications/science-technology-engineering-mathematics-education-training-strategy-scotland/)**
 
-**[Student Support Review](https://beta.gov.scot/publications/independent-review-student-financial-support-scotland/)**
+**[Student Support Review](https://www.gov.scot/publications/independent-review-student-financial-support-scotland/)**
 
-**[Scottish Government: Universities policy](https://wwwbeta.gov.scot/policies/universities/)**
+**[Scottish Government: Universities policy](https://www.gov.scot/policies/universities/)**
 
 **[Colleges Scotland](https://collegesscotland.ac.uk/)**
 

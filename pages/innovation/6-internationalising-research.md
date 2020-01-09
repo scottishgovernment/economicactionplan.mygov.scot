@@ -9,13 +9,13 @@ permalink: /innovation/internationalising-research/
 prev: { title: "Making Best Use of University and College Research, Knowledge and Talent", url: "/innovation/university-research/" }
 next: { title: "Data Driven Innovation and Cyber Resilience", url: "/innovation/data-driven/" }
 ---
+***Enhancing Scotland’s access to global value chains through targeted innovation-led collaboration***
 
 ![A photograph of a presenter demonstrating software developed by the Glasgow School of Art Simulation School](/assets/images/pageimages/Innovation.25.jpg)
 
 ---
-***Enhancing Scotland’s access to global value chains through targeted innovation-led collaboration***
 
-## Key Points:
+## Key points:
 
 * The Scottish Government and Scotland’s business, academic and public sector partners value the relationships we have with our European partners forging research and innovation collaborations that can have a global impact.  
 * Scottish organisations have already secured almost €650 million to date (July 2019) from the current EU research and innovation funding programme (Horizon 2020) alone.

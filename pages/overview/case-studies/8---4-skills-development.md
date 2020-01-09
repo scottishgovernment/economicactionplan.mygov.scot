@@ -9,7 +9,6 @@ permalink: /overview/case-studies/skills-development/
 prev: {title: "High growth spin-out: Nantantis, life-sciences spin-out from Heriot Watt", url: "/overview/case-studies/high-growth-spin-out/" }
 next: {title: "City Region & Growth deals: Aberdeen Harbour redevelopment", url: "/overview/case-studies/city-region-growth-deals/" }
 ---
-
 ***Craft beer specialist Brewdog apprenticeship programme***  
 
 In 2015, Brewdog made use of Skills Development Scotland’s Skills for Growth initiative, which provides free consultancy and support to identify growth priorities.  

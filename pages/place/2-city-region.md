@@ -11,7 +11,7 @@ next: { title: "Regional Economies and Economic Partnerships", url: "/place/regi
 ---
 ***Delivering transformational investment for Scotland’s city regions***
 
-## Key Points:
+## Key points:
 
 * City Region Deals act as enablers to unlock economic assets
 * We will deliver City Region Deals for all our cities and have already committed investment of up to £1.125 billion over the next 10-20 years for City Region Deals across Scotland

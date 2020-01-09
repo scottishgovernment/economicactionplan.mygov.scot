@@ -9,10 +9,9 @@ permalink: /place/local-economies/
 prev: { title: "Marine and Coastal Economy and Communities", url: "/place/marine-and-coastal" }
 next: { title: "Transport Network", url: "/place/transport-network/" }
 ---
-
 ***Supporting community-led development***
 
-## Key Points:
+## Key points:
 
 * Increasing shared ownership of renewable energy
 * Giving local communities control of land and properties
@@ -42,6 +41,7 @@ We established a Scottish Rural Parliament that has empowered rural communities 
 We are committed to supporting, strengthening and protecting island communities.  We will publish the first ever National Islands Plan by the end of the year. It will set out how we and other public sector partners will work to improve outcomes for island economies and communities and, once it is published, we will report on our progress each year.  
 
 ## Key resources:
+
 **[Local Energy Scotland](https://www.localenergy.scot/)**  
 
 **[Scotland's Towns](https://www.scotlandstowns.org/)**

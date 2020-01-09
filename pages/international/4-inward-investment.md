@@ -9,12 +9,13 @@ permalink: /international/inward-investment/
 prev: { title: "Promoting Scotland", url: "/international/promoting-scotland/" }
 next: { title: "Migration", url: "/international/migration/" }
 ---
+***Attracting investment in Scotland’s people and places***
+
 ![A photograph of delegates at the Guangdong Investor Forum](/assets/images/pageimages/International.16.jpg)
 
 ---
-***Attracting investment in Scotland’s people and places***
 
-## Key Points:
+## Key points:
 
 * Our new Invest in Scotland Prospectus will target key markets and sectors with positive reasons to invest in Scotland
 * Extend the range and reach of our international network to support investment in Scotland  
@@ -42,7 +43,6 @@ The funding for Spire Global, which has offices across the world, demonstrates t
 There are now more than 130 space organisations in Scotland, including the headquarters of 84 UK space industry firms, with a combined income of £140 million. More small satellites are also built in Glasgow than any other place in Europe, and last year plans were announced for the UK’s first spaceport in the far north of Scotland. These and other advances mean Scotland’s space sector could be worth £4 billion by 2030.  
 
 Peter Platzer, co-Founder and CEO of Spire Global, said: "Glasgow has been a fantastic location for us, with exceptional talent and people with a phenomenal ‘can-do’ attitude and true grit.  We are excited to substantially expand our presence here and look forward to the continuation of strong partnerships within Scotland, the UK Space Agency, and the wider UK space ecosystems."  
-
 </div>
 
 ## Key resources:

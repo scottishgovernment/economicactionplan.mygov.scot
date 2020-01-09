@@ -9,13 +9,13 @@ permalink: /sustainability/natural-capital/
 next: { title: "Ultra-Low Emission Vehicles", url: "/sustainability/ultra-low-emission-vehicles/" }
 prev: { title: "Decarbonisation", url: "/sustainability/decarbonisation/" }
 ---
-![](/assets/images/pageimages/Sustainability.46.jpg)  
-
----
--add alt text to image 45-
 ***Protecting and enhancing Scotland’s natural assets***
 
-## Key Points:
+![A photograph of trees in a Scottish forest](/assets/images/pageimages/Sustainability.46.jpg)  
+
+---
+
+## Key points:
 
 * Investment in Scotland’s natural assets – air, water, land and nature – will deliver a healthier and more prosperous Scotland.
 * Climate Change Adaptation Programme
@@ -50,6 +50,7 @@ The Cairngorms National Park, Loch Lomond & The Trossachs National Park and the 
 We are continuing to invest in our green infrastructure to support tourism growth, such as the National Walking and Cycling Network which is attracting more visitors and generating £85 million expenditure in the local economy.  
 
 ## Key resources:
+
 **[Green Infrastructure Scotland](https://www.greeninfrastructurescotland.scot/)**  
 
 **[Central Scotland Green Network](http://www.centralscotlandgreennetwork.org/)**  

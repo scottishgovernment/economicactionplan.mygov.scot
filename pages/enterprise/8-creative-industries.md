@@ -9,7 +9,6 @@ permalink: /enterprise/creative-industries/
 prev: { title: "Financial Services", url: "/enterprise/financial-services/" }
 next: { title: "Employee ownership", url: "/enterprise/employee-ownership/" }
 ---
-
 ***Creative industries include screen, digital tech, design and computer games – some of the most dynamic and vibrant sectors of our modern economy***
 
 ## Key points:

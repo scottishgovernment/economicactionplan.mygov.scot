@@ -8,10 +8,9 @@ parent: innovation
 permalink: /innovation/circular-economy/
 prev: { title: "Creative Industries", url: "/innovation/creative-industries/" }
 ---
-
 ***Delivering economic opportunities and environmental benefits through resource efficiency***
 
-## Key Points:
+## Key points:
 
 A more circular economy will benefit
 

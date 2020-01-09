@@ -11,9 +11,9 @@ next: { title: "Labour Market Access and Inclusion", url: "/people/inclusion/" }
 ---
 ***Massive investment in the lifetime outcomes of Scotland’s children and young people***
 
-## Key Points:
+## Key points:
 
-* The Child Poverty (Scotland) Act 2017 sets out our ambition for reducing and ultimately eradicating child poverty 
+* The Child Poverty (Scotland) Act 2017 sets out our ambition for reducing and ultimately eradicating child poverty
 * Spend on early learning and childcare will more than double to reach nearly £1 billion a year by 2021-22
 * £750 million over this Parliament to tackle the poverty-related attainment gap
 
@@ -32,6 +32,7 @@ We are supporting Young Enterprise Scotland to deliver ‘Scotland’s Enterpris
 **[Child Poverty (Scotland) Act 2017](http://www.legislation.gov.uk/asp/2017/6/enacted)**  
 
 **[Every Child, Every Chance: The Child Poverty Delivery Plan 2018-22](https://www.gov.scot/publications/child-chance-tackling-child-poverty-delivery-plan-2018-22/)**  
+
 **[Scottish Government: Early Education and Care](https://www.gov.scot/policies/early-education-and-care/early-learning-and-childcare/)**  
 
 **[Scottish Government: Pupil Attainment](https://www.gov.scot/policies/schools/pupil-attainment/)**

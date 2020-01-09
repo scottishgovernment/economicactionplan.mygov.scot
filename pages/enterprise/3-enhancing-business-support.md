@@ -9,7 +9,6 @@ permalink: /enterprise/enhancing-business-support/
 prev: { title: "Delivering a Competitive Business Environment", url: "/enterprise/competitive-business-environment/" }
 next: { title: "Access to Finance", url: "/enterprise/access-to-finance/" }
 ---
-
 ***The right information, advice and support at the right time for business, wherever they are based in Scotland***
 
 ## Key points:
@@ -36,7 +35,6 @@ We will also test a place-based approach to integrated business support for micr
 To achieve sustainable and inclusive economic growth in the predominantly rural South of Scotland, we are creating a new enterprise agency from 1 April 2020.  We have established the legal basis for the new agency in the South of Scotland Enterprise Act 2019.  The agency will further sustainable inclusive economic and social development of the region as well as improving its amenity and environment.  In advance of the statutory body, we have established South of Scotland Economic Partnership, and committed £13.3m in 2019-2020 to support SOSEP and the delivery of the new agency.  
 
 ![](/assets/images/infographics/Enterprise.7.jpg)
-<br>
 
 We have pledged £7.5m funding over 2017-2020 towards the Ambition 2030 Food and Drink Industry Strategy to help the sector double its turnover to £30bn by 2030. The strategy contains a range of actions with collaboration between government and industry to support food and drink businesses and help the sector grow. We have published, in collaboration with industry, a number of sectoral action plans covering: fruit and vegetables and potatoes; pigs; and venison; featuring a series of practical actions to drive economic growth in these sectors.  
 

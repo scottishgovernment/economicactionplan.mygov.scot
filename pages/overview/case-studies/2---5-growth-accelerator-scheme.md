@@ -9,7 +9,6 @@ permalink: /overview/case-studies/growth-accelerator-scheme/
 prev: {title: "Innovation and sustainability: Urban Foresight puts the wheels in motion on e-bike project", url: "/overview/case-studies/innovation-sustainability/" }
 next: {title: "Social enterprise - Positive Changes CIC, chocolate maker employing women ex-offenders", url: "/overview/case-studies/social-enterprise/" }
 ---
-
 ***Growing investment across Scotland***
 
 City Region and Regional Growth Deals invest in projects that drive regional economic growth and help create new jobs. They build on the new ways we’ve already found to unlock economic investment – including the Growth Accelerator approach.  

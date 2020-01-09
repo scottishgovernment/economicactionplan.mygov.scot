@@ -11,7 +11,7 @@ prev: { title: "Regional Economies and Economic Partnerships", url: "/place/regi
 ---
 ***Building stronger local partnerships to achieve greater impact***
 
-## Key Points:
+## Key points:
 
 * A new generation of Business Improvement Districts (BIDs) will develop more inclusive and energetic partnerships to increase impact.  
 

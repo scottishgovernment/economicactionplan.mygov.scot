@@ -11,7 +11,7 @@ next: { title: "Innovative Sectors and Places", url: "/innovation/sectors-and-pl
 ---
 ***Boosting business investment in research and development and enhanced workplace innovation***
 
-Key points
+## Key points:
 
 * From 2018 over a period of 3 years we will provide £110m in grant support for business research and development (R&D)
 * Aim to grow Scotland’s business expenditure on R&D
@@ -36,7 +36,6 @@ To assist with this pioneering work, the company received a £1.28 million R&D g
 Scottish Sea Farms MD Jim Gallagher said: “Researching and developing new approaches and technologies is key to ensuring that we continue raising the healthiest fish in the most responsible but also the most environmentally sustainable way, and this latest £48 million investment aims to advance our work in both areas.
 
 “The £1.28m grant means we will be able to do more of this planned R&D even sooner, accelerating both the innovation and the anticipated benefits for fish health and welfare and for the environment.”
-
 </div>
 
 We are working collaboratively across the public sector to build on the investment made in phase 1 of Scotland’s university-hosted Innovation Centres which are having a transformational effect on our economy.  Funding for the next phase has already been announced for Censis (the Centre of excellence for Sensor and Imaging Systems, up to £9.25m), IBIoIC (Scotland’s Industrial Biotechnology Innovation Centre, up to £11.1m), the Data Lab (up to £13.5m) and the Construction Scotland Innovation Centre (up to £10.1m).
@@ -62,15 +61,18 @@ Michael Figures, Business developments project officer at Perth and Kinross Coun
 “The Can Do Innovation Challenge Fund is a great way to encourage and explore innovation to develop cutting-edge solutions to meet the challenges of today and tomorrow, for an ever-more inter-connected and complex world.”
 
 In Realising Scotland’s Full Potential in a Digital World: “A Digital Strategy For Scotland” Scottish Government made a commitment to support people and communities through social changes. Developing the frameworks and principles that provide the foundations of an ethical approach to digital technologies will that appropriate guidance is in place to enable a confident and secure digital society.
-
 </div>
 
 Lastly, our new Research Data Scotland service will launch in Spring 2020. It will provide support for researchers to access and use data about people, places and businesses in a secure setting for public benefit and help to attract investment to Scotland.
 
 ## Key resources:
 
-**[Scotland CAN DO: an innovation action plan for Scotland](https://www.gov.scot/publications/scotland-innovation-action-plan-scotland/)**  
-**[Scotland Can Do](https://www.cando.scot/)**  
-**[Scottish Enterprise: Workplace Innovation Fund](https://www.scottish-enterprise.com/support-for-businesses/funding-and-grants/growing-your-business/workplace-innovation-fund)**  
-**[Fair Work Convention](http:s//www.fairworkconvention.scot/)**  
-**[Productivity Club Scotland](https://www.productivity.scot/)**  
+**[Scotland CAN DO: an innovation action plan for Scotland](https://www.gov.scot/publications/scotland-innovation-action-plan-scotland/)**
+
+**[Scotland Can Do](https://www.cando.scot/)**
+
+**[Scottish Enterprise: Workplace Innovation Fund](https://www.scottish-enterprise.com/support-for-businesses/funding-and-grants/growing-your-business/workplace-innovation-fund)**
+
+**[Fair Work Convention](http:s//www.fairworkconvention.scot/)**
+
+**[Productivity Club Scotland](https://www.productivity.scot/)**

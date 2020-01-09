@@ -9,12 +9,13 @@ permalink: /investment/city-region-deals/
 prev: { title: "Housing", url: "/investment/housing/" }
 next: { title: "Carbon Neutral Economy", url: "/investment/carbon-neutral-economy/" }
 ---
+***Delivering transformational investment for Scotland’s city regions***
+
 ![An aerial photograph of the Dundee waterfront](/assets/images/pageimages/Investment.10.jpg)
 
 ---
-***Delivering transformational investment for Scotland’s city regions***
 
-## Key Points:
+## Key points:
 
 - City Region and other regional Growth Deals act as enablers to unlock economic assets
 - We have 4 deals already in delivery and a further 4 agreed in principle.  
@@ -34,17 +35,18 @@ City Region and Growth Deals build on our strong foundations of finding new ways
 
 In order to support community wealth building we will invest £3m in a community wealth building programme which is being developed as part of the Ayrshire Growth Deal. This aims to help maximise the local benefit within the area from key local employers, procurement spend, and assets.  
 
-## Case study - City region & growth deals
+<div class="case-study" markdown="1">
 
-***Building Scotland’s biggest port***
+## *case study:*{:.hidden} Building Scotland’s biggest port
 
 Established in 1136, Aberdeen Harbour is officially recognised by the Guinness Book of Records as one of Britain’s oldest existing businesses. Soon, it will be able to claim the title of Scotland’s biggest port.
 
-Long recognised as a vital cog in Scotland’s economy – it has supported the growth of the fishing and oil and gas industries among numerous others – the harbour is undergoing a major modernisation programme that will open the door to new markets. 
+Long recognised as a vital cog in Scotland’s economy – it has supported the growth of the fishing and oil and gas industries among numerous others – the harbour is undergoing a major modernisation programme that will open the door to new markets.  
 
 The Scottish Government has committed up to £12.5 million to the overall project cost of £350 million, which will be used contribute to the infrastructure necessary to connect the harbour extension to the broader network. Once complete, the expansion of the harbour at Nigg Bay will have the largest amount of berthage in the UK, and a water depth of up to 15 metre. This is expected to help Scotland tap into the opportunities presented by the renewables and cruise tourism industries.
 
 Construction of Aberdeen South Harbour is now well underway, with the project more than half-way through the building process.  Aberdeen Harbour Board’s Chief Executive, Michelle Handforth, highlighted the significance of this investment via the City Deal in the 2018/19 Annual Report, stating that “In terms of investment, Aberdeen Harbour’s South Harbour expansion is the largest port infrastructure project underway in the UK, and the largest single investment project in the history of UK Trust Ports”.
+</div>
 
 ## Key resources:
 

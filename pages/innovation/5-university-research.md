@@ -9,11 +9,11 @@ permalink: /innovation/university-research/
 prev: { title: "Using Public Sector Spend to Catalyse Innovation", url: "/innovation/public-sector/" }
 next: { title: "Internationalising Research and Innovation Engagement", url: "/innovation/internationalising-research/" }
 ---
+***Enabling our colleges and universities to drive innovation***
 
 ![A photograph of a student using computer imaging software](/assets/images/pageimages/Innovation.22.jpg)  
 
 ---
-***Enabling our colleges and universities to drive innovation***
 
 ## Key points:
 

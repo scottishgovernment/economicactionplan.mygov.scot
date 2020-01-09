@@ -9,12 +9,13 @@ permalink: /place/marine-and-coastal/
 next: { title: "Local Economies and Community-led Development", url: "/place/local-economies/" }
 prev: { title: "Regeneration", url: "/place/regeneration/" }
 ---
+***Developing the Blue Economy, sustaining coastal communities***
+
 ![A photograph of men working at Aberdeen Harbour](/assets/images/pageimages/Place.36.jpg)  
 
 ---
-***Developing the Blue Economy, sustaining coastal communities***
 
-## Key Points:
+## Key points:
 
 * Developing Regional Marine Plans
 * A new, world-leading approach to management of our sea fisheries

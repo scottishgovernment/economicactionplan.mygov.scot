@@ -8,7 +8,6 @@ parent: enterprise
 permalink: /enterprise/introduction/
 next: { title: "Delivering a Competitive Business Environment", url: "/enterprise/competitive-business-environment/" }
 ---
-
 ***Improving business support and ensuring a competitive business environment***
 
 We are delivering a more supportive business environment, focused on delivering a competitive tax system, reducing costs for business and allowing more businesses to get the help they need to flourish.  

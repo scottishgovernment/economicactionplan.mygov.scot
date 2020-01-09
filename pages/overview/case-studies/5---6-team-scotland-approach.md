@@ -9,7 +9,6 @@ permalink: /overview/case-studies/team-scotland-approach/
 prev: {title: "Business resilience support: Arjowiggins, Aberdeen-based paper mill saved from closure", url: "/overview/case-studies/business-resilience-support/" }
 next: {title: "Inward investment: Spire, Glasgow-based space satellite company", url: "/overview/case-studies/inward-investment/" }
 ---
-
 ***A team approach brings new investment***
 
 MIPIM is the world’s biggest real estate exhibition, bringing together the most influential players from all international property sectors. The event offers unrivalled access to the greatest number of development projects and sources of capital worldwide.  

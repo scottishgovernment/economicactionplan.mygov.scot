@@ -9,7 +9,6 @@ permalink: /enterprise/driving-entrepreneurship/
 prev: { title: "Access to Finance", url: "/enterprise/access-to-finance/" }
 next: { title: "Supporting Industry", url: "/enterprise/supporting-industry/" }
 ---
-
 ***Making Scotland a world-leading entrepreneurial innovative nation***
 
 - Delivering a ‘CAN DO’ mindset and approach where sustainable growth and innovation go hand in hand with wider benefits to all of society.
@@ -22,7 +21,6 @@ next: { title: "Supporting Industry", url: "/enterprise/supporting-industry/" }
 Scotland is recognised as the 5th most effective environment for business support globally. This is up from 12th in 5 years and is ahead of all other parts of the UK.  
 
 ![](/assets/images/infographics/Enterprise.5.jpg)
-<br>
 
 The Unlocking Ambition Challenge provides up to 40 budding entrepreneurs with the best possible advice and support, including tailored training; mentoring from successful business leaders, and access to professional, financial and entrepreneurial networks to help them grow their business. The initial cohort of entrepreneurs have completed their first year within the challenge and have graduated to year two.  
 

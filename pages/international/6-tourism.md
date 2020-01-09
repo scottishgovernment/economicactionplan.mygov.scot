@@ -8,12 +8,13 @@ parent: international
 permalink: /international/tourism/
 prev: { title: "Migration", url: "/international/migration/" }
 ---
+***Scotland as a destination of first choice***
+
 ![A photograph of tourists on the ski lift at Glenshee](/assets/images/pageimages/International.18.jpg)
 
 ---
-***Scotland as a destination of first choice***
 
-## Key Points:
+## Key points:
 
 * Our national tourism organisation VisitScotland has a budget of more than £50 million in 2019/2020
 * Promoting the South of Scotland as a visitor destination  

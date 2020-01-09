@@ -9,13 +9,13 @@ permalink: /people/healthy-population/
 prev: { title: "Migration", url: "/people/migration/" }
 next: { title: "Boost to parental employment programmes", url: "/people/boost-parental-employment-programmes/" }
 ---
-![](/assets/images/pageimages/People.41.jpg)  
-
----
--add alt text to People 41-
 ***Investing in our National Health Service and tackling health inequalities***
 
-## Key Points:
+![A photograph of the technology company Amiqus executive team](/assets/images/pageimages/People.41.jpg)  
+
+---
+
+## Key points:
 
 * Significant investment in our health services and workforce
 * Tackling health inequalities
@@ -29,7 +29,7 @@ Delivery of high quality and timely healthcare is essential, and ensures that ou
 We are working to attract and retain talent from a diverse range of backgrounds. We believe our NHS would be better in every way, if our workforce is fully reflective of our communities.  This employment is spread across the whole country, helping to sustain rural economies and generating local employment.  
 
 Investment in pay across the workforce is a key lever to attract and retain the skills required to deliver a sustainable service. This investment means that over 15% of the workforce are higher rate tax payers. We have awarded 147,000 NHS staff earning under £80,000 a minimum pay rise of 9% over the next three years and we will proceed with the implementation of a new contract for GPs.  
- 
+
 It is important to harness the opportunities available to Scotland through investment in new healthcare facilities ensuring they continue to support innovation and research objectives. Scotland’s health and life sector is an important and growing component of the economy, creating highly skilled roles and new employment opportunities. New investment needs to ensure that it maximises the likelihood of match funding from the academic and private sector partners, for example, the continued development of the biomedical research park in Edinburgh and proposals for investment in digital health and analytics centres in Dundee and Glasgow.  
 
 Investment in healthcare infrastructure is also an opportunity for the NHS to take a leadership role in working with partners to maximise the leverage of all public sector investments in a place. This includes the repurposing or release of public sector land and assets for more beneficial economic or community activities, planning how the combined portfolio of partner assets can be reconfigured to better respond to community needs and aspirations, and the development of more accessible and shared facilities for better social and economic outcomes.  
@@ -64,8 +64,8 @@ In recognition of the challenges in social care, but also of the innovative work
 
 The priorities of the reform programme include:  
 
-* social care support that is centred on a person, how they want to live their life, and what is important to them; 
-* valuing and supporting social workers and social care workers, and unpaid carers; 
+* social care support that is centred on a person, how they want to live their life, and what is important to them;
+* valuing and supporting social workers and social care workers, and unpaid carers;
 * a sustainable future for care homes;
 * equity of experience and expectations across Scotland; and
 * investment in social care support, and looking at how it is paid for in the future.

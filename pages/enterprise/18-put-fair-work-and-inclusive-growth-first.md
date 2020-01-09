@@ -8,7 +8,6 @@ parent: enterprise
 permalink: /enterprise/put-fair-work-and-inclusive-growth-first/
 prev: { title: "Innovate, Export, Scale", url: "/enterprise/innovate-export-scale/" }
 ---
-
 ***We are working with partners to support small businesses and others to adopt fair work as a means to increasing productivity, performance, growth and innovation***
 
 **Fair Work**  
@@ -28,11 +27,18 @@ Our Social Enterprise Strategy aims to help the social enterprise movement reali
 
 ## Key resources:
 
-**[Fair Work Action Plan](https://economicactionplan.mygov.scot/fair-work/)**  
-**[Think Business, Think Equality](https://www.thinkbusinessthinkequality.org.uk/)**  
-**[Addressing the Gender Pay Gap: Employer Methods](https://www.gov.scot/publications/employer-methods-addressing-gender-pay-gap/)**  
-**[Scottish Business Pledge](https://scottishbusinesspledge.scot/)**  
-**[Scotland CAN B](https://canb.scot/)**  
-**[Social Enterprise Strategy](https://www.gov.scot/publications/scotlands-social-enterprise-strategy-2016-2026/)**  
-**[Social Entrepreneurs Fund](http://www.firstport.org.uk/funding/)**  
-**[Just Enterprise](https://www.justenterprise.org/home.html/)**  
+**[Fair Work Action Plan](https://economicactionplan.mygov.scot/fair-work/)**
+
+**[Think Business, Think Equality](https://www.thinkbusinessthinkequality.org.uk/)**
+
+**[Addressing the Gender Pay Gap: Employer Methods](https://www.gov.scot/publications/employer-methods-addressing-gender-pay-gap/)**
+
+**[Scottish Business Pledge](https://scottishbusinesspledge.scot/)**
+
+**[Scotland CAN B](https://canb.scot/)**
+
+**[Social Enterprise Strategy](https://www.gov.scot/publications/scotlands-social-enterprise-strategy-2016-2026/)**
+
+**[Social Entrepreneurs Fund](http://www.firstport.org.uk/funding/)**
+
+**[Just Enterprise](https://www.justenterprise.org/home.html/)**

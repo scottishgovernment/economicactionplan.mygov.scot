@@ -11,7 +11,7 @@ next: { title: "Digital and Mobile Connectivity", url: "/investment/digital-mobi
 ---
 ***Record levels of infrastructure investment***
 
-## Key points -
+## Key points:
 
 - Our new National Infrastructure Mission will increase Scotland’s annual infrastructure investment
 - We are stepping up our engagement with the construction sector
@@ -45,8 +45,11 @@ The model follows the development of Growth Accelerators in Edinburgh City Centr
 
 We will work closely with COSLA, Local Authorities and local economic delivery partners across Scotland as we develop our approach.  
 
-## Key resources -
+## Key resources:
 
-[Infrastructure Investment Plan 2015](https://beta.gov.scot/publications/infrastructure-investment-plan-2015/)  
-[Scottish Water](https://www.scottishwater.co.uk/)  
-[Nature Based Solutions & Re-Naturing Cities, EU Research, Final Report of the Horizon 2020 Expert Group](http://bookshop.europa.eu/en/towards-an-eu-research-and-innovation-policy-agenda-for-nature-based-solutions-re-naturing-cities-pbKI0215162/)  
+**[Infrastructure Investment Plan 2015](https://www.gov.scot/publications/infrastructure-investment-plan-2015/)**
+
+**[Scottish Water](https://www.scottishwater.co.uk/)**
+
+**[Nature Based Solutions & Re-Naturing Cities, EU Research, Final Report of the Horizon 2020 Expert Group](http://bookshop.europa.eu/en/towards-an-eu-research-and-innovation-policy-agenda-for-nature-based-solutions-re-naturing-cities-pbKI0215162/)**
+  

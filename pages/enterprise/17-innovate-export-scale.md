@@ -9,7 +9,6 @@ permalink: /enterprise/innovate-export-scale/
 prev: { title: "Start and Grow", url: "/enterprise/start-and-grow/" }
 next: { title: "Put Fair Work and Inclusive Growth First", url: "/enterprise/put-fair-work-and-inclusive-growth-first/" }
 ---
-
 ***Giving small businesses access to cutting-edge research, skills and technology, creating better conditions for them to make their mark in foreign markets and supporting those who want to grow off the scale***
 
 **Knowledge and Expertise**  
@@ -48,17 +47,30 @@ Entrepreneurial Scotland facilitate the CAN DO Scale Movement, a network of publ
 
 ## Key resources:
 
-**[Knowledge Transfer Partnerships](https://ktp.innovateuk.org/)**  
-**[Innovation Centres](https://www.innovationcentres.scot/)**  
-**[National Manufacturing Institute Scotland](https://www.gov.scot/policies/manufacturing/national-manufacturing-institute-for-scotland/)**  
-**[CAN DO Innovation Challenge Fund](https://www.scottish-enterprise.com/support-for-businesses/develop-products-and-services/scotlands-open-innovation-marketplace/can-do-innovation-challenge-fund/)**  
-**[CivTech®](https://civtech.atlassian.net/wiki/spaces/CIV/overview?mode=global/)**  
-**[Open Innovation Challenges](https://www.openinnovation.scot/find-a-challenge/)**  
-**[Digital Boost](https://www.bgateway.com/driving-growth/digitalboost/)**  
-**[Digital Development Loan](https://digitaldevelopmentloan.org/)**  
-**[Digital Support for Businesses](https://www.gov.scot/policies/digital/digital-support-for-businesses/)**  
-**[Scottish Government: International Trade Policy](https://beta.gov.scot/policies/international-trade-and-investment/latest/)**  
-**[Support for Businesses to Export](https://www.scottish-enterprise.com/support-for-businesses/exports-and-international-markets/)**  
-**[Prepare for Brexit Toolkit](https://www.prepareforbrexit.scot/updates/prepare-for-brexit-toolkit/)**  
-**[Scottish Enterprise Scaling Support](https://www.scottish-enterprise.com/support-for-businesses/business-development-and-advice/scale-your-business/)**  
+**[Knowledge Transfer Partnerships](https://ktp.innovateuk.org/)**
+
+**[Innovation Centres](https://www.innovationcentres.scot/)**
+
+**[National Manufacturing Institute Scotland](https://www.gov.scot/policies/manufacturing/national-manufacturing-institute-for-scotland/)**
+
+**[CAN DO Innovation Challenge Fund](https://www.scottish-enterprise.com/support-for-businesses/develop-products-and-services/scotlands-open-innovation-marketplace/can-do-innovation-challenge-fund/)**
+
+**[CivTech®](https://civtech.atlassian.net/wiki/spaces/CIV/overview?mode=global/)**
+
+**[Open Innovation Challenges](https://www.openinnovation.scot/find-a-challenge/)**
+
+**[Digital Boost](https://www.bgateway.com/driving-growth/digitalboost/)**
+
+**[Digital Development Loan](https://digitaldevelopmentloan.org/)**
+
+**[Digital Support for Businesses](https://www.gov.scot/policies/digital/digital-support-for-businesses/)**
+
+**[Scottish Government: International Trade Policy](https://beta.gov.scot/policies/international-trade-and-investment/latest/)**
+
+**[Support for Businesses to Export](https://www.scottish-enterprise.com/support-for-businesses/exports-and-international-markets/)**
+
+**[Prepare for Brexit Toolkit](https://www.prepareforbrexit.scot/updates/prepare-for-brexit-toolkit/)**
+
+**[Scottish Enterprise Scaling Support](https://www.scottish-enterprise.com/support-for-businesses/business-development-and-advice/scale-your-business/)**
+
 **[CAN DO Scale](https://www.scale.scot/)**  

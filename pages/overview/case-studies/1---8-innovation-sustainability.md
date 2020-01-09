@@ -9,7 +9,6 @@ permalink: /overview/case-studies/innovation-sustainability/
 prev: {title: "Case studies", url: "/overview/case-studies/" }
 next: {title: "Growth Accelerator Scheme: St James Quarter, Edinburgh", url: "/overview/case-studies/growth-accelerator-scheme/" }
 ---
-
 ***Urban Foresight puts the wheels in motion on e-bike project***
 
 Urban Foresight is a smart city consultancy based in Dundee, which helps cities deliver environmentally-focussed services such as electric vehicle charging, is working on innovative projects such as the UK’s largest e-bike scheme.  
