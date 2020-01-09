@@ -8,7 +8,6 @@ parent: innovation
 permalink: /innovation/introduction/
 next: { title: "Driving Business Innovation", url: "/innovation/driving-business-innovation/" }
 ---
-
 ***Supporting world-leading innovation and a dynamic digital economy***
 
 Innovation is about ideas that create jobs and wealth for the people of Scotland.  We want Scotland to be a leader in the technological and social innovations of the future.  That is why we are investing in industrial transformation, helping businesses to adopt digital technology, and promoting data driven innovation. We will continue to broker access for Scotland to global value chains through targeted innovation-led collaboration and partnerships with other international partners to tackle shared domestic and global challenges and also to leverage such collaborations as points of external investment and funding. We want this package of investment to deliver exciting opportunities for business and society, and to showcase Scotland as an innovative nation.  

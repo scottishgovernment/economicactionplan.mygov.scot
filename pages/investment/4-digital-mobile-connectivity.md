@@ -9,11 +9,11 @@ permalink: /investment/digital-mobile-connectivity/
 prev: { title: "Infrastructure Investment", url: "/investment/infrastructure/" }
 next: { title: "Transport Infrastructure and Connectivity", url: "/investment/transport-infrastructure/" }
 ---
+***Investing in connectivity, enabling the digital economy***
 
-![](/assets/images/pageimages/Investment.8.jpg)
+![A photograph of a cable used by Hydro Group Scotland](/assets/images/pageimages/Investment.8.jpg)
 
 ---
-***Investing in connectivity, enabling the digital economy***
 
 ## Key points:
 
@@ -58,10 +58,10 @@ We will also launch a promotional strategy for Digital Scotland aimed at attract
 
 ## Key resources:
 
-**[Superfast broadband in Scotland: reaching 100%](https://beta.gov.scot/publications/digital-scotland-reaching-100-programme/)**
+**[Superfast broadband in Scotland: reaching 100%](https://www.gov.scot/publications/digital-scotland-reaching-100-programme/)**
 
-**[Realising Scotland's full potential in a digital world: a digital strategy for Scotland](https://beta.gov.scot/publications/realising-scotlands-full-potential-digital-world-digital-strategy-scotland/)**
+**[Realising Scotland's full potential in a digital world: a digital strategy for Scotland](https://www.gov.scot/publications/realising-scotlands-full-potential-digital-world-digital-strategy-scotland/)**
 
-**[Scottish Government: Digital policy](https://beta.gov.scot/policies/digital/)**
+**[Scottish Government: Digital policy](https://www.gov.scot/policies/digital/)**
 
 **[Scottish Futures Trust: Digital](https://www.scottishfuturestrust.org.uk/page/digital)**

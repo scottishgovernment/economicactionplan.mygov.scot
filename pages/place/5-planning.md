@@ -9,12 +9,13 @@ permalink: /place/planning/
 next: { title: "Regeneration", url: "/place/regeneration/" }
 prev: { title: "Business Improvement Districts", url: "/place/business-improvement-districts/" }
 ---
+***Planning policy to support sustainable and inclusive growth across all of our regions***
+
 ![A photograph of the waterfront in Glasgow at night](/assets/images/pageimages/Place.35.jpg)  
 
 ---
-***Planning policy to support sustainable and inclusive growth across all of our regions***
 
-## Key Points:
+## Key points:
 
 * We will ensure that the planning system develops to support inclusive economic growth and delivers for investors and communities
 

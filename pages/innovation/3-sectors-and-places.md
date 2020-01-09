@@ -9,11 +9,11 @@ permalink: /innovation/sectors-and-places/
 prev: { title: "Driving Business Innovation", url: "/innovation/driving-business-innovation/" }
 next: { title: "Using Public Sector Spend to Catalyse Innovation", url: "/innovation/public-sector/" }
 ---
+***Unlocking our innovative capabilities across our sectors and our places***
 
 ![A photograph of a staff member working at an engineering bench in Touch Bionics](/assets/images/pageimages/Innovation.23.jpg)  
 
 ---
-***Unlocking our innovative capabilities across our sectors and our places***
 
 ## Key points:
 
@@ -62,11 +62,12 @@ The funding for Spire Global, which has offices across the world, demonstrates t
 There are now more than 130 space organisations in Scotland, including the headquarters of 84 UK space industry firms, with a combined income of £140 million.  More small satellites are also built in Glasgow than any other place in Europe, and last year plans were announced for the UK’s first spaceport in the far north of Scotland.  These and other advances mean Scotland’s space sector could be worth £4 billion by 2030.  
 
 Peter Platzer, co-Founder and CEO of Spire Global, said: “Glasgow has been a fantastic location for us, with exceptional talent and people with a phenomenal ‘can-do’ attitude and true grit.  We are excited to substantially expand our presence here and look forward to the continuation of strong partnerships within Scotland, the UK Space Agency, and the wider UK space ecosystems.”
-
 </div>
 
 ## Key resources:
 
-**[Strathclyde in Medicines Manufacturing Innovation Centre](https://www.strath.ac.uk/whystrathclyde/news/strathclydeinmedicinesmanufacturinginnovationcentre/)**  
-**[UK's first spaceport to be based in Sutherland](http://www.hie.co.uk/regional-information/area-information/caithness-and-sutherland/uk-space-port/default.html)**  
-**[Innovative Farmers](https://www.innovativefarmers.org/welcometoriss/)**  
+**[Strathclyde in Medicines Manufacturing Innovation Centre](https://www.strath.ac.uk/whystrathclyde/news/strathclydeinmedicinesmanufacturinginnovationcentre/)**
+
+**[UK's first spaceport to be based in Sutherland](http://www.hie.co.uk/regional-information/area-information/caithness-and-sutherland/uk-space-port/default.html)**
+
+**[Innovative Farmers](https://www.innovativefarmers.org/welcometoriss/)**

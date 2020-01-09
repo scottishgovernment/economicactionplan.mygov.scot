@@ -8,6 +8,7 @@ parent: skills
 permalink: /skills/introduction/
 next: { title: "Employment Support", url: "/skills/employment-support/" }
 ---
+***Providing a highly skilled workforce through education, training and re-skilling***
 
 ![A photograph of two staff members working along side each other in a lab at Edinburgh's Bioquarter](/assets/images/pageimages/Skills.26.jpg)
 

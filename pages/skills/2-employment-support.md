@@ -9,11 +9,11 @@ permalink: /skills/employment-support/
 prev: { title: "Introduction", url: "/skills/introduction/" }
 next: { title: "Further Education and Higher Education", url: "/skills/further-higher-education/" }
 ---
+***Ensuring that as many people as possible benefit from work***
 
 ![A photograph of 4 people in lab coats and protective glasses](/assets/images/pageimages/Skills.31.jpg)  
 
 ---
-***Ensuring that as many people as possible benefit from work***
 
 ## Key points:
 

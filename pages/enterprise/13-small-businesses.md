@@ -10,7 +10,6 @@ prev: { title: "Public Procurement", url: "/enterprise/public-procurement/" }
 next: { title: "A Can DO place for business", url: "/enterprise/can-do-place-business/" }
 
 ---
-
 ***We are listening to small businesses and delivering the support to meet their real needs***  
 
 There are around 350,000 small businesses in Scotland, providing jobs for 1.2 million people and forming the backbone of Scotland’s economy.  
@@ -26,5 +25,7 @@ We are delivering enterprise support through GrowBiz, LEADER, Highlands and Isla
 ## Key resources:
 
 **[GrowBiz](https://growbiz.co.uk/)**
+
 **[LEADER](https://www.gov.scot/Topics/farmingrural/SRDP/LEADER/)**  
+
 **[Highlands and Islands Enterprise](http://www.hie.co.uk/)**

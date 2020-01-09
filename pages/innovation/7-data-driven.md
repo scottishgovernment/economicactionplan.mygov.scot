@@ -9,7 +9,6 @@ permalink: /innovation/data-driven/
 prev: { title: "Internationalising Research and Innovation Engagement", url: "/innovation/internationalising-research/" }
 next: { title: "Creative Industries", url: "/innovation/creative-industries/" }
 ---
-
 ***Harnessing the value of data for business and communities***
 
 ## Key points:

@@ -9,6 +9,7 @@ permalink: /innovation/creative-industries/
 prev: { title: "Data Driven Innovation and Cyber Resilience", url: "/innovation/data-driven/" }
 next: { title: "Circular Economy and Green Innovation", url: "/innovation/circular-economy/" }
 ---
+***Creative industries include screen, digital tech, design and computer games – some of the most dynamic and vibrant sectors of our modern economy***
 
 ![A photograph of a student interacting with gaming technology on a big screen](/assets/images/pageimages/Innovation.24.jpg)
 

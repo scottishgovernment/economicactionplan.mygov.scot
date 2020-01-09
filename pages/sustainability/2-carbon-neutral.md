@@ -11,7 +11,7 @@ prev: { title: "Introduction", url: "/sustainability/sustainability-introduction
 ---
 ***Leading the transition to a carbon neutral economy***
 
-## Key points: 
+## Key points:
 
 * A £20 million Energy Investment Fund
 * A £60 million Low Carbon Innovation Fund
@@ -31,6 +31,8 @@ We have already allocated around £40 million to 16 low carbon capital projects 
 
 To maintain Scotland’s positioning as a world leader in wave and tidal energy technologies, our Wave Energy Scotland programme has been designed to drive forward the search for innovative solutions. The programme has already made £25 million available to support 60 innovative projects, maximising the economic benefit of design, manufacturing and export. Our flagship wave and tidal test facility, the European Marine Energy Centre (EMEC), has over a decade of real-sea experience. We will also continue to support the expansion of offshore wind by providing new guidance to industry on licensing and decommissioning, as well as providing a further £2 million this year to support innovation and to help reduce business costs.  
 
+![](/assets/images/infographics/Sustainability.14.jpg)
+
 Electricity & Gas Network businesses in Scotland, and their supply chain, will be key to realising our transition to a carbon neutral economy. We are working with these companies, as well as the wider sector and the regulator, to ensure these future plans are aligned to our vision for the sector.  
 
 We will also work with stakeholders to develop a Food and Drink Environmental Action Plan to strengthen the industry’s contribution to tackling climate change. As a first step, we will host a sustainability summit by the end of 2020 to identify priorities for action. This will create impetus for businesses and producers to play their part in responding to our climate emergency and give them the opportunity to share current good practice.  
@@ -41,17 +43,17 @@ We will consult this year on setting new building standards to be introduced in 
 
 Over the next year, we will also begin working with the construction sector to develop regulations so that new homes consented from 2024 are required to use renewable or low carbon heat. This is one year earlier than is planned in the rest of the UK.  
 
-Similarly, our ambition is to phase in renewable and low carbon heating systems for new non domestic buildings consented from 2024. We will work with the construction, property and commercial development sectors to identify and support good practice to inform the development of standards on how we can achieve this.  
-	
+Similarly, our ambition is to phase in renewable and low carbon heating systems for new non domestic buildings consented from 2024. We will work with the construction, property and commercial development sectors to identify and support good practice to inform the development of standards on how we can achieve this.
+
 We will show leadership in the public sector, engaging with partners on a new Net Zero Carbon Standard for new public buildings.  
 
 ## Key resources:
 
 **[Scotland's Energy Strategy](https://www.gov.scot/energystrategy)**
 
-**[Scottish Government: Energy](https://beta.gov.scot/energy/)**
+**[Scottish Government: Energy](https://www.gov.scot/energy/)**
 
-**[Energy Efficient Scotland: route map](https://beta.gov.scot/publications/energy-efficient-scotland-route-map/)**
+**[Energy Efficient Scotland: route map](https://www.gov.scot/publications/energy-efficient-scotland-route-map/)**
 
 **[Scottish Enterprise: Funding and Grants](https://www.scottish-enterprise.com/support-for-businesses/funding-and-grants/accessing-finance-and-attracting-investment/energy-investment-fund)**
 

@@ -9,7 +9,6 @@ permalink: /enterprise/competitive-business-environment/
 prev: { title: "Introduction", url: "/enterprise/introduction/" }
 next: { title: "Enhancing Business Support", url: "/enterprise/enhancing-business-support/" }
 ---
-
 ***A commitment to a supportive business environment***
 
 ## Key points:
@@ -30,16 +29,15 @@ In 2019 we introduced a new 100% relief for new fibre infrastructure where the f
 As part of our commitment to delivering a competitive rates system, in 2019-20 we raised the poundage in Scotland by less than the Consumer Price Index, ensuring that over 90% of ratepayers will pay a lower rate than they would anywhere else in the UK.  
 
 ![](/assets/images/infographics/Enterprise.16.jpg)
-<br/>
 
 In March 2019 we introduced The Non-Domestic Rates (Scotland) Bill to the Scottish Parliament, which will deliver the agreed recommendations of the independent Barclay Review. The bill will implement key provisions including a move to a three-yearly valuation cycle from the 2022 revaluation, and reforms to the appeals process.  The Bill completed Stage 2 on 04 December 2019 with Stage 3 anticipated in early 2020.  We will ensure that future tax decisions in the next Scottish Budget maintain and build upon Scotland’s competitive position as an attractive place to do business.  
 
 ## Key resources:
 
-**[Non-domestic tax rates review: Barclay report](https://beta.gov.scot/publications/report-barclay-review-non-domestic-rates/)**
+**[Non-domestic tax rates review: Barclay report](https://www.gov.scot/publications/report-barclay-review-non-domestic-rates/)**
 
 **[Barclay review of non-domestic tax rates: implementation plan](http://www.gov.scot/Topics/Government/local-government/17999/11199/BarclayImplementationPlan)**
 
-**[Regulatory Review Group](https://beta.gov.scot/groups/regulatory-review-group/)**
+**[Regulatory Review Group](https://www.gov.scot/groups/regulatory-review-group/)**
 
 **[Business rates relief](https://www.mygov.scot/business-rates-relief/overview/)**  

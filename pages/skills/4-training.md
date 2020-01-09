@@ -9,13 +9,13 @@ permalink: /skills/training/
 prev: { title: "Further Education and Higher Education", url: "/skills/further-higher-education/" }
 next: { title: "Up-skilling and Re-skilling", url: "/skills/upskilling-and-reskilling/" }
 ---
+***Providing the skills that allow individuals to fulfil their potential in the Labour Market***
 
 ![A photograph of games design students at work in Abertay University](/assets/images/pageimages/Skills.28.jpg)  
 
 ---
-***Providing the skills that allow individuals to fulfil their potential in the Labour Market***
 
-## Key Points:
+## Key points:
 
 * Investing £193 million in Skills Development Scotland
 * 30,000 Apprenticeships by 2020, developing the Apprenticeship pathway through Foundation, Modern, and Graduate Apprenticeships.
@@ -42,7 +42,6 @@ Louise is employed as a senior customer service specialist by the multinational 
 
 Louise had been working as a senior UK customer service specialist for three years, before becoming the company’s UK customer service team lead. She sees her apprenticeship as a key part of her career progression.  
 She said: "I would definitely recommend Graduate Apprenticeships to others who are looking to further their career and expand their experience while working. Being able to take the theory you learn and immediately put it to use in your day job is very rewarding."
-
 </div>
 
 ## Key resources:

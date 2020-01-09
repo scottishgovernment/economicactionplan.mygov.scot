@@ -10,7 +10,7 @@ prev: { title: "Natural Capital and Green Spaces", url: "/sustainability/natural
 ---
 ***Putting Scotland at the forefront of markets in Ultra Low Emissions Vehicles***
 
-## Key points: 
+## Key points:
 
 * Launch Circular Economy Bill as part of 2019-2020 legislative programme
 * Investing £17 million to expand Scotland’s electric vehicle (EV) charging network
@@ -44,8 +44,9 @@ We will establish an Expert Advisory Group to advise on how Scotland's automotiv
 We will launch a new Hydrogen Accelerator Programme to attract technical experts to help scale up and quicken the deployment of hydrogen technologies across Scotland, with an emphasis on sustainable mobility.  
 
 We will also continue to encourage and support ongoing research, development, demonstration, and deployment of connected and autonomous vehicles (CAV) or driverless cars. For example, we held a two-day ‘CAV Scotland’ event in 2018, with the next Cav Scotland conference taking place in Glasgow on the 13 and 14 November 2019. We have also been successful in a bid to Innovate UKs ‘CAV4’ call for funding of an autonomous bus demonstrator. We are now working with partners (Fusion Processing, Stagecoach, Bristol Robotics Laboratory, Alexander Dennis, University of West of England and Napier University) to deliver a pilot autonomous bus service between Fife and Edinburgh across the Forth Road Bridge public transport corridor by Summer 2020. We are also partnering with INRIX on their ‘AV Road Rules’ platform to digitise part of the trunk road network and provide key data on road characteristics and encourage autonomous vehicle developers to bring trials and innovative technologies to Scotland.  
- 
+
 ## Key resources:
+
 **[Charge Places Scotland](https://chargeplacescotland.org/)**
 
 **[Scottish Government: Climate Change Plan](https://www.gov.scot/publications/scottish-governments-climate-change-plan-third-report-proposals-policies-2018/pages/12/)**

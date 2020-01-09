@@ -11,7 +11,7 @@ next: { title: "Infrastructure Investment", url: "/investment/infrastructure/" }
 ---
 ***Collaborative working to transform the sector***
 
-## Key points
+## Key points:
 
 - The Oil and Gas Technology Centre is working to deploy new technology to transform the sector
 - Enhancing Scotland’s decommissioning capability through the Decommissioning Challenge Fund
@@ -26,7 +26,7 @@ We established the Oil and Gas Technology Centre (OGTC) in October 2016 with £1
 
 We are building on these strengths by supporting investment, innovation and diversification across the sector. This includes working with industry on developing subsea-engineering, decommissioning and carbon capture and storage. Decommissioning of oil and gas assets in the UKCS could be worth around £60 billion over the coming decades, with a forecast spend of nearly £17 billion in the next 8 years alone, representing a huge opportunity for Scottish supply chain companies.  We are enhancing Scotland’s decommissioning capability through the Decommissioning Challenge Fund, which has been extended with a further £5 million available in 2018/19 to the Scottish supply chain (in addition to the £4.8m awarded in 2017).  We have also committed to investing in a deep water port capable of handling the largest structures for decommissioning and Dales Voe in Shetland has been identified as the optimal location for this facility. There is also the potential to repurpose existing offshore infrastructure for CCUS projects, this is the focus of the Acorn CCS project based at St Fergus which could be operational by the mid-2020s. We support the establishment and deployment of CCUS and have provided funding for the recently established North East CCUS (NECCUS), an industry-led alliance to promote the CCUS offering provided in Scotland.  
 
-## Key resources -
+## Key resources:
 
 **[The Oil & Gas Technology Centre](https://theogtc.com/)**
 

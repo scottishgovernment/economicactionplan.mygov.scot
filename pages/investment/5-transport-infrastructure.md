@@ -11,10 +11,10 @@ next: { title: "Housing", url: "/investment/housing/" }
 ---
 ***Delivering investments in our transport network***
 
-![](/assets/images/pageimages/Investment.9.jpg)
+![A photograph of the Queensferry Crossing when under construction](/assets/images/pageimages/Investment.9.jpg)
 
 ---
-Key points:  
+## Key points:
 
 - Deliver the second Strategic Transport Projects Review by 2020
 - The final section of the Aberdeen Western Peripheral Route opened to traffic on 19 February 2019.
@@ -46,7 +46,7 @@ Introducing Low Emission Zones in four cities – Glasgow, Edinburgh, Aberdeen a
 
 ## Key resources:
 
-**[Infrastructure Investment Plan 2015 ](https://beta.gov.scot/publications/infrastructure-investment-plan-2015/)**
+**[Infrastructure Investment Plan 2015 ](https://www.gov.scot/publications/infrastructure-investment-plan-2015/)**
 
 **[Transport Scotland](https://www.transport.gov.scot/)**
 

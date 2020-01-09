@@ -2,15 +2,12 @@
 layout: default
 title:  "Migration"
 category: international
-summary: "Attracting talent to Scotland."
+summary: "helping Scotland to prosper"
 index: 5
 parent: international
 permalink: /international/migration/
 prev: { title: "Inward Investment", url: "/international/inward-investment/" }
 next: { title: "Tourism", url: "/international/tourism/" }
----
-![A crowd of people](/assets/images/pageimages/international.4.jpg)
-
 ---
 ***helping Scotland to prosper***
 

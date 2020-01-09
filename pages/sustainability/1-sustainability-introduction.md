@@ -8,18 +8,18 @@ parent: sustainability
 permalink: /sustainability/sustainability-introduction/
 next: { title: "Carbon Neutral Economy", url: "/sustainability/carbon-neutral/" }
 ---
-![](/assets/images/pageimages/Sustainability.44.jpg)  
+***Seizing the economic opportunities through the transition to a carbon neutral economy***
+
+![A photograph of an aeroplane flying over Uist](/assets/images/pageimages/Sustainability.44.jpg)  
 
 ---
--add alt text to image 44-
-***Seizing the economic opportunities through the transition to a carbon neutral economy***
 
 In a world of finite resources there are huge opportunities for the countries and companies which develop new ways to both reduce our demands for natural resources and use resources more productively.  
 
 We are the only country in the world with statutory annual greenhouse gas reduction targets, and we have set an ambition to become carbon neutral by 2050.  The economic opportunities here for our most innovative businesses are enormous. We are backing this mission with investment that will stimulate new innovation and private investment. We want to help Scottish businesses and universities to innovate at home and then export their solutions to the rest of the world.  
 
 The new, statutory, five year Climate Change Adaptation Programme will set out around 170 policies and proposals centred around our communities, climate justice, the economy, Scotland’s infrastructure and supporting systems, our natural, coastal and marine environments and our international partnerships. The Programme is designed to address priority risks for Scotland and a number of research projects to help us better understand the action we will need to take.  
- 
+
 <div class="case-study" markdown="1">
 
 ## *case study:*{:.hidden} Urban Foresight puts the wheels in motion on e-bike project

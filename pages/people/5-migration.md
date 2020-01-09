@@ -27,6 +27,7 @@ We will now build on the success of the ‘We are Scotland’ social media campa
 In addition, we have brought forward the Scottish Elections (Franchise and Representation) Bill which if passed will give fair access to voting rights for all those who have a legal right to live in Scotland.  
 
 ## Key resources:
+
 **[Scottish Government: Scotland's Place in Europe](https://www.gov.scot/publications/scotlands-place-europe-people-jobs-investment/)**  
 
 **[One Scotland](https://onescotland.org/campaigns/we-are-scotland/)**  

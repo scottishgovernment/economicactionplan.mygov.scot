@@ -9,10 +9,11 @@ permalink: /enterprise/access-to-finance/
 prev: { title: "Enhancing Business Support", url: "/enterprise/enhancing-business-support/" }
 next: { title: "Driving Entrepreneurship", url: "/enterprise/driving-entrepreneurship/" }
 ---
+***Ensuring that businesses have access to the finance they need to grow***
+
 ![A photograph of a female staff member working on contactless card machine products](/assets/images/pageimages/Enterprise.14.jpg)
 
 ---
-***Ensuring that businesses have access to the finance they need to grow***
 
 ## Key points:
 

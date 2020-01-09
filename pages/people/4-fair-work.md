@@ -9,13 +9,13 @@ permalink: /people/fair-work/
 next: { title: "Migration", url: "/people/migration/" }
 prev: { title: "Labour Market Access and Inclusion", url: "/people/inclusion" }
 ---
-![](/assets/images/pageimages/People.40.jpg)  
-
----
--add alt text for People 40 image-
 ***Boosting productivity by developing Scotland as a world-leading Fair Work Nation***
 
-## Key Points:
+![A photograph of Career Ready Interns at work in a food preparation facility](/assets/images/pageimages/People.40.jpg)  
+
+---
+
+## Key points:
 
 * We will deliver on the actions from our Fair Work Action Plan
 * We will deliver on the actions from our Future Skills Action Plan and Skills Action Plan for Rural Scotland
@@ -40,6 +40,7 @@ Our target is that by the end of this parliament, we will have extended fair wor
 We are exploring options to develop support and advice for small, micro and Business Pledge employers to support fair work practices in their businesses including employing disadvantaged groups.  
 
 ## Key resources:
+
 **[Scottish Business Pledge](https://scottishbusinesspledge.scot/)**  
 
 **[Fair Work Convention](http://www.fairworkconvention.scot/)**  

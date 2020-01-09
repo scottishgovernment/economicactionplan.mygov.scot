@@ -11,7 +11,7 @@ next: { title: "Small Businesses", url: "/enterprise/small-businesses/" }
 ---
 ***Using public procurement to deliver sustainable and inclusive economic growth***
 
-## Key Points:
+## Key points:
 
 Using the power of public procurement to deliver sustainable and inclusive economic growth, with outcomes that are good for business and employees; good for society; good for places and communities; and open and connected.  
 

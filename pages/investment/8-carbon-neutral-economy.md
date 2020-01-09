@@ -46,9 +46,9 @@ To drive this change, we will support in principle the Oil and Gas Technology Ce
 
 **[Scotland’s Energy Strategy](https://www.gov.scot/energystrategy)**
 
-**[Scottish Government: Energy](https://beta.gov.scot/energy/)**
+**[Scottish Government: Energy](https://www.gov.scot/energy/)**
 
-**[Energy Efficient Scotland: route map](https://beta.gov.scot/publications/energy-efficient-scotland-route-map/)**
+**[Energy Efficient Scotland: route map](https://www.gov.scot/publications/energy-efficient-scotland-route-map/)**
 
 **[Scottish Enterprise: Energy Investment Fund](https://www.scottish-enterprise.com/support-for-businesses/funding-and-grants/accessing-finance-and-attracting-investment/energy-investment-fund)**
 
@@ -56,7 +56,7 @@ To drive this change, we will support in principle the Oil and Gas Technology Ce
 
 **[European Marine Energy Centre](http://www.emec.org.uk/)**  
 
-**[Scottish Government: Energy Investment Fund](https://beta.gov.scot/policies/renewable-and-low-carbon-energy/energy-investment-fund/)**
+**[Scottish Government: Energy Investment Fund](https://www.gov.scot/policies/renewable-and-low-carbon-energy/energy-investment-fund/)**
 
 **[Scottish Development International: Renewables](https://www.sdi.co.uk/business-in-scotland/key-sectors/renewables)**
 

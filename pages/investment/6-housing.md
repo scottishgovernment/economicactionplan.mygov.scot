@@ -9,10 +9,11 @@ permalink: /investment/housing/
 prev: { title: "Transport Infrastructure and Connectivity", url: "/investment/transport-infrastructure/" }
 next: { title: "City Region and Other Growth Deals", url: "/investment/city-region-deals/" }
 ---
-![](/assets/images/pageimages/Investment.7.jpg)
+***Delivering more and better housing across all of Scotland***
+
+![A photograph of a newly built village in Dalmarnock](/assets/images/pageimages/Investment.7.jpg)
 
 ---
-***Delivering more and better housing across all of Scotland***
 
 ## Key points:
 
@@ -48,7 +49,10 @@ We also continue to put into practice the key aims of the [Place Principle](http
 
 **[Scotland Self-Build Loan Fund](https://www.mygov.scot/self-build-loan-fund/)**
 
-**[https://www.gov.scot/policies/more-homes/rural-housing-fund/](https://www.gov.scot/policies/more-homes/rural-housing-fund/)**  
-**[https://www.gov.scot/policies/energy-efficiency/energy-efficient-scotland/](https://www.gov.scot/policies/energy-efficiency/energy-efficient-scotland/)**  
-**[https://www.gov.scot/publications/energy-efficient-scotland-route-map/](https://www.gov.scot/publications/energy-efficient-scotland-route-map/)**  
-**[https://www.gov.scot/publications/housing-2040/](https://www.gov.scot/publications/housing-2040/)**
+**[Scottish Government: More homes - Rural and Islands Housing Funds](https://www.gov.scot/policies/more-homes/rural-housing-fund/)**
+
+**[Scottish Government: Energy Efficient Scotland](https://www.gov.scot/policies/energy-efficiency/energy-efficient-scotland/)**
+
+**[Scottish Government: Publication - Energy Efficient Scotland:route map](https://www.gov.scot/publications/energy-efficient-scotland-route-map/)**
+
+**[Scottish Government: Publication - Housing to 2040 consultation: information](https://www.gov.scot/publications/housing-2040/)**

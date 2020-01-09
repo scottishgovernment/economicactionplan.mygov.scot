@@ -9,7 +9,6 @@ permalink: /enterprise/everyday-support/
 prev: { title: "A Can Do place for business", url: "/enterprise/can-do-place-business/" }
 next: { title: "Start and Grow", url: "/enterprise/start-and-grow/" }
 ---
-
 ***We are giving small businesses the breathing space to focus on the bigger picture.***
 
 **Non-domestic (Business) Rates**  
@@ -57,18 +56,32 @@ We are supporting small business employers to comply with health and safety regu
 Business and Regulatory Impact Assessments and the Scottish Regulators’ Strategic Code of Practice have made regulation more proportionate, consistent and transparent. These measures have helped small businesses by eliminating unnecessary burdens and ensuring regulatory principles are applied in a way which is consistent with delivering sustainable economic growth.  
 
 ## Key resources:
-**[Business Rates Relief](https://www.mygov.scot/business-rates-relief/overview/)**  
-**[Public Contracts Scotland](https://www.publiccontractsscotland.gov.uk/)**  
-**[Supplier Development Programme](https://www.sdpscotland.co.uk/)**  
-**[Scottish Government Payment Guidance](https://www.gov.scot/publications/scottish-public-finance-manual/expenditure-and-payments/annex-1-timing-of-payments/)**  
-**[Prompt Payment Code](https://www.promptpaymentcode.org.uk/")**  
-**[Scottish Business Pledge: Prompt Payment](https://scottishbusinesspledge.scot/prompt-payment/)**  
-**[Scottish Growth Scheme](http://www.mygov.scot/scottish-growth-scheme)**  
-**[Building Scotland Fund](https://www.gov.scot/policies/economic-growth/building-scotland-fund/)**  
-**[Scottish National Investment Bank](https://www.gov.scot/policies/economic-growth/scottish-national-investment-bank/)**  
-**[Scottish Business Resilience Centre](https://www.sbrcentre.co.uk/)**  
-**[Prepare for Brexit](http://www.prepareforbrexit.scot/)**  
-**[Business Debt Arrangement Scheme](https://www.aib.gov.uk/das/business-das/)**  
-**[Healthy Working Lives](https://www.healthyworkinglives.scot/)**  
-**[Working Health Services Scotland](http://www.salus.co.uk/RETURN-TO-WORK-SERVICES/CASE-MANAGEMENT/WORKING-HEALTH-SERVICES/Pages/default.aspx/)**  
-**[Better Business Regulation](https://www.gov.scot/policies/supporting-business/business-regulation/)**  
+**[Business Rates Relief](https://www.mygov.scot/business-rates-relief/overview/)**
+
+**[Public Contracts Scotland](https://www.publiccontractsscotland.gov.uk/)**
+
+**[Supplier Development Programme](https://www.sdpscotland.co.uk/)**
+
+**[Scottish Government Payment Guidance](https://www.gov.scot/publications/scottish-public-finance-manual/expenditure-and-payments/annex-1-timing-of-payments/)**
+
+**[Prompt Payment Code](https://www.promptpaymentcode.org.uk/")**
+
+**[Scottish Business Pledge: Prompt Payment](https://scottishbusinesspledge.scot/prompt-payment/)**
+
+**[Scottish Growth Scheme](http://www.mygov.scot/scottish-growth-scheme)**
+
+**[Building Scotland Fund](https://www.gov.scot/policies/economic-growth/building-scotland-fund/)**
+
+**[Scottish National Investment Bank](https://www.gov.scot/policies/economic-growth/scottish-national-investment-bank/)**
+
+**[Scottish Business Resilience Centre](https://www.sbrcentre.co.uk/)**
+
+**[Prepare for Brexit](http://www.prepareforbrexit.scot/)**
+
+**[Business Debt Arrangement Scheme](https://www.aib.gov.uk/das/business-das/)**
+
+**[Healthy Working Lives](https://www.healthyworkinglives.scot/)**
+
+**[Working Health Services Scotland](http://www.salus.co.uk/RETURN-TO-WORK-SERVICES/CASE-MANAGEMENT/WORKING-HEALTH-SERVICES/Pages/default.aspx/)**
+
+**[Better Business Regulation](https://www.gov.scot/policies/supporting-business/business-regulation/)**

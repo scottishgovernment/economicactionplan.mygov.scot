@@ -9,7 +9,6 @@ permalink: /overview/case-studies/social-enterprise/
 prev: {title: "Growth Accelerator Scheme: St James Quarter, Edinburgh", url: "/overview/case-studies/growth-accelerator-scheme/" }
 next: {title: "Business resilience support: Arjowiggins, Aberdeen-based paper mill saved from closure", url: "/overview/case-studies/business-resilience-support/" }
 ---
-
 ***A sweet future thanks to some positive changes***
 
 Positive Changes supports women who have touched the Scottish criminal justice system by helping them towards employment through the making and selling of chocolates.  

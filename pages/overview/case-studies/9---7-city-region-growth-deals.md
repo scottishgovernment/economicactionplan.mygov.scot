@@ -9,7 +9,6 @@ permalink: /overview/case-studies/city-region-growth-deals/
 prev: {title: "Skills development: Brewdog craft brewers use of graduate apprenticeships", url: "/overview/case-studies/skills-development/" }
 next: {title: "Inward investment & place regeneration: Barclays development at Tradeston Glasgow", url: "/overview/case-studies/inward-investment-place-regeneration/" }
 ---
-
 ***Building Scotland’s biggest port***
 
 Established in 1136, Aberdeen Harbour is officially recognised by the Guinness Book of Records as one of Britain’s oldest existing businesses. Soon, it will be able to claim the title of Scotland’s biggest port.  

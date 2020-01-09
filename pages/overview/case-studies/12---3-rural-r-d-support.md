@@ -8,7 +8,6 @@ parent: case-studies
 permalink: /overview/case-studies/rural-rd-suport/
 prev: {title: "Business resilience support: Prepare for Brexit cross-agency response", url: "/overview/case-studies/business-resilience-support-prepare-for-brexit/" }
 ---
-
 ***State-of-the-art new freshwater salmon hatchery will enhance fish health and welfare***  
 
 Salmon farming company Scottish Sea Farms announced in 2018 that it was to open a new £48 million freshwater hatchery at Barcaldine near Oban, with the aim of further improving how fish are farmed in Scotland.  

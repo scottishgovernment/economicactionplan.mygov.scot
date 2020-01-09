@@ -29,5 +29,6 @@ We will set up Procurement Innovation Partnerships to work collaboratively with 
 
 ## Key resources:
 
-**[CAN DO Innovation Challenge Fund](https://www.scottish-enterprise.com/support-for-businesses/develop-products-and-services/find-new-opportunities/can-do-innovation-challenge-fund)**  
+**[CAN DO Innovation Challenge Fund](https://www.scottish-enterprise.com/support-for-businesses/develop-products-and-services/find-new-opportunities/can-do-innovation-challenge-fund)**
+
 **[CivTech](https://civtech.atlassian.net/wiki/spaces/CIV/overview?mode=global)**

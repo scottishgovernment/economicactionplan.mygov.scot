@@ -9,10 +9,9 @@ permalink: /international/exports/
 prev: { title: "Introduction", url: "/international/introduction/" }
 next: { title: "Promoting Scotland", url: "/international/promoting-scotland/" }
 ---
-
 ***Working in partnership with businesses to unlock opportunities for trade***
 
-## Key Points:
+## Key points:
 
 - £20 million over 3 years to support our new plan ‘A trading nation: our plan for growing Scotland’s exports’
 - Increase the involvement of private sector expertise, facilitating peer-to-peer networking and learning to grow our exports and imports
@@ -23,11 +22,11 @@ A Trading Nation is a plan for growing Scotland's exports was launched by the Fi
 The document sets out a number of actions that the Scottish Government and our delivery partners will work together to deliver on. We will continually review and refine these actions and interventions to ensure that they are delivering for businesses and for Scotland’s economy.  
 
 It sets out the priority markets where the biggest opportunities to grow Scotland’s exports exist.  Headline actions from A Trading Nations 27 projects include:
- * Adding up to 15 in-market specialists to the countries that make up more than two thirds of our export opportunities
- * Scaling up trade promotion activity in priority markets with expanded international missions and exhibition programming – with 68 Scottish Development International (SDI) events planned for 2019/20
- * Providing up to £2 million to support a programme of inward and outward visits delivered by the Scottish Chambers of Commerce network
- * Increasing the network of GlobalScot business representatives abroad from 600 to 2,000 people in key markets, including expanding to 500 in Europe
- * Increasing the number of trade envoys, potentially from four to 12
+* Adding up to 15 in-market specialists to the countries that make up more than two thirds of our export opportunities
+* Scaling up trade promotion activity in priority markets with expanded international missions and exhibition programming – with 68 Scottish Development International (SDI) events planned for 2019/20
+* Providing up to £2 million to support a programme of inward and outward visits delivered by the Scottish Chambers of Commerce network
+* Increasing the network of GlobalScot business representatives abroad from 600 to 2,000 people in key markets, including expanding to 500 in Europe
+* Increasing the number of trade envoys, potentially from four to 12
 
 We continue to engage in a comprehensive programme of Ministerial visits overseas with a trade and investment focus. Since being appointed as Scotland’s first dedicated Minister for Trade, Investment and Innovation, Ivan McKee has visited 14 of our 15 priority markets, meeting with businesses and investors and fostering positive relationships with governments and stakeholders.  
 
@@ -54,6 +53,7 @@ We are also realigning this network to be situated in key export destinations, f
 We are upskilling our overseas networks through economic diplomacy training so they are better equipped to identify and support interventions on market access matters.  
 
 ## Key resources:
+
 **[Scottish Government: International Trade Policy](https://www.gov.scot/policies/international-trade-and-investment/latest/)**  
 
 **[Scottish Enterprise: Support for Businesses](https://www.scottish-enterprise.com/support-for-businesses/exports-and-international-markets)**  

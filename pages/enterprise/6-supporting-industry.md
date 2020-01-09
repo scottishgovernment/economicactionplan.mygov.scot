@@ -9,11 +9,12 @@ permalink: /enterprise/supporting-industry/
 prev: { title: "Driving Entrepreneurship", url: "/enterprise/driving-entrepreneurship/" }
 next: { title: "Financial Services", url: "/enterprise/financial-services/" }
 ---
+***Backing Scottish industry to compete globally***
 
 ![A photograph of two staff members in high-visibility jackets and hard hats on site at Mackenzie Construction](/assets/images/pageimages/Enterprise.11.jpg)
 
 ---
-***Backing Scottish industry to compete globally***
+
 ## Key points:
 
 - Underwriting the future of aluminium production in Scotland  

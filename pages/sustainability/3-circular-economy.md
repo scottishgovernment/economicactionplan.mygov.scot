@@ -9,15 +9,13 @@ permalink: /sustainability/circular-economy/
 next: { title: "Natural Capital and Green Spaces", url: "/sustainability/natural-capital/" }
 prev: { title: "Carbon Neutral Economy", url: "/sustainability/carbon-neutral" }
 ---
-
-![](/assets/images/pageimages/Sustainability.45.jpg)
-
----
--add alt text for image 45-
-
 ***Delivering economic opportunities and environmental benefits through resource efficiency***
 
-## Key Points:
+![A photograph of windmills at a Scottish windfarm](/assets/images/pageimages/Sustainability.45.jpg)
+
+---
+
+## Key points:
 
 A more circular economy will benefit
 
@@ -61,7 +59,6 @@ We will also seek to phase out the use of horticultural peat by increasing uptak
 The Just Transition Commission has been established and has begun its work considering how Scotland's move to a net-zero economy can be done in a way that maximises the economic and social opportunities presented by the transition. The remit and membership of the Commission can be found here: [https://www.gov.scot/groups/just-transition-commission/](https://www.gov.scot/groups/just-transition-commission/)
 
 We will work with business, the public and the third sector to develop guidance so more people are encouraged to eat more locally-produced, sustainable and healthy food that supports our aims on climate change.
-
 
 ## Key resources:
 

@@ -9,7 +9,6 @@ permalink: /overview/case-studies/high-growth-spin-out/
 prev: {title: "Inward investment: Spire, Glasgow-based space satellite company", url: "/overview/case-studies/inward-investment/" }
 next: {title: "Skills development: Brewdog, craft brewers use of graduate apprenticeships", url: "/overview/case-studies/skills-development/" }
 ---
-
 ***University team develops innovative device to improve cancer diagnosis and treatment***  
 
 Researchers from Heriot-Watt University’s Natantis team were recently awarded £574,500 from Scottish Enterprise’s High Growth Spin-out Programme. This will enable it to commercially develop an innovative device that could revolutionise the way blood samples are prepared for use in cancer diagnosis and treatment monitoring – producing faster, cheaper, more reliable and better-quality samples.  

@@ -8,10 +8,11 @@ parent: international
 permalink: /international/introduction/
 next: { title: "Exports", url: "/international/exports/" }
 ---
+***Growing exports and international investment and attracting global talent***
+
 ![A photograph of a freight ship pulling out of Aberdeen Harbour](/assets/images/pageimages/International.20.jpg)
 
 ---
-***Growing exports and international investment and attracting global talent***
 
 International trade and investment are vital to improving Scotland's competitiveness and reducing economic inequality. Access to a skilled workforce is essential for our businesses to reach their potential.  Our universities, research institutes and colleges are a key asset as a result of their globally recognised excellence which results in “soft power” and influence internationally, attracting global talent and inward investment.  
 

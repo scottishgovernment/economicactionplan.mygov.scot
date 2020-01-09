@@ -9,12 +9,13 @@ permalink: /place/regional-economies/
 next: { title: "Business Improvement Districts", url: "/place/business-improvement-districts/" }
 prev: { title: "City Region and Other Growth Deals", url: "/place/city-region-deals/" }
 ---
+***Driving inclusive economic growth through partnership and collaboration between government, agencies, academia and the private sector***
+
 ![An aerial photograph of the Forth Bridges](/assets/images/pageimages/Place.33.jpg)  
 
 ---
-***Driving inclusive economic growth through partnership and collaboration between government, agencies, academia and the private sector***
 
-## Key Points:
+## Key points:
 
 * Supporting development of Regional Economic Partnerships across Scotland out of the City Region and Growth Deal experience 
 * Delivery of a new enterprise agency for the South of Scotland
@@ -36,6 +37,6 @@ Our Programme for Government lays down an ambitious roadmap for the Scottish eco
 
 **[Inclusive Growth](http://www.inclusivegrowth.scot/about-us/)**
 
-**[South of Scotland Economic Partnership](http://www.sosep.co.uk/index.html)** 
+**[South of Scotland Economic Partnership](http://www.sosep.co.uk/index.html)**
 
 **[Scottish Government: South of Scotland Economic Agency Consultation Report](https://www.gov.scot/Publications/2018/10/9556/1)**

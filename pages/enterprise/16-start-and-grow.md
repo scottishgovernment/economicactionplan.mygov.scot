@@ -9,7 +9,6 @@ permalink: /enterprise/start-and-grow/
 prev: { title: "Everyday support", url: "/enterprise/everyday-support/" }
 next: { title: "Innovate, Export, Scale", url: "/enterprise/innovate-export-scale/" }
 ---
-
 ***We are helping small businesses to start, flourish and make a positive impact by giving them the right mix of skills and tools to succeed***
 
 **Business Gateway**  
@@ -42,18 +41,32 @@ We enable Growbiz, a community-based enterprise support organisation supporting 
 
 ## Key resources:
 
-**[Business Gateway](https://www.bgateway.com/)**  
-**[Scottish Enterprise](https://www.scottish-enterprise.com/)**  
-**[Highlands and Islands Enterprise](http://www.hie.co.uk/)**  
-**[Regional Selective Assistance Grants](https://www.scottish-enterprise.com/support-for-businesses/funding-and-grants/growing-your-business/regional-selective-assistance-grant)**  
-**[Modern Apprenticeships](https://www.apprenticeships.scot/for-employers/)**  
-**[Skills for Growth](https://www.skillsdevelopmentscotland.co.uk/what-we-do/supporting-scotlands-employers/skills-for-growth/)**  
-**[Cultural Enterprise Office](https://creativeentrepreneursclub.co.uk/)**  
-**[Craft Scotland](https://www.craftscotland.org/)**  
-**[Scottish Music Industry Association](https://www.smia.org.uk/)**  
-**[Screen Scotland](https://www.screen.scot/funding-and-support)**  
-**[Publishing Scotland](http://www.publishingscotland.org/)**  
-**[Arts & Business Scotland](http://www.aandbscotland.org.uk/)**  
-**[Big 5 Questions for Tourism Businesses](https://scottishtourismalliance.co.uk/big-5-questions/)**  
-**[Visit Scotland Business Support](https://www.visitscotland.org/supporting-your-business)**  
+**[Business Gateway](https://www.bgateway.com/)**
+
+**[Scottish Enterprise](https://www.scottish-enterprise.com/)**
+
+**[Highlands and Islands Enterprise](http://www.hie.co.uk/)**
+
+**[Regional Selective Assistance Grants](https://www.scottish-enterprise.com/support-for-businesses/funding-and-grants/growing-your-business/regional-selective-assistance-grant)**
+
+**[Modern Apprenticeships](https://www.apprenticeships.scot/for-employers/)**
+
+**[Skills for Growth](https://www.skillsdevelopmentscotland.co.uk/what-we-do/supporting-scotlands-employers/skills-for-growth/)**
+
+**[Cultural Enterprise Office](https://creativeentrepreneursclub.co.uk/)**
+
+**[Craft Scotland](https://www.craftscotland.org/)**
+
+**[Scottish Music Industry Association](https://www.smia.org.uk/)**
+
+**[Screen Scotland](https://www.screen.scot/funding-and-support)**
+
+**[Publishing Scotland](http://www.publishingscotland.org/)**
+
+**[Arts & Business Scotland](http://www.aandbscotland.org.uk/)**
+
+**[Big 5 Questions for Tourism Businesses](https://scottishtourismalliance.co.uk/big-5-questions/)**
+
+**[Visit Scotland Business Support](https://www.visitscotland.org/supporting-your-business)**
+
 **[Connect Local for Food and Drink Businesses](http://www.connectlocal.scot/)**  
