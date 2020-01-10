@@ -3,7 +3,7 @@ layout: default
 title:  "Natural Capital and Green Spaces"
 category: sustainability
 summary: "Protecting and enhancing Scotland’s natural assets"
-index: 4
+index: 5
 parent: sustainability
 permalink: /sustainability/natural-capital/
 next: { title: "Ultra-Low Emission Vehicles", url: "/sustainability/ultra-low-emission-vehicles/" }
