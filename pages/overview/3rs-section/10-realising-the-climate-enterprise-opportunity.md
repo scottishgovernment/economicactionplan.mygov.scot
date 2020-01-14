@@ -14,9 +14,11 @@ The climate emergency brings challenges which we are facing head-on, but it also
 
 Through the ***Green Growth Accelerator***, we will work with regional partners to realise our ambitions for a low carbon economy.  We will leverage public money and stimulate investment to facilitate a £3 billion pipeline of green investment projects. These will make the most of natural resources and assets across the country while capitalising on our world class facilities, such as the National Manufacturing Institute of Scotland, to bring in new investment. We will continue to support research and development in the energy industry, while at the same time strengthening our supply chains.  
 
-To realise the climate opportunity, we must work with private sector partners in Scotland who have been shifting their investment and operations from oil and gas to renewable sources. We must support those businesses to manage the jobs and health of their existing operations during this massive economic transition.  
+<br>
+![We are growing our economy to meet the challenge of net zero. The low carbon and renewable energy sector directly supports 21,000 jobs and generates £5.9 billion in turnover](/assets/images/infographics/Overview.1.jpg)  
+<br>
 
-![By 2020, the low carbon economy could generate 12 billion pounds of exports and support, generating over 200,000 jobs for Scotland](/assets/images/infographics/Overview.1.jpg)  
+To realise the climate opportunity, we must work with private sector partners in Scotland who have been shifting their investment and operations from oil and gas to renewable sources. We must support those businesses to manage the jobs and health of their existing operations during this massive economic transition.  
 
 We will use the expertise of many of our businesses and private sector partners to speed up the development of new greener technologies.  
 

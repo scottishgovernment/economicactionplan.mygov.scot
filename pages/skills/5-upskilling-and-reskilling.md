@@ -22,7 +22,9 @@ We will take forward and deliver the commitments in our Future Skills Action Pla
 
 Our Climate Emergency Skills Action Plan will set out a framework for skills investment. It will detail how we and other public bodies will work with our agencies and industry to create a supportive and collaborative business environment for research and innovation in new low carbon industries. This will enable us to help people gain the new skills required in areas such as oil and gas decommissioning and offshore wind energy, as well as in the construction and energy efficiencies of our buildings and manufacturing and the decarbonisation of our transport system.  
 
-![](/assets/images/infographics/Skills.6.jpg)
+<br>
+![All of the net increase in employment between 2007 and 2018 has been categorised as medium-high or highly-skilled](/assets/images/infographics/Skills.6.jpg)
+<br><br>
 
 Recognising the need to support the population of rural areas, we will also publish and implement a rural skills action plan that will seek to ensure that national frameworks are available across rural Scotland.  We will extend the Ringlink pre-apprenticeship programme to 4 other parts of rural Scotland over the next 3 years on a pilot basis.  
 

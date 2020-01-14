@@ -9,7 +9,6 @@ homepage: true
 navitems: skills
 thispage: skills
 parent: home
-hero: skills.png
 permalink: /skills/
 cardcategoryimage: Skills.jpg
 ---

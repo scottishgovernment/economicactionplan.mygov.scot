@@ -9,7 +9,6 @@ homepage: true
 navitems: investment
 thispage: investment
 parent: home
-hero: investment.png
 permalink: /investment/
 cardcategoryimage: Investment.jpg
 ---

@@ -21,5 +21,3 @@ To assist with this pioneering work, the company received a £1.28 million R&D g
 Scottish Sea Farms MD Jim Gallagher said: "Researching and developing new approaches and technologies is key to ensuring that we continue raising the healthiest fish in the most responsible but also the most environmentally sustainable way, and this latest £48 million investment aims to advance our work in both areas.  
 
 "The £1.28m grant means we will be able to do more of this planned R&D even sooner, accelerating both the innovation and the anticipated benefits for fish health and welfare and for the environment."  
-
-(259 words)

@@ -19,6 +19,10 @@ next: { title: "Promoting Scotland", url: "/international/promoting-scotland/" }
 
 A Trading Nation is a plan for growing Scotland's exports was launched by the First Minister in May 2018. It is a comprehensive and evidence based, living document that will be continually updated to allow Scottish businesses to realise their exporting potential in existing and new markets and to secure new international opportunities.  
 
+<br>
+![We will meet our trade ambitions by growing our exports from 20% to 25% of GDP making our economy even more international](/assets/images/infographics/International.4.jpg)
+<br><br>
+
 The document sets out a number of actions that the Scottish Government and our delivery partners will work together to deliver on. We will continually review and refine these actions and interventions to ensure that they are delivering for businesses and for Scotland’s economy.  
 
 It sets out the priority markets where the biggest opportunities to grow Scotland’s exports exist.  Headline actions from A Trading Nations 27 projects include:
@@ -31,8 +35,6 @@ It sets out the priority markets where the biggest opportunities to grow Scotlan
 We continue to engage in a comprehensive programme of Ministerial visits overseas with a trade and investment focus. Since being appointed as Scotland’s first dedicated Minister for Trade, Investment and Innovation, Ivan McKee has visited 14 of our 15 priority markets, meeting with businesses and investors and fostering positive relationships with governments and stakeholders.  
 
 In November 2018 the First Ministers Export Challenge was launched.  The Export Challenge will invest up to £2 million over 3 years to support 50 existing exporters per year to ramp-up overseas activity.  
-
-![](/assets/images/infographics/International.4.jpg)
 
 Businesses participating in the programme can expect to work closely with their mentor business and will be able to access further sources of export advice and support.  
 

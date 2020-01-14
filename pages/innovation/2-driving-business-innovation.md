@@ -40,7 +40,9 @@ Scottish Sea Farms MD Jim Gallagher said: “Researching and developing new appr
 
 We are working collaboratively across the public sector to build on the investment made in phase 1 of Scotland’s university-hosted Innovation Centres which are having a transformational effect on our economy.  Funding for the next phase has already been announced for Censis (the Centre of excellence for Sensor and Imaging Systems, up to £9.25m), IBIoIC (Scotland’s Industrial Biotechnology Innovation Centre, up to £11.1m), the Data Lab (up to £13.5m) and the Construction Scotland Innovation Centre (up to £10.1m).
 
-![](/assets/images/infographics/Innovation.9.jpg)
+<br>
+![The Scottish Edge competition for entrepreneurs has funded 369 start-ups and has created over 1800 jobs](/assets/images/infographics/Innovation.9.jpg)
+<br><br>
 
 We recognise the importance of progressive business models, workplace innovation and Fair Work as central to our approach to creating value and business innovation. In partnership with SCDI, we are working with business to pilot two Productivity Clubs. Launched in late summer 2019, the initial pilots are supporting businesses who want to improve their own performance and share their advice and experiences to help others do the same. The Clubs, based in Edinburgh and Glasgow but including businesses from surrounding rural areas, are helping build managerial capability and increasing the diffusion of innovation.
 

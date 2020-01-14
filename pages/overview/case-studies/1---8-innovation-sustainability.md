@@ -24,5 +24,3 @@ Infrastructure for the project is starting to go into the ground and a soft laun
 Projects being trialled by The MILL also include Scotland’s largest smart parking project – a fleet vehicle sharing platform for public sector organisations and a car club that allows easier access beyond designated bays.
 Urban Foresight director Rachel Beeton said the company was forecast to grow the 11 employees years, having already grown from a team of one to eight in a year.  
 She said: "We look forward to working on more projects that improve lives, protect the environment and boost local economies, not just in Dundee but across Scotland and globally too."  
-
-(245 words)  

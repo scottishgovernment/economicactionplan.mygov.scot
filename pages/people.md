@@ -9,7 +9,6 @@ homepage: true
 navitems: people
 thispage: people
 parent: home
-hero: people.png
 permalink: /people/
 cardcategoryimage: People.jpg
 ---

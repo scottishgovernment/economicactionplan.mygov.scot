@@ -1,11 +1,12 @@
 ---
 layout: default
 title:  "Case Studies"
-category: overview
+category: case-studies
 summary: "Description TBC"
 index: 30
 parent: overview
 thispage: case-studies
+navitems: case-studies
 permalink: /overview/case-studies/
 next: { title: "Innovation and sustainability", url: "/overview/case-studies/innovation-sustainability/"}
 ---

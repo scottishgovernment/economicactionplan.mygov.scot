@@ -24,7 +24,9 @@ next: { title: "City Region and Other Growth Deals", url: "/investment/city-regi
 
 We are spending over £3.3 billion to deliver 50,000 affordable homes, of which 35,000 will be for social rent, by March 2021.  This investment, in partnership with councils, housing associations and developers, will leverage economic output in the region of £1.4 billion per year, supporting around 10,000 to 12,000 jobs per annum in the construction and related industries in Scotland.  
 
-![](/assets/images/infographics/Investment.11.jpg)
+<br>
+![Since 2016 we have delivered 28,664 affordable homes in communities across Scotland towards our 50,000 target](/assets/images/infographics/Investment.11.jpg)
+<br><br>
 
 An increasing supply of rural housing is provided through the mainstream affordable housing programme delivered through Local Authorities and Registered Social Landlords.
 Additionally we will continue to support the building of more houses in rural areas to meet local needs via the £30 million Rural and Island Housing Fund.  

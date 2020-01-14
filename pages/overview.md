@@ -9,7 +9,6 @@ homepage: true
 navitems: overview
 thispage: overview
 parent: home
-hero: EAPHeroBlues.png
 permalink: /overview/
 cardcategoryimage: Overview.jpg
 ---

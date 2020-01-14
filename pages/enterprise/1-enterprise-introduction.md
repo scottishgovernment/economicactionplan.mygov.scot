@@ -11,6 +11,9 @@ next: { title: "Delivering a Competitive Business Environment", url: "/enterpris
 ***Improving business support and ensuring a competitive business environment***
 
 We are delivering a more supportive business environment, focused on delivering a competitive tax system, reducing costs for business and allowing more businesses to get the help they need to flourish.  
+<br>
+![There are 14,570 more businesses in Scotland than in 2013 and we want to continue to significantly increase the size of the business base](/assets/images/infographics/Enterprise.3.jpg)
+<br><br>
 
 Through the business-led Enterprise and Skills Strategic Board, we are increasing the impact of the investment we make in enterprise and skills development and ensuring our agencies operate as a single system that delivers the right information, advice and support at the right time for business.  
 

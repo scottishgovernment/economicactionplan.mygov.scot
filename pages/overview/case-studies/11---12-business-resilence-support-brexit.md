@@ -21,5 +21,3 @@ The grant can be accessed by businesses employing up to 250 staff and can be use
 
 Since the Prepare for Brexit campaign launched, there have been 136,827 website visitors, 7061 completed company self-assessments and 498 enquiries from businesses.
 One company that has accessed help and support is The Start-Up Drinks Lab. Hannah Fisher of the company said: "Restricted and more expensive supply of raw material will have a negative impact. Looking for a positive, we hope our new canning line will attract some of the clients that currently use canning companies in Germany and Belgium due to restricted trade."  
-
-(250 words)
