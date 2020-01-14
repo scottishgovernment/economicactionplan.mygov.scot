@@ -33,7 +33,9 @@ At the heart of the plan is a recognition that a culture of shared in investment
 
 We have also published ‘A fairer Scotland for disabled people - Employment Action Plan’ in December 2018 setting out steps towards achieving our ambition to reduce the disability employment gap by at least half by 2038.  
 
-![There are just under 1700 Living Wage accredited employers in Scotland, this is proportionately 5 times more than the rest of the UK](/assets/images/infographics/People.16.jpg)
+<br>
+![There are just under 1700 Living Wage accredited employers in Scotland, this is proportionately 5 times more than the rest of the UK](/assets/images/infographics/People.17.jpg)
+<br><br>
 
 We are attaching fair work criteria to grants, other funding streams and public contracts to help ensure payment of the living wage, no inappropriate use of zero hours contracts, action to tackle the gender pay gap, investment in skills and training and genuine workforce engagement, such as trade union recognition. Following on from this, a Fairer Scotland for Women: Gender Pay Gap Action Plan was launched in March 2019.  A first for Scotland and for any UK administration. The aim of the Action Plan is to deliver a cross-government approach, tackling the causes of the inequality women face in the labour market. Equality for women is integral to the Scottish Government’s vision for inclusive growth. The plan will address labour market inequalities faced by women, particularly disabled women, minority ethnic women, older women, women from poorer socio economic backgrounds and women with caring responsibilities. The plan has over 60 actions that aim to reduce the gender pay gap in Scotland.  
 

@@ -12,7 +12,11 @@ next: { title: "Start and Grow", url: "/enterprise/start-and-grow/" }
 ***We are giving small businesses the breathing space to focus on the bigger picture.***
 
 **Non-domestic (Business) Rates**  
-We delivered a below inflation increase in the non-domestic rates poundage in 2019-20, ensuring over 90 per cent of properties pay a lower tax rate than they would elsewhere in the UK.  We also offer the most generous package of rates relief in the UK, worth an estimated £750 million in 2019-20. This includes the Small Business Bonus Scheme which gave 119,400 recipients £254 million of relief in 2018-19, with 100,000 properties paying no rates at all. It also includes the Business Growth Accelerator, which is unique in the UK and provides relief for new builds and improved properties.  
+We delivered a below inflation increase in the non-domestic rates poundage in 2019-20, ensuring over 90 per cent of properties pay a lower tax rate than they would elsewhere in the UK.  We also offer the most generous package of rates relief in the UK, worth an estimated £750 million in 2019-20. This includes the Small Business Bonus Scheme which gave 119,400 recipients £254 million of relief in 2018-19, with 100,000 properties paying no rates at all. It also includes the Business Growth Accelerator, which is unique in the UK and provides relief for new builds and improved properties. 
+
+<br>
+![Scotland's package of non-domestic rates relief is the most generous in the UK, worth an estimated £750 million a year](/assets/images/infographics/Place.15.jpg)
+<br><br>
 
 **Public Sector Contracts**  
 Our support for SMEs ensures that they continue to win public sector work. We require Scottish public sector organisations to advertise all regulated procurement opportunities on the Public Contracts Scotland portal, making it easier for businesses to engage with their local contracting authorities.  Our suite of procurement tools offer SMEs guidance and advice on all aspects of public procurement.  We fund and support the Supplier Development Programme (SDP) in partnership with local authorities. The SDP are an independent business initiative who deliver free training, support and information to help SMEs win work and grow their business. Our support helped ensure that in 2018/19, 79% of suppliers awarded contracts through PCS were SMEs.  

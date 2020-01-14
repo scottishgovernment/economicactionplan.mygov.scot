@@ -19,7 +19,11 @@ next: { title: "Labour Market Access and Inclusion", url: "/people/inclusion/" }
 
 Our ambition to eradicate child poverty is backed by a range of investments including the £50 million Tackling Child Poverty Fund.  In June, we announced a new benefit, the Scottish Child Payment, which will provide low-income families with £10 per week per eligible child. The first payments for children under the age of 6 will be made before the Christmas 2020.  
 
-We have already increased the provision of high quality funded early learning and childcare entitlement to 600 hours a year for all 3 and 4 year olds and eligible 2 year olds.  
+<br>
+![Almost 1 in 4 of Scotland's children live in poverty. Almost two thirds of children in poverty live in working households](/assets/images/infographics/People.18.jpg)
+<br><br>
+
+We have already increased the provision of high quality funded early learning and childcare entitlement to 600 hours a year for all 3 and 4 year olds and eligible 2 year olds. 
 
 To support the expansion in funded early learning and childcare entitlement to 1140 hours for all 3 and 4 year olds and eligible 2 year olds from August 2020, the annual revenue funding for the entitlement will increase by £567 million on 2016-17 levels.  This will improve outcomes for all children, especially those who are more vulnerable or disadvantaged, and help to close the attainment gap. ELC will also support parents to work, train or study, especially those who need help with finding sustainable employment. Increasing the entitlement will require a substantially larger workforce, significant investment in infrastructure, and new, innovative models of delivery.  
 

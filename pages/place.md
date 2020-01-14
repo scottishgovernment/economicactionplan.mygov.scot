@@ -9,7 +9,6 @@ homepage: true
 navitems: place
 thispage: place
 parent: home
-hero: place.png
 permalink: /place/
 cardcategoryimage: Place.jpg
 ---

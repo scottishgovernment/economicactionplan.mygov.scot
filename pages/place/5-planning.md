@@ -23,6 +23,10 @@ We will use the National Planning Framework 4 to promote sustainable and inclusi
 
 On 30 September we published our post Planning Bill work programme, Transforming Planning In Practice. This sets out our proposed timetable for implementing the Planning (Scotland) Act 2019 and taking forward other aspects of the reform of Scottish planning.  
 
+<br>
+![Our investment in affordable housing will, on average, leverage £1.4 billion per year economic output supporting around 10,000 to 12,000 jobs in construction](/assets/images/infographics/Place.20.jpg)
+<br><br>
+
 The work programme outlines how we will now move quickly to bring forward proposals for substantial changes to the fees structure, with the aim of having early clarity around costs and resources, and the new fee arrangements in place in the second quarter of 2020. This will require careful assessment of the impacts on both planning authorities and applicants, to ensure that there are no unforeseen consequences from the combination of changes.  The consultation will also include the introduction of the principle for a developer to pay a higher planning application fee for an accelerated service from the planning authority in its handling of the application.  
 
 The 2019 Programme for Government includes a commitment to launch a programme of digital transformation to make better use of digital technologies and data, including a digital mapping prototype to support co-ordinated and sustainable development.  In Summer 2020 we will launch a Digital Strategy for Planning.  The strategy will outline the future projects and services we will seek to deliver to help facilitate a planning system that is more inclusive, efficient and a key enabler of economic growth.  

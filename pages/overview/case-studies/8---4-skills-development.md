@@ -23,5 +23,3 @@ Louise is employed as a senior customer service specialist by the multinational 
 
 Louise had been working as a senior UK customer service specialist for three years, before becoming the company’s UK customer service team lead. She sees her apprenticeship as a key part of her career progression.  
 She said: "I would definitely recommend Graduate Apprenticeships to others who are looking to further their career and expand their experience while working. Being able to take the theory you learn and immediately put it to use in your day job is very rewarding."  
-
-(232 words)

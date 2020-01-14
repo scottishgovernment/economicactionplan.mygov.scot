@@ -10,6 +10,5 @@ navitems: international
 thispage: international
 parent: home
 permalink: /international/
-hero: international.png
 cardcategoryimage: International.jpg
 ---

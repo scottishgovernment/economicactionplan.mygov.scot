@@ -9,7 +9,6 @@ homepage: true
 navitems: sustainability
 thispage: sustainability
 parent: home
-hero: sustainability.png
 permalink: /sustainability/
 cardcategoryimage: Sustainability.jpg
 ---

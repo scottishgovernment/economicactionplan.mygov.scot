@@ -15,6 +15,10 @@ next: {title: "EU Exit", url: "/overview/eu-exit/" }
 
 Our economic approach to Scotland’s economy, underpinned by the notion of a wellbeing, sustainable and inclusive growth means that we need to consider how our actions and investments across a broad range of areas – from health, to exports, to investment in skills, and focus on ‘good’ job creation - can influence our economic outcomes  in a way that improves not only our competitiveness, but also the quality of our economic growth and the distribution of economic opportunities and benefits across Scotland’s people and places.  
 
+<br>
+![484,000 people work in rural areas and rural economy is responsible for 27% of Scotland's total economy](/assets/images/infographics/Place.12.jpg)
+<br><br>
+
 We are taking action in the following key areas to make sure we are getting the fundamentals are right:  
 
 - Investment: boosting private and public investment and delivering world-class infrastructure

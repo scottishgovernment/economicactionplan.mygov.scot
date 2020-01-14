@@ -23,5 +23,3 @@ Attendance at MIPIM and similar events has led directly to £2 billion of invest
 
 Stuart Parker, Managing Director of Construction Scotland at Morgan Sindall, said:
 "MIPIM 2020 will provide Team Scotland with an excellent opportunity to showcase its impressive investment portfolio. Scotland has rightly received global recognition as a growing economy, and the delegation’s presence will benefit not only in terms of profile, but as a stimulus for sustained development and urban regeneration."  
-
-(234 words)

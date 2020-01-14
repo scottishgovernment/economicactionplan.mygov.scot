@@ -22,5 +22,3 @@ In Edinburgh, we’ve unlocked around £1 billion of new development in the city
 The largest development of its type currently underway in the UK, the shopping centre will comprise 850,000 sq ft of retail space, 152 apartments, 30 food and beverage businesses, a five-screen cinema complex and the 214-room W Hotel.  
 
 It will support around 1,000 full-time equivalent jobs and a net increase in the gross value added of Scotland of approximately £45 million per annum.  
-
-(218 words)

@@ -10,6 +10,5 @@ navitems: innovation
 thispage: innovation
 parent: home
 permalink: /innovation/
-hero: innovation.png
 cardcategoryimage: Innovation.jpg
 ---

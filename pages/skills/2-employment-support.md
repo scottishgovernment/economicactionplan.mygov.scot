@@ -25,6 +25,10 @@ We have developed an employment support service - Fair Start Scotland - to help 
 
 We are also setting out how we will deliver more effective and joined up employability support across Scotland with the publication of No One Left Behind – Next Steps for the Integration and Alignment of Employability Support in Scotland.  
 
+<br>
+![16,130 people have taken the oppertunity of help to find work with Fair Start Scotland since April 2018](/assets/images/infographics/Skills.19.jpg)
+<br><br>
+
 We developed links between employment support and other services through the £2.5 million Employability Innovation and Integration Fund (EIF). The Employability Innovation and Integration Fund was a two-year initiative, which ran between 2017/18 and 2018/19.  Through the fund we supported 13 projects across 15 local authority areas, with evaluation of the projects is due to be submitted in November 2019.  
 
 We have launched Individual Training Accounts (ITAs) to officials by focusing funds on those actively seeking employment and those who are currently in low paid work and looking to progress.  Officials are currently working with stakeholders to review the programme in line with the recommendation from the E&S Strategic Board.  
