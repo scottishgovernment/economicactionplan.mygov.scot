@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Case Studies"
-category: case-studies
+category: overview
 summary: "Description TBC"
 index: 30
 parent: overview
