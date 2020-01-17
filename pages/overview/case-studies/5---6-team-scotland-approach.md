@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Team Scotland Approach"
+title:  "Team Scotland approach"
 category: case-studies
 summary: "A team approach brings new investment"
 index: 5

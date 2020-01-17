@@ -2,7 +2,7 @@
 layout: tiles-3
 title:  "Introduction - the 3Rs: Resilience, Recovery and Restructuring"
 category: overview
-summary: "Description TBC"
+summary: ""
 index: 20
 homepage: true
 navitems: the-3rs
