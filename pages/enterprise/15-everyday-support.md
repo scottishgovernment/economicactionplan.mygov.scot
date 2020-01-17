@@ -21,15 +21,15 @@ We delivered a below inflation increase in the non-domestic rates poundage in 20
 **Public Sector Contracts**  
 Our support for SMEs ensures that they continue to win public sector work. We require Scottish public sector organisations to advertise all regulated procurement opportunities on the Public Contracts Scotland portal, making it easier for businesses to engage with their local contracting authorities.  Our suite of procurement tools offer SMEs guidance and advice on all aspects of public procurement.  We fund and support the Supplier Development Programme (SDP) in partnership with local authorities. The SDP are an independent business initiative who deliver free training, support and information to help SMEs win work and grow their business. Our support helped ensure that in 2018/19, 79% of suppliers awarded contracts through PCS were SMEs.  
 
-**Prompt Payment**
+**Prompt Payment**  
 Recognising the negative impact that late payment can have on the cashflow, we aspire to pay bills to Scottish businesses within 10 days, succeeding 99% of the time in financial year 2018-19. We also include a standard clause within all Scottish Government contracts which requires payment within 30 days of valid invoices down the supply chain. This builds on our wider encouragement of prompt payment where suppliers commit to working towards payment within 30 days as the norm, part of the Scottish Business Pledge.  
 
-**Finance**
+**Finance**  
 We are making finance more readily available to help ambitious small businesses to grow and export, unlocking up to £500 million of investment through the Scottish Growth Scheme. We are boosting access to finance through a range of funding options - microfinance, debt and equity. Help putting together the business case to secure investment can be obtained from Scottish Enterprise, Highlands and Islands Enterprise and Business Gateway.  
 
 Small businesses can also access finance through the £150 million Building Scotland Fund which offers loans and equity finance for a range of products. This is a precursor to the Scottish National Investment Bank which has a planned long-term capitalisation of at least £2 billion over its first ten years.  
 
-**Business Resilience**
+**Business Resilience**  
 We are helping small business adapt to changes, manage risks and overcome challenges. This includes partly funding the Scottish Business Resilience Centre (SBRC), a non-profit organisation which exists to support and help protect Scottish businesses. SBRC offers a wide range of business resilience services and support.  
 
 For small businesses concerned about the impact of the UK leaving the EU, the multi-agency Prepare for Brexit campaign offers support to businesses of all sizes, regardless of their sector or whether or not they export. This includes an online self-assessment tool to help businesses identify their exposure to Brexit-related risks and opportunities while directing them to the appropriate support.  
@@ -56,7 +56,7 @@ One company that has accessed help and support is The Start-Up Drinks Lab. Hanna
 **Health and Safety**  
 We are supporting small business employers to comply with health and safety regulations. Healthy Working Lives offer free health and safety assessments to small businesses and a range of training courses which are mostly free of charge. The burden is also reduced by Working Health Services Scotland which gives free and confidential health support to individuals employed by companies with fewer than 250 employees.  
 
-**Better Regulation**
+**Better Regulation**  
 Business and Regulatory Impact Assessments and the Scottish Regulators’ Strategic Code of Practice have made regulation more proportionate, consistent and transparent. These measures have helped small businesses by eliminating unnecessary burdens and ensuring regulatory principles are applied in a way which is consistent with delivering sustainable economic growth.  
 
 ## Key resources:

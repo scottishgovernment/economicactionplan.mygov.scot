@@ -12,7 +12,7 @@ next: { title: "A Can DO place for business", url: "/enterprise/can-do-place-bus
 ---
 ***We are listening to small businesses and delivering the support to meet their real needs***  
 
-There are around 350,000 small businesses in Scotland, providing jobs for 1.2 million people and forming the backbone of Scotland’s economy.  
+There are around 350,000 small businesses in Scotland, providing jobs for over 920,000 people and forming the backbone of Scotland’s economy.  
 
 We will support small businesses to continue playing a massive role in communities in every part of Scotland, recognising that their success is the key to unlocking opportunity for all.  
 

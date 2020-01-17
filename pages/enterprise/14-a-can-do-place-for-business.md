@@ -15,8 +15,6 @@ next: { title: "Everyday support", url: "/enterprise/everyday-support/" }
 **Scotland CAN DO**  
 We will continue to support Scotland CAN DO, a network of public, private and third sector partners working together to make Scotland a world-leading entrepreneurial and innovative nation.  
 
-This has helped Scotland to be recognised as the 5th most supportive business environment in the world, rising above other UK nations from 12th in 2013.
-
 **Public Business Support**  
 We are funding local authorities to deliver Business Gateway, giving small businesses access to free advice and support which is nationally consistent and tailored to local conditions.  
 
@@ -37,7 +35,7 @@ This adds to our work through Scotland’s Towns Partnership to provide informat
 Drawn from the Town Centre Action Plan and Scotland CAN DO, CAN DO Places supports communities to take over redundant spaces for collaboration and co-working, creating more opportunities for small businesses to operate across urban and rural Scotland.
 
 **Rural Economy**  
-A vibrant rural economy will help deliver sustainable growth and create opportunities for all, enabling small businesses to flourish in every part of Scotland.  The National Council of Rural Advisers recommend that government provide a supportive enterprise environment for the development and growth of our rural businesses.   Supporting delivery of this outcome are the Scottish Rural Parliament, the LEADER Programme delivered by Local Action Groups, the Scottish Enterprise-led Rural Leadership Programme and a strategic approach to support the skills needs of rural Scotland with a Skills Action Plan for Rural Scotland.  
+A vibrant rural economy will help deliver sustainable growth and create opportunities for all, enabling small businesses to flourish in every part of Scotland.  The National Council of Rural Advisers recommend that government provide a supportive enterprise environment for the development and growth of our rural businesses.   Supporting delivery of this outcome are the Scottish Rural Parliament, Highlands and Islands Enterprise, the LEADER Programme delivered by Local Action Groups, the Scottish Enterprise-led Rural Leadership Programme and a strategic approach to support the skills needs of rural Scotland with a Skills Action Plan for Rural Scotland.  
 
 **Developing the Young Workforce**  
 Small businesses have the opportunity to engage with young people at school and college and help the future workforce develops the skills they need through activities such as work-experience, company visits and influencing the curriculum.
