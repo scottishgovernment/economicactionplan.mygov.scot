@@ -11,8 +11,7 @@ permalink: /overview/case-studies/
 next: { title: "Innovation and sustainability", url: "/overview/case-studies/innovation-sustainability/"}
 ---
 
-There are already many examples of businesses across Scotland who are helping to build the economy of the future.  
-
+There are already many examples of businesses across Scotland who are helping to build the economy of the future.     
 These include:
 
 - [Innovation and sustainability: Urban Foresight puts the wheels in motion on e-bike project](/overview/case-studies/innovation-sustainability/)

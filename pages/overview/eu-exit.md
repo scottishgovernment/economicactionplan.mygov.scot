@@ -24,7 +24,7 @@ Leaving the Single Market and Customs Union will also compromise the vast range 
 
 Taking action to mitigate impacts, the Prepare for Brexit campaign, led by the enterprise and skills agencies, will help businesses, and their key partners such as universities and colleges, review their plans in light of Brexit to ensure they can continue to develop their workforce, grow their business, export, innovate and access finance and investment.  We have also established the Stay in Scotland campaign to provide information, advice and support to EU citizens and produced a toolkit for employers and individuals.  
   
-**Key resources:**  
+## Key resources:  
 
 [‘Scotland’s Place in Europe: People, Jobs and Investment’ (January 2018)](https://www.gov.scot/publications/scotlands-place-europe-people-jobs-investment/)  
 

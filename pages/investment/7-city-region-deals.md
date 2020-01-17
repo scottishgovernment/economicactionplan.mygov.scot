@@ -7,7 +7,7 @@ index: 6
 parent: investment
 permalink: /investment/city-region-deals/
 prev: { title: "Housing", url: "/investment/housing/" }
-next: { title: "Carbon Neutral Economy", url: "/investment/carbon-neutral-economy/" }
+next: { title: "Climate-neutral Economy", url: "/investment/climate-neutral-economy/" }
 ---
 ***Delivering transformational investment for Scotland’s city regions***
 
@@ -21,20 +21,20 @@ next: { title: "Carbon Neutral Economy", url: "/investment/carbon-neutral-econom
 - We have 4 deals already in delivery and a further 4 agreed in principle.  
 - We have committed over £1.8 bn to all deal and associated investments to date and are working to achieve 100% coverage of Scotland with growth deals
 
-City deals worth up to £1.125 billion over the next 10 to 20 years have been agreed for the Glasgow City Region, Aberdeen and Aberdeenshire, Inverness and Highland, Edinburgh and South East Scotland. Heads of Terms have been reached for Stirling and Clackmannanshire, the Tay Cities, Ayrshire and Borderlands.  
+City deals worth up to £1.125 billion over the next 10 to 20 years have been agreed for the Glasgow City Region, Aberdeen and Aberdeenshire, Inverness City and Highland Region, Edinburgh and South East Scotland. Heads of Terms have been reached for Stirling and Clackmannanshire, the Tay Cities, Ayrshire and Borderlands.  
 
 Each deal is tailored to the social and economic situation of its region, with projects such as the Oil and Gas Technology Centre in Aberdeen, the distributed learning of STEM subjects across Highland, and a focus on capitalising on data driven innovation in Edinburgh.  
 
-Deals galvanise key partners to come together to drive regional economies in ways that go well beyond the investments that they deliver, leveraging local and regional intelligence about how best to secure inclusive economic growth.  
+Deals galvanise key partners to come together to drive regional economies in ways that go well beyond the investments that they deliver, leveraging local and regional intelligence about how best to secure inclusive economic growth.  They recognise the local importance of our key economic sectors and the broader benefits that sectors such as tourism, culture and heritage deliver.  
 
 They act as a catalyst to support and enable a set of strong regional economic partnerships across Scotland that have a clear and active role for the private sector to help create and deliver a clear economic plan for the region.  
 
-That is why we are committed to delivering 100% coverage of deals across Scotland.  Funding has been announced for Growth Deals for Moray and Argyll & Bute.  Investment in deals for Falkirk, the Western Isles, Orkney and Shetland are under discussion.  
+That is why we are committed to delivering 100% coverage of deals across Scotland.  Funding has been announced for the Moray Growth Deal and Rural Growth Deal for Argyll.  Investment in deals for Falkirk, the Western Isles, Orkney and Shetland are under discussion.  
 
-City Region and Growth Deals build on our strong foundations of finding new ways to unlock economic investment, including our Tax Increment Financing and Growth Accelerator approaches where we have already delivered  two Growth Accelerator schemes: with the City of Edinburgh Council for the St James Quarter, unlocking around £1 billion of new development in the city centre; and with Dundee City Council involving £60 million of Scottish Government investment to support the wider £1 billion Waterfront Development that includes the iconic V&A Museum.  
+City Region and Growth Deals build on our strong foundations of finding new ways to unlock economic investment, including our Tax Increment Financing and Growth Accelerator approaches where we have already delivered  two Growth Accelerator schemes: with the City of Edinburgh Council for the St James Quarter, unlocking around £1 billion of new development in the city centre; and with Dundee City Council involving £60 million of Scottish Government investment to support the wider £1 billion Waterfront Development that includes the iconic V&A Museum.   
 
 In order to support community wealth building we will invest £3m in a community wealth building programme which is being developed as part of the Ayrshire Growth Deal. This aims to help maximise the local benefit within the area from key local employers, procurement spend, and assets.  
-
+  
 <div class="case-study" markdown="1">
 
 ## *case study:*{:.hidden} Building Scotland’s biggest port
