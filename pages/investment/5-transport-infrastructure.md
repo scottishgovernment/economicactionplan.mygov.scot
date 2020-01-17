@@ -17,12 +17,15 @@ next: { title: "Housing", url: "/investment/housing/" }
 ## Key points:
 
 - Deliver the second Strategic Transport Projects Review by 2020
-- The final section of the Aberdeen Western Peripheral Route opened to traffic on 19 February 2019.
+- The final section of the Aberdeen Western Peripheral Route opened to traffic on 19 February 2019
 - Continue the A9 and A96 dualling programmes and construction of the £30 million A77 Maybole bypass
+- Continuing to grow and develop electric vehicle charging infrastructure
+- Decarbonising the Scottish public sector transport fleet
+
 
 Since 2007, we have supported our transport systems with over £20 billion investment across trunk roads, rail, buses, ferries and air services as well as active travel, including delivery of the iconic £1.35 billion Queensferry Crossing and the M8/M73/M74 Motorway Improvements projects.  
 
-The second Strategic Transport Projects Review (STPR2) is being undertaken alongside with the review of the National Transport Strategy (NTS). This will help deliver the vision, themes and outcomes for transport set out in the strategy to determine our future transport investment priorities over the next two decades. The STPR2 focuses on both national and regional issues, and will deliver transport priorities though close working and consultation with stakeholders and analysis of data and evidence. The review will gather evidence across all types of transport for both passengers and freight and will look at a number of areas including how to better maintain and make base use of existing assets and what new capacity is needed.  
+The second Strategic Transport Projects Review (STPR2) is being undertaken alongside the review of the National Transport Strategy (NTS). This will help deliver the vision, themes and outcomes for transport set out in the strategy to determine our future transport investment priorities over the next two decades. The STPR2 focuses on both national and regional issues, and will deliver transport priorities though close working and consultation with stakeholders and analysis of data and evidence. The review will gather evidence across all types of transport for both passengers and freight and will look at a number of areas including how to better maintain and make base use of existing assets and what new capacity is needed.  
 
 We are making good progress in the delivery of the A9 Dualling Programme. The first section is now complete and the second is under construction.  Design work on the remaining nine sections is well underway and we are currently reviewing procurement options to bring forward the remainder of the programme. We have allocated a spend of £1bn per year for supporting public transport, providing people with access to jobs and services.  
 
@@ -43,6 +46,14 @@ Following the Levenmouth Sustainable Transport Study, we have committed to takin
 This investment will enhance the local economy, bringing better access to employment and education and the potential for new investment. The £5m Levenmouth Blueprint (similar to the Borders Rail Blueprint) will act as a catalyst for change for projects and initiatives building on the rail connectivity.  
 
 Introducing Low Emission Zones in four cities – Glasgow, Edinburgh, Aberdeen and Dundee. These will encourage investment in cleaner transport technologies and inform Scotland’s ambition to make the transformative shift to zero or ultra-low emission city centres by 2030.  
+
+We have invested over £30m since 2012 to establish a comprehensive electric vehicle charging network supporting our ambition to phase out the need for new petrol and diesel cars and vans by 2032.  
+
+In collaboration with local authorities, energy network companies and commercial operators we are establishing UKs first electric trunk road on the A9, helping ensure that all parts of Scotland benefit from the transition to electric vehicles. The first new charging hub on the Electric A9 opened in December.  
+
+We are widening access to electric vehicles so that households across Scotland share in the benefits from ULEVs. We have increased our Low Carbon Transport Loan Fund from £8M to £20M enabling more businesses and consumers to make the switch to electric vehicles.  
+
+Our bold new commitments will phase out the need for all new petrol and diesel vehicles in Scotland’s public sector fleet by 2030, and phase out the need for all petrol and diesel cars from the public sector fleet by 2025. Our commitments recognise that the market for zero emission cars is developing quickly, and that the market and technologies for heavier vehicles is less developed than for cars.  
 
 ## Key resources:
 

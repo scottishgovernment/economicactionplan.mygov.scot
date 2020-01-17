@@ -30,7 +30,7 @@ Building on the success of the DSSB programme, the Scottish Government has commi
 
 As a direct result of the publically funded DSSB programme, we have provided access to fibre broadband across Orkney, Shetland and the Western Isles, areas which would otherwise have failed to be connected if left to the commercial market.  
 
-Although commercial investment led to 95% of Scotland’s population having access to 4G, only 36% of Scotland’s landmass was served.  We have therefore extended rural Scotland’s 4G coverage into longstanding ‘notspots’ through our Scottish 4G Infill (S4GI) Programme; investing £25 million (including £10M from ERDF sources).
+Through our Scottish 4G Mobile Infill (S4GI) Programme, the Scottish Government aims to push 4G coverage beyond commercial rollout by investing up to £25 million to deliver future-proofed 4G infrastructure to selected mobile ‘not-spots’. Currently the programme is focusing on the delivery of up to 49 mast sites, although these sites will only go to build phase if the commitment of mobile operator to using the infrastructure to deliver 4G services is achieved.
 
 To ensure all of Scotland can benefit from the digital economy, we will use the £36 million Digital Growth Fund programme, the Digital Development Loan to improve the digital capability of Scotland’s SMEs and the digital skills of Scotland’s workforce and continue to support the DigitalBoost programme, to give advice and support that improves the level of digital maturity amongst businesses in across Scotland.  
 
@@ -43,7 +43,7 @@ Furthermore, the Scottish Government has invested significant sums of money (and
 - Enable more effective and lower cost regulation and monitoring of land use and food production by government bodies and agencies.
 - Accelerate digital methods and technologies to reduce the Scottish Government’s total cost of ownership of ICT/digital operations, and provide a common Digital Platform and service that is flexible and sustainable, thus ensuring that services are efficient and responsive to the needs of rural citizens.
 
-We are harnessing digital innovation within our transport system by investing up to £2 million to develop ‘Mobility as a Service’ (MaaS) in Scotland, with funding now available to support projects until 2021.  Further details are on the Transport Scotland website.  
+We are harnessing digital innovation within our transport system by investing up to £2 million to develop ‘Mobility as a Service’ (MaaS) in Scotland, with funding now available to support projects until 2021.  Further details are on the [Transport Scotland](https://www.transport.gov.scot/) website.  
 
 We have published our 5G strategy which sets out our aspiration to position Scotland as a 5G leader and a forward-looking digital nation and have established The Scotland 5G Centre – a collaboration between government and academia with industry.  Our aim is for Scotland to gain early-mover advantage from this emerging technology with a view to ultimately enabling high volume data exchange, stimulating markets in high-data products and services and enabling businesses and underpinning progress in areas like connected devices, machine learning and the internet of things.  And to ensure Scotland’s people and businesses receive equal priority in the rollout of mobile connectivity infrastructure, we will continue to press Ofcom and the UK Government to enable the mobile infrastructure that Scotland needs.  
 
