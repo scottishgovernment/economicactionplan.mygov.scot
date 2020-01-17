@@ -19,7 +19,7 @@ next: { title: "Driving Entrepreneurship", url: "/enterprise/driving-entrepreneu
 
 - The [Scottish National Investment Bank](https://www.gov.scot/policies/economic-growth/scottish-national-investment-bank/) to be operational in 2020 and investing £2 billion over 10 years in businesses and communities
 - The Scottish Growth Scheme unlocking up to £500m investment in ambitious businesses by June 2020
-- A £150 million Building Scotland Fund, across three  years
+- A £150 million Building Scotland Fund, across three years
 - Work to align and consolidate the landscape of public investments and simplify access to business support, advice and finance
 
 Legislation will enable Scottish Ministers to establish and capitalise the bank. Ministers will also set missions for the Bank so it can work towards addressing significant challenges facing Scotland. A mission oriented approach encourages transformative solutions that are sector and technology neutral. Our Programme for Government confirmed that the Bank’s primary mission will be to support Scotland’s transition to net zero carbon emissions.  Other missions are also being developed for the Bank.  

@@ -28,6 +28,8 @@ We continue to deliver the most generous package of non-domestic rates reliefs i
 
 In 2018 we also introduced Nursery Relief to support the expansion of free early learning and childcare in Scotland.  
 
+We have committed, in our Programme for Government 2019/20, to providing a package of support for the tourism sector that will minimise the burden of regulation and associated costs and allow the industry to deliver high-quality, value for money and memorable experiences.   This will include consideration of the impact of business rates on the sector.  
+
 In 2019 we introduced a new 100% relief for new fibre infrastructure where the fibre has been installed and lit on or after 1 April 2019. This is available for a 10-year period to March 2029, to help meet our aim to deliver superfast broadband access to 100% of premises in Scotland.  
 
 In March 2019 we introduced The Non-Domestic Rates (Scotland) Bill to the Scottish Parliament, which will deliver the agreed recommendations of the independent Barclay Review. The bill will implement key provisions including a move to a three-yearly valuation cycle from the 2022 revaluation, and reforms to the appeals process.  The Bill completed Stage 2 on 04 December 2019 with Stage 3 anticipated in early 2020.  We will ensure that future tax decisions in the next Scottish Budget maintain and build upon Scotland’s competitive position as an attractive place to do business.  

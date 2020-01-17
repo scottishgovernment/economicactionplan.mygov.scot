@@ -20,7 +20,7 @@ Our investment in Innovation Centres allows small businesses to capitalise on ne
 By actively encouraging small businesses to solve public sector challenges, we are helping them bring new ideas to life with the CAN DO Innovation Challenge Fund. CivTech® is partly funded from this and is the world’s first cross-public sector tech accelerator, providing the opportunity to propose and develop solutions to specific problems. Public and private sector opportunities can also be accessed through Open Innovation Challenges.  
 
 **Digital Support**  
-We are working closely with partners to equip small businesses with the technology to thrive in the modern digital economy. The national DigitalBoost programme, delivered by Business Gateway and Highlands and Islands Enterprise will continue to provide digital skills-focused advice and support.  
+We are working closely with partners to equip small businesses with the technology to thrive in the modern digital economy. The national DigitalBoost programme, delivered by Business Gateway will continue to provide digital skills-focused advice and support.  
 
 The Digital Development Loan, the first investment of the £36 million Digital Growth Fund, builds on this by offering interest free loans of between £5,000 and £50,000 to help SMEs invest in digital capabilities, processes, skills and capacity.  
 
@@ -40,10 +40,13 @@ Scottish Development International provide dedicated export advice and support t
 **Prepare for Brexit**  
 We are supporting the multi-agency campaign to help Scotland’s businesses face the challenges of the UK’s exit from the European Union. Prepare for Brexit provides businesses with access to export advisers to create a Brexit-focused action plan, grants of £4000 to identify specific Brexit-related international issues, online learning opportunities, skills workshops, networking events and market research support.  
 
-**Support to Grow Rapidly**  
-Scottish Enterprise’s Start2Scale Service provides a dedicated service which focuses on supporting ambitious growth-driven businesses in a closely integrated way across the stages of the scale up journey. It is for highly ambitious, innovative early stage businesses with significant potential to grow sales quickly, typically 20% per annum to excess of £10m in 3-10 years and for more established businesses which are Scottish owned or with strategic direction from within Scotland, currently achieving £10m+ turnover with the ambition and potential to grow to £50m-£100m and beyond within 3-5 years  
+**Support to Grow Rapidly**   
+*Scottish Enterprise’s Start2Scale Service* provides a dedicated service which focuses on supporting ambitious growth-driven businesses in a closely integrated way across the stages of the scale up journey. It is for highly ambitious, innovative early stage businesses with significant potential to grow sales quickly, typically 20% per annum to excess of £10m in 3-10 years and for more established businesses which are Scottish owned or with strategic direction from within Scotland, currently achieving £10m+ turnover with the ambition and potential to grow to £50m-£100m and beyond within 3-5 years  
 
-Entrepreneurial Scotland facilitate the CAN DO Scale Movement, a network of public and private sector organisations working with businesses to grow at pace. This is open to small businesses and includes the SCALE Summer School, an intensive course with top international educators, and the 18 month Scale Up Scotland programme delivered by leading entrepreneurs.  
+*Entrepreneurial Scotland* facilitate the *CAN DO Scale Movement*, a network of public and private sector organisations working with businesses to grow at pace. This is open to small businesses and includes the SCALE Summer School, an intensive course with top international educators, and the 18 month Scale Up Scotland programme delivered by leading entrepreneurs.  
+
+**Digital Tourism Scotland**  
+Along with our visitor economy agencies, we supported Digital Tourism Scotland, a £1.2 million, 3 year public and private sector partnership project, which ran until 2019.  This aimed to improve the digital skills and capabilities of tourism businesses. Through our new Tourism Strategy Framework, launched in October 2019, we will continue to support our diverse tourism businesses, helping them to embrace innovation and technology to support better visitor experiences and to adopt the use of new business models to increase their competitiveness.  
 
 ## Key resources:
 

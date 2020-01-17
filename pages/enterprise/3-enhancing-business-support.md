@@ -18,11 +18,11 @@ next: { title: "Access to Finance", url: "/enterprise/access-to-finance/" }
 - A single, online point of entry for business support – enabling businesses to rapidly navigate support and speed up decision making on eligibility-based support such as grants
 - We will develop  new sector specific action plans for the Food and Drink Industry
 
-We provide over £250 million each year to support Scottish Enterprise to promote sustainable and inclusive growth through providing practical support and opportunities for sectors and businesses to develop, grow and invest in Scotland; and a further £71m goes to Highlands and Islands Enterprise to provide tailored support across the region.  
-
+We provide over £320 million each year to support Scottish Enterprise (£250m) and Highlands and Islands Enterprise (£71m) to promote sustainable and inclusive growth through providing practical support and opportunities for sectors and businesses to develop, grow and invest in Scotland.  Highlands and Islands Enterprise’s funding also provides support for community development.    
+ 
 We will maximise the impact of the investment we make in enterprise and skills development by implementing the recommendations of the business-led Strategic Board and ensuring our agencies operate as a single system that delivers the right information, advice and support at the right time for business. This includes building on the established success of the Partnership Action for Continued Employment (PACE) model by enhancing data-led analysis of sectoral and company resilience, to deliver through agencies a consistent yet targeted service to companies across Scotland, when they need support.  
 
-We will also task the agencies to work with Scotland’s wide range of leadership and enterprise support organisations as well as business, employers and colleges and universities, especially business schools, to develop and deliver a range of different types of leadership and management support which meet the needs of individuals and businesses at different stages of career development and company growth.  
+We know the importance leadership and management play in driving productivity and workplace innovation, growing fair work practices and in building a sustainable and inclusive economy. In recognition of this, our agencies will build on their current investment in this area and work alongside business, employers, colleges and universities and other partners, to bring forward an enhanced Scottish Business Leadership support offer in the first half of 2020/21.  This will include considering options for a new leadership academy or similar model to oversee world class management/leadership training programmes that are accessible across Scotland.  
 
 <br>
 ![Small businesses support 921,300 jobs in Scotland](/assets/images/infographics/Enterprise.7.jpg)
@@ -30,7 +30,7 @@ We will also task the agencies to work with Scotland’s wide range of leadershi
 
 We will work with Scottish Enterprise to maximise the impact of the Rural Leadership Programme.  We will draw upon ‘graduates’ skills enabling them to: become pacesetters in their sectors and communities, - stimulating business innovation, creativity, know-how and collaboration; and contribute to the development of initiatives that will unleash the potential of rural communities.  
 
-We will make it easier and quicker to access business support with funding, training and advice for all company sizes and sectors available through a single digital entry point.  
+We will make it easier and quicker to access business support with funding, training and advice for all company sizes and sectors available through [the ‘Find Business Support’ website](https://www.findbusinesssupport.gov.scot/).    
 
 We will also launch the First Minister’s Award for Manufacturing Leadership to recognise the importance of leadership in the sector. This aims to improve efficiency and productivity and encourage collaboration and inclusivity.  
 
@@ -57,3 +57,5 @@ We have pledged £7.5m funding over 2017-2020 towards the Ambition 2030 Food and
 **[Scottish Government: Non-domestic rates](https://www.gov.scot/policies/local-government/non-domestic-rates/)**
 
 **[Business growth accelerator relief](https://www.mygov.scot/business-rates-relief/business-growth-accelerator-relief/)**
+
+**[South of Scotland Economic Partnership](https://www.sosep.co.uk/)**
