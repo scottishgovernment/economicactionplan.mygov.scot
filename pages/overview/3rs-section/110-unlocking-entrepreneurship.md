@@ -2,7 +2,7 @@
 layout: default
 title:  "Unlocking entrepreneurship"
 category: the-3rs
-summary: "Description TBC"
+summary: ""
 index: 110
 parent: the-3rs
 permalink: /overview/resilience-recovery-restructuring/unlocking-entrepreneurship/
@@ -13,6 +13,7 @@ prev: { title: "Scottish National Investment Bank", url: "/overview/resilience-r
 
 ___
 
-We will continue to unlock the undoubted talent and ideas we have in abundance in Scotland and the economic value these bring.  
+We will continue to unlock the undoubted talent and ideas we have in abundance in Scotland and the economic value these bring.   
 
 Working with private sector partners, we’ve brought together a number of existing initiatives to create the Unlocking Ambition programme, which will ensure investment is made in the right places.  
+ 
