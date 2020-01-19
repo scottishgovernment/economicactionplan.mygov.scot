@@ -2,15 +2,14 @@
 layout: default
 title:  "Transport network"
 category: place
-summary: "Summary TBC"
+summary: ""
 index: 9
 parent: place
 permalink: /place/transport-network/
 prev: { title: "Local Economies And Community-Led Development", url: "/place/local-economies/" }
 ---
-***Summary TBC***
 
-We fully support and promote the Place Principle which asks that all those responsible for providing services and looking after assets in a place need to work and plan together, and with local communities, to improve the lives of people, support inclusive growth and create more successful places.  
+We fully support and promote the [Place Principle](https://www.gov.scot/publications/place-principle-introduction/) which asks that all those responsible for providing services and looking after assets in a place need to work and plan together, and with local communities, to improve the lives of people, support inclusive growth and create more successful places.  
 
 **Bus Priority Investment**  
 We are bringing forward transformational long term funding for bus transport of over half a billion pounds, through a Bus Partnership Fund for local authorities, and the roll out of infrastructure for the trunk road network to prioritise high occupancy vehicles.  The draft National Transport Strategy is clear that buses are a key part of our future sustainable public transport offering. We need to address the impacts of congestion on bus services and get more people to make sustainable multi-modal journeys.  

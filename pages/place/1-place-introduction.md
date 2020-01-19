@@ -23,6 +23,7 @@ We are putting into practice the key aims of the [Place Principle](https://www.g
 * [City Region and Other Growth Deals](/place/city-region-deals/)
 * [Regional Economies and Economic Partnerships](/place/regional-economies/)
 * [Business Improvement Districts](/place/business-improvement-districts/)
+* [Clyde Mission](/place/clyde-mission/)
 * [Planning](/place/planning/)
 * [Regeneration](/place/regeneration/)
 * [Marine and Coastal Economies](/place/marine-and-coastal/)

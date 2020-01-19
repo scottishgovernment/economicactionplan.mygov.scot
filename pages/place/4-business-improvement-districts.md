@@ -6,8 +6,8 @@ summary: "Building stronger local partnerships to achieve greater impact"
 index: 4
 parent: place
 permalink: /place/business-improvement-districts/
-next: { title: "Planning", url: "/place/planning/" }
 prev: { title: "Regional Economies and Economic Partnerships", url: "/place/regional-economies/" }
+next: { title: "Clyde Mission", url: "/place/clyde-mission/" }
 ---
 ***Building stronger local partnerships to achieve greater impact***
 
