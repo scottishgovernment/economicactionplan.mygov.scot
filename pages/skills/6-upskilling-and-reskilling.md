@@ -12,29 +12,28 @@ prev: { title: "Training", url: "/skills/training/" }
 
 ## Key points:
 
-* A Future Skills Action Plan to be published in early 2019
-* Delivering a Climate Emergency Skills Action Plan
+* Scotland’s Future Skills Action Plan was  published in 2019
+* We are developing a Global climate emergency Skills Action Plan
 * Establishing a National Retraining Partnership
-* A third year of the Flexible Workforce Development
+* A third year of the Flexible Workforce Development, and increasing its funding in 2020/21 
 * Creating a food and drink academy
+
 
 We will take forward and deliver the commitments in our Future Skills Action Plan, which was published on 3 September 2019, and make Scotland's skills system more and responsive, including increasing our investment in Scotland's workforce by an additional £10m in 20/21. This will recognise the increasing importance of upskilling and reskilling our existing workforce, in line with the opportunities for future economic growth that technological advance and economic change will present. The Plan will also include a more responsive and resilient funding model for work-based learning and the upskilling/retraining agenda, developed in partnership with the SFC and SDS.  
 
-Our Climate Emergency Skills Action Plan will set out a framework for skills investment. It will detail how we and other public bodies will work with our agencies and industry to create a supportive and collaborative business environment for research and innovation in new low carbon industries. This will enable us to help people gain the new skills required in areas such as oil and gas decommissioning and offshore wind energy, as well as in the construction and energy efficiencies of our buildings and manufacturing and the decarbonisation of our transport system.  
+Our Global climate emergency Skills Action Plan will set out a framework for skills investment. It will detail how we and other public bodies will work with our agencies and industry to create a supportive and collaborative business environment for research and innovation in new low carbon industries. This will enable us to help people gain the new skills required in areas such as oil and gas decommissioning and offshore wind energy, as well as in the construction and energy efficiencies of our buildings and manufacturing and the decarbonisation of our transport system.  
 
 <br>
 ![All of the net increase in employment between 2007 and 2018 has been categorised as medium-high or highly-skilled](/assets/images/infographics/Skills.6.jpg)
 <br><br>
 
-Recognising the need to support the population of rural areas, we will also publish and implement a rural skills action plan that will seek to ensure that national frameworks are available across rural Scotland.  We will extend the Ringlink pre-apprenticeship programme to 4 other parts of rural Scotland over the next 3 years on a pilot basis.  
+Recognising the need to support the population of rural areas, we have  published a rural skills action plan that seeks to ensure that national frameworks are available across rural Scotland.  We will extend the Ringlink pre-apprenticeship programme to 4 other parts of rural Scotland over the next 3 years on a pilot basis.  
 
 We will create a Food and Drink Academy to support approximately 20 businesses with high growth potential. It will provide targeted support and advice offering a large cross-sector products to fast track growth. We will launch a new food and drink ecommerce platform for Scottish suppliers to showcase and sell their products in international markets.  
 
-We will also establish a National Retraining Partnership with employers, unions, colleges and universities and training bodies to identify the best collaborative way forward to help workers and businesses prepare for future changes by enabling the workforce to upskill and/or retrain where necessary. This is an example of how we will use partnership to create space for employers, unions and other stakeholders to come together to respond collectively to economic challenges.  
+We will also take forward  a National Retraining Partnership with employers, unions, colleges and universities and training bodies to identify the best collaborative way forward to help workers and businesses prepare for future changes by enabling the workforce to upskill and/or retrain where necessary. This is an example of how we will use partnership to create space for employers, unions and other stakeholders to come together to respond collectively to economic challenges.  
 
-In addition we will continue to provide opportunities for the existing workforce through a range of programmes including the Flexible Workforce Development Fund (increasing the cap from £10,000 to £15,000), Individual Training Accounts and the Scottish Union Learning Fund.  
-
-In 2016, we launched a 3-year, £12 million Transition Training Fund (TTF) to support individuals and help the sector retain talent.   The Fund closed to new applicants on 31 March 2019.  However the latest figures show that over 4000 people have been supported through the fund surpassing the initial aim of supporting over 1,000 participants each year.  
+In addition we will continue to provide opportunities for the existing workforce through a range of programmes including the Flexible Workforce Development Fund, Individual Training Accounts and the Scottish Union Learning Fund.  
 
 <div class="case-study" markdown="1">
 
