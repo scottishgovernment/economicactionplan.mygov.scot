@@ -14,17 +14,17 @@ next: { title: "Tourism", url: "/international/tourism/" }
 ## Key points:
 
 * Deliver a Stay in Scotland campaign to provide information, advice and support to EU citizens
-* Continue to argue for powers over migration to be devolved to the Scottish Parliament
+* Continue to argue for powers over migration policy to be devolved to the Scottish Parliament
 * Established a Ministerial Task Force to address our population concerns and work with local government and partners to harness opportunities for change.
 
 Scotland has distinct needs based on our historical legacy of out migration and the geography of our rural and island communities. We need a tailored migration policy which will meet the needs of our economy, our universities and colleges, our public services and our communities.  
 
-We will continue to argue for powers over migration for Scotland to be devolved to the Scottish Parliament. Migration is vital to our economic, demographic and cultural needs and we need the ability to attract people with the skills and expertise to enable our economy to grow.  
+We will continue to argue for powers over migration policy for Scotland to be devolved to the Scottish Parliament. Migration is vital to our economic, demographic and cultural needs and we need the ability to attract people with the skills and expertise to enable our economy to grow.  Following extensive consultation with employers and stakeholders over the past two years, we will shortly publish a further paper on a tailored migration policy for Scotland.  
 
 We have established a new Ministerial Task Force to address our population concerns by intensifying good work where it is already happening and harnessing more opportunities for change. We will work to attract people and families from the rest of the UK to relocate here. We recognise that moving to, and settling in, a new country can be challenging and we will develop and launch a Welcome to Scotland resource to help and assist people who have chosen to make Scotland their home.  
 
-EU citizens across Scotland are playing a crucial role in delivering public services and supporting key sectors of our economy. However, since the vote to leave the EU in June 2016 EU citizens have faced great uncertainty and anxiety about their future. The Scottish Government is clear that that we value EU citizens and we want them to stay in Scotland. We have therefore launched the Stay in Scotland campaign to raise awareness of the EU Settlement Scheme and to provide practical information and direct support to help EU citizens.  The campaign includes a toolkit and guide for individuals and employers as well as community based support.  
-
+EU citizens across Scotland are playing a crucial role in delivering public services, in contributing to our university research, and in supporting key sectors of our economy. However, since the vote to leave the EU in June 2016 EU citizens have faced great uncertainty and anxiety about their future. The Scottish Government is clear that that we value EU citizens and we want them to stay in Scotland. We have therefore launched the Stay in Scotland campaign to raise awareness of the EU Settlement Scheme and to provide practical information and direct support to help EU citizens. The campaign includes a toolkit and guide for individuals and employers as well as community based support.   
+  
 ## Key resources:
 
 **[One Scotland: #WeAreScotland](https://onescotland.org/campaigns/we-are-scotland/)**  
