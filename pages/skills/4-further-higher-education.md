@@ -6,7 +6,7 @@ summary: "Investing in a world class education system"
 index: 3
 parent: skills
 permalink: /skills/further-higher-education/
-prev: { title: "Employment Support", url: "/skills/employment-support/" }
+prev: { title: "School education", url: "/skills/school-education/" }
 next: { title: "Training", url: "/skills/training/" }
 ---
 ***Investing in a world class education system***
@@ -26,7 +26,10 @@ We have invested over £1 billion every year since 2012-13 in our universities. 
 We are providing funding of over £600m in 2019-20 to colleges to enable tens of thousands of young and adult learners to obtain recognised vocational qualifications each year, increasing routes to work and higher level study.  
 
 Following the independent review of further and higher education student support, we have committed additional investment of £21 million per year by the end of this parliamentary term for improvements to student support. We also provide Education Maintenance Allowances (EMAs) to young people from low income families to help them stay on in post-16 education either at school or college.  
+
 We published our STEM Education and Training Strategy in October 2017, including making the achievement of a wider range of STEM skills in our young people a priority.  We are prioritising STEM subjects in our colleges and universities and higher level apprenticeships.  
+
+Our ambition is for colleges to provide Scotland with an adaptive, engaged and professionalised workforce, by focusing on developing good practice, co-ordination and partnership working across the whole education system. In responding to Scotland’s future skills needs, we recognise the importance of a college sector well placed to foster international links in support of Scotland’s national and regional skills priorities. This means supporting a sector to develop the expertise, capacity and reach to attract overseas learners to Scotland. And as part of effective business engagement, enabling colleges to partner with inward investors in Scotland to ensure we meet the skills demands of those businesses. It also means an environment where the college sector is supported to be (and which is seen to be) a world leader in skills. Working with the sector it will be important that we promote the export and knowledge exchange potential of our colleges and continue to identify how the capacity and potential for ‘college-business’ innovation can be fully realised.  
 
 We will accelerate the pace of implementation of the recommendations of the Learner Journey review to ensure the swifter alignment of the education and skills system, to better deliver on improved learner choice and greater system efficiency.  
 

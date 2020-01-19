@@ -17,14 +17,14 @@ next: { title: "Up-skilling and Re-skilling", url: "/skills/upskilling-and-reski
 
 ## Key points:
 
-* Investing £193 million in Skills Development Scotland
+* Investing £214 million in Skills Development Scotland
 * 30,000 Apprenticeships by 2020, developing the Apprenticeship pathway through Foundation, Modern, and Graduate Apprenticeships.
 
-We are investing £193 million in Skills Development Scotland in 2018/19 to deliver interventions including Modern Apprenticeships, Foundation Apprenticeships, Graduate Apprenticeships, pre-employment training and careers services, and to play a central role in the implementation of Developing the Young Workforce (DYW).  
+We are investing £214 million in Skills Development Scotland in 2019/20 to deliver interventions including Modern Apprenticeships, Foundation Apprenticeships, Graduate Apprenticeships, pre-employment training and careers services, and to play a central role in the implementation of Developing the Young Workforce (DYW).  
 
 As part of this investment, to ensure Scotland’s labour market is equipped with the skills required we will continue to improve opportunities for apprenticeships, delivering 30,000 Apprenticeships by 2020. This will include developing the Apprenticeship pathway through Foundation, Modern, and Graduate Apprenticeships.  
 
-We will expand the number of Foundation Apprenticeships, helping to equip more young people at school with industry recognised qualifications, skills, and the practical experience that industry demands, both now and in the future.  We will also continue to develop our Graduate Apprenticeship programmes, offering the opportunity to blend academic learning with practical experience, supporting the in-work development of graduates with the skills that employers require.  
+We will expand the number and range of Foundation Apprenticeships, helping to equip more young people at school with industry recognised qualifications, skills, and the practical experience that industry demands, both now and in the future.  We will also continue to develop our Graduate Apprenticeship programmes, offering the opportunity to blend academic learning with practical experience, supporting the in-work development of graduates with the skills that employers require.  
 
 <div class="case-study" markdown="1">
 
