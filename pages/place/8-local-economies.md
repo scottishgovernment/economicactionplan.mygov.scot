@@ -32,7 +32,7 @@ We are supporting communities to become more resilient and sustainable through t
 
 Phase two of [Scotland’s food and drink industry export plan](https://news.gov.scot/news/food-and-drink-exports) was launched in June 2019. We also launched a Regional Food Fund of £250k to support growth in Scotland’s local/regional food and drink sector to double the amount that visitors spend on food and drink.  
 
-We have provided support for the CAN DO Places initiative, which supports the creation of co-working spaces that benefit communities, amounting to £150,000 from 2016 to 2017.  
+We have provided support for the CAN DO Places initiative, which supports the creation of co-working spaces that benefit communities.  
 
 We have provided over £750 million of support to over 10,000 individual projects across Scotland through the Scottish Rural Development Programme, including over 240 LEADER projects to encourage communities and individuals to develop projects to meet local needs.  
 

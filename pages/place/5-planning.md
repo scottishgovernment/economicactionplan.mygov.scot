@@ -6,8 +6,8 @@ summary: "Planning policy to support sustainable and inclusive growth across all
 index: 5
 parent: place
 permalink: /place/planning/
+prev: { title: "Clyde Mission", url: "/place/clyde-mission/" }
 next: { title: "Regeneration", url: "/place/regeneration/" }
-prev: { title: "Business Improvement Districts", url: "/place/business-improvement-districts/" }
 ---
 ***Planning policy to support sustainable and inclusive growth across all of our regions***
 
