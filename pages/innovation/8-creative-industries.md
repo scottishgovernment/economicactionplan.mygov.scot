@@ -1,15 +1,15 @@
 ---
 layout: default
-title:  "Creative Industries"
+title:  "Technology and Creative Industries"
 category: innovation
 summary: "Creative industries include screen, digital tech, design and computer games – some of the most dynamic and vibrant sectors of our modern economy"
 index: 8
 parent: innovation
-permalink: /innovation/creative-industries/
+permalink: /innovation/technology-creative-industries/
 prev: { title: "Data Driven Innovation and Cyber Resilience", url: "/innovation/data-driven/" }
 next: { title: "Circular Economy and Green Innovation", url: "/innovation/circular-economy/" }
 ---
-***Creative industries include screen, digital tech, design and computer games – some of the most dynamic and vibrant sectors of our modern economy***
+***Industries like screen, digital tech, design and computer games are some of the most dynamic and vibrant sectors of our modern economy***
 
 ![A photograph of a student interacting with gaming technology on a big screen](/assets/images/pageimages/Innovation.24.jpg)
 
@@ -31,11 +31,7 @@ We will provide £1 million towards PLACE (Platforms for Creative Excellence) pa
 Scottish Government has significantly increased funding in 2018-19 for screen production, development and growth, doubling the screen budget to £20 million. New increased funds to support film and television production have been rolled out this year with a larger Production Growth Fund to attract inward investment and a new television Broadcast Content Fund for television.  
 
 We are providing £475,000 to support the National Film and Television School to set up a base in Scotland that will help people in the screen sector move up the career ladder and employers to address skills gaps.  
-
-We will work with creative businesses to identify where there are challenges and opportunities, including in public procurement, and where they need support. We will bring together creative industries and the public sector to share experience, with the aim of promoting growth in the creative and cultural economy.  
-
-As part of our ‘Can Do’ approach we will harness the energy and capacity of the creative industries to support our ambition to become the most entrepreneurial nation in the world and, in turn, ensure our approach to enterprise and business support and the wider entrepreneurial ecosystem support the particular needs of the creative industries.  
-
+  
 <div class="case-study" markdown="1">
 
 ## *case study:*{:.hidden}

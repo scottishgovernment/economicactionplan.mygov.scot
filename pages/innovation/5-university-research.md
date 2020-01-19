@@ -29,6 +29,8 @@ We are committed to enabling our colleges and universities to play an active rol
 
 We also work with the SFC to fund a range of activities aimed at boosting business links with colleges: this includes the recently launched £500k College Innovation Fund, which will see innovation centres and colleges working collaboratively to demonstrate a new approach to skills training.  It will also invest in a pioneering College Innovation Accelerator Fund and provide further support for the College Innovation Voucher Scheme.  
 
+And  we will also be considering the recommendations from both the Muscatelli and Cumberford-Little Reports in detail and responding over the coming year. (See earlier section on Innovation.)  
+
 <div class="case-study" markdown="1">
 
 ## *case study:*{:.hidden} University team develops innovative device to improve cancer diagnosis and treatment

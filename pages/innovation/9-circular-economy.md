@@ -6,7 +6,7 @@ summary: "Delivering economic opportunities and environmental benefits through r
 index: 9
 parent: innovation
 permalink: /innovation/circular-economy/
-prev: { title: "Creative Industries", url: "/innovation/creative-industries/" }
+prev: { title: "Technology and Creative Industries", url: "/innovation/technology-creative-industries/" }
 ---
 ***Delivering economic opportunities and environmental benefits through resource efficiency***
 
@@ -35,6 +35,25 @@ We will work with the Scottish National Investment Bank to explore how we can su
 Hydrogen technologies are key to our ambitions for decarbonising transport and offer us the opportunity to be at the forefront of global innovation.  Scotland has a good reputation as an early adopter and innovation leader in hydrogen initiatives, hosting some of Europe's major demonstration projects. To accelerate this, we will undertake a hydrogen assessment project. Working with stakeholders, we will look at the use of hydrogen across various applications as well as the resources, capabilities and skills needed to implement them. We will also explore the regulatory levers and barriers to hydrogen production. Following this we will publish an action plan for the development of a hydrogen economy in the coming year.  
 
 With 80% of the offshore resource across the world in deeper water, floating offshore wind offers unprecedented opportunity in both renewable generation and economic and supply chain development.  The world’s first floating offshore wind farm, Hywind, is operational in Scotland, and we are committed to the development of commercial-scale floating wind here.  We are working with the Carbon Trust and providing £1,000,000 of funding for the Floating Wind Acceleration Competition, which we expect will support between four and 10 projects covering four specific challenges in deploying large-scale floating offshore wind.  
+</div>
+
+<div class="case-study" markdown="1">
+
+## *case study:*{:.hidden}
+
+The UK’s most northerly mainland distillery, Dunnet Bay in Caithness, is offering its Rock Rose Gin in fully recyclable pouches, an innovation which is the first of its kind in the UK.  
+
+Once empty, customers can return the pouches via freepost back to the distillery, where they are collected by innovative recycling company, TerraCycle, and recycled into new items.  
+
+The green innovation was developed by Dunnet Bay Distillers in partnership with global innovation and transformation consultancy PA Consulting, with support from Highlands and Islands Enterprise.  
+
+Following over 12 months of research and development, PA created a lightweight refill solution for customers to use to refill their current bottles. The four-layer laminate pouch was designed to lock in all the freshness of the gin, with an easy-to-use plastic spout closure.  
+
+The sustainable packaging can be both delivered and returned through a letterbox, weighs 65 grams rather than 700 grams for a bottle, and significantly reduces the energy spent in shipping Rock Rose Gin to customers. The distillery hopes to have a fully biodegradable refill by 2025.  
+
+The launch is the latest in a raft of green initiatives from the distillery. It’s already part-powered via solar panels and has ambitions to be a net producer of electricity by the end of 2020.  
+
+Martin Murray, co-founder of Dunnet Bay Distillers, said: “We take sustainability incredibly seriously and have been working hard on our first-to-market recyclable pouches. In the near future we plan to extend the scheme to bars, restaurants and shops, as well as making it available across all the spirits in our portfolio.”  
 </div>
 
 ## Key resources:
