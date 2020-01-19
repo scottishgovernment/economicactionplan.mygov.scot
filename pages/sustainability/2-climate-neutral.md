@@ -1,15 +1,15 @@
 ---
 layout: default
-title:  "Carbon Neutral Economy"
+title:  "Climate-neutral Economy"
 category: sustainability
-summary: "Leading the transition to a carbon neutral economy"
+summary: "Leading the transition to a climate-neutral economy"
 index: 2
 parent: sustainability
-permalink: /sustainability/carbon-neutral/
+permalink: /sustainability/climate-neutral-economy/
 next: { title: "Circular Economy and Green Innovation", url: "/sustainability/circular-economy/" }
 prev: { title: "Introduction", url: "/sustainability/sustainability-introduction" }
 ---
-***Leading the transition to a carbon neutral economy***
+***Leading the transition to a climate-neutral economy***
 
 ## Key points:
 
@@ -27,7 +27,7 @@ As announced in the Programme for Government we will deliver the Scottish Govern
 
 We will work with partners including Scottish Enterprise, Highlands and Islands Enterprise, the Scottish National Investment Bank, Scottish Futures Trust and the Scottish Environment Protection Agency to make a public call for projects in early 2020. We will also leverage private sector skills and expertise to originate and structure a pipeline of projects and promote it globally.  
 
-We have already allocated around £40 million to 16 low carbon capital projects through the Low Carbon Infrastructure Transition Programme. To progress our transition to a carbon neutral economy, we are providing support for renewable and local carbon infrastructure through our £20 million Energy Investment Fund and £60 million Low Carbon Innovation Fund.  
+We have already allocated around £40 million to 16 low carbon capital projects through the Low Carbon Infrastructure Transition Programme. To progress our transition to a climate-neutral economy, we are providing support for renewable and local carbon infrastructure through our £20 million Energy Investment Fund and £60 million Low Carbon Innovation Fund.  
 
 To maintain Scotland’s positioning as a world leader in wave and tidal energy technologies, our Wave Energy Scotland programme has been designed to drive forward the search for innovative solutions. The programme has already made £25 million available to support 60 innovative projects, maximising the economic benefit of design, manufacturing and export. Our flagship wave and tidal test facility, the European Marine Energy Centre (EMEC), has over a decade of real-sea experience. We will also continue to support the expansion of offshore wind by providing new guidance to industry on licensing and decommissioning, as well as providing a further £2 million this year to support innovation and to help reduce business costs.  
 
@@ -35,9 +35,9 @@ To maintain Scotland’s positioning as a world leader in wave and tidal energy 
 ![Scotland's wave energy programme is the world's largest and has supported 84 projects worth over £30 million](/assets/images/infographics/Sustainability.14.jpg)
 <br><br>
 
-Electricity & Gas Network businesses in Scotland, and their supply chain, will be key to realising our transition to a carbon neutral economy. We are working with these companies, as well as the wider sector and the regulator, to ensure these future plans are aligned to our vision for the sector.  
+Electricity & Gas Network businesses in Scotland, and their supply chain, will be key to realising our transition to a climate-neutral economy. We are working with these companies, as well as the wider sector and the regulator, to ensure these future plans are aligned to our vision for the sector.  
 
-We will also work with stakeholders to develop a Food and Drink Environmental Action Plan to strengthen the industry’s contribution to tackling climate change. As a first step, we will host a sustainability summit by the end of 2020 to identify priorities for action. This will create impetus for businesses and producers to play their part in responding to our climate emergency and give them the opportunity to share current good practice.  
+We will also work with stakeholders to develop a Food and Drink Environmental Action Plan to strengthen the industry’s contribution to tackling climate change. As a first step, we will host a sustainability summit by the end of 2020 to identify priorities for action. This will create impetus for businesses and producers to play their part in responding to our global climate emergency and give them the opportunity to share current good practice.  
 
 New homes and buildings are already built with high standards of energy efficiency but we need to take further action.  
 
