@@ -7,7 +7,7 @@ index: 7
 parent: innovation
 permalink: /innovation/data-driven/
 prev: { title: "Internationalising Research and Innovation Engagement", url: "/innovation/internationalising-research/" }
-next: { title: "Creative Industries", url: "/innovation/creative-industries/" }
+next: { title: "Technology and Creative Industries", url: "/innovation/technology-creative-industries/" }
 ---
 ***Harnessing the value of data for business and communities***
 

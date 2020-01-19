@@ -10,30 +10,36 @@ next: { title: "Driving Business Innovation", url: "/innovation/driving-business
 ---
 ***Supporting world-leading innovation and a dynamic digital economy***
 
-Innovation is about ideas that create jobs and wealth for the people of Scotland.  We want Scotland to be a leader in the technological and social innovations of the future.  That is why we are investing in industrial transformation, helping businesses to adopt digital technology, and promoting data driven innovation. We will continue to broker access for Scotland to global value chains through targeted innovation-led collaboration and partnerships with other international partners to tackle shared domestic and global challenges and also to leverage such collaborations as points of external investment and funding. We want this package of investment to deliver exciting opportunities for business and society, and to showcase Scotland as an innovative nation.  
+## Key points:
 
-We will continue to work with the public, private and university and college sectors to drive forward our Innovation Action Plan – taking action to support innovation across businesses, sectors and places; using public sector spend to catalyse innovation; and making best use of the research, knowledge and talent of our universities, research institutes and colleges to drive innovation and growth.  
+* Driving Innovation Action Plan
+* Muscatelli Report highlights substantial economic contribution of our Universities 
+* Cumberford-Little Report on the economic impact of Colleges due in February 2020
 
-At a meeting on 13 November 2018, Cabinet Secretary for Finance, Economy and Fair Work, Derek Mackay, commissioned Professor Sir Anton Muscatelli to take forward work on the economic contribution of universities in an independent capacity.  His final report, Driving Innovation - A National Mission, was published on 27 November 2019 and includes 22 recommendations which cover:
+Innovation is about ideas that create jobs and wealth for the people of Scotland.  We want Scotland to be a leader in the technological and social innovations of the future.  That is why we are investing in industrial transformation, helping businesses to adopt digital technology, and promoting data driven innovation. We will continue to broker access for Scotland to global value chains through targeted innovation-led collaboration and partnerships with other international partners to tackle shared domestic and global challenges.  We will also leverage such collaborations as points of external investment and funding. We want this package of investment to deliver exciting opportunities for business and society and showcase Scotland as an innovative nation.  
 
-* Aligning the higher education sector and other actors towards a collective ambition to make Scotland a world-leading innovative nation and setting clear priorities to achieve this ambition; 
+We will continue to work with the public, private and university and college sectors to drive forward our Innovation Action Plan.  Through this we will take action to support innovation across businesses, sectors and places.  We’ll use public sector spend to catalyse innovation and make best use of the research, knowledge and talent of our universities, research institutes and colleges to drive innovation and growth.  
+
+At a meeting on 13 November 2018, Cabinet Secretary for Finance, Economy and Fair Work, Derek Mackay, commissioned Professor Sir Anton Muscatelli in an independent capacity to take forward work on the economic contribution of universities.  His final report, Driving Innovation - A National Mission, was published on 27 November 2019 and includes 22 recommendations which cover:  
+
+* Aligning the higher education sector and other relevant stakeholders towards a collective ambition to make Scotland a world-leading innovative nation and setting clear priorities to achieve this ambition; 
 * Ensuring the sector is able to collaborate and coordinate in bidding for UK funding streams, and in knowledge exchange and innovation activities;
 * Using university alumni and international networks to support Scotland’s global ambitions;
 * Maximising the role and impact of Higher Education Institutions in their local and regional economies;
 * Optimising the offer universities give to industry and potential inward investors;
-* Breaking down barriers between industry and academia to incentivise the free movement of people and knowledge;
+* Breaking down barriers between industry and academia to incentivise the free movement of people and knowledge; and
 * Ensuring the long-run financial sustainability of university research and innovation activities.
 
-Economy Secretary Derek Mackay announced on 5 August 2019 a similar review of the economic impact of colleges, led by Edinburgh College Principal Audrey Cumberford and City of Glasgow College Principal Paul Little.  The final report is expected to be published in February 2020 and to consider the following:
+Economy Secretary Derek Mackay announced on 5 August 2019 a similar review of the economic impact of colleges, led by Edinburgh College Principal Audrey Cumberford and City of Glasgow College Principal Paul Little.  The final report is expected to be published in February 2020 and to will:
 
-* establish how colleges in Scotland currently impact on the economy through helping improve businesses’ performance and productivity (for example, though upskilling and reskilling);
-* consider their economic impact across a wider range Scottish Government priorities;
-* highlight examples of best practice in Scotland (and where possible, internationally);
-* make recommendations on how to realise untapped potential for creating sustained business growth, within college regions and beyond.  
+* Establish how colleges in Scotland currently impact on the economy through helping improve businesses’ performance and productivity (for example, though upskilling and reskilling);
+* Consider their economic impact across a wider range Scottish Government priorities;
+* Highlight examples of best practice in Scotland (and where possible, internationally); and
+* Make recommendations on how to realise untapped potential for creating sustained business growth, within college regions and beyond.  
 
 The report will reflect the likely operating environment of an increasingly diverse and inclusive workforce, and the need to improve both regional and metropolitan competitiveness.  
 
-We will be considering these recommendations in detail and responding over the coming year.  
+We will be considering these recommendations from both the Muscatelli and Cumberford-Little Reports in detail and responding over the coming year. 
 
 <div class="case-study" markdown="1">
 
@@ -58,5 +64,5 @@ Combined with our approach on skills, we will both lead the transition to a more
 * [Making Best Use of University and College Research, Knowledge and Talent](/innovation/university-research/)
 * [Internationalising Research and Innovation Engagement](/innovation/internationalising-research/)
 * [Data Driven Innovation and Cyber-Resilience](/innovation/data-driven/)
-* [Creative Industries](/innovation/creative-industries/)
+* [Technology and Creative Industries](/innovation/technology-creative-industries/)
 * [Circular Economy and Green Innovation](/innovation/circular-economy/)
