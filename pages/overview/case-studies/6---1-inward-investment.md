@@ -6,7 +6,7 @@ summary: "Ready for take-off with Spire Global"
 index: 6
 parent: case-studies
 permalink: /overview/case-studies/inward-investment/
-prev: {title: "Team Scotland approach to MPIM: world’s leading physical development & investment showcase", url: "/overview/case-studies/team-scotland-approach/" }
+prev: {title: "Team Scotland approach to MIPIM: world’s leading physical development & investment showcase", url: "/overview/case-studies/team-scotland-approach/" }
 next: {title: "High growth spin-out: Nantantis, life-sciences spin-out from Heriot Watt", url: "/overview/case-studies/high-growth-spin-out/" }
 ---
 ![A photograph of Spire Chief Executive and the First Minister](/assets/images/pageimages/Overview.47.jpg)  
