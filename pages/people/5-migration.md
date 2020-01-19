@@ -13,18 +13,21 @@ prev: { title: "Fair Work", url: "/people/fair-work" }
 
 ## Key points:
 
-* Push the UK Government to recognise the action that is needed to protect Scotland’s prosperity and wellbeing 
-* Build on the success of the ‘We are Scotland’ social media campaign
-* Bring forward an Electoral Franchise Bill
-* We will launch a ‘Come to Scotland campaign’ to attract talent and investment 
+* Push the UK Government to recognise the action that is needed to protect Scotland’s prosperity and wellbeing with a differentiated migration policy tailored to Scotland’s needs
 
-To attract talent to Scotland and grow our population (including as part of the repopulation of our rural areas) we need a migration system which reflects Scotland’s distinct needs. The recent report from the Migration Advisory Committee confirmed evidence from the Scottish Government about the positive impact of EEA nationals to our economy, our public services and our communities.  
+* Bring forward an Electoral Franchise Bill
+
+To attract talent to Scotland and grow our population (including as part of the repopulation of our rural areas) we need a migration policy which reflects Scotland’s distinct needs.  
 
 We will continue to push the UK Government to recognise the action that is needed to protect Scotland’s prosperity and wellbeing. Scottish Ministers should have the powers to tailor migration policy, within a UK framework to meet Scotland’s distinct needs.  
 
-We will now build on the success of the ‘We are Scotland’ social media campaign to launch a ‘Come to Scotland campaign’ to attract talent and investment.  
+We have established a Ministerial Population Task Force which will across Ministerial portfolios and with partner organisations to bring together all of the actions to address Scotland’s population challenge. The Task Force will intensify good work where it is happening and identify more opportunities for change.  
 
-In addition, we have brought forward the Scottish Elections (Franchise and Representation) Bill which if passed will give fair access to voting rights for all those who have a legal right to live in Scotland.  
+We will work to attract people and families from the rest of the UK to relocate here and work with universities and local authorities to encourage people to stay in Scotland and to move within Scotland to address regional skills gaps.  A multi-agency Talent Attraction and Retention Working Group has been established to drive this work forward.  The collaboration between the Scottish Government, the enterprise agencies, SDS, CoSLA and Brand Scotland will deliver projects and interventions that will give Scotland a competitive edge in terms of attracting, recruiting and retaining talent.  
+
+We will continue to deliver our Stay in Scotland campaign to provide practical information, and advice to support EU citizens and their family members to apply to the EU settlement Scheme.  
+
+In addition, we have brought forward the Scottish Elections (Franchise and Representation) Bill which if passed will give fair access to voting rights for all those who have a legal right to live in Scotland.   
 
 ## Key resources:
 

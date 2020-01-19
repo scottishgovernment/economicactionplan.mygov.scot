@@ -50,7 +50,7 @@ The Active Scotland Outcomes Framework sets out our ambitions for a more active 
 
 Adult social care in Scotland is facing significant challenges. These include rising demand and increasingly complex care needs. Our Programme for Government recognises that social care support is a key investment in Scotland’s people, society and economy. For thousands of people across Scotland, social care support is vital for being able to live independently and participate in the community. For many, that means being able to access volunteering, education and employment opportunities on the same basis as everyone else. Social services are also a significant employer in Scotland. They provide over 200,000 jobs, which is almost 8% of Scotland’s total workforce.  
 
-Adult social care alone is estimated to contribute £3.4 billion in terms of Gross Value Added (GVA) to the Scottish economy (this includes direct, indirect and induced impact).  
+Adult social care alone is estimated to contribute £3.4 billion in terms of Gross Value Added (GVA) to the Scottish economy (this includes direct, indirect and induced impact).<sup>1</sup>    
 
 In addition to the paid social care workforce, there are an estimated 700,000 to 800,000 people in Scotland doing unpaid care. Around 29,000 of these are under the age of 18. There are more people caring full time for relatives or friends than staff working in either social care or the NHS. Unpaid carers make a huge contribution to the people they care for, their communities and to Scotland. It is estimated that unpaid care in Scotland is estimated to be worth £10.8 billion a year – roughly equivalent of the cost of a second NHS.  
 
@@ -87,3 +87,5 @@ We recently also opened a Transition Fund which provides an additional £5 milli
 **[NHS Scotland](https://www.scot.nhs.uk/)**  
 
 **[Scottish Government: Digital Health Care Strategy](https://www.gov.scot/publications/scotlands-digital-health-care-strategy-enabling-connecting-empowering/)**  
+<br>
+<sup>1</sup> The Economic Value of the Adult Social Care sector – Scotland (Final report), June 2018. Accessed at [The Economic Value of the Adult Social Care sector - Scotland](https://data.sssc.uk.com/images/EconomicValue/The-economic-value-of-the-adult-social-care-sector---Scotland.pdf) on 21 November 2019.

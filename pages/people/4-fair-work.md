@@ -52,5 +52,3 @@ We are exploring options to develop support and advice for small, micro and Busi
 **[Scottish Government: Fair Work Practices in Procurement](https://www.gov.scot/publications/fair-work-practices-in-procurement-toolkit/)**  
 
 **[Scottish Government: Fair work and pay](https://www.gov.scot/policies/employment-support/fair-work-and-pay/)**
-
-**[Fair Work Action Plan](/fair-work/)**
