@@ -7,7 +7,7 @@ index: 4
 parent: case-studies
 permalink: /overview/case-studies/business-resilience-support/
 prev: {title: "Social enterprise: Positive Changes CIC, chocolate maker employing women ex-offenders", url: "/overview/case-studies/social-enterprise/" }
-next: {title: "Team Scotland approach to MPIM: world’s leading physical development & investment showcase", url: "/overview/case-studies/team-scotland-approach/" }
+next: {title: "Team Scotland approach to MIPIM: world’s leading physical development & investment showcase", url: "/overview/case-studies/team-scotland-approach/" }
 ---
 ***Arjowiggins management buy-out safeguards 450 jobs in Aberdeen***
 
