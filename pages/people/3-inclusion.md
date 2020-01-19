@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Labour Market Access and Inclusion"
+title:  "Labour market access and inclusion"
 category: people
 summary: "Ensuring support is in place to allow everyone to access work and training"
 index: 3
