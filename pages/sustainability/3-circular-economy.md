@@ -6,8 +6,8 @@ summary: "Delivering economic opportunities and environmental benefits through r
 index: 3
 parent: sustainability
 permalink: /sustainability/circular-economy/
+prev: { title: "Climate-neutral Economy", url: "/sustainability/climate-neutral-economy/" }
 next: { title: "Decarbonisation", url: "/sustainability/decarbonisation/" }
-prev: { title: "Carbon Neutral Economy", url: "/sustainability/carbon-neutral" }
 ---
 ***Delivering economic opportunities and environmental benefits through resource efficiency***
 

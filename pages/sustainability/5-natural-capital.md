@@ -58,5 +58,3 @@ We are continuing to invest in our green infrastructure to support tourism growt
 **[Forestry Commission: Grants](https://scotland.forestry.gov.uk/supporting/grants-and-regulations/forestry-grants)**  
 
 **[Scottish Environment Protection Agency (SEPA)](https://www.sepa.org.uk/)**
-
-**[Peatland Action Fund (SNH)](https://www.nature.scot/climate-change/taking-action/peatland-action)**
