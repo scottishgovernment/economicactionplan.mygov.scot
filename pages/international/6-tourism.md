@@ -21,7 +21,7 @@ prev: { title: "Migration", url: "/international/migration/" }
 
 Tourism makes a significant contribution to Scotland’s economy and international image. It is a significant employer in both rural and urban areas, making it important for our Inclusive Growth agenda.  
 
-We are delivering support for the four priorities set out in the industry-led Scottish Tourism Alliance (STA) “Tourism Scotland 2020” strategy, and sponsor Scotland’s national tourism organisation, VisitScotland, with a budget of more than £45 million a year.  
+We are delivering support for the four priorities set out in the industry-led Scottish Tourism Alliance (STA) “Tourism Scotland 2020” strategy, and sponsor Scotland’s national tourism organisation, VisitScotland.  
 
 In 2019 Scotland played host to the European Indoor Athletic Championships and the European Short Course Swimming Championships, as legacy events of the highly successful Glasgow 2018 European Championships. The Scottish Government’s investment also enabled Scotland to host the 2019 Solheim Cup at Gleneagles, where over 90,000 spectators attended the world’s biggest event in women’s golf.  
 
@@ -29,11 +29,11 @@ In 2020 Scottish Government funding will contribute to Scotland hosting 4 matche
 
 Through our mandatory Rural Rates Relief scheme and our small Business Bonus Scheme, we have helped a number of small rural hotels to cope with increasing business costs. We established the £6 million Rural Tourism Infrastructure Fund to provide investment in infrastructure to support sustainable growth in rural tourism across Scotland.  This has supported over 30 projects to date, with another £3 million in funding announced for 2020/21.  
 
-We are working with partners to promote the South of Scotland as a visitor destination.  We have provided Visit Scotland with £500k for a south of Scotland specific marketing campaign in 2018-19 and we have funded Forestry and Land Scotland to enable them to expand forest tourism opportunities. This includes development of mountain biking trails at Glentress as well as feasibility work on the remaining seven sites which will see investment through the Borderlands Growth Deal.  
+We are working with partners to promote the South of Scotland as a visitor destination.  We have provided Visit Scotland with £1m for a south of Scotland specific marketing campaign over 2018-19 and 2019-20 and we have funded Forestry and Land Scotland to enable them to expand forest tourism opportunities. This includes development of mountain biking trails at Glentress as well as feasibility work on the remaining seven sites which will see investment through the Borderlands Growth Deal.    
 
 We also supported destination development projects and organisations with in excess of £1m funding through Scottish Enterprise’s destination fund in 2018-19. This is alongside more than £3 million destination development support for Scotland’s biggest cities. We are providing £15m capital investment through the Inverness and Region City Deal to enable Inverness Castle and its environs to be turned into a visitor attraction of national importance by the mid-2020s for the economic and cultural benefit of the city and the wider Highlands.  
 
-We are also funding North Ayrshire Council with £400k in 2019-20 as it continues to develop the Coig and are continuing to support tourism infrastructure through our Growth Deals including £9.5m for investment in marine tourism through the Ayrshire Growth Deal and £31m for destination infrastructure through the Borderlands Growth deal.  To encourage tourists to visit more of our inhabited islands, we are also working with HITRANS in developing an Islands Passport for launch in 2020 the Year of Coasts and Waters.  
+We are also funding North Ayrshire Council with £1m over 2018-19 to 2020-21 as it continues to develop the Coig and are continuing to support tourism infrastructure through our Growth Deals including £9.5m for investment in marine tourism through the Ayrshire Growth Deal and £31m for destination infrastructure through the Borderlands Growth deal.  To encourage tourists to visit more of our inhabited islands, we are also working with HITRANS in developing an Islands Passport for launch in 2020 the Year of Coasts and Waters.  
 
 In Moray, we are progressing with the commitment to fund a replacement crossing for the Lossiemouth East Beach Bridge, restoring the only safe access to the beautiful sands, protecting jobs and businesses in the town into the bargain.  
 

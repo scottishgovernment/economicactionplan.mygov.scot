@@ -20,14 +20,14 @@ next: { title: "Migration", url: "/international/migration/" }
 * Our new Invest in Scotland Prospectus will target key markets and sectors with positive reasons to invest in Scotland
 * Extend the range and reach of our international network to support investment in Scotland  
 
-Our new Invest in Scotland Prospectus will build on Scotland’s outstanding record in attracting investment. Targeting key markets and sectors for Scotland, including digital and precision medicine, we will demonstrate the potential and advantages of locating in Scotland to international investors and companies. We will also align the global resources and expertise we have around investment with our Infrastructure Mission, to raise the profile of the high quality of capital investment opportunities available in Scotland.  
+Our new Invest in Scotland Prospectus will build on Scotland’s outstanding record in attracting investment. Targeting key markets and sectors for Scotland, including digital and precision medicine, we will demonstrate the potential and advantages of locating in Scotland to international investors and companies. We will also align the global resources and expertise we have around investment with our National Infrastructure Mission and Infrastructure Investment Plan, to raise the profile of the high quality of capital investment opportunities available in Scotland.  
 
-We will by summer 2020 put in place a four year Inward Investment Plan setting out how we will maximise the wider economic and social benefits of inward investment.  Taking the same evidence-based approach as we have to exporting, it will focus on attracting investment to the sectors where Scotland is currently world-class it will also build on emerging expertise and enabling technology to address major global challenges around ageing, climate change and wellbeing.  
+By summer 2020, we will have an Inward Investment Plan setting out how we will maximise the wider economic and social benefits of inward investment.  As with exporting, we will take an evidence-based approach to develop a plan with a focus on attracting investment to the sectors where Scotland is currently world-class. It will build on emerging expertise and enabling technology to address major global challenges around ageing, climate change and wellbeing.  
 
-We have received an overwhelmingly positive response to the first call for projects as part of our £3 billion Green Investment Portfolio, supporting our response to the climate emergency. We are in the process of reviewing these submissions, drawing on the skills of our partners including Scottish Enterprise, SEPA, the Scottish National Investment Bank and the Scottish Futures Trust, before taking the pipeline of investable projects to the market next year.  
+We have received an overwhelmingly positive response to the first call for projects as part of our £3 billion Green Investment Portfolio, supporting our response to the global climate emergency. In the first half of 2020, we will therefore be launching the first selection of these projects to the private capital investment market.  
 
 And we have continued to develop the range and reach of our international network, ensuring that trade and investment is central to its purpose, including opening a new office in Paris with an enhanced Scottish Development International (SDI) presence and enhancing our presence in Canada by opening an office in Ottawa in 2018.  
-
+  
 <div class="case-study" markdown="1">
 
 ## *case study:*{:.hidden} Ready for take-off with Spire Global
