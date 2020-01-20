@@ -6,17 +6,18 @@ summary: ""
 index: 40
 parent: the-3rs
 permalink: /overview/resilience-recovery-restructuring/developing-the-right-skills/
-prev: { title: "Transforming our support for business", url: "/overview/resilience-recovery-restructuring//transforming-our-support-for-business/" }
+prev: { title: "Transforming our support for business", url: "/overview/resilience-recovery-restructuring/transforming-our-support-for-business/" }
 next: { title: "Importance of every place in Scotland", url: "/overview/resilience-recovery-restructuring/importance-of-every-place-in-scotland/" }
 ---
 
 We will deliver better skills alignment between where we know there is demand for skills and the funded provision of skills to reduce gaps in critical areas and drive improvements in productivity and growth.  We know that skill shortages have impacts on: 
 
-- business performance through increased workloads for other staff
-- meeting customer services objectives
-- operating costs
-- ability to quickly develop new products and services
-- our ability to secure inward investment
+* business performance through increased workloads for other staff
+* meeting customer services objectives
+* operating costs
+* ability to quickly develop new products and services
+* our ability to secure inward investment
+* our ability to innovate and make best use of data and technology
 
 Our commitment to a Just Transition commission to meet our net-zero targets is hugely reliant on us developing the right skills in order to be able to do this, now and in the future.  
 

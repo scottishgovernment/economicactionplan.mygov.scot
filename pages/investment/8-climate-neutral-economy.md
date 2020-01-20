@@ -27,7 +27,9 @@ By 2030 the equivalent of 50% of the energy for Scotland’s heat, transport and
 
 We have already allocated around £40 million to 16 low carbon capital projects through the Low Carbon Infrastructure Transition Programme. To progress our transition to a climate-neutral economy, we are providing support for renewable and local carbon infrastructure through our £20 million Energy Investment Fund and £60 million Low Carbon Innovation Fund.  It offers flexible investment and debt funding, on a commercial basis, for energy projects that facilitate, catalyse and accelerate Scotland's transition to net zero carbon emissions.  
 
-The Scottish Government’s Low Carbon Infrastructure Transition programme (LCITP) launched the Scottish Low Carbon Heat Funding Invitation for minimum of value of £30 million in September 2019.  
+Scotland’s buildings – both residential and commercial – will be decarbonised in line with our net zero target. This will mean a significant up-scaling of deployment of renewable and low carbon heating as well as the development of heat networks. We will set out our policy prospectus in the Heat Decarbonisation Policy Statement in the summer.   
+
+We are already investing in renewable and low carbon heat, for example through the Scottish Government’s Low Carbon Infrastructure Transition programme (LCITP), under which we  launched the Scottish Low Carbon Heat Funding Invitation for minimum of value of £30 million in September 2019.  
 
 This fair and open funding invitation has been designed to accelerate the delivery of large scale and innovative low carbon heat infrastructure projects that support the ambitions for Scotland to achieve net zero emissions by 2045.  
 
@@ -46,6 +48,8 @@ Our continued support for oil and gas exploration and production in the North Se
 Reducing emissions from the extraction of offshore oil and gas will make a significant contribution to tackling global climate change, particularly if technologies applied in the North Sea can be exported and deployed in other countries.  
 
 To drive this change, we will support in principle the Oil and Gas Technology Centre’s plans to establish a new Net Zero Solution Centre. This will enable the North Sea to become the first net zero hydrocarbon basin in the world. This centre will support the development and deployment of carbon capture, utilisation and storage, hydrogen and renewables technologies that can be integrated with existing offshore oil and gas infrastructure.  
+
+In all of our activities, we will ensure to make best use of the world-renowned expertise, skills and facilities available in Scotland’s universities, colleges, research institutes, Centres of Expertise, and innovation centres.  
   
 ## Key resources:
 

@@ -33,7 +33,7 @@ To improve cash flow for sub-contractors who are critical in the delivery of inf
 
 Three out of four suppliers awarded contracts in Scotland in 2017-18 were SMEs with 60 pence of every pound spent with a Scottish supplier going to an SME. From April 2018 to March 2019, in addition to enabling SME spend across Scotland through our national contracts, the Scottish government’s direct spend with SMEs increased by 15%; many more Scottish businesses indirectly benefitting within public procurement supply-chains. Our work to extend these benefits to more small businesses and local supply chains continues:  
 
-- We will ensure that the [‘Find Business Support’ website](https://www.findbusinesssupport.gov.scot/)  for businesses being developed by Scottish Enterprise, provides links to procurement sources of information and support such as Public Contracts Scotland, the Supplier Journey and Supplier Development Programme;
+- We will ensure that the [‘Find Business Support’](https://www.findbusinesssupport.gov.scot/) website for businesses being developed by Scottish Enterprise, provides links to procurement sources of information and support such as Public Contracts Scotland, the Supplier Journey and Supplier Development Programme;
 - Having issued a Scottish Public Procurement Notice in May 2019 to promote the use of Public Contracts Scotland to facilitate access to sub-contract opportunities in major contracts for Scottish SMEs, we continue to promote the reporting of sub-contracted spend; and
 - We continue to fund and support the Supplier Development Programme, helping local supply chains to maximise contracting and sub-contracting opportunities.
 

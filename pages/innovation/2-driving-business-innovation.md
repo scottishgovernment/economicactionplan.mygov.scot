@@ -19,7 +19,9 @@ next: { title: "Innovative Sectors and Places", url: "/innovation/sectors-and-pl
 
 We have set an ambitious target of doubling Scotland’s business expenditure on research and development (R&D) from £875m in 2015 to £1.7bn by 2025.  To assist with this, we are providing over £110m in grant support for business R&D over the next 3 years by increasing grant support for R&D from £22m to £37m per annum. Significant progress is already being made – business expenditure on R&D in 2018 was £1.242bn.  Businesses in Scotland employed around 14,000 R&D staff in 2018, up from around 13,000 in 2017 – which takes BERD jobs in Scotland to their highest level in the series. 
 
-In addition we are committing up to £750,000 until 2020 to support the Rural Innovation Support Service to broker collaborative innovation specifically in the food and drink supply chain.
+In addition we are committing up to £750,000 until 2020 to support the Rural Innovation Support Service to broker collaborative innovation specifically in the food and drink supply chain.  
+
+Business R&D in Scotland is closely linked to the world-leading R&D taking place in our universities. We will continue to support university research activities in Scotland, and related interactions with businesses, through SFC.  
 
 <div class="case-study" markdown="1">
 
@@ -78,3 +80,5 @@ Lastly, our new Research Data Scotland service will launch in Spring 2020. It wi
 **[Fair Work Convention](http:s//www.fairworkconvention.scot/)**
 
 **[Productivity Club Scotland](https://www.productivity.scot/)**
+
+**[Science and research - University research](https://www.gov.scot/policies/science-and-research/university-research/)**

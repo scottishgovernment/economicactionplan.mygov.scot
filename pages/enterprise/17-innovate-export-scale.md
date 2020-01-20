@@ -16,13 +16,17 @@ We will continue to help small businesses connect to academia and tap into the l
 
 Our investment in Innovation Centres allows small businesses to capitalise on newly-identified opportunities or improve existing ideas in high-value sectors. Further support will also be available with the creation of the National Manufacturing Institute for Scotland which will create a centre of know-how and shared resources which small businesses will be able to access.  
 
+And we’re funding Scottish universities through the University Innovation Fund to reach out to businesses and increase the impact of academic research.  
+
 **Opportunities to Innovate**  
 By actively encouraging small businesses to solve public sector challenges, we are helping them bring new ideas to life with the CAN DO Innovation Challenge Fund. CivTech® is partly funded from this and is the world’s first cross-public sector tech accelerator, providing the opportunity to propose and develop solutions to specific problems. Public and private sector opportunities can also be accessed through Open Innovation Challenges.  
 
 **Digital Support**  
 We are working closely with partners to equip small businesses with the technology to thrive in the modern digital economy. The national DigitalBoost programme, delivered by Business Gateway will continue to provide digital skills-focused advice and support.  
 
-The Digital Development Loan, the first investment of the £36 million Digital Growth Fund, builds on this by offering interest free loans of between £5,000 and £50,000 to help SMEs invest in digital capabilities, processes, skills and capacity.  
+The Digital Development Loan, the first investment of the £36 million Digital Growth Fund, builds on this by offering interest free loans of between £5,000 and £100,000 to help SMEs invest in digital capabilities, processes, skills and capacity.  
+
+A further investment of £500k has been made by HIE towards continued support for up to 2,500 businesses through a Digital Technology and Innovation programme from 2020 – 2024.  In addition, a Data Lab Hub has been established in Inverness to serve the region with a focus on collaborative innovation projects, data skills and talent development and community building.  
 
 Other support comes through the Digital Excellence Centre in Inverness, #HelloDigital, designed to raise awareness of the benefits of digital technology and work led by Highlands and Islands Enterprise to roll out next generation broadband across the region.  They offer a diverse range of targeted programmes related to tourism and cyber resilience.  
 
@@ -51,6 +55,8 @@ Along with our visitor economy agencies, we supported Digital Tourism Scotland, 
 ## Key resources:
 
 **[Knowledge Transfer Partnerships](https://ktp.innovateuk.org/)**
+
+**[Interface](https://www.interface-online.org.uk/)**
 
 **[Innovation Centres](https://www.innovationcentres.scot/)**
 

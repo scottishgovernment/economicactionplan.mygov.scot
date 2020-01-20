@@ -7,7 +7,7 @@ index: 5
 parent: sustainability
 permalink: /sustainability/natural-capital/
 next: { title: "Ultra-Low Emission Vehicles", url: "/sustainability/ultra-low-emission-vehicles/" }
-prev: { title: "Decarbonisation", url: "/sustainability/decarbonisation/" }
+prev: { title: "Circular Economy and Green Innovation", url: "/sustainability/circular-economy/" }
 ---
 ***Protecting and enhancing Scotland’s natural assets***
 

@@ -21,7 +21,7 @@ There is a greater proportion of microenterprises in rural Scotland than anywher
 <br>
 ![32% jobs in rural areas are in micro-businesses with fewer than 10 employees](/assets/images/infographics/Overview.13.jpg)<br><br>
 
-We are delivering enterprise support through GrowBiz, LEADER, Highlands and Islands Enterprise and Scottish Enterprise to nearly 1,500 community based and/or micro enterprise projects operating in the rural economy.  
+We are delivering enterprise support through GrowBiz, LEADER, Highlands and Islands Enterprise and Scottish Enterprise to nearly 1,500 community based and/or micro enterprise projects operating in the rural economy. In addition, we continue to provide support for linking small businesses to knowledge, facilities and expertise in our universities, colleges, innovation centres and research institutes through [Interface](https://www.interface-online.org.uk/) and our innovation voucher schemes.   
 
 ## Key resources:
 
@@ -30,3 +30,5 @@ We are delivering enterprise support through GrowBiz, LEADER, Highlands and Isla
 **[LEADER](https://www.gov.scot/Topics/farmingrural/SRDP/LEADER/)**  
 
 **[Highlands and Islands Enterprise](http://www.hie.co.uk/)**
+
+**[Interface](https://www.interface-online.org.uk/)**

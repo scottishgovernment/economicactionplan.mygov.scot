@@ -21,5 +21,3 @@ Scotland is one of the best places to live in the world.  And we want to do more
 * [Fair Work](/people/fair-work/)
 * [Migration](/people/migration/)
 * [A Healthy Population](/people/healthy-population/)
-* [Boost to parental employment programmes](/people/boost-parental-employment-programmes/)
-* [Gender pay gap](/people/gender-pay-gap/)

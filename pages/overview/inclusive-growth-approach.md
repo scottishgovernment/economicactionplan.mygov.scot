@@ -24,7 +24,7 @@ We are taking action in the following key areas to make sure we are getting the 
 - Investment: boosting private and public investment and delivering world-class infrastructure for a net-zero economy
 - Enterprise: streamlining business support and ensuring a competitive business environment
 - International: growing exports and international investment and attracting global talent
-- Innovation: supporting world-leading innovation and a dynamic digital economy
+- Innovation: supporting world-leading research and innovation and a dynamic digital economy
 - Skills: providing a highly skilled workforce through education, training and re-skilling
 - Place: supporting places to thrive throughout Scotland: in our regions, cities, towns and rural areas, including our islands
 - People: moving toward a world-leading working life where fair work drives success, wellbeing and prosperity for individuals, employers and society.

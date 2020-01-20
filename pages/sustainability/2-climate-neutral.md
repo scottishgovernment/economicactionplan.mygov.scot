@@ -49,6 +49,8 @@ Similarly, our ambition is to phase in renewable and low carbon heating systems 
 
 We will show leadership in the public sector, engaging with partners on a new Net Zero Carbon Standard for new public buildings.  
 
+We will continue to support the translation into practice of research outputs in this area from our universities and research institutes to ensure our approaches are based on the best available evidence and latest innovations.  
+
 ## Key resources:
 
 **[Scotland's Energy Strategy](https://www.gov.scot/energystrategy)**

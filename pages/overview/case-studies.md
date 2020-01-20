@@ -26,8 +26,7 @@ These include:
 - [Inward investment & place regeneration: Barclays development at Tradeston, Glasgow](/overview/case-studies/inward-investment-place-regeneration/)
 - [Business resilience support: Prepare for Brexit cross-agency response](/overview/case-studies/business-resilience-support-prepare-for-brexit/)
 - [Rural R&D support: Scottish Sea Farms, Highland based salmon farming business](/overview/case-studies/rural-rd-suport/)
-- Regeneration and inclusive growth – Clyde Gateway
-- Raising a Glass to a greener future – Dunnet Bay in Caithness
-- Can Do Innovation Challenge Fund – Perth and Kinross Council
+- [Raising a Glass to a greener future – Dunnet Bay in Caithness](/overview/case-studies/raising-glass-greener-future/)
+- [Can Do Innovation Challenge Fund – Perth and Kinross Council](/overview/case-studies/can-do-innovation-challenge-fund/)
 
 These feature throughout the plan.  

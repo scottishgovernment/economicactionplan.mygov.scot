@@ -7,7 +7,6 @@ index: 6
 parent: people
 permalink: /people/healthy-population/
 prev: { title: "Migration", url: "/people/migration/" }
-next: { title: "Boost to parental employment programmes", url: "/people/boost-parental-employment-programmes/" }
 ---
 ***Investing in our National Health Service and tackling health inequalities***
 
@@ -72,9 +71,9 @@ The priorities of the reform programme include:
 
 The workforce is central in taking forward the priorities of the reform programme. We are clear that attracting and retaining the right people, developing them in their roles and raising the status of the sector as a valued workforce is key to delivering this.  
 
-We have committed to working with national and local partners to take forward the recommendations set out in the Fair Work in Scotland’s Social Care Sector 2019 report, to improve fair work practices across the social care workforce.  
+We have committed to working with national and local partners to take forward the recommendations set out in the [Fair Work in Scotland’s Social Care Sector 2019](https://www.fairworkconvention.scot/scr/SCT02196524681.pdf) report, to improve fair work practices across the social care workforce.  
 
-We are also taking action under the National Health and Social Care Workforce Plan to address recruitment and retention issues and improve workforce planning in the sector. This includes a national campaign to promote recruitment to the sector which will launch early in 2020.  
+We are also taking action under the [National Health and Social Care Workforce Plan](https://www.gov.scot/publications/national-health-social-care-workforce-plan-part-2-framework-improving/) to address recruitment and retention issues and improve workforce planning in the sector. This includes a national campaign to promote recruitment to the sector which will launch early in 2020.  
 
 Supporting carers to stay in or enter work brings vital benefits to carers, employers and the economy. We are working to raise awareness amongst employers of issues facing staff who balance work and caring. We are funding and promoting the Carer Positive accreditation scheme to recognise those employers who put in place flexible and supportive working practices for people juggling work with unpaid care. There are now over 416,000 people across Scotland working for Carer Positive accredited organisations committed to helping their staff who are juggling work and caring.  
 

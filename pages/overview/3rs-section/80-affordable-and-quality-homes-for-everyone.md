@@ -18,8 +18,10 @@ Our record housing investment of £3.3 billion over this Parliament is the singl
 
 We will continue to attract private investment through innovative financing approaches to wider housing supply and infrastructure provision, and through partnerships with public, commercial and non-profit sectors that marry commercial aims with government policy objectives.   
 
-In addition to ensuring that there are more affordable homes to meet Scotland’s needs, we have ambitious but deliverable plans to end homelessness, eradicate fuel poverty and improve the safety and quality of all our houses.  By 2021 we will have allocated over £1 billion to energy efficiency improvements to existing homes, making them warmer and cheaper to heat.  
+In addition to ensuring that there are more affordable homes to meet Scotland’s needs, we have ambitious but deliverable plans to end homelessness, eradicate fuel poverty and improve the safety and quality of all our houses.  By 2021 we will have allocated over £1 billion to energy efficiency improvements to existing homes, making them warmer and cheaper to heat. We will set out our policy prospectus in the Heat Decarbonisation Policy Statement in the summer.  
 
+We continue to fund the Construction Scotland Innovation Centre to help Scottish businesses develop and implement greener building solutions.  
+ 
 We have committed to plan together with stakeholders for how our homes and communities should look and feel by in 2040, and the options and choices to the get there.  
 
 Now is the time to reimagine our housing system and we want to work together with the whole of Scotland to create a shared vision for 2040.  Housing is embedded in so much that we want to achieve.  It has a vital role to play in meeting many of our aspirations, including eradicating child poverty and homelessness, ending fuel poverty, tackling the global climate emergency and promoting inclusive growth.  We face a number of challenges which mean that business as usual is not an option.  We need to think open-mindedly about how to take this forward and nothing is off the table.  

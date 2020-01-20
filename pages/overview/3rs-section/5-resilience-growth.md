@@ -40,4 +40,3 @@ To ensure we build resilience, enable recovery and growth and restructure for th
 - [Building a global economy](/overview/resilience-recovery-restructuring/building-global-economy/)
 - [Scottish National Investment Bank](/overview/resilience-recovery-restructuring/scottish-national-investment-bank/)  
 - [Unlocking entrepreneurship](/overview/resilience-recovery-restructuring/unlocking-entrepreneurship/)
-- NO CONTENT [Maximising the impact of our colleges and universities]()

@@ -18,7 +18,7 @@ next: { title: "Internationalising Research and Innovation Engagement", url: "/i
 ## Key points:
 
 * Continuing to provide Scottish universities with funding via the Scottish Funding Council in support of excellent research and effective knowledge exchange between academia and businesses
-* Continuing to support Scotland’s programme of  Innovation Centres
+* Continuing to support interface and Scotland’s programme of  Innovation Centres
 * Continuing to support the College Innovation Fund to encourage translation of academic research and vocational skills into business innovation.
 
 The global strength and excellence of Scotland’s research base was made clear in last year’s Science Landscape report from the Scottish Science Advisory Council.  Scotland is in the top quartile of OECD countries for higher education expenditure on research and development (HERD) as a percentage of GDP, as well as having four universities in the world’s top 200 (Times Higher Education), more than any country per head of population except Switzerland. We want to ensure we maintain that position and that Scotland's research outputs translate into economic, social and environmental impacts in support of the aims of the National Performance Framework and the Sustainable Development Goals.  
@@ -48,16 +48,12 @@ Natantis’ principal investigator, Dr Maiwenn Kersaudy-Kerhoas, said: "The High
 
 ## Key resources:
 
-**[Scottish Funding Council: Innovation Centres](http://www.sfc.ac.uk/innovation/innovation-centres/innovation-centres.aspx/)**
+**[Innovation Centres](https://www.innovationcentres.scot/)**
+
+**[Interface](https://www.interface-online.org.uk/)**
 
 **[Scottish Funding Council: University Innovation Fund](http://www.sfc.ac.uk/funding/university-funding/university-funding-innovation/university-innovation-funding.aspx/)**
 
 **[Scottish Funding Council](http://www.sfc.ac.uk/)**
 
 **[Converge Challenge](https://www.convergechallenge.com/)**
-
-**[CENSIS: Innovation Centre for Sensor and Imaging Systems](https://censis.org.uk/)**
-
-**[IBioIC Innovation Centre](http://www.ibioic.com/)**
-
-**[The Data Lab](https://www.thedatalab.com/)**

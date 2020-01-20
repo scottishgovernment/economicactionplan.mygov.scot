@@ -37,7 +37,7 @@ We are also funding North Ayrshire Council with £1m over 2018-19 to 2020-21 as 
 
 In Moray, we are progressing with the commitment to fund a replacement crossing for the Lossiemouth East Beach Bridge, restoring the only safe access to the beautiful sands, protecting jobs and businesses in the town into the bargain.  
 
-HIE will also use the Northern Innovation Hub (£11.5m) part of the Inverness and Region  city deal to help develop the Highlands for adventure tourism, and encourage more tourism businesses to engage in international trade.  Digital city deal money (with HIE support) will be used for business development, skills and wi-fi open access.  
+HIE will also use the Northern Innovation Hub (£11.5m) part of the Inverness and Highland City-Region deal to help develop the Highlands for adventure tourism, and encourage more tourism businesses to engage in international trade.  Digital city deal money (with HIE support) will be used for business development, skills and wi-fi open access.  
 
 Along with our visitor economy agencies, we have continued to support Digital Tourism Scotland - a £1.2 million, 3 year public and private sector partnership project running until 2019 across Scotland, which will improve the digital skills and capabilities of tourism businesses.  
 

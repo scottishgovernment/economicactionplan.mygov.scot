@@ -21,7 +21,7 @@ Inclusive economic growth sits at the core of our economic policy approach to gr
 
 We also need to address the demographic challenges we face, which are likely to be exacerbated by EU Exit.  Attracting people with the skills that our employers need has never been more important.  Encouraging people to stay in and return to Scotland and to move within the country can help to address regional skills gaps.  
 
-We continue to support research and innovation.  We need to make sure we are supporting growth for the here and now, while restructuring our economy so we can take full advantage of future opportunities, such as the global move to climate-neutral technology and business practices.  Our excellent universities, research institutes and colleges play a continued role in supporting our businesses to achieve this through the provision of skills and innovation that increase the productivity of businesses.
+We continue to support research and innovation.  We need to make sure we are supporting growth for the here and now, while restructuring our economy so we can take full advantage of future opportunities, such as the global move to climate-neutral technology and business practices.  Our excellent universities, research institutes and colleges play a continued role in supporting our businesses to achieve this through the provision of new knowledge, skills and innovation that increase the productivity of businesses.
 
 All open economies, no matter how successful, are affected by global factors beyond their direct control. Scotland must deal with such challenges, but not be distracted by them.  We need to create quality jobs which can sustain a dynamic and modern, inclusive economy. 
 

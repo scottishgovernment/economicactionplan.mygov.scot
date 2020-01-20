@@ -22,5 +22,3 @@ We have also launched a pilot Digital Improvement District (DID) model, a BID de
 ## Key resources:
 
 **[Scottish Government: Business Improvement Districts](https://www.gov.scot/policies/regeneration/business-improvement-districts-bids/)**  
-
-**[Scotland's Improvement Districts](https://improvementdistricts.scot)**
