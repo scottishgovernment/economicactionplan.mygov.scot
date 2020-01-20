@@ -17,11 +17,11 @@ prev: { title: "Climate-neutral Economy", url: "/investment/climate-neutral-econ
 - Upscale opportunities across emerging hydrogen transport markets
 - Research and development of Connected and Autonomous Vehicles (CAV) or Driverless Cars
 
-We want Scotland to be at the forefront of growth in ultra-low emission vehicles (ULEV) markets, to ensure our business community and workforce benefit from the opportunities that new markets and technologies present.  
+We want Scotland to be at the forefront of growth in ultra-low emission vehicles (ULEV) markets, to ensure our business community and workforce benefit from the opportunities that new markets, knowledge and technologies present.  
 
 In addition to investing over £15 million to expand Scotland’s electric vehicle (EV) charging network (Charge Place Scotland), we will work with our stakeholders to support new commercial opportunities while delivering benefits to consumers and integrating EVs into our electricity networks.  
 
-We have established an Industry Advisory Group to explore and advise on the strategic interventions, collaborations and investments required to substantially grow Scotland’s zero emission transport  sector in the short to medium term.  In collaboration with our enterprise agencies, we will invest in emerging research and commercial opportunities, with a particular emphasis on testing and demonstration facilities and innovation at the interface between energy and mobility.  
+We have established an Industry Advisory Group to explore and advise on the strategic interventions, collaborations and investments required to substantially grow Scotland’s zero emission transport  sector in the short to medium term.  In collaboration with our enterprise agencies, we will invest in emerging research and commercial opportunities, with a particular emphasis on testing and demonstration facilities and innovation at the interface between energy and mobility, making best use the high-quality university research base in Scotland.    
 
 In collaboration with the energy network operators, we will support opportunities for data-driven innovation to influence and manage consumer energy demand and to improve network management.  To capitalise on Scotland’s internationally significant hydrogen projects and pilots, we will set in place a coordinated programme of work to upscale opportunities across emerging hydrogen transport markets.  
 

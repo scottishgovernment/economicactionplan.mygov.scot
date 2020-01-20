@@ -1,4 +1,4 @@
----
+--
 layout: default
 title:  "Boost to parental employment programmes"
 category: people
@@ -8,5 +8,5 @@ parent: people
 permalink: /people/boost-parental-employment-programmes/
 prev: { title: "Health population", url: "/people/healthy-population/" }
 next: { title: "Gender pay gap", url: "/people/gender-pay-gap/" }
----
+--
 Content TBC

@@ -22,9 +22,9 @@ We are investing £300 million in the Edinburgh City Deal which, with other part
 
 Our investment in The Data Lab and Censis will promote digitisation across our industries and help address the digital and data skills gap.  
 
-We will commit up to £10 million for the Digital Health and Care Institute to continue their work driving innovation within this fast growing sector.  
+We have committed up to £10 million for the Digital Health and Care Institute to continue their work driving innovation within this fast growing sector.  
 
-Since 2014, we have provided Skills Development Scotland with £10.5 million to deliver a digital skills programme including support for CodeClan, an industry-led digital skills academy.  Courses are being delivered in Edinburgh, Inverness and Glasgow.  Organisations like CodeClan are changing the fortunes of many.  
+Since 2014, we have provided Skills Development Scotland with £10.5 million to deliver a digital skills programme including support for CodeClan, an industry-led digital skills academy.  Courses are being delivered in Edinburgh, Inverness and Glasgow. Organisations like CodeClan are changing the fortunes of many.  
 
 Our £36 million Digital Growth Fund has kicked off with interest free loans to businesses wanting to invest in digital equipment and skills. And we are supporting our Digital Boost programme to give advice and support that improves the level of digital maturity amongst businesses in every part of Scotland.  
 
@@ -39,6 +39,8 @@ We are also embarking on a programme of work to capture the economic opportuniti
 We have also invested over £500,000 to help private and third sector organisations become more resilient through achieving cyber essentials certification.  
 
 ## Key resources:
+
+**[Innovation Centres](https://www.innovationcentres.scot/)**
 
 **[Edinburgh and South East Scotland Region City Deal](http://www.acceleratinggrowth.org.uk/)**
 

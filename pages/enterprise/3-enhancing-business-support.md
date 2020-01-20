@@ -16,7 +16,7 @@ next: { title: "Access to Finance", url: "/enterprise/access-to-finance/" }
 - Provide significant funding each year to Scottish Enterprise, Highlands and Islands Enterprise and South of Scotland Enterprise agency to secure sustainable and inclusive growth across all of Scotland
 - Implementing the recommendations of the business-led Strategic Board
 - A single, online point of entry for business support – enabling businesses to rapidly navigate support and speed up decision making on eligibility-based support such as grants
-- We will develop  new sector specific action plans for the Food and Drink Industry
+- We will develop new sector specific action plans for the Food and Drink Industry
 
 We provide over £320 million each year to support Scottish Enterprise (£250m) and Highlands and Islands Enterprise (£71m) to promote sustainable and inclusive growth through providing practical support and opportunities for sectors and businesses to develop, grow and invest in Scotland.  Highlands and Islands Enterprise’s funding also provides support for community development.    
  
@@ -30,7 +30,7 @@ We know the importance leadership and management play in driving productivity an
 
 We will work with Scottish Enterprise to maximise the impact of the Rural Leadership Programme.  We will draw upon ‘graduates’ skills enabling them to: become pacesetters in their sectors and communities, - stimulating business innovation, creativity, know-how and collaboration; and contribute to the development of initiatives that will unleash the potential of rural communities.  
 
-We will make it easier and quicker to access business support with funding, training and advice for all company sizes and sectors available through [the ‘Find Business Support’ website](https://www.findbusinesssupport.gov.scot/).    
+We will make it easier and quicker to access business support with funding, training and advice for all company sizes and sectors available through the [‘Find Business Support’](https://www.findbusinesssupport.gov.scot/) website.    
 
 We will also launch the First Minister’s Award for Manufacturing Leadership to recognise the importance of leadership in the sector. This aims to improve efficiency and productivity and encourage collaboration and inclusivity.  
 

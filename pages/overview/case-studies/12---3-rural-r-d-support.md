@@ -7,6 +7,7 @@ index: 12
 parent: case-studies
 permalink: /overview/case-studies/rural-rd-suport/
 prev: {title: "Business resilience support: Prepare for Brexit cross-agency response", url: "/overview/case-studies/business-resilience-support-prepare-for-brexit/" }
+next: {title: "Raising a glass to greener future - Dunnet Bay in Caithness", url: "/overview/case-studies/raising-glass-greener-future//" }
 ---
 ***State-of-the-art new freshwater salmon hatchery will enhance fish health and welfare***  
 

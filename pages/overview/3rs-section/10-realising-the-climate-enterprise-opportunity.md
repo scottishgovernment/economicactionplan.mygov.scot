@@ -20,6 +20,6 @@ Through the ***Green Growth Accelerator***, we will work with regional partners 
 
 To realise the climate opportunity, we must work with private sector partners in Scotland and globally who have been shifting their investment and operations from oil and gas to renewable sources. We must support those businesses to manage the jobs and health of their existing operations during this massive economic transition. 
 
-We will use the expertise of many of our businesses and private sector partners to speed up the development of new greener technologies.
+We will use the expertise of many of our businesses and private sector partners to speed up the development of new greener technologies in close collaboration with our colleges, universities, innovation centres and research institutes.
 
 We will help to support and create circular business approaches which will design-out waste and design-in renewable resources, saving companies money and reducing their carbon footprint.

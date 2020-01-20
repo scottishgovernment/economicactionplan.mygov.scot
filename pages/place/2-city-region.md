@@ -23,7 +23,11 @@ Each deal is tailored to the social and economic situation of its region, with p
 
 Deals galvanise key partners to come together to drive regional economies in ways that go well beyond the investments that they deliver, leveraging local and regional intelligence about how best to secure inclusive economic growth.  
 
-**Case Study**
+
+
+<div class="case-study" markdown="1">
+
+## *case study:*{:.hidden}
 
 City Region and Regional Growth deals worth up to £1.463 billion over the next 10 to 20 years have been agreed for the Glasgow City Region, Aberdeen and Aberdeenshire, Inverness and Highland, and Edinburgh and South East Scotland. Heads of Terms have been reached for Stirling and Clackmannanshire, the Tay Cities Region, the Ayrshire Growth Deal and the Borderlands Growth Deal. We are working towards signing Heads of Terms for the Moray Growth Deal in the coming months.  
 
@@ -34,6 +38,7 @@ Deals galvanise key partners to come together to drive regional economies in way
 They act as a catalyst to support and enable a set of strong regional economic partnerships across Scotland that have a clear and active role for the private sector to help create and deliver a clear economic plan for the region.  
 
 That is why we are committed to delivering 100% coverage of deals across Scotland, with deals in development for Falkirk, Argyll & Bute and the Islands (Western Isles, Orkney and Shetland).  
+</div>
 
 They act as a catalyst to support and enable a set of strong regional economic partnerships across Scotland that have a clear and active role for the private sector to help create and deliver a clear economic plan for the region.  
 

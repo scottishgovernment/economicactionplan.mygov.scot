@@ -16,7 +16,7 @@ next: { title: "Climate-neutral Economy", url: "/sustainability/climate-neutral-
 
 In a world of finite resources there are huge opportunities for the countries and companies which develop new ways to both reduce our demands for natural resources and use resources more productively.  
 
-We are the only country in the world with statutory annual greenhouse gas reduction targets, and we have set an ambition to become climate-neutral by 2050.  The economic opportunities here for our most innovative businesses are enormous. We are backing this mission with investment that will stimulate new innovation and private investment. We want to help Scottish businesses and universities to innovate at home and then export their solutions to the rest of the world.  
+We are the only country in the world with statutory annual greenhouse gas reduction targets, and we have set an ambition to become climate-neutral by 2050.  The economic opportunities here for our most innovative businesses are enormous. We are backing this mission with investment that will stimulate new research, innovation and private investment. We want to help Scottish businesses and universities to innovate at home and then export their solutions to the rest of the world.  
 
 The new, statutory, five year Climate Change Adaptation Programme will set out around 170 policies and proposals centred around our communities, climate justice, the economy, Scotland’s infrastructure and supporting systems, our natural, coastal and marine environments and our international partnerships. The Programme is designed to address priority risks for Scotland and a number of research projects to help us better understand the action we will need to take.  
 
@@ -41,6 +41,5 @@ She said: "We look forward to working on more projects that improve lives, prote
 
 * [Climate-neutral Economy](/sustainability/climate-neutral-economy/)
 * [Circular Economy and Green Innovation](/sustainability/circular-economy/)
-* [Decarbonisation](/sustainability/decarbonisation/)
 * [Natural Capital and Green Spaces](/sustainability/natural-capital/)
 * [Ultra-Low Emission Vehicles](/sustainability/ultra-low-emission-vehicles/)

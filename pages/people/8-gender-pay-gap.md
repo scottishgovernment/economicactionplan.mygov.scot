@@ -1,4 +1,4 @@
----
+--
 layout: default
 title:  "Gender pay gap"
 category: people
@@ -7,6 +7,6 @@ index: 8
 parent: people
 permalink: /people/gender-pay-gap/
 prev: { title: "Boost to parental employment programmes", url: "/people/boost-parental-employment-programmes/" }
----
+--
 
 Content TBC

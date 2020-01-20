@@ -21,7 +21,7 @@ To maintain competitive economic conditions in an increasingly global market, an
 
 It is vital that the right investments are made that generate inclusive growth and tackle the climate emergency.  Investment in economic infrastructure is a key driver of growth. For example, investment in broadband, transport and utilities provides the foundation for companies to invest and brings new economic opportunities to remote and deprived parts of the country.  Delivering Scotland’s climate targets will require the reinforcing of existing infrastructure and much more efficient and ‘smart’ use of available infrastructure, facilitated by new digital communication tools.  
 
-The nature and scale of change required to deliver these outcomes has been recognised by the Infrastructure Commission for Scotland’s recent report into our long term infrastructure priorities.  As the report sets out, this will require bold and determined leadership from Scottish Government and the wider public sector in Scotland, as well as the UK Government.  
+The nature and scale of change required to deliver these outcomes has been recognised by the [Infrastructure Commission for Scotland](https://infrastructurecommission.scot/)’s recent report into our long term infrastructure priorities.  As the report sets out, this will require bold and determined leadership from Scottish Government and the wider public sector in Scotland, as well as the UK Government.  
 
 Advice from the Commission will help to shape our future infrastructure investment in Scotland. Later this year, we will publish the next Infrastructure Investment Plan – focusing on three, core long-term outcomes of inclusive economic growth, tackling the global climate emergency, and building sustainable places.  
 

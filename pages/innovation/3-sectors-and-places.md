@@ -17,6 +17,8 @@ next: { title: "Using Public Sector Spend to Catalyse Innovation", url: "/innova
 
 ## Key points:
 
+* Optimise and recalibrate partnership with Industry Leadership Groups
+* Continue to fund our Innovation Centre programme
 * Establishing the National Manufacturing Institute for Scotland and targeting up to £18 million of European funding to establish  an Advanced Manufacturing Challenge  Fund
 * A new £56 million Medicines Manufacturing Innovation Centre will put Scotland at the forefront of pharmaceutical and fine chemical manufacturing
 * £4.2m to build on our strengths in precision medicine
@@ -24,8 +26,11 @@ next: { title: "Using Public Sector Spend to Catalyse Innovation", url: "/innova
 * Developing an AL Strategy
 * Moving to extend designation of Scotland’s Enterprise Areas to 2022
 
+The Scottish Government and its agencies are committed to working closely with businesses and their representatives to boost sustainable and inclusive economic growth.  Industry Leadership Groups are a long-established route to engaging sectors leaders in Scotland in constructive dialogue about collaborative and aligned actions that deliver on our shared ambitions.  Sectoral opportunities and challenges evolve over time, of course, and we all recognise the increasing pace of change in technology and global markets and the vital importance of a just transition to a low carbon economy. The Strategic Board is therefore consulting ILGs as part of a review which seeks to optimise and recalibrate how in the new decade we work together in an evolving partnership to deliver for Scotland.    
 
-We want businesses across Scotland to be able to take advantage of, and respond to interactions between automation, digitalisation and data and new manufacturing techniques to drive innovation and growth.  Our network of innovation centres across Scotland support a number of key sectors.  
+We want businesses across Scotland to be able to take advantage of, and respond to interactions between automation, digitalisation and data and new manufacturing techniques to drive innovation and growth.   
+
+Our network of innovation centres across Scotland support a number of key sectors and we will continue to evolve this support network for businesses and the public sector in Scotland.  
 
 We will support Scotland’s thriving life sciences community in achieving its goal of doubling its turnover to £8 billion by 2025 by: increasing exports; creating the right business environment to flourish; innovation; and the development of new manufacturing facilities.  
 
@@ -73,6 +78,8 @@ Peter Platzer, co-Founder and CEO of Spire Global, said: “Glasgow has been a f
 </div>
 
 ## Key resources:
+
+**[Innovation Centres](https://www.innovationcentres.scot/)**
 
 **[Strathclyde in Medicines Manufacturing Innovation Centre](https://www.strath.ac.uk/whystrathclyde/news/strathclydeinmedicinesmanufacturinginnovationcentre/)**
 
