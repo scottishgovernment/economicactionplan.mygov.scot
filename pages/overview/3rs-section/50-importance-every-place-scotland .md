@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Importance of every Place in Scotland"
+title:  "Importance of every place in Scotland"
 category: the-3rs
 summary: ""
 index: 50

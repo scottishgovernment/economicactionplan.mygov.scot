@@ -19,6 +19,4 @@ The council has gained valuable innovation management experience through the pro
 
 Michael Figures, Business developments project officer at Perth and Kinross Council said:  
 
-“The Can Do Innovation Challenge Fund is a great way to encourage and explore innovation to develop cutting-edge solutions to meet the challenges of today and tomorrow, for an ever-more inter-connected and complex world.”  
-
-In Realising Scotland’s Full Potential in a Digital World: “A Digital Strategy For Scotland” Scottish Government made a commitment to support people and communities through social changes. Developing the frameworks and principles that provide the foundations of an ethical approach to digital technologies will that appropriate guidance is in place to enable a confident and secure digital society.  
+“The Can Do Innovation Challenge Fund is a great way to encourage and explore innovation to develop cutting-edge solutions to meet the challenges of today and tomorrow, for an ever-more inter-connected and complex world.”    
