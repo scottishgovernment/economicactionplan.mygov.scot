@@ -3,7 +3,7 @@ layout: default
 title:  "Transport network"
 category: place
 summary: ""
-index: 9
+index: 10
 parent: place
 permalink: /place/transport-network/
 prev: { title: "Local Economies And Community-Led Development", url: "/place/local-economies/" }

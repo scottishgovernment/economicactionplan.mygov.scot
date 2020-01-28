@@ -3,7 +3,7 @@ layout: default
 title:  "Marine and Coastal Economy and Communities"
 category: place
 summary: "Developing the Blue Economy, sustaining coastal communities"
-index: 7
+index: 8
 parent: place
 permalink: /place/marine-and-coastal/
 next: { title: "Local Economies and Community-led Development", url: "/place/local-economies/" }

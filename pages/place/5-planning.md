@@ -3,7 +3,7 @@ layout: default
 title:  "Planning"
 category: place
 summary: "Planning policy to support sustainable and inclusive growth across all of our regions"
-index: 5
+index: 6
 parent: place
 permalink: /place/planning/
 prev: { title: "Clyde Mission", url: "/place/clyde-mission/" }

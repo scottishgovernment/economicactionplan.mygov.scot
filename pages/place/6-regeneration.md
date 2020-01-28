@@ -3,7 +3,7 @@ layout: default
 title:  "Regeneration"
 category: place
 summary: "Place-based policy to tackle inequality and supports local aspirations"
-index: 6
+index: 7
 parent: place
 permalink: /place/regeneration/
 next: { title: "Marine and Coastal economies", url: "/place/marine-and-coastal/" }
