@@ -3,7 +3,7 @@ layout: default
 title:  "Supporting Industry"
 category: enterprise
 summary: "Backing Scottish industry to compete globally"
-index: 6
+index: 7
 parent: enterprise
 permalink: /enterprise/supporting-industry/
 prev: { title: "Driving Entrepreneurship", url: "/enterprise/driving-entrepreneurship/" }

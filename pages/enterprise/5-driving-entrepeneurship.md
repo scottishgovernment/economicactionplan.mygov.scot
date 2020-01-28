@@ -3,7 +3,7 @@ layout: default
 title:  "Driving Entrepreneurship "
 category: enterprise
 summary: "Making Scotland a world-leading entrepreneurial innovative nation"
-index: 5
+index: 6
 parent: enterprise
 permalink: /enterprise/driving-entrepreneurship/
 prev: { title: "Access to Finance", url: "/enterprise/access-to-finance/" }

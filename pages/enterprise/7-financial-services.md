@@ -3,7 +3,7 @@ layout: default
 title:  "Financial Services"
 category: enterprise
 summary: "Scotland as a financial hub"
-index: 7
+index: 8
 parent: enterprise
 permalink: /enterprise/financial-services/
 prev: { title: "Supporting Industry", url: "/enterprise/supporting-industry/" }

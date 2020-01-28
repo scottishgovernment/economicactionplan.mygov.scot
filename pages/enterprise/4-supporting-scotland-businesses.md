@@ -3,7 +3,7 @@ layout: default
 title:  "Supporting Scotland’s businesses"
 category: enterprise
 summary: "Ensuring that businesses critical to achieving our industrial policy are supported"
-index: 4.1
+index: 5
 parent: enterprise
 permalink: /enterprise/supporting-scotlands-businesses/
 prev: { title: "Access to finance", url: "/enterprise/access-to-finance/" }

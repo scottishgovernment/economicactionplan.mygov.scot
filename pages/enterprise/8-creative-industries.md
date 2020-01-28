@@ -3,7 +3,7 @@ layout: default
 title:  "Creative Industries"
 category: enterprise
 summary: "Creative industries include screen, digital tech, design and computer games – some of the most dynamic and vibrant sectors of our modern"
-index: 8
+index: 9
 parent: enterprise
 permalink: /enterprise/creative-industries/
 prev: { title: "Financial Services", url: "/enterprise/financial-services/" }

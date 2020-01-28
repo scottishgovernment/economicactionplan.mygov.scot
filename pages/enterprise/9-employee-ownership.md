@@ -3,7 +3,7 @@ layout: default
 title:  "Employee ownership"
 category: enterprise
 summary: "Better business performance through employee ownership"
-index: 9
+index: 10
 parent: enterprise
 permalink: /enterprise/employee-ownership/
 prev: { title: "Creative Industries", url: "/enterprise/creative-industries/" }
