@@ -2,8 +2,8 @@
 layout: tiles-2-hero
 title:  "Overview"
 category: economic-action-plan
-summary: "An introduction and foreword to Scotland's Economic Action Plan."
-subtitle: "An introduction and foreword to Scotland's Economic Action Plan."
+summary: "An introduction to Scotland's Economic Action Plan."
+subtitle: "An introduction to Scotland's Economic Action Plan."
 index: 1
 homepage: true
 navitems: overview

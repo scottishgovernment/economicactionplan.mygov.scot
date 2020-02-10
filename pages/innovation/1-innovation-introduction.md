@@ -20,7 +20,7 @@ Innovation is about ideas that create jobs and wealth for the people of Scotland
 
 We will continue to work with the public, private and university and college sectors to drive forward our Innovation Action Plan.  Through this we will take action to support innovation across businesses, sectors and places.  We’ll use public sector spend to catalyse innovation and make best use of the research, knowledge and talent of our universities, research institutes and colleges to drive innovation and growth.  
 
-At a meeting on 13 November 2018, Cabinet Secretary for Finance, Economy and Fair Work, Derek Mackay, commissioned Professor Sir Anton Muscatelli in an independent capacity to take forward work on the economic contribution of universities.  His final report, Driving Innovation - A National Mission, was published on 27 November 2019 and includes 22 recommendations which cover:  
+At a meeting on 13 November 2018 the Cabinet Secretary for Finance, Economy and Fair Work commissioned Professor Sir Anton Muscatelli in an independent capacity to take forward work on the economic contribution of universities.  His final report, Driving Innovation - A National Mission, was published on 27 November 2019 and includes 22 recommendations which cover:  
 
 * Aligning the higher education sector and other relevant stakeholders towards a collective ambition to make Scotland a world-leading innovative nation and setting clear priorities to achieve this ambition; 
 * Ensuring the sector is able to collaborate and coordinate in bidding for UK funding streams, and in knowledge exchange and innovation activities;
@@ -30,7 +30,7 @@ At a meeting on 13 November 2018, Cabinet Secretary for Finance, Economy and Fai
 * Breaking down barriers between industry and academia to incentivise the free movement of people and knowledge; and
 * Ensuring the long-run financial sustainability of university research and innovation activities.
 
-Economy Secretary Derek Mackay announced on 5 August 2019 a similar review of the economic impact of colleges, led by Edinburgh College Principal Audrey Cumberford and City of Glasgow College Principal Paul Little.  The final report is expected to be published in February 2020 and to will:
+The Economy Secretary announced on 5 August 2019 a similar review of the economic impact of colleges, led by Edinburgh College Principal Audrey Cumberford and City of Glasgow College Principal Paul Little.  The final report is expected to be published in February 2020 and to will:
 
 * Establish how colleges in Scotland currently impact on the economy through helping improve businesses’ performance and productivity (for example, though upskilling and reskilling);
 * Consider their economic impact across a wider range Scottish Government priorities;
