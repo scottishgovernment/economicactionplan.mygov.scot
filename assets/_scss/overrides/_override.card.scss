@@ -1,14 +1,11 @@
 .ds_card {
     &__figure {
         border-bottom: 5px solid $color__brand--secondary;
-        padding-bottom: calc(10000%/235) !important; // 2.35:1
     }
 
     &__figure + &__content {
         text-align: center;
-    }
 
-    &__content {
         font-size: (16/19 * 1rem);
         line-height: 21px;
         padding-top: 7px !important;
