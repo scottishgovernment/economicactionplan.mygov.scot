@@ -12,7 +12,6 @@ next: { title: "Oil and Gas and Carbon Capture", url: "/investment/oil-and-gas-c
 
 ![A photograph of business people talking together in Glasgow.](/assets/images/pageimages/Investment.6.jpg)  
 
----
 We want to boost private and public investment to create the conditions for Scottish businesses and people to flourish. We will increase infrastructure investment to the most ambitious long-term level that Scotland has ever seen.  This will drive up connectivity, create jobs and deliver a long-term boost to productivity and sustainable and inclusive economic growth, while safeguarding the potential impacts on our environment.  
 
 We also know that the successful economies of the 21st century will be climate-neutral. That is why we are investing in sectors and businesses that have the potential to lead this transition and create global opportunities for Scottish goods and services.  

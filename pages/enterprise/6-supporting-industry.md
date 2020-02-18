@@ -13,8 +13,6 @@ next: { title: "Financial Services", url: "/enterprise/financial-services/" }
 
 ![A photograph of two staff members in high-visibility jackets and hard hats on site at Mackenzie Construction](/assets/images/pageimages/Enterprise.11.jpg)
 
----
-
 ## Key points:
 
 - Underwriting the future of aluminium production in Scotland  

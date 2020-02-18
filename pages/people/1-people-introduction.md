@@ -12,8 +12,6 @@ next: { title: "Better Outcomes for Children", url: "/people/outcomes-for-childr
 
 ![A photograph of staff at Scottish company Made Brave gathered around a table for a discussion](/assets/images/pageimages/People.42.jpg)  
 
----
-
 Scotland is one of the best places to live in the world.  And we want to do more to make Scotland an inclusive, welcoming and progressive society.  This is fundamental to our economic success – primarily for the wellbeing of the people who live here and as an asset in our efforts to promote Scotland to the world.
 
 * [Better Outcomes for Children](/people/outcomes-for-children/)

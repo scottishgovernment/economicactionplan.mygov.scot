@@ -13,8 +13,6 @@ prev: { title: "City Region and Other Growth Deals", url: "/place/city-region-de
 
 ![An aerial photograph of the Forth Bridges](/assets/images/pageimages/Place.33.jpg)  
 
----
-
 ## Key points:
 
 * Supporting development of Regional Economic Partnerships across Scotland out of the City Region and Growth Deal experience 

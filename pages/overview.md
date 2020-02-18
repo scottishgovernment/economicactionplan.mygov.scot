@@ -1,5 +1,5 @@
 ---
-layout: tiles-2-hero
+layout: category-grid
 title:  "Overview"
 category: economic-action-plan
 summary: "An introduction to Scotland's Economic Action Plan."

@@ -13,8 +13,6 @@ next: { title: "Circular Economy and Green Innovation", url: "/innovation/circul
 
 ![A photograph of a student interacting with gaming technology on a big screen](/assets/images/pageimages/Innovation.24.jpg)
 
----
-
 ## Key points:
 
 * Scotland’s creative industries contributed £4.4 billion of GVA to Scotland in 2016, employing 84,000 people.

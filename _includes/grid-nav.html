@@ -1,0 +1,17 @@
+<div class="ds_wrapper">
+    <div class="ds_category-list-container">
+        <ol class="ds_category-list  ds_category-list--grid">
+            {% for item in indexed %}
+                <li class="ds_category-item">
+                    <h2 class="ds_category-item__title">
+                        <a data-navigation="category-item-2" href="{{item.url}}" class="ds_category-item__link">{{item.title}}</a>
+                    </h2>
+
+                    <!-- <p class="ds_category-item__summary">
+                        {{item.summary}}
+                    </p> -->
+                </li>
+            {% endfor %}
+        </ol>
+    </div>
+</div>

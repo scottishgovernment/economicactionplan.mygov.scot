@@ -11,9 +11,9 @@ permalink: /future-skills/overview/
 next: { title: "Ministerial foreword", url: "/future-skills/ministerial-foreword/" }
 ---
 
-<img class="hidden-small  hidden-xsmall" src="/assets/images/infographics/fsap-overview.png" alt=""/>
+<img class="fsap__graphic" src="/assets/images/infographics/fsap-overview.png" alt=""/>
 
-<div class="visible-small  visible-xsmall">
+<div class="fsap__text">
 <h2 id="vision">Vision</h2>
 
 <p>Scotland’s highly skilled workforce ensures we are an ambitious, productive and competitive nation. Scotland’s skills system will be the foundation on which we will deliver these ambitions, supporting our people through-out their working lives, and empowering our business to take advantage of future opportunities. A culture of shared investment in Scotland’s future workforce will unlock the potential of our people and businesses to deliver inclusive growth.</p>

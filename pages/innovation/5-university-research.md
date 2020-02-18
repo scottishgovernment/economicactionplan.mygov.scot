@@ -13,8 +13,6 @@ next: { title: "Internationalising Research and Innovation Engagement", url: "/i
 
 ![A photograph of a student using computer imaging software](/assets/images/pageimages/Innovation.22.jpg)  
 
----
-
 ## Key points:
 
 * Continuing to provide Scottish universities with funding via the Scottish Funding Council in support of excellent research and effective knowledge exchange between academia and businesses

@@ -1,5 +1,5 @@
 ---
-layout: tiles-2-hero
+layout: category-grid
 title:  "Innovation"
 category: economic-action-plan
 summary: "Supporting world-leading innovation and a dynamic digital economy."

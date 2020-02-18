@@ -13,7 +13,6 @@ next: { title: "Housing", url: "/investment/housing/" }
 
 ![A photograph of the Queensferry Crossing when under construction](/assets/images/pageimages/Investment.9.jpg)
 
----
 ## Key points:
 
 - Deliver the second Strategic Transport Projects Review by 2020

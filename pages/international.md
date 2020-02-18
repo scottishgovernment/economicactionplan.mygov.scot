@@ -1,5 +1,5 @@
 ---
-layout: tiles-2-hero
+layout: category-grid
 title:  "International"
 category: economic-action-plan
 summary: "Growing exports and international investment and attracting global talent."

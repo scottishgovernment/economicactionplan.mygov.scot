@@ -1,5 +1,5 @@
 ---
-layout: tiles-2-hero
+layout: category-grid
 title:  "People"
 category: economic-action-plan
 summary: "Ensuring a sustainable working population participates and benefits from our increased prosperity."

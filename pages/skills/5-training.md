@@ -13,8 +13,6 @@ next: { title: "Up-skilling and Re-skilling", url: "/skills/upskilling-and-reski
 
 ![A photograph of games design students at work in Abertay University](/assets/images/pageimages/Skills.28.jpg)  
 
----
-
 ## Key points:
 
 * Investing £214 million in Skills Development Scotland

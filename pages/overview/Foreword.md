@@ -12,8 +12,6 @@ published: false
 
 ![A photograph of Derek Mackay, Cabinet Secretary for Finance, Economy and Fair Work](/assets/images/pageimages/Overview.1.jpg)  
 
----
-
 This updated Plan sits against a backdrop of continued uncertainty created by the UK’s forthcoming exit from the EU and the risk this poses to jobs, businesses, communities and our economy.  It sets out the suite of actions that we will take across all areas of Scotland’s economy, to deliver a high-performing, climate-neutral, innovative and inclusive economy which benefits everyone in Scotland, regardless of where they live.  
  
 Brexit is not the only challenge we face.  We also need to adjust to the ever-changing global circumstances, so our companies can continue to take advantage of new opportunities as they arise, both here and in international markets.  But we can do this because we know our research, innovation and creativity continue to be world-leading, with demand for Scottish products and services increasing across the globe.  

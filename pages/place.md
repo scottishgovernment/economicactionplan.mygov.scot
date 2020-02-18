@@ -1,5 +1,5 @@
 ---
-layout: tiles-2-hero
+layout: category-grid
 title:  "Place"
 category: economic-action-plan
 summary: "Supporting thriving places throughout Scotland: in our regions, cities, towns and the rural economy."

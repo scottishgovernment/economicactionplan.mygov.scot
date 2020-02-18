@@ -1,0 +1,28 @@
+$fs_color__brand--primary: #A51765;
+$fs_color__brand--secondary: #F0A75A;
+
+
+
+
+.future-skills {
+    .ds_site-header--gradient::before {
+        background: linear-gradient(to left, $fs_color__brand--primary, $fs_color__brand--secondary);
+    }
+
+    a {
+        color: $fs_color__brand--primary;
+    }
+
+    .ds_reversed a {
+        color: $color__white;
+    }
+
+    .ds_category-header__header {
+        border-color: $fs_color__brand--secondary;
+    }
+
+    .ds_sequential-nav__button--left::before,
+    .ds_sequential-nav__button--right::before {
+        background-color: $fs_color__brand--primary;
+    }
+}

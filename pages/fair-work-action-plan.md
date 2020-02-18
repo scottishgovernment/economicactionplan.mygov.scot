@@ -1,5 +1,5 @@
 ---
-layout: tiles-hero-fair-work
+layout: category-card
 title:  "Fair Work Action Plan"
 category: economic-action-plan
 summary: "Boosting productivity by developing Scotland as a world-leading Fair Work Nation"

@@ -13,8 +13,6 @@ prev: { title: "Planning", url: "/place/planning" }
 
 ![A photograph of the waterfront at Dundee including part of the V&A building and sign](/assets/images/pageimages/Place.32.jpg)  
 
----
-
 ## Key points:
 
 * Stimulating inclusive growth through the Regeneration Capital Grant Fund and the Vacant and Derelict Land Fund

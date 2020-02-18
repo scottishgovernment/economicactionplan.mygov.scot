@@ -12,8 +12,6 @@ prev: { title: "Migration", url: "/international/migration/" }
 
 ![A photograph of tourists on the ski lift at Glenshee](/assets/images/pageimages/International.18.jpg)
 
----
-
 ## Key points:
 
 * Our national tourism organisation VisitScotland has a budget of more than £50 million in 2019/2020

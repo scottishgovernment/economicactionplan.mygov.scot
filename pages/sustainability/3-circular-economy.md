@@ -13,8 +13,6 @@ next: { title: "Natural Capital and Green Spaces", url: "/sustainability/natural
 
 ![A photograph of windmills at a Scottish windfarm](/assets/images/pageimages/Sustainability.45.jpg)
 
----
-
 ## Key points:
 
 A more circular economy will benefit

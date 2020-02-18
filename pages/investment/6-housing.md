@@ -13,8 +13,6 @@ next: { title: "City Region and Other Growth Deals", url: "/investment/city-regi
 
 ![A photograph of a newly built village in Dalmarnock](/assets/images/pageimages/Investment.7.jpg)
 
----
-
 ## Key points:
 
 - A vision for how our homes and communities should look and feel in 2040 and route map to get there.

@@ -12,8 +12,6 @@ prev: { title: "Migration", url: "/people/migration/" }
 
 ![A photograph of the technology company Amiqus executive team](/assets/images/pageimages/People.41.jpg)  
 
----
-
 ## Key points:
 
 * Significant investment in our health services and workforce

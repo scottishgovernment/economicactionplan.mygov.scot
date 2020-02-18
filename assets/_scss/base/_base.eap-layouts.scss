@@ -1,0 +1,47 @@
+/*------------------------------------*\
+    SITE PAGE LAYOUTS
+\*------------------------------------*/
+
+.#{$pl-prefix}layout {
+    &--fsap-intro {
+        grid-template-areas:
+            'h h h h h h'
+            'c c c c c c';
+
+        .fsap__graphic {
+            display: none;
+        }
+
+        .fsap__text {
+            display: block;
+        }
+    }
+}
+
+@include media-query(medium) {
+    .#{$pl-prefix}layout {
+        .fsap__graphic {
+            display: block;
+        }
+
+        .fsap__text {
+            clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+            clip: rect(1px, 1px, 1px, 1px);
+            height: 1px; width: 1px;
+            overflow: hidden;
+            position: absolute !important;
+        }
+    }
+}
+
+@supports(display: grid) {
+    @include media-query(medium) {
+        .#{$pl-prefix}layout {
+            &--fsap-intro {
+                grid-template-areas:
+                    'h h h h h h h h h h h h'
+                    'c c c c c c c c c c c c';
+            }
+        }
+    }
+}

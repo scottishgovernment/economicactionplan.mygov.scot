@@ -52,70 +52,70 @@
     {% endfor %}
 {% endif %}
 
-<div class="container">
-    <ol role="navigation" class="breadcrumbs">
+<nav aria-label="Breadcrumb">
+    <ol role="navigation" class="ds_breadcrumbs">
         {% if level6 %}
-        <li class="breadcrumbs__item">
-            <a class="breadcrumbs__link" href="{{ site.baseurl }}{{level6.url | replace:'index.html',''}}"><!--
+        <li class="ds_breadcrumbs__item">
+            <a class="ds_breadcrumbs__link" href="{{ site.baseurl }}{{level6.url | replace:'index.html',''}}">
                 {% if level6.thispage == 'home' %}
-                    -->Economic Action Plan<!--
+                    Economic Action Plan
                 {% else %}
-                    -->{{level6.title}}<!--
+                    {{level6.title}}
                 {% endif %}
-            --></a>
+            </a>
         </li>
         {% endif %}
         {% if level5 %}
-        <li class="breadcrumbs__item">
-            <a class="breadcrumbs__link" href="{{ site.baseurl }}{{level5.url | replace:'index.html',''}}"><!--
+        <li class="ds_breadcrumbs__item">
+            <a class="ds_breadcrumbs__link" href="{{ site.baseurl }}{{level5.url | replace:'index.html',''}}">
                 {% if level5.thispage == 'home' %}
-                    -->Economic Action Plan<!--
+                    Economic Action Plan
                 {% else %}
-                    -->{{level5.title}}<!--
+                    {{level5.title}}
                 {% endif %}
-            --></a>
+            </a>
         </li>
         {% endif %}
         {% if level4 %}
-        <li class="breadcrumbs__item">
-            <a class="breadcrumbs__link" href="{{ site.baseurl }}{{level4.url | replace:'index.html',''}}"><!--
+        <li class="ds_breadcrumbs__item">
+            <a class="ds_breadcrumbs__link" href="{{ site.baseurl }}{{level4.url | replace:'index.html',''}}">
                 {% if level4.thispage == 'home' %}
-                    -->Economic Action Plan<!--
+                    Economic Action Plan
                 {% else %}
-                    -->{{level4.title}}<!--
+                    {{level4.title}}
                 {% endif %}
-            --></a>
+            </a>
         </li>
         {% endif %}
         {% if level3 %}
-        <li class="breadcrumbs__item">
-            <a class="breadcrumbs__link" href="{{ site.baseurl }}{{level3.url | replace:'index.html',''}}"><!--
+        <li class="ds_breadcrumbs__item">
+            <a class="ds_breadcrumbs__link" href="{{ site.baseurl }}{{level3.url | replace:'index.html',''}}">
                 {% if level3.thispage == 'home' %}
-                    -->Economic Action Plan<!--
+                    Economic Action Plan
                 {% else %}
-                    -->{{level3.title}}<!--
+                    {{level3.title}}
                 {% endif %}
-            --></a>
+            </a>
         </li>
         {% endif %}
         {% if level2 %}
-        <li class="breadcrumbs__item">
-            <a class="breadcrumbs__link" href="{{ site.baseurl }}{{ level2.url | replace:'index.html',''}}"><!--
+        <li class="ds_breadcrumbs__item">
+            <a class="ds_breadcrumbs__link" href="{{ site.baseurl }}{{ level2.url | replace:'index.html',''}}">
                 {% if level2.thispage == 'home' %}
-                    -->Economic Action Plan<!--
+                    Economic Action Plan
                 {% else %}
-                    -->{{level2.title}}<!--
+                    {{level2.title}}
                 {% endif %}
-            --></a>
+            </a>
         </li>
         {% endif %}
-        <li class="breadcrumbs__item"><!--
+        <li class="ds_breadcrumbs__item" aria-current="page">
             {% if page.thispage == 'home' %}
-                -->Economic Action Plan<!--
+                Economic Action Plan
             {% else %}
-                -->{{page.title}}<!--
+                {{page.title}}
             {% endif %}
-        --></li>
+        </li>
 
     </ol>
-</div>
+</nav>

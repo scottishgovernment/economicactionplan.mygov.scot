@@ -3,46 +3,38 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <div id="notifications-wrapper">
-    <div id="cookie-notice" class="notification hidden hidden--hard" aria-describedby="cookieinfo">
-    	<div class="wrapper">
-            <p id="cookieinfo" class="cookieinfo">Mygov.scot uses cookies which are essential for the site to work. We also use non-essential cookies to help us improve our websites. Any data collected is anonymised. By continuing to use this site, you agree to our use of cookies. <a href="/cookies/">Find out more about cookies</a>.</p>
-        	<button title="Close this notification" id="close-cookie-notification" class="close-button close-notification">Close</button>
+    <div id="cookie-notice" class="ds_notification  fully-hidden" aria-describedby="cookieinfo">
+        <div class="ds_wrapper">
+            <div class="ds_notification__content">
+                <div class="ds_notification__text">
+                    <p>We use cookies to make the site simpler.</p>
+                </div>
+
+                <div class="ds_notification__actions">
+                    <button class="ds_button  js-accept-cookies" data-banner="banner-cookie-accept">Accept cookies</button>
+                    <a href="/cookies/" class="ds_button  ds_button--secondary" data-banner="banner-cookie-settings">Cookie settings</a>
+                </div>
+            </div>
         </div>
         <script type="text/javascript" src="/assets/js/cookies.js"></script>
 	</div>
 </div>
 
 
-{% if page.thispage == 'future-skills-action-plan' or page.thispage == 'fair-work-action-plan' or page.thispage == 'fair-work-action-plan-home' %}
-<div class="site-header">
-        <div class="wrapper">
+<div class="ds_site-header  ds_site-header--gradient  ds_site-header--shadow">
+    <div class="ds_wrapper">
+        <div class="ds_site-header__content">
+            <div class="ds_site-branding">
+                <a class="ds_site-branding__logo  ds_site-branding__link" href="/" style="height: 38px;">
+                    <img class="ds_site-branding__logo-image" src="/assets/images/scotgovlogo.svg" alt="Scottish Government logo">
+                </a>
 
-            <a href="/" style="width: 185px; height: 38px; display: inline-block; margin-right: 7px;">
-                <img src="/assets/images/scotgovlogo.svg" alt="Scottish Government logo">
-            </a>
-
-        </div>
-</div>
-{% endif %}
-
-{% if page.thispage != 'future-skills-action-plan' and page.thispage != 'fair-work-action-plan' and page.thispage != 'fair-work-action-plan-home' %}
-<div class="site-header">
-    <div class="wrapper">
-
-            <a href="/" style="width: 185px; height: 38px; display: inline-block; margin-right: 7px;">
-                <img src="/assets/images/scotgovlogo.svg" alt="Scottish Government logo">
-            </a>
-
-            <div class="site-header__title">
-                <a href="/" class="site-header__link">Economic Action Plan 2019-20</a>    
+                {% if page.thispage != 'future-skills-action-plan' and page.thispage != 'fair-work-action-plan' and page.thispage != 'fair-work-action-plan-home' %}
+                    <div class="ds_site-header__title">
+                        Economic Action Plan 2019-20
+                    </div>
+                {% endif %}
             </div>
+        </div>
     </div>
 </div>
-{% endif %}
-
-
-{% if page.thispage != 'home' and page.thispage != 404 %}
-    <div class="wrapper">
-        {% include breadcrumbs.html %}
-    </div>
-{% endif %}

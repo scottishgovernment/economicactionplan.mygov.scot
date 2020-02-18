@@ -13,8 +13,6 @@ next: { title: "Using Public Sector Spend to Catalyse Innovation", url: "/innova
 
 ![A photograph of a staff member working at an engineering bench in Touch Bionics](/assets/images/pageimages/Innovation.23.jpg)  
 
----
-
 ## Key points:
 
 * Optimise and recalibrate partnership with Industry Leadership Groups

@@ -13,8 +13,6 @@ prev: { title: "Labour Market Access and Inclusion", url: "/people/inclusion" }
 
 ![A photograph of Career Ready Interns at work in a food preparation facility](/assets/images/pageimages/People.40.jpg)  
 
----
-
 ## Key points:
 
 * We will deliver on the actions from our Fair Work Action Plan

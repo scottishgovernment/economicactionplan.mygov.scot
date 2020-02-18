@@ -13,8 +13,6 @@ prev: { title: "Regeneration", url: "/place/regeneration/" }
 
 ![A photograph of men working at Aberdeen Harbour](/assets/images/pageimages/Place.36.jpg)  
 
----
-
 ## Key points:
 
 * Showcasing Scotland's coasts and waters for sustainable growth and inclusive participation

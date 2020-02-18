@@ -1,5 +1,5 @@
 ---
-layout: tiles-3
+layout: category-list
 title:  "Introduction - the 3Rs: Resilience, Recovery and Restructuring"
 category: overview
 summary: ""
@@ -10,4 +10,3 @@ thispage: the-3rs
 parent: overview
 permalink: /overview/resilience-recovery-restructuring/
 ---
-

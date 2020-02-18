@@ -13,8 +13,6 @@ next: { title: "Public Procurement", url: "/enterprise/public-procurement/" }
 
 ![A photograph of staff standing outside the Social Bite, social enterprise in Edinburgh](/assets/images/pageimages/Enterprise.12.jpg)
 
----
-
 ## Key points:
 
 - We have established a 10 year National Social Enterprise Strategy and continue to support social enterprises through national programmes like Just Enterprise and the Social Entrepreneurs Fund

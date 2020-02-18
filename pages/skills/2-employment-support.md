@@ -13,8 +13,6 @@ next: { title: "School education", url: "/skills/school-education/" }
 
 ![A photograph of 4 people in lab coats and protective glasses](/assets/images/pageimages/Skills.31.jpg)  
 
----
-
 ## Key points:
 
 * Through No One Left Behind we are implementing a wide-ranging reform of  employability support across Scotland.

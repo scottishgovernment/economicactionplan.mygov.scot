@@ -13,8 +13,6 @@ prev: { title: "Circular Economy and Green Innovation", url: "/sustainability/ci
 
 ![A photograph of trees in a Scottish forest](/assets/images/pageimages/Sustainability.46.jpg)  
 
----
-
 ## Key points:
 
 * Investment in Scotland’s natural assets – air, water, land and nature – will deliver a healthier and more prosperous Scotland.

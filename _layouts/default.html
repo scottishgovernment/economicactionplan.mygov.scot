@@ -3,87 +3,89 @@
 
 {% include head.html %}
 
-<body class="article {{ page.type }}">
+<body class="article {{ page.type }} {{page.layout}}">
 
-{% include header.html %}
 
-<header>
-    <div class="wrapper">
-        <div class="grid"><!--
-            --><div class="grid__item  medium--ten-twelfths">
-                <div class="article-header">
-                    {% if page.imperative %}
-                        <p class="article-header__prefix">{{ page.imperative }}</p>
-                    {% endif %}
-                    <h1 class="article-header__title">{{ page.title }}</h1>
-                </div>
-            </div><!--
-        --></div>
+<div class="ds_page">
+    <div class="ds_page__top">
+        {% include header.html %}
     </div>
-    <!-- /end .wrapper -->
-</header>
 
-<div class="wrapper">
-    <div class="grid"><!--
+    <div class="ds_page__middle">
 
-        {% if page.headings %}
-        --><div class="grid__item  medium--three-twelfths">
-            <div class="page-group page-group--section-nav">
-                <ul class="page-group__list">
-                    {% for heading in page.headings %}
-                        <li class="page-group__item">
-                            <a class="page-group__link  page-group__link--condensed" href="#{{heading | replace:'.', '' | slugify}}">{{ heading }}</a>
-                        </li>
-                    {% endfor %}
-                </ul>
+        {% if page.thispage != 'home' and page.thispage != 404 %}
+            <div class="ds_wrapper">
+                {% include breadcrumbs.html %}
             </div>
-        </div><!--
         {% endif %}
 
-        --><div class="grid__item  medium--eight-twelfths">
-            <div class="main-content">
-            
-                <!--
-                {% if page.summary %}
-                <h2>Summary</h2>
-                <p class="leader">
-                    {{ page.summary }}
-                </p>
-                <hr />
-                {% endif %}
-            -->
-                {{ content }}
+        <div class="ds_wrapper">
 
-                <div class="grid  page-nav"><!--
-                 --><div class="grid__item  push--medium--six-twelfths  medium--six-twelfths  page-nav__item">
-                    {% if page.next %}
-                        <a title="Next page" href="{{page.next.url}}" class="page-nav__button  page-nav__button--right  js-next"><span data-label="next" class="page-nav__text">{{page.next.title}}</span></a>
-                    {% endif %}
-                    </div><!--
-                 --><div class="grid__item  medium--six-twelfths  pull--medium--six-twelfths  page-nav__item">
-                    {% if page.prev %}
-                        <a title="Previous page" href="{{page.prev.url}}" class="page-nav__button  page-nav__button--left  js-previous"><span data-label="prev" class="page-nav__text">{{page.prev.title}}</span></a>
-                    {% endif %}
-                    </div><!--
-             --></div>
+            <main id="main-content" class="ds_layout  ds_layout--article">
+                <div class="ds_layout__header">
+                    <header class="heading">
+                        <div class="ds_page-header">
+                            <span class="ds_page-header__label  ds_content-label">{{ page.imperative }}</span>
 
-                {% if page.feedbackemail %}
-                <div class="feedback">
-                  <h2>Help improve this page</h2>
-                  <p>
-                    Please share your ideas, suggestions, or comments via e-mail to <a href="mailto:{{ page.feedbackemail }}?subject='Feedback on {{ page.title }}'">{{ page.feedbackemail }}</a>
-                  </p>
+                            <h1 class="ds_page-header__title">{{ page.title }}</h1>
+                        </div>
+                    </header>
                 </div>
-                {% endif %}
-            </div>
-        </div><!--
-    --></div>
-</div>
-<!-- /end .wrapper -->
 
-{% include footer.html %}
+                {% if page.headings %}
+                    <div class="ds_layout__sidebar">
+                        <ul class="page-group__list">
+                            {% for heading in page.headings %}
+                                <li class="page-group__item">
+                                    <a class="page-group__link  page-group__link--condensed" href="#{{heading | replace:'.', '' | slugify}}">{{ heading }}</a>
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                {% endif %}
+
+                <div class="ds_layout__content">
+                    <div class="main-content">
+                        {{ content }}
+
+                        <nav class="ds_sequential-nav" aria-label="Article navigation">
+                            {% if page.prev %}
+                            <div class="ds_sequential-nav__item  ds_sequential-nav__item--prev">
+                                <a data-navigation="sequential-previous" title="Previous section" href="{{page.prev.url}}" class="ds_sequential-nav__button  ds_sequential-nav__button--left">
+                                    <span class="ds_sequential-nav__text" data-label="previous">
+                                        {{page.prev.title}}
+                                    </span>
+                                </a>
+                            </div>
+                            {% endif %}
+                            {% if page.next %}
+                            <div class="ds_sequential-nav__item  ds_sequential-nav__item--next">
+                                <a data-navigation="sequential-next" title="Next section" href="{{page.next.url}}" class="ds_sequential-nav__button  ds_sequential-nav__button--right">
+                                    <span class="ds_sequential-nav__text" data-label="next">
+                                        {{page.next.title}}
+                                    </span>
+                                </a>
+                            </div>
+                            {% endif %}
+                        </nav>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <div class="ds_page__bottom">
+        {% include footer.html %}
+    </div>
+</div>
+
+
+
+
+
+
+
 
 </body>
 
 </html>
-

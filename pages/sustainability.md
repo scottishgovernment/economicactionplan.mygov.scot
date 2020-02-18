@@ -1,5 +1,5 @@
 ---
-layout: tiles-2-hero
+layout: category-grid
 title:  "Sustainability"
 category: economic-action-plan
 summary: "Seizing the economic opportunities in the low carbon transition."

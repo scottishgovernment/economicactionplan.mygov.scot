@@ -3,104 +3,69 @@
 
 {% include head.html %}
 
-<body class="article {{ page.type }}">
+<body class="article {{ page.type }} {{page.layout}}">
 
-{% include header.html %}
 
-<header>
-    <div class="wrapper">
-        <div class="grid"><!--
-            --><div class="grid__item  medium--ten-twelfths">
-                <div class="article-header">
-                    {% if page.imperative %}
-                        <p class="article-header__prefix">{{ page.imperative }}</p>
-                    {% endif %}
-                    <h1 class="article-header__title">{{ page.title }}</h1>
-                </div>
-            </div><!--
-        --></div>
+<div class="ds_page">
+    <div class="ds_page__top">
+        {% include header.html %}
     </div>
-    <!-- /end .wrapper -->
-</header>
 
-<div class="wrapper">
-    <div class="grid"><!--
+    <div class="ds_page__middle">
 
-        {% if page.headings %}
-        --><div class="grid__item  medium--three-twelfths">
-            <div class="page-group page-group--section-nav">
-
-                {% if page.headings[0].name %}
-                    <ul class="page-group__list">
-                        {% for heading in page.headings %}
-                            <li class="page-group__item  page-group__item--level-0">
-                                {% if heading.url %}
-                                    <a class="page-group__link  page-group__link--condensed" href="{{heading.url}}">{{ heading.name }}</a>
-                                {% else %}
-                                    <a class="page-group__link  page-group__link--condensed" href="#{{heading.name | replace:'.', '' | slugify}}">{{ heading.name }}</a>
-                                {% endif %}
-
-                                {% if heading.nested %}
-                                <ul class="page-group__list">
-                                    {% for subheading in heading.nested %}
-                                    <li class="page-group__item  page-group__item--level-1">
-                                        {% if subheading.url %}
-                                            <a class="page-group__link  page-group__link--condensed" href="{{subheading.url}}">{{ subheading.name }}</a>
-                                        {% else %}
-                                            <a class="page-group__link  page-group__link--condensed" href="#{{subheading.name | replace:'.', '' | slugify}}">{{ subheading.name }}</a>
-                                        {% endif %}
-                                    </li>
-                                    {% endfor %}
-                                </ul>
-                                {% endif %}
-                            </li>
-                        {% endfor %}
-                    </ul>
-                {% else %}
-                    <ul class="page-group__list">
-                        {% for heading in page.headings %}
-                            <li class="page-group__item">
-                                <a class="page-group__link  page-group__link--condensed" href="#{{heading | replace:'.', '' | slugify}}">{{ heading }}</a>
-                            </li>
-                        {% endfor %}
-                    </ul>
-                {% endif %}
-
+        {% if page.thispage != 'home' and page.thispage != 404 %}
+            <div class="ds_wrapper">
+                {% include breadcrumbs.html %}
             </div>
-        </div><!--
         {% endif %}
 
-        --><div class="grid__item  medium--eight-twelfths">
-            <div class="main-content">
-                {% if page.summary %}
-                <h2>Summary</h2>
-                <p class="leader">
-                    {{ page.summary }}
-                </p>
-                <hr />
-                {% elsif page.introduction %}
-                <p class="leader">
-                    {{ page.introduction }}
-                </p>
-                <hr />
-                {% endif %}
+        <div class="ds_wrapper">
 
-                {{ content }}
-                {% if page.feedbackemail %}
-                <div class="feedback">
-                  <h2>Help improve this page</h2>
-                  <p>
-                    Please share your ideas, suggestions, or comments via e-mail to <a href="mailto:{{ page.feedbackemail }}?subject='Feedback on {{ page.title }}'">{{ page.feedbackemail }}</a>
-                  </p>
+            <main id="main-content" class="ds_layout  ds_layout--article">
+                <div class="ds_layout__header">
+                    <header class="heading">
+                        <div class="ds_page-header">
+                            <span class="ds_page-header__label  ds_content-label">{{ page.imperative }}</span>
+
+                            <h1 class="ds_page-header__title">{{ page.title }}</h1>
+                        </div>
+                    </header>
                 </div>
-                {% endif %}
-            </div>
-        </div><!--
-    --></div>
-</div>
-<!-- /end .wrapper -->
 
-{% include footer.html %}
+                {% if page.headings %}
+                    <div class="ds_layout__sidebar">
+                        <nav role="navigation" aria-label="Sections" class="ds_side-navigation" data-module="ds-side-navigation">
+                            <input type="checkbox" class="fully-hidden  js-toggle-side-navigation" id="show-side-navigation" aria-controls="side-navigation-root" />
+                            <label class="ds_side-navigation__expand  ds_link" for="show-side-navigation"><span class="visually-hidden">Show all</span> Sections in this page <span class="ds_side-navigation__expand-indicator"></span></label>
+
+                            <ul class="ds_side-navigation__list  ds_side-navigation__list--root" id="side-navigation-root">
+                                {% for heading in page.headings %}
+                                <li class="ds_side-navigation__item">
+                                    {% if heading.url %}
+                                        <a class="ds_side-navigation__link" href="{{heading.url}}">{{ heading.name }}</a>
+                                    {% else %}
+                                        <a class="ds_side-navigation__link" href="#{{heading.name | replace:'.', '' | slugify}}">{{ heading.name }}</a>
+                                    {% endif %}
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </nav>
+                    </div>
+                {% endif %}
+
+                <div class="ds_layout__content">
+                    <div class="main-content">
+                        {{ content }}
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <div class="ds_page__bottom">
+        {% include footer.html %}
+    </div>
+</div>
 
 </body>
 

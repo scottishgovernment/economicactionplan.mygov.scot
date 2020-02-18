@@ -1,5 +1,5 @@
 ---
-layout: tiles-2-hero
+layout: category-grid
 title:  "Enterprise"
 category: economic-action-plan
 summary: "Streamlining business support and ensuring a competitive business environment."

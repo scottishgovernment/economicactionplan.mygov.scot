@@ -13,8 +13,6 @@ next: { title: "Social enterprises", url: "/enterprise/social-enterprises/" }
 
 ![A photograph of people meeting in a board room](/assets/images/pageimages/Enterprise.13.jpg)
 
----
-
 ## Key points:
 
 - Continued support for Co-operative Development Scotland, the arm of Scotland’s enterprise agencies that supports company growth through collaborative and employee ownership business models.

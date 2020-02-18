@@ -13,8 +13,6 @@ next: { title: "Migration", url: "/international/migration/" }
 
 ![A photograph of delegates at the Guangdong Investor Forum](/assets/images/pageimages/International.16.jpg)
 
----
-
 ## Key points:
 
 * Our new Invest in Scotland Prospectus will target key markets and sectors with positive reasons to invest in Scotland

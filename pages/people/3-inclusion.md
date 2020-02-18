@@ -13,8 +13,6 @@ prev: { title: "Better Outcomes for Children", url: "/people/outcomes-for-childr
 
 ![A photograph of young people grouped for a photograph at an East Neuk fishing village in Fife](/assets/images/pageimages/People.38.jpg)  
 
----
-
 ## Key points:
 
 * Helping parents into work

@@ -13,8 +13,6 @@ next: { title: "Transport Infrastructure and Connectivity", url: "/investment/tr
 
 ![A photograph of a cable used by Hydro Group Scotland](/assets/images/pageimages/Investment.8.jpg)
 
----
-
 ## Key points:
 
 - Conclude delivery of our Digital Scotland Superfast Broadband (DSSB) Programme

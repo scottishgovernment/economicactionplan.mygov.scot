@@ -1,5 +1,5 @@
 ---
-layout: tiles-2-hero
+layout: category-grid
 title:  "Investment"
 category: economic-action-plan
 summary: "Boosting private and public investment and delivering world-class infrastructure."

@@ -6,3 +6,4 @@ _site
 Gemfile*
 .DS_Store
 .ruby-version
+node_modules

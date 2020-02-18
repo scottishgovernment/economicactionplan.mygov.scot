@@ -13,8 +13,6 @@ next: { title: "Data Driven Innovation and Cyber Resilience", url: "/innovation/
 
 ![A photograph of a presenter demonstrating software developed by the Glasgow School of Art Simulation School](/assets/images/pageimages/Innovation.25.jpg)
 
----
-
 ## Key points:
 
 * The Scottish Government and Scotland’s business, academic and public sector partners value the relationships we have with our European partners forging research and innovation collaborations maintain our excellence and can have a global impact.   

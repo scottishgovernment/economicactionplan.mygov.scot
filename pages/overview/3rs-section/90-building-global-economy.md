@@ -11,8 +11,6 @@ next: { title: "Scottish National Investment Bank", url: "/overview/resilience-r
 ---
 ![A photograph of multiple companies with stalls at a collaborative export event](/assets/images/pageimages/Overview.2.jpg)  
 
----
-
 It has never been more important for us to attract and maintain inward investment and the benefit it brings in jobs, capital and talent. We must continue to be an open economy in an increasingly competitive global marketplace. We must do all of this while recognising the global move to a net-zero approach, and the benefits that this shift can bring.  
 
 Following this year's export plan A Trading Nation, we will deliver an inward investment plan that will maximise the wider economic benefits of inward investment to the local and national economy and encourage global businesses to base themselves here.  

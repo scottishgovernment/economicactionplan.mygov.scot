@@ -13,8 +13,6 @@ next: { title: "Inward Investment", url: "/international/inward-investment/" }
 
 ![A photograph of two attendees at the Scottish Export Awards](/assets/images/pageimages/International.17.jpg)
 
----
-
 ## Key points:
 
 * We will work with partners to develop and drive one clear brand Scotland

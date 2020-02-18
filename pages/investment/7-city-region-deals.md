@@ -13,8 +13,6 @@ next: { title: "Climate-neutral Economy", url: "/investment/climate-neutral-econ
 
 ![An aerial photograph of the Dundee waterfront](/assets/images/pageimages/Investment.10.jpg)
 
----
-
 ## Key points:
 
 - City Region and other regional Growth Deals act as enablers to unlock economic assets

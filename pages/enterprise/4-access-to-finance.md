@@ -13,8 +13,6 @@ next: { title: "Driving Entrepreneurship", url: "/enterprise/driving-entrepreneu
 
 ![A photograph of a female staff member working on contactless card machine products](/assets/images/pageimages/Enterprise.14.jpg)
 
----
-
 ## Key points:
 
 - The [Scottish National Investment Bank](https://www.gov.scot/policies/economic-growth/scottish-national-investment-bank/) to be operational in 2020 and investing £2 billion over 10 years in businesses and communities
