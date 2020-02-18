@@ -4,7 +4,7 @@
             {% assign indexed = site.pages | where:"category", page.navitems | sort: 'index', 'first' %}
             {% for item in indexed %}
 
-            <li class="ds_card  ds_card--no-padding  ds_card--has-hover">
+            <li class="ds_card  ds_card--has-hover">
                 <article class="ds_category-item  ds_category-item--card">
                     <h2 class="ds_category-item__title">
                         <a data-navigation="category-item-1" href="{{ item.url }}" class="ds_category-item__link">{{ item.title }}</a>
