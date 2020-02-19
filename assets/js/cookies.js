@@ -81,14 +81,14 @@ var handleCookies = function(){
 
     // check whether we need to display the cookie notice
     if (!utils.cookie('eap-cookie-notification-acknowledged')) {
-        cookieNotice.classList.remove('hidden');
+        cookieNotice.classList.remove('fully-hidden');
     }
 
     // bind a click handler to the close button
     cookieNoticeClose.onclick = function(event) {
         event.preventDefault();
 
-        cookieNotice.classList.add('hidden');
+        cookieNotice.classList.add('fully-hidden');
         utils.cookie('eap-cookie-notification-acknowledged', 'yes', 365);
     };
 };
