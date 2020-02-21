@@ -5,7 +5,7 @@ category: the-3rs
 summary: ""
 index: 5
 parent: the-3rs
-permalink: /overview/resilience-growth/
+permalink: /overview/resilience-recovery-restructuring/resilience-growth/
 next: {title: "Realising the climate enterprise opportunity", url: "/overview/resilience-recovery-restructuring/realising-the-climate-enterprise-opportunity/"}
 ---
 

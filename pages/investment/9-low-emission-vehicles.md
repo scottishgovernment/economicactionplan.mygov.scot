@@ -3,7 +3,7 @@ layout: default
 title:  "Ultra-Low Emission Vehicles"
 category: investment
 summary: "Putting Scotland at the forefront of markets in Ultra-Low Emission Vehicles."
-index: 8
+index: 9
 parent: investment
 permalink: /investment/ultra-low-emission-vehicles/
 prev: { title: "Climate-neutral Economy", url: "/investment/climate-neutral-economy/" }

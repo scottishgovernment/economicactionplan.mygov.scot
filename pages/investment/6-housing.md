@@ -3,7 +3,7 @@ layout: default
 title:  "Housing"
 category: investment
 summary: "Delivering more and better housing across all of Scotland"
-index: 5
+index: 6
 parent: investment
 permalink: /investment/housing/
 prev: { title: "Transport Infrastructure and Connectivity", url: "/investment/transport-infrastructure/" }

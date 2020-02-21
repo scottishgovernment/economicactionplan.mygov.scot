@@ -3,7 +3,7 @@ layout: default
 title:  "City Region and Other Growth Deals"
 category: investment
 summary: "Delivering transformational investment for Scotland’s regions."
-index: 6
+index: 7
 parent: investment
 permalink: /investment/city-region-deals/
 prev: { title: "Housing", url: "/investment/housing/" }
