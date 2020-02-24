@@ -28,7 +28,7 @@ We also know that the successful economies of the 21st century will be climate-n
 
 <div class="case-study" markdown="1">
 
-## *case study:*{:.hidden} Building Scotland’s biggest port
+<h2 id="case-study-building-scotlands-biggest-port">Building Scotland’s biggest port</h2>
 
 Established in 1136, Aberdeen Harbour is officially recognised by the Guinness Book of Records as one of Britain’s oldest existing businesses. Soon, it will be able to claim the title of Scotland’s biggest port.
 
