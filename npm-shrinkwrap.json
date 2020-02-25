@@ -1,0 +1,12 @@
+{
+  "name": "mygovscot-resources",
+  "version": "0.0.0",
+  "dependencies": {
+    "@scottish-government/pattern-library": {
+      "version": "0.0.52",
+      "from": "@scottish-government/pattern-library@>=0.0.52 <0.0.53",
+      "resolved": "http://nexus.digital.gov.uk/repository/npm-all/@scottish-government/pattern-library/-/pattern-library-0.0.52.tgz",
+      "dev": true
+    }
+  }
+}

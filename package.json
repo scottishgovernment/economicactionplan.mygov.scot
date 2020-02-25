@@ -13,6 +13,6 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@scottish-government/pattern-library": "^0.0.51"
+    "@scottish-government/pattern-library": "^0.0.52"
   }
 }
