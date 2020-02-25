@@ -1,9 +1,23 @@
 .ds_card {
-    &__figure {
+    &__media {
         border-bottom: 5px solid $color__brand--secondary;
+        position: relative;
+        pointer-events: none;
+        z-index: 1;
+
+        &::after {
+            background: linear-gradient(to left, $color__brand--primary, $color__brand--secondary);
+            bottom: 0;
+            content: '';
+            left: 0;
+            opacity: 0.2;
+            position: absolute;
+            right: 0;
+            top: 0;
+        }
     }
 
-    &__figure + &__content {
+    &__media + &__content {
         text-align: center;
 
         font-size: (16/19 * 1rem);
