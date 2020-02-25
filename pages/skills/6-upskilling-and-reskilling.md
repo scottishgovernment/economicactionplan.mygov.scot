@@ -37,7 +37,7 @@ In addition we will continue to provide opportunities for the existing workforce
 
 <div class="case-study" markdown="1">
 
-<h2><span class="hidden">Case study:</span> Craft beer specialist Brewdog apprenticeship programme</h2>
+<h2><span class="visually-hidden">Case study:</span> Craft beer specialist Brewdog apprenticeship programme</h2>
 
 In 2015, Brewdog made use of Skills Development Scotland’s Skills for Growth initiative, which provides free consultancy and support to identify growth priorities.
 

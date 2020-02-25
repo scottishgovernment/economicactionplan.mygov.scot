@@ -31,7 +31,7 @@ Communities are a key driver for inclusive growth and provide opportunities for 
 
 <div class="case-study" markdown="1">
 
-<h2><span class="hidden">Case study:</span> Barclays world-class campus takes shape in Glasgow</h2>
+<h2><span class="visually-hidden">Case study:</span> Barclays world-class campus takes shape in Glasgow</h2>
 
 Glasgow’s financial services sector received a major boost after Barclays announced plans to develop a new 5000-person campus on the banks for the River Clyde.
 

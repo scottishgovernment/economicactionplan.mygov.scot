@@ -59,7 +59,7 @@ Our Digital Commercial Service sits within the Digital Directorate, and as a joi
 
 <div class="case-study" markdown="1">
 
-<h2><span class="hidden">Case study:</span></h2>
+<h2><span class="visually-hidden">Case study:</span></h2>
 
 Geraldine Duffy, Owner of Weans World Childcare in Coatbridge, really enjoys her job, despite it being challenging at times. She loves helping young children reach milestones and teaching the wee ones, especially those without siblings, to share and be part of a team. Together with her husband, Chris, who works as her assistant, Geraldine’s childminding business goes from strength to strength, and Weans World received an excellent grading in its annual inspection from the Care Inspectorate.
 

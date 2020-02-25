@@ -36,7 +36,7 @@ Scottish Enterprise is running a series of workshops explaining employee ownersh
 
 <div class="case-study" markdown="1">
 
-<h2><span class="hidden">Case study:</span> Arjowiggins management buy-out safeguards 450 jobs in Aberdeen</h2>
+<h2><span class="visually-hidden">Case study:</span> Arjowiggins management buy-out safeguards 450 jobs in Aberdeen</h2>
 
 In September 2019, the management team of Arjowiggins Creative Papers announced it had concluded a successful management buy-out. This safeguarded 450 jobs and the future of Aberdeen’s historic Stoneywood paper mill.
 

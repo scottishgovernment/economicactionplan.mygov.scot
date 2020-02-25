@@ -14,6 +14,7 @@ $color__border--highlight: $color__brand--secondary;
 @import "../../node_modules/@scottish-government/pattern-library/src/forms/all-forms";
 @import "base/base.page";
 @import "base/base.eap-layouts";
+@import "base/base.tables";
 
 
 
@@ -23,6 +24,7 @@ $color__border--highlight: $color__brand--secondary;
  */
 $page-nav__icon-color: $color__link;
 @import "../../node_modules/@scottish-government/pattern-library/src/components/all-components";
+@import "components/component.case-study";
 
 
 

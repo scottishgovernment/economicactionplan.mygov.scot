@@ -28,7 +28,7 @@ And we have continued to develop the range and reach of our international networ
 
 <div class="case-study" markdown="1">
 
-<h2><span class="hidden">Case study:</span> Ready for take-off with Spire Global</h2>
+<h2><span class="visually-hidden">Case study:</span> Ready for take-off with Spire Global</h2>
 
 Scotland’s space sector is set for lift-off after the First Minister announced £14.7 million of support for Spire Global to grow its operations in Glasgow. 
 

@@ -31,7 +31,7 @@ And  we will also be considering the recommendations from both the Muscatelli an
 
 <div class="case-study" markdown="1">
 
-<h2><span class="hidden">Case study:</span> University team develops innovative device to improve cancer diagnosis and treatment</h2>
+<h2><span class="visually-hidden">Case study:</span> University team develops innovative device to improve cancer diagnosis and treatment</h2>
 
 Researchers from Heriot-Watt University’s Natantis team were recently awarded £574,500 from Scottish Enterprise’s High Growth Spin-out Programme. This will enable it to commercially develop an innovative device that could revolutionise the way blood samples are prepared for use in cancer diagnosis and treatment monitoring – producing faster, cheaper, more reliable and better-quality samples.  
 

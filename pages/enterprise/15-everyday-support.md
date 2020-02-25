@@ -38,7 +38,7 @@ Valuable breathing space to pay debts is also available to small businesses whic
 
 <div class="case-study" markdown="1">
 
-<h2><span class="hidden">Case study:</span> Helping Scottish companies prepare for Brexit</h2>
+<h2><span class="visually-hidden">Case study:</span> Helping Scottish companies prepare for Brexit</h2>
 
 The Prepare for Brexit campaign was launched in November 2018 and is a coordinated, pan-Scotland offering to support businesses, regardless of size, sector or location. It’s delivered in partnership by Scottish Government, Scottish Enterprise, Highlands and Islands Enterprise, Skills Development Scotland and Business Gateway.
 

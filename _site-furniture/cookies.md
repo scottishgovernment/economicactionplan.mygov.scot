@@ -5,7 +5,6 @@ permalink: /cookies/
 parent: home
 thispage: cookies
 headings:
- - name: Cookies
  - name: Why we use cookies
  - name: Cookies that we set
    nested:

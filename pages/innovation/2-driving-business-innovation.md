@@ -25,7 +25,7 @@ Business R&D in Scotland is closely linked to the world-leading R&D taking place
 
 <div class="case-study" markdown="1">
 
-<h2><span class="hidden">Case study:</span> State-of-the-art new freshwater salmon hatchery will enhance fish health and welfare</h2>
+<h2><span class="visually-hidden">Case study:</span> State-of-the-art new freshwater salmon hatchery will enhance fish health and welfare</h2>
 
 Salmon farming company Scottish Sea Farms announced in 2018 that it was to open a new £48 million freshwater hatchery at Barcaldine near Oban, with the aim of further improving how fish are farmed in Scotland.
 
@@ -50,7 +50,7 @@ We recognise the importance of progressive business models, workplace innovation
 
 <div class="case-study" markdown="1">
 
-<h2><span class="hidden">Case study:</span></h2>
+<h2><span class="visually-hidden">Case study:</span></h2>
 
 Perth and Kinross Council, supported by the Can Do Innovation Challenge Fund, is co-developing an innovative smart low carbon energy network with five Scottish small to medium enterprises. The project aims to reduce carbon emissions while delivering a cost saving to the council.
 

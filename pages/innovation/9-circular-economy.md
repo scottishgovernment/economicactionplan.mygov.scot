@@ -26,7 +26,7 @@ We are also establishing a Just Transition Commission to advise Scottish Ministe
 
 <div class="case-study" markdown="1">
 
-<h2><span class="hidden">Case study:</span></h2>
+<h2><span class="visually-hidden">Case study:</span></h2>
 
 Peel Tech is a Scottish invention which takes waste from a typical potato peeler separating waste skin and compacting potato starch so that drains are free from waste and peelings can be used for animal feed.  The technology which is being rolled out across typical “Fish and Chip” shops in Scotland, will help businesses comply with Waste Regulations.
 
@@ -39,7 +39,7 @@ With 80% of the offshore resource across the world in deeper water, floating off
 
 <div class="case-study" markdown="1">
 
-<h2><span class="hidden">Case study:</span></h2>
+<h2><span class="visually-hidden">Case study:</span></h2>
 
 The UK’s most northerly mainland distillery, Dunnet Bay in Caithness, is offering its Rock Rose Gin in fully recyclable pouches, an innovation which is the first of its kind in the UK.
 

@@ -2265,6 +2265,79 @@ html {
     }
   }
 }
+/*------------------------------------*\
+    $TABLES
+    From mygov-assets
+\*------------------------------------*/
+/* line 18, ../_scss/base/_base.tables.scss */
+tr:first-child td, th {
+  border-bottom: 1px solid #333333;
+  font-weight: 700;
+  padding: 10px 5px;
+  text-align: left;
+  vertical-align: top;
+}
+
+/* line 26, ../_scss/base/_base.tables.scss */
+td, thead + tbody tr:first-child td {
+  border-bottom: 1px solid #ebebeb;
+  padding: 10px 5px;
+  vertical-align: top;
+}
+
+/* line 32, ../_scss/base/_base.tables.scss */
+table {
+  font-size: 14px;
+  line-height: 19px;
+  margin: 28px 0;
+  width: 100%;
+}
+
+/* line 48, ../_scss/base/_base.tables.scss */
+tr:nth-child(2n) td {
+  background: #f8f8f8;
+}
+
+/* line 58, ../_scss/base/_base.tables.scss */
+thead + tbody tr:first-child td {
+  font-weight: 400;
+}
+/* line 63, ../_scss/base/_base.tables.scss */
+thead + tbody tr:nth-child(2n) td {
+  background: transparent;
+}
+/* line 67, ../_scss/base/_base.tables.scss */
+thead + tbody tr:nth-child(2n - 1) td {
+  background: #f8f8f8;
+}
+
+@media (min-width: 768px) {
+  /* line 73, ../_scss/base/_base.tables.scss */
+  table {
+    font-size: 16px;
+    line-height: 21px;
+  }
+
+  /* line 78, ../_scss/base/_base.tables.scss */
+  tr:first-child td:first-child {
+    padding-left: 15px;
+  }
+
+  /* line 82, ../_scss/base/_base.tables.scss */
+  tr:first-child td:last-child {
+    padding-right: 15px;
+  }
+
+  /* line 86, ../_scss/base/_base.tables.scss */
+  tr > :first-child {
+    padding-left: 15px;
+  }
+
+  /* line 90, ../_scss/base/_base.tables.scss */
+  tr > :last-child {
+    padding-right: 15px;
+  }
+}
 /**
  * COMPONENTS FROM DESIGN SYSTEM
  */
@@ -5144,6 +5217,52 @@ span.ds_site-navigation__link.ds_current {
     top: 30px;
   }
 }
+/* line 1, ../_scss/components/_component.case-study.scss */
+.case-study {
+  background-color: #f8f8f8;
+  border-left: 4px solid #0065bd;
+  clear: both;
+  font-size: 15px;
+  line-height: 21px;
+  margin: 35px 0;
+  padding: 14px 10px 14px 21px;
+}
+
+/* line 12, ../_scss/components/_component.case-study.scss */
+.case-study h2 {
+  font-weight: 100;
+  font-size: 35px;
+  margin-top: 21px;
+  margin-bottom: 14px;
+}
+
+/* line 19, ../_scss/components/_component.case-study.scss */
+.case-study h2:before {
+  content: "case study";
+  text-transform: uppercase;
+  display: block;
+  font-size: 12px;
+  margin-top: -14px;
+  margin-bottom: 0;
+  color: #0065bd;
+  font-weight: 700;
+}
+
+@media (min-width: 768px) {
+  /* line 32, ../_scss/components/_component.case-study.scss */
+  .case-study {
+    font-size: 19px;
+    line-height: 28px;
+    padding-right: 35px;
+    padding-left: 35px;
+    top: 0;
+  }
+
+  /* line 40, ../_scss/components/_component.case-study.scss */
+  .case-study h2:before {
+    margin-bottom: -7px;
+  }
+}
 /**
  * OVERRIDES
  */
@@ -5220,7 +5339,7 @@ span.ds_site-navigation__link.ds_current {
   background-color: #A51765;
 }
 
-/* line 37, ../_scss/main.scss */
+/* line 39, ../_scss/main.scss */
 .ds_category-header {
   margin: 14px 0 28px 0;
 }

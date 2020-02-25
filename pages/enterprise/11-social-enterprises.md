@@ -38,7 +38,7 @@ The Scottish Government is committed to further supporting this important sector
 
 <div class="case-study" markdown="1">
 
-<h2><span class="hidden">Case study:</span> Positive Changes, Community Interest Company</h2>
+<h2><span class="visually-hidden">Case study:</span> Positive Changes, Community Interest Company</h2>
 
 Positive Changes supports women who have touched the Scottish criminal justice system by helping them towards employment through the making and selling of chocolates.
 

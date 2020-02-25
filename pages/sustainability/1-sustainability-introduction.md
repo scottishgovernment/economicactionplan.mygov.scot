@@ -20,7 +20,7 @@ The new, statutory, five year Climate Change Adaptation Programme will set out a
 
 <div class="case-study" markdown="1">
 
-<h2><span class="hidden">Case study:</span> Urban Foresight puts the wheels in motion on e-bike project</h2>
+<h2><span class="visually-hidden">Case study:</span> Urban Foresight puts the wheels in motion on e-bike project</h2>
 
 Urban Foresight is a smart city consultancy based in Dundee, which helps cities deliver environmentally-focussed services such as electric vehicle charging, is working on innovative projects such as the UK’s largest e-bike scheme.
 

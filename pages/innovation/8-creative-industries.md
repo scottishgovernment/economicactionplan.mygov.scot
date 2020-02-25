@@ -32,7 +32,7 @@ We are providing £475,000 to support the National Film and Television School to
 
 <div class="case-study" markdown="1">
 
-<h2><span class="hidden">Case study:</span></h2>
+<h2><span class="visually-hidden">Case study:</span></h2>
 
 The UK’s most northerly mainland distillery, Dunnet Bay in Caithness, is offering its Rock Rose Gin in fully recyclable pouches, an innovation which is the first of its kind in the UK.
 

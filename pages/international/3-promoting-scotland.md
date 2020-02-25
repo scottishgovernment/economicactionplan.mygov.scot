@@ -32,7 +32,7 @@ This year, we also launched Phase 2 of our Food and Drink Export Plan, backed by
 
 <div class="case-study" markdown="1">
 
-<h2><span class="hidden">Case study:</span> A team approach brings new investment</h2>
+<h2><span class="visually-hidden">Case study:</span> A team approach brings new investment</h2>
 
 MIPIM is the world’s biggest real estate exhibition, with more than 26,800 participants from more than 100 countries, bringing together the most influential players from all international property sectors. The event offers unrivalled access to the greatest number of development projects and sources of capital worldwide.
 

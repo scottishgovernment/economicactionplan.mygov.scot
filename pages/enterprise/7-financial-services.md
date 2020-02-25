@@ -22,7 +22,7 @@ We will continue to work with the sector to attract new investment and jobs to S
 
 <div class="case-study" markdown="1">
 
-<h2><span class="hidden">Case study:</span> Barclays world-class campus takes shape in Glasgow</h2>
+<h2><span class="visually-hidden">Case study:</span> Barclays world-class campus takes shape in Glasgow</h2>
 
 Glasgow’s financial services sector received a major boost after Barclays announced plans to develop a new 5000-person campus on the banks for the River Clyde.
 Barclays operates in 40 countries across the world, and the development in Glasgow will sit alongside Whippany in New Jersey and Pune in India as part of a global strategy to create world-class facilities for the bank’s functions, technology and operations teams.
