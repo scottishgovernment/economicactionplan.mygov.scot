@@ -1,11 +1,25 @@
 {
-  "name": "mygovscot-resources",
+  "name": "economicactionplan.mygov.scot",
   "version": "0.0.0",
   "dependencies": {
     "@scottish-government/pattern-library": {
       "version": "0.0.52",
-      "from": "@scottish-government/pattern-library@>=0.0.52 <0.0.53",
-      "resolved": "http://nexus.digital.gov.uk/repository/npm-all/@scottish-government/pattern-library/-/pattern-library-0.0.52.tgz",
+      "dev": true
+    },
+    "sealant": {
+      "version": "0.0.3",
+      "dependencies": {
+        "json-stable-stringify": {
+          "version": "1.0.1",
+          "dependencies": {
+            "jsonify": {
+              "version": "0.0.0",
+              "dev": true
+            }
+          },
+          "dev": true
+        }
+      },
       "dev": true
     }
   }

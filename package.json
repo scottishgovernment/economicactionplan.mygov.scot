@@ -1,18 +1,22 @@
 {
-  "name": "mygovscot-resources",
-  "description": "Resources site for myov.scot",
+  "name": "economicactionplan.mygov.scot",
+  "description": "Economic Action Plan",
   "version": "0.0.0",
   "repository": {
     "type": "git",
-    "url": "ssh://git@stash.digital.gov.uk:7999/mgv/scottishgovernment.github.io.git"
+    "url": "ssh://git@stash.digital.gov.uk:7999/mgv/economicactionplan.mygov.scot.git"
   },
   "author": {
     "name": "mygov.scot Digital Engineering team",
     "email": "mygov-tech-team@gov.scot",
     "url": "http://www.mygov.scot/"
   },
+  "scripts": {
+    "postshrinkwrap": "node_modules/.bin/sealant"
+  },
   "dependencies": {},
   "devDependencies": {
-    "@scottish-government/pattern-library": "^0.0.52"
+    "@scottish-government/pattern-library": "0.0.52",
+    "sealant": "0.0.3"
   }
 }
