@@ -17,15 +17,15 @@ next: { title: "Innovative Sectors and Places", url: "/innovation/sectors-and-pl
 * Aim to grow Scotland’s business expenditure on R&D
 * Delivering workplace innovation programmes to support companies to unlock hidden talent and innovative new ideas.
 
-We have set an ambitious target of doubling Scotland’s business expenditure on research and development (R&D) from £875m in 2015 to £1.7bn by 2025.  To assist with this, we are providing over £110m in grant support for business R&D over the next 3 years by increasing grant support for R&D from £22m to £37m per annum. Significant progress is already being made – business expenditure on R&D in 2018 was £1.242bn.  Businesses in Scotland employed around 14,000 R&D staff in 2018, up from around 13,000 in 2017 – which takes BERD jobs in Scotland to their highest level in the series. 
+We have set an ambitious target of doubling Scotland’s business expenditure on research and development (R&D) from £875m in 2015 to £1.7bn by 2025.  To assist with this, we are providing over £110m in grant support for business R&D over the next 3 years by increasing grant support for R&D from £22m to £37m per annum. Significant progress is already being made – business expenditure on R&D in 2018 was £1.242bn.  Businesses in Scotland employed around 14,000 R&D staff in 2018, up from around 13,000 in 2017 – which takes BERD jobs in Scotland to their highest level in the series.
 
-In addition we are committing up to £750,000 until 2020 to support the Rural Innovation Support Service to broker collaborative innovation specifically in the food and drink supply chain.  
+In addition we are committing up to £750,000 until 2020 to support the Rural Innovation Support Service to broker collaborative innovation specifically in the food and drink supply chain.
 
-Business R&D in Scotland is closely linked to the world-leading R&D taking place in our universities. We will continue to support university research activities in Scotland, and related interactions with businesses, through SFC.  
+Business R&D in Scotland is closely linked to the world-leading R&D taking place in our universities. We will continue to support university research activities in Scotland, and related interactions with businesses, through SFC.
 
 <div class="case-study" markdown="1">
 
-## *case study:*{:.hidden} State-of-the-art new freshwater salmon hatchery will enhance fish health and welfare
+<h2><span class="hidden">Case study:</span> State-of-the-art new freshwater salmon hatchery will enhance fish health and welfare</h2>
 
 Salmon farming company Scottish Sea Farms announced in 2018 that it was to open a new £48 million freshwater hatchery at Barcaldine near Oban, with the aim of further improving how fish are farmed in Scotland.
 
@@ -50,22 +50,22 @@ We recognise the importance of progressive business models, workplace innovation
 
 <div class="case-study" markdown="1">
 
-## *case study:*{:.hidden}
+<h2><span class="hidden">Case study:</span></h2>
 
-Perth and Kinross Council, supported by the Can Do Innovation Challenge Fund, is co-developing an innovative smart low carbon energy network with five Scottish small to medium enterprises. The project aims to reduce carbon emissions while delivering a cost saving to the council.  
+Perth and Kinross Council, supported by the Can Do Innovation Challenge Fund, is co-developing an innovative smart low carbon energy network with five Scottish small to medium enterprises. The project aims to reduce carbon emissions while delivering a cost saving to the council.
 
-The project has already led to 15 new jobs across the five companies, with an additional 66 jobs forecast in the next three years. Three of the five companies have developed protectable IP and have managed to gain £2.5 million additional investment as a result of the project. The forecasted, future revenue from the project is expected to be over £5 million.  
+The project has already led to 15 new jobs across the five companies, with an additional 66 jobs forecast in the next three years. Three of the five companies have developed protectable IP and have managed to gain £2.5 million additional investment as a result of the project. The forecasted, future revenue from the project is expected to be over £5 million.
 
-One of the companies, Edinburgh based technology developer StorTera, has developed innovative battery technology, attracted additional investment, grown the business and started exporting - all as a direct result of the project.  
+One of the companies, Edinburgh based technology developer StorTera, has developed innovative battery technology, attracted additional investment, grown the business and started exporting - all as a direct result of the project.
 
-The council has gained valuable innovation management experience through the process while being able to develop five innovative proof of concept solutions. The initial carbon savings in phase 1 alone has been 17 tonnes of CO2 with considerable future savings expected in phase 2. A clear line to future procurement has been established which will deliver significant economic impact directly, and indirectly, for the council.  
+The council has gained valuable innovation management experience through the process while being able to develop five innovative proof of concept solutions. The initial carbon savings in phase 1 alone has been 17 tonnes of CO2 with considerable future savings expected in phase 2. A clear line to future procurement has been established which will deliver significant economic impact directly, and indirectly, for the council.
 
 Michael Figures, Business developments project officer at Perth and Kinross Council said:
 
 “The Can Do Innovation Challenge Fund is a great way to encourage and explore innovation to develop cutting-edge solutions to meet the challenges of today and tomorrow, for an ever-more inter-connected and complex world.”
 </div>
 
-In Realising Scotland’s Full Potential in a Digital World: “A Digital Strategy For Scotland” Scottish Government made a commitment to support people and communities through social changes. Developing the frameworks and principles that provide the foundations of an ethical approach to digital technologies will that appropriate guidance is in place to enable a confident and secure digital society.  
+In Realising Scotland’s Full Potential in a Digital World: “A Digital Strategy For Scotland” Scottish Government made a commitment to support people and communities through social changes. Developing the frameworks and principles that provide the foundations of an ethical approach to digital technologies will that appropriate guidance is in place to enable a confident and secure digital society.
 
 Lastly, our new Research Data Scotland service will launch in Spring 2020. It will provide support for researchers to access and use data about people, places and businesses in a secure setting for public benefit and help to attract investment to Scotland.
 

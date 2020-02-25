@@ -3,7 +3,7 @@ layout: default
 title:  "Transport Infrastructure and Connectivity"
 category: investment
 summary: "Delivering investments in our transport network"
-index: 4
+index: 5
 parent: investment
 permalink: /investment/transport-infrastructure/
 prev: { title: "Digital and Mobile Connectivity", url: "/investment/digital-mobile-connectivity/" }

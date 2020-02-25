@@ -6,7 +6,7 @@ summary: ""
 index: 10
 parent: the-3rs
 permalink: /overview/resilience-recovery-restructuring/realising-the-climate-enterprise-opportunity/
-prev: { title: "Resilience and growth", url: "/overview/resilience-growth/"}
+prev: { title: "Resilience and growth", url: "/overview/resilience-recovery-restructuring/resilience-growth/"}
 next: { title: "Transforming our support for business", url: "/overview/resilience-recovery-restructuring/transforming-our-support-for-business/" }
 ---
 

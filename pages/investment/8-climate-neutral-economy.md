@@ -3,7 +3,7 @@ layout: default
 title:  "Climate-neutral Economy"
 category: investment
 summary: "Leading the transition to a carbon neutral economy."
-index: 7
+index: 8
 parent: investment
 permalink: /investment/climate-neutral-economy/
 prev: { title: "City Region and Other Growth Deals", url: "/investment/city-region-deals/" }

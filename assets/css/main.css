@@ -2174,19 +2174,19 @@ fieldset {
     anchor footer to bottom of the viewport on short pages
     dev note: this might be pattern library material
 \*------------------------------------*/
-/* line 16, ../_scss/base/_base.page.scss */
+/* line 7, ../_scss/base/_base.page.scss */
 html {
   min-height: 100%;
   position: relative;
 }
 
-/* line 21, ../_scss/base/_base.page.scss */
+/* line 12, ../_scss/base/_base.page.scss */
 .ds_page {
   min-height: calc(100vh - 350px);
   margin-bottom: 350px;
 }
 
-/* line 26, ../_scss/base/_base.page.scss */
+/* line 17, ../_scss/base/_base.page.scss */
 .ds_site-footer {
   position: absolute;
   bottom: 0;
@@ -2195,7 +2195,7 @@ html {
 }
 
 @supports (display: grid) {
-  /* line 34, ../_scss/base/_base.page.scss */
+  /* line 25, ../_scss/base/_base.page.scss */
   .ds_page {
     display: grid;
     margin-bottom: 0;
@@ -2203,7 +2203,7 @@ html {
     grid-template-rows: auto 1fr auto;
   }
 
-  /* line 41, ../_scss/base/_base.page.scss */
+  /* line 32, ../_scss/base/_base.page.scss */
   .ds_site-footer {
     position: static;
   }
@@ -2211,14 +2211,14 @@ html {
 /*------------------------------------*\
     CATEGORY PAGE LAYOUT
 \*------------------------------------*/
-/* line 50, ../_scss/base/_base.page.scss */
+/* line 41, ../_scss/base/_base.page.scss */
 .ds_page__middle {
   display: grid;
   grid-template-rows: auto 1fr;
   position: relative;
 }
 
-/* line 56, ../_scss/base/_base.page.scss */
+/* line 47, ../_scss/base/_base.page.scss */
 .category-lower {
   padding-bottom: 70px;
   background: #f8f8f8;
@@ -2507,30 +2507,114 @@ html {
   background-color: #ffffff;
   box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.15);
   display: block;
-  outline: 0 !important;
-  padding: 21px 15px;
+  padding: 0;
   position: relative;
   transition: background-color 0.2s, outline-color 0.2s;
   z-index: 1;
 }
-/* line 15, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+/* line 14, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
 .ds_card :last-child {
   margin-bottom: 0;
 }
-/* line 19, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
-.ds_card--no-padding {
-  padding: 0;
-}
-/* line 22, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
-.ds_card--no-padding > * {
-  margin-bottom: 0;
-  margin-top: 0;
-}
-/* line 28, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+/* line 18, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
 .ds_card--has-hover:hover {
   box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25);
 }
+/* line 22, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+.ds_card__media {
+  background-color: #333333;
+  margin-bottom: 0;
+  overflow: hidden;
+  padding-bottom: calc(900%/16);
+  pointer-events: none;
+  position: relative;
+  z-index: 1;
+}
+/* line 32, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+.ds_card__media--235 {
+  padding-bottom: calc(10000%/235);
+}
+/* line 37, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+.ds_card__image {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+/* line 44, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+.ds_card__content {
+  padding: 21px 15px;
+}
+/* line 47, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+.ds_card__content > :first-child {
+  margin-top: 0;
+}
+/* line 52, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+.ds_card__cover-link {
+  outline: 0 !important;
+}
+/* line 55, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+.ds_card__cover-link:focus, .ds_card__cover-link:active, .ds_card__cover-link:hover {
+  background-color: transparent;
+  box-shadow: none;
+  text-decoration: underline;
+}
+/* line 63, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+.ds_card__cover-link::after {
+  bottom: 0;
+  content: "";
+  height: 100%;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 0;
+  transition: background-color 0.2s;
+  mix-blend-mode: darken;
+}
+/* line 77, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+.ds_card__cover-link:hover::after {
+  background-color: #d9effc;
+}
+/* line 81, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+.ds_card__cover-link:active::after, .ds_card__cover-link:focus::after {
+  background-color: #fdd522;
+  box-shadow: inset 0 -3px #333333;
+  transition-duration: 0s;
+}
+/* line 89, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+.ds_card--small {
+  font-size: 14px;
+  line-height: 21px;
+}
+/* line 93, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+.ds_card--small h2 {
+  font-size: 1.105263rem;
+  line-height: 28px;
+  margin-bottom: 0;
+}
+/* line 100, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+.ds_card--transparent {
+  background-color: transparent;
+  box-shadow: none;
+}
+/* line 104, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+.ds_card--transparent .ds_card__content {
+  padding-left: 0;
+  padding-right: 0;
+}
+/* line 110, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+.ds_card--padding {
+  padding: 14px 15px;
+}
 
+@supports (object-fit: contain) {
+  /* line 116, ../../node_modules/@scottish-government/pattern-library/src/components/card/_card.scss */
+  .ds_card__image {
+    object-fit: cover;
+    width: 100%;
+  }
+}
 /*------------------------------------*\
     CATEGORY HEADER
 \*------------------------------------*/
@@ -5064,30 +5148,44 @@ span.ds_site-navigation__link.ds_current {
  * OVERRIDES
  */
 /* line 2, ../_scss/overrides/_override.card.scss */
-.ds_card__figure {
+.ds_card__media {
   border-bottom: 5px solid #00a5b5;
-  padding-bottom: calc(10000%/235) !important;
+  position: relative;
+  pointer-events: none;
+  z-index: 1;
 }
-/* line 7, ../_scss/overrides/_override.card.scss */
-.ds_card__figure + .ds_card__content {
+/* line 8, ../_scss/overrides/_override.card.scss */
+.ds_card__media::after {
+  background: linear-gradient(to left, #002d54, #00a5b5);
+  bottom: 0;
+  content: '';
+  left: 0;
+  opacity: 0.2;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+/* line 20, ../_scss/overrides/_override.card.scss */
+.ds_card__media + .ds_card__content {
   text-align: center;
-}
-/* line 11, ../_scss/overrides/_override.card.scss */
-.ds_card__content {
   font-size: 0.84211rem;
   line-height: 21px;
   padding-top: 7px !important;
   padding-bottom: 49px !important;
 }
-/* line 17, ../_scss/overrides/_override.card.scss */
-.ds_card__content h2 {
+/* line 28, ../_scss/overrides/_override.card.scss */
+.ds_card__media + .ds_card__content h2 {
   font-size: 1.10526rem;
   line-height: 28px;
   margin-bottom: 7px;
 }
-/* line 23, ../_scss/overrides/_override.card.scss */
-.ds_card__content::after {
-  content: 'Find out more';
+/* line 35, ../_scss/overrides/_override.card.scss */
+.ds_card > .ds_category-item {
+  position: static;
+}
+
+/* line 40, ../_scss/overrides/_override.card.scss */
+.eap_card__button {
   display: inline-block;
   color: #ffffff;
   background: #002d54;
@@ -5098,10 +5196,6 @@ span.ds_site-navigation__link.ds_current {
   left: 0;
   right: 0;
   pointer-events: none;
-}
-/* line 40, ../_scss/overrides/_override.card.scss */
-.ds_card > .ds_category-item {
-  position: static;
 }
 
 /* line 8, ../_scss/overrides/_override.future-skills-colorway.scss */

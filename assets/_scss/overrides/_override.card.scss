@@ -30,25 +30,22 @@
             line-height: 28px;
             margin-bottom: 7px;
         }
-
-        &::after {
-            content: 'Find out more';
-
-            display: inline-block;
-            color: #ffffff;
-            background: #002d54;
-            padding: 7px 21px;
-
-            position: absolute;
-            bottom: 0;
-            margin: 0 25%;
-            left: 0;
-            right: 0;
-            pointer-events: none;
-        }
     }
 
     > .ds_category-item {
         position: static;
     }
+}
+
+.eap_card__button {
+    display: inline-block;
+    color: #ffffff;
+    background: #002d54;
+    padding: 7px 21px;
+    position: absolute;
+    bottom: 0;
+    margin: 0 25%;
+    left: 0;
+    right: 0;
+    pointer-events: none;
 }

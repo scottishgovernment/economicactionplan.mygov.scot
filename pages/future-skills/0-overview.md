@@ -1,5 +1,5 @@
 ---
-layout: default-wide
+layout: default
 title:  "Plan overview"
 category: future-skills-action-plan
 summary: "View key elements from the action plan in this overview section."
