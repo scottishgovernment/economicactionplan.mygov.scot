@@ -18,11 +18,7 @@ next: { title: "Supporting Industry", url: "/enterprise/supporting-industry/" }
 **Scotland CAN DO**  
 [Scotland CAN DO](http://www.cando.scot/) is our platform & statement of intent towards becoming a world leading entrepreneurial and innovative nation. It embodies an approach where sustainable growth and innovation go hand in hand with wider benefits to all of society, based on improved impact from the expertise available in our universities and colleges. Co-developed with public, private & third sector partners, CAN DO explicitly supports collaboration amongst partners with a view to collective impact.  
 
-The Unlocking Ambition Challenge provides up to 40 budding entrepreneurs with the best possible advice and support, including tailored training; mentoring from successful business leaders, and access to professional, financial and entrepreneurial networks to help them grow their business. The initial cohort of entrepreneurs have completed their first year within the challenge and have graduated to year two.   
-
-<br>
-![Scotland has 8.9% of UK inward investment projects second only to London](/assets/images/infographics/Enterprise.5.jpg)
-<br><br>
+The Unlocking Ambition Challenge provides up to 40 budding entrepreneurs with the best possible advice and support, including tailored training; mentoring from successful business leaders, and access to professional, financial and entrepreneurial networks to help them grow their business. The initial cohort of entrepreneurs have completed their first year within the challenge and have graduated to year two.  
 
 The Unlocking Ambition Challenge provides up to 40 budding entrepreneurs with the best possible advice and support, including tailored training; mentoring from successful business leaders, and access to professional, financial and entrepreneurial networks to help them grow their business. The initial cohort of entrepreneurs have completed their first year within the challenge and have graduated to year two.  
 

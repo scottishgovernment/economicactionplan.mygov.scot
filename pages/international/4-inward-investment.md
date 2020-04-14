@@ -18,7 +18,11 @@ next: { title: "Migration", url: "/international/migration/" }
 * Our new Invest in Scotland Prospectus will target key markets and sectors with positive reasons to invest in Scotland
 * Extend the range and reach of our international network to support investment in Scotland
 
-Our new Invest in Scotland Prospectus will build on Scotland’s outstanding record in attracting investment. Targeting key markets and sectors for Scotland, including digital and precision medicine, we will demonstrate the potential and advantages of locating in Scotland to international investors and companies. We will also align the global resources and expertise we have around investment with our National Infrastructure Mission and Infrastructure Investment Plan, to raise the profile of the high quality of capital investment opportunities available in Scotland.
+Our new Invest in Scotland Prospectus will build on Scotland’s outstanding record in attracting investment. Targeting key markets and sectors for Scotland, including digital and precision medicine, we will demonstrate the potential and advantages of locating in Scotland to international investors and companies. We will also align the global resources and expertise we have around investment with our National Infrastructure Mission and Infrastructure Investment Plan, to raise the profile of the high quality of capital investment opportunities available in Scotland.  
+
+<br>
+![Scotland has 8.9% of UK inward investment projects second only to London](/assets/images/infographics/Enterprise.5.jpg)
+<br><br>
 
 By summer 2020, we will have an Inward Investment Plan setting out how we will maximise the wider economic and social benefits of inward investment.  As with exporting, we will take an evidence-based approach to develop a plan with a focus on attracting investment to the sectors where Scotland is currently world-class. It will build on emerging expertise and enabling technology to address major global challenges around ageing, climate change and wellbeing.
 
