@@ -44,7 +44,7 @@ We have committed to working with stakeholders, employers and our partners to en
 
 * Enabling disabled people to better access support provided by Access to Work, when they embark on work experience, or a work trial.
 
-* Enabling disabled people to access advice about their employment rights, by implementing the recommendations of a 2019/20 review into the gaps in already existing services.
+* Enabling disabled people to access advice about their employment rights, by scoping the gaps in existing services and identifying potential solutions.  Completing a review of Supported Employment, including evaluating the effectiveness of Individual Placement and Support provision within Fair Start Scotland.
 
 * Continuing to support Supported Employment, by implementing the recommendations of the Support Employment review.
 
