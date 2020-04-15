@@ -17,7 +17,7 @@ next: { title: "Using Public Sector Spend to Catalyse Innovation", url: "/innova
 
 * Optimise and recalibrate partnership with Industry Leadership Groups
 * Continue to fund our Innovation Centre programme
-* Establishing the National Manufacturing Institute for Scotland and targeting up to £18 million of European funding to establish  an Advanced Manufacturing Challenge  Fund
+* Establishing the National Manufacturing Institute for Scotland and targeting up to £18 million of European funding to establish an Advancing Manufacturing Challenge Fund
 * A new £56 million Medicines Manufacturing Innovation Centre will put Scotland at the forefront of pharmaceutical and fine chemical manufacturing
 * £4.2m to build on our strengths in precision medicine
 * The new Northern Innovation Hub is driving innovation across the Inverness City Region
@@ -50,7 +50,7 @@ Industrial biotechnology is an emerging sector in Scotland, with potential for m
 It is replacing existing pharmaceuticals, chemicals and fuels with sustainable, non-fossil-based alternatives, giving it potential to help us meet our climate change targets.
 We are working with the Centre and industry to deliver on the National Plan for Industrial Biotechnology. The Plan aims to increase the number of companies active in industrial biotechnology to over 200 and achieve turnover of £900 million. Progress reported earlier in 2019 highlighted that the number of active companies and value of sales have doubled.
 
-For rural areas, our Knowledge Transfer and Innovation Fund, which is part of the Scottish Rural Development Programme, has committed to provide around £5 million of support for a range of industry led projects and initiatives that promote: knowledge exchange, transfer and innovation; enhance agricultural business viability and competitiveness; promote the restoration, preservation and enhancement of ecosystems; and supports resource efficiency and the shift toward a low-carbon and climate-resilient economy in the agricultural sector.
+For rural areas, our Knowledge Transfer and Innovation Fund, which is part of the Scottish Rural Development Programme, has committed to provide around £6 million of support for a range of industry led projects and initiatives that promote knowledge exchange and innovation within the agricultural sector.  This aims to enhance agricultural business viability and competitiveness; promote the restoration, preservation and enhancement of ecosystems; and underpin actions that improve resource efficiency and the shift toward a low-carbon and climate-resilient economy in the agricultural sector.  
 
 We have committed £750,000 until 2020 to support the Rural Innovation Support Service (RISS), as part of the Scottish Rural Network (SRN), to broker collaborative innovation in the food and drink supply chain. There are currently 31 live RISS projects, as well as eight which have completed, six of which have received funding through the Scottish Government’s Knowledge Transfer and Innovation Fund (KTIF).  Impacts from group activity are being evaluated and will be published on the RISS website.
 

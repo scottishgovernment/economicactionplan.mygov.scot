@@ -13,15 +13,16 @@ next: { title: "Innovative Sectors and Places", url: "/innovation/sectors-and-pl
 
 ## Key points:
 
-* From 2018 over a period of 3 years we will provide £110m in grant support for business research and development (R&D)
+* From 2018 over a period of three years we will provide £110m in grant support for business research and development (R&D)
 * Aim to grow Scotland’s business expenditure on R&D
-* Delivering workplace innovation programmes to support companies to unlock hidden talent and innovative new ideas.
+* Delivering workplace innovation programmes to support companies to unlock hidden talent and innovative new ideas
+* Driving the Innovation Action Plan
 
-We have set an ambitious target of doubling Scotland’s business expenditure on research and development (R&D) from £875m in 2015 to £1.7bn by 2025.  To assist with this, we are providing over £110m in grant support for business R&D over the next 3 years by increasing grant support for R&D from £22m to £37m per annum. Significant progress is already being made – business expenditure on R&D in 2018 was £1.242bn.  Businesses in Scotland employed around 14,000 R&D staff in 2018, up from around 13,000 in 2017 – which takes BERD jobs in Scotland to their highest level in the series.
+We have set an ambitious target to grow Scotland’s business enterprise R&D (BERD) from £875m in 2015 to £1.7bn by 2025. To assist with this, we are providing over £110m in grant support for business R&D over the next 3 years by increasing grant support for R&D from £22m to £37m per annum. Significant progress is already being made – in 2018 BERD was £1.242bn and businesses in Scotland employed around 14,000 R&D staff, up from around 13,000 in 2017, taking BERD jobs in Scotland to their highest level in the series.  
 
-In addition we are committing up to £750,000 until 2020 to support the Rural Innovation Support Service to broker collaborative innovation specifically in the food and drink supply chain.
+In addition we are committing up to £750,000 until 2020 to support the Rural Innovation Support Service to broker collaborative innovation specifically in the food and drink supply chain.  
 
-Business R&D in Scotland is closely linked to the world-leading R&D taking place in our universities. We will continue to support university research activities in Scotland, and related interactions with businesses, through SFC.
+Business R&D in Scotland is closely linked to the world-leading R&D taking place in our universities. We will continue to support university research activities in Scotland, and related interactions with businesses, through the Scottish Funding Council.  
 
 <div class="case-study" markdown="1">
 
@@ -40,7 +41,7 @@ Scottish Sea Farms MD Jim Gallagher said: “Researching and developing new appr
 “The £1.28m grant means we will be able to do more of this planned R&D even sooner, accelerating both the innovation and the anticipated benefits for fish health and welfare and for the environment.”
 </div>
 
-We are working collaboratively across the public sector to build on the investment made in phase 1 of Scotland’s university-hosted Innovation Centres which are having a transformational effect on our economy.  Funding for the next phase has already been announced for Censis (the Centre of excellence for Sensor and Imaging Systems, up to £9.25m), IBIoIC (Scotland’s Industrial Biotechnology Innovation Centre, up to £11.1m), the Data Lab (up to £13.5m) and the Construction Scotland Innovation Centre (up to £10.1m).
+We are working collaboratively across the public sector to build on the investment made in phase 1 of Scotland’s university-hosted Innovation Centres which are having a transformational effect on our economy. Funding for the next phase has already been announced for CENSIS (the Centre of excellence for Sensor and Imaging Systems, up to £9.25m), IBioIC (Scotland’s Industrial Biotechnology Innovation Centre, up to £11.1m), The Data Lab (up to £13.5m) and the Construction Scotland Innovation Centre (up to £10.1m).  
 
 <br>
 ![The Scottish Edge competition for entrepreneurs has funded 369 start-ups and has created over 1800 jobs](/assets/images/infographics/Innovation.9.jpg)

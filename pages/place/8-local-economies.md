@@ -34,10 +34,9 @@ Phase two of [Scotland’s food and drink industry export plan](https://news.gov
 
 We have provided support for the CAN DO Places initiative, which supports the creation of co-working spaces that benefit communities.  
 
-We have provided over £750 million of support to over 10,000 individual projects across Scotland through the Scottish Rural Development Programme, including over 240 LEADER projects to encourage communities and individuals to develop projects to meet local needs.  
-
+Since 2015 we have provided over £1 billion of support to over 14,000 individual projects across Scotland through the Scottish Rural Development Programme, including over 990 LEADER projects to encourage communities and individuals to develop projects to meet local needs.  
 We established a Scottish Rural Parliament that has empowered rural communities across Scotland by giving them a stronger voice to initiate change at a local and national level.  
-
+  
 We are committed to supporting, strengthening and protecting island communities.  We will publish the first ever National Islands Plan by the end of the year. It will set out how we and other public sector partners will work to improve outcomes for island economies and communities and, once it is published, we will report on our progress each year.  
 
 ## Key resources:
