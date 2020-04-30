@@ -14,8 +14,7 @@ next: { title: "Supporting evidence: Continuing skills gaps", url: "/future-skil
 
 <figure>
     <img src="/assets/images/infographics/fsap-labour-market-and-international.svg" alt="" />
-
-    <figcaption class="hidden">
+    <figcaption class="hidden  visually-hidden">
         <h2>Employment in Scotland this year</h2>
         <ul>
             <li>Record high employment of 75.9%</li>

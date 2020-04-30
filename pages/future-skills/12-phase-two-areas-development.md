@@ -14,8 +14,7 @@ next: { title: "Supporting evidence: Understanding Scotland's skills system", ur
 
 <figure>
     <img src="/assets/images/infographics/fsap-phase-2.svg" alt="" />
-
-    <figcaption class="hidden">
+    <figcaption class="hidden  visually-hidden">
     The OECD suggest that <q>Developing the right set of skills and making full use of them in the economy is a recipe for higher productivity, growth and includiveness</q>
     </figcaption>
 </figure>

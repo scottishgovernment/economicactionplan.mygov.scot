@@ -14,8 +14,7 @@ next: { title: "Theme 3: Ensuring sustainability across the skills system", url:
 
 <figure>
     <img src="/assets/images/infographics/fsap-upskilling-and-reskilling.svg" alt="" />
-
-    <figcaption class="hidden">
+    <figcaption class="hidden  visually-hidden">
         <h2>Education</h2>
         <p>Scotland is ranked first out of 26 OECD countries in terms of high-level qualifications</p>
     </figcaption>

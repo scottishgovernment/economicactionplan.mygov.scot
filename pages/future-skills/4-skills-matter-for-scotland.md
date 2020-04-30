@@ -14,8 +14,7 @@ next: { title: "The Future Skills Mission’s recommendations", url: "/future-sk
 
 <figure>
     <img src="/assets/images/infographics/fsap-skills-matter-scotland.svg" alt="" />
-
-    <figcaption class="hidden">
+    <figcaption class="hidden  visually-hidden">
         <h2>Current challenges in the labour market</h2>
         <ul>
             <li>Ageing population and low population growth</li>

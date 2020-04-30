@@ -13,8 +13,8 @@ next: { title: "Statement from Nora Senior", url: "/future-skills/statement/" }
 ---
 
 <figure>
-   <img src="/assets/images/infographics/fsap-ministerial-foreword.svg" alt=""/>
-    <figcaption class="hidden">
+    <img src="/assets/images/infographics/fsap-ministerial-foreword.svg" alt=""/>
+    <figcaption class="hidden  visually-hidden">
         <h2>Skills and qualification profile of Scotland</h2>
         <ul>
             <li>Scotland is ranked first out of 36 OECD countries in terms of high-level qualifications</li>
