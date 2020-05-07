@@ -37,19 +37,14 @@ This year, we also launched Phase 2 of our Food and Drink Export Plan, backed by
     <h2 class="ds_callout__title">A team approach brings new investment</h2>
 </header>
 
-<div class="ds_callout__content" markdown="1">
-MIPIM is the world’s biggest real estate exhibition, with more than 26,800 participants from more than 100 countries, bringing together the most influential players from all international property sectors. The event offers unrivalled access to the greatest number of development projects and sources of capital worldwide.
-
-The aim of Scotland’s involvement in MIPIM is to showcase the competitive advantages our country boasts - and to ensure the rest of the world knows that Scotland is open for business.
-
-While there have been previous regional delegations, 2019 saw a collaborative Team Scotland presence at the event for the first time. Scotland’s economic development agencies, biggest local authorities and other public sector bodies joined together with private sector sponsors and partners to promote both the excellent investment opportunities available, and the private sector’s ability to deliver them on the ground.
-
-Attendance at MIPIM and similar events has led directly to £2 billion of investment in Scotland over the past decade, with projects including the St James’ Centre in Edinburgh and Glasgow’s Central Quay redevelopment.
-
-Stuart Parker, Managing Director of Construction Scotland at Morgan Sindall, said:
-“MIPIM 2020 will provide Team Scotland with an excellent opportunity to showcase its impressive investment portfolio. Scotland has rightly received global recognition as a growing economy, and the delegation’s presence will benefit not only in terms of profile, but as a stimulus for sustained development and urban regeneration.”
-
-A great success? So much so, we are all going together again in 2020, to attract interest in development and investment opportunities not just in property, but also in major placemaking sites and in the first phase of our £3 bn portfolio of Green Investment opportunities.
+<div class="ds_callout__content">
+<p>MIPIM is the world’s biggest real estate exhibition, with more than 26,800 participants from more than 100 countries, bringing together the most influential players from all international property sectors. The event offers unrivalled access to the greatest number of development projects and sources of capital worldwide.</p>
+<p>The aim of Scotland’s involvement in MIPIM is to showcase the competitive advantages our country boasts - and to ensure the rest of the world knows that Scotland is open for business.</p>
+<p>While there have been previous regional delegations, 2019 saw a collaborative Team Scotland presence at the event for the first time. Scotland’s economic development agencies, biggest local authorities and other public sector bodies joined together with private sector sponsors and partners to promote both the excellent investment opportunities available, and the private sector’s ability to deliver them on the ground.</p>
+<p>Attendance at MIPIM and similar events has led directly to £2 billion of investment in Scotland over the past decade, with projects including the St James’ Centre in Edinburgh and Glasgow’s Central Quay redevelopment.</p>
+<p>Stuart Parker, Managing Director of Construction Scotland at Morgan Sindall, said:</p>
+<p>“MIPIM 2020 will provide Team Scotland with an excellent opportunity to showcase its impressive investment portfolio. Scotland has rightly received global recognition as a growing economy, and the delegation’s presence will benefit not only in terms of profile, but as a stimulus for sustained development and urban regeneration.”</p>
+<p>A great success? So much so, we are all going together again in 2020, to attract interest in development and investment opportunities not just in property, but also in major placemaking sites and in the first phase of our £3 bn portfolio of Green Investment opportunities.</p>
 </div>
 </div>
 

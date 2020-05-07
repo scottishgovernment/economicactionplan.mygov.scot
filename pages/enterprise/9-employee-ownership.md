@@ -41,16 +41,12 @@ Scottish Enterprise is running a series of workshops explaining employee ownersh
     <h2 class="ds_callout__title">Arjowiggins management buy-out safeguards 450 jobs in Aberdeen</h2>
 </header>
 
-<div class="ds_callout__content" markdown="1">
-In September 2019, the management team of Arjowiggins Creative Papers announced it had concluded a successful management buy-out. This safeguarded 450 jobs and the future of Aberdeen’s historic Stoneywood paper mill.
-
-The deal marked the culmination of nine months of hard work from a wide group of stakeholders and was supported with £7 million of funding from Scottish Enterprise.
-
-A Common Purpose Group had been established by Business, Fair Work and Skills Minister Jamie Hepburn when it was announced that the company was entering into administration.
-
-This was led by Scottish Enterprise and included representatives of the company’s management, Aberdeen City and Aberdeenshire councils, Opportunity North East, Aberdeen and Grampian Chamber of Commerce and Unite. Its focus was on securing a long-term future for the Stoneywood site.
-
-The mill, which dates back to the 1700s, pioneered the production of fine paper in the 1800s. It now manufactures products for designers, printers and clients across the world under well-known brands such as Conqueror, Curious Collection and Keaykolour.
+<div class="ds_callout__content">
+<p>In September 2019, the management team of Arjowiggins Creative Papers announced it had concluded a successful management buy-out. This safeguarded 450 jobs and the future of Aberdeen’s historic Stoneywood paper mill.</p>
+<p>The deal marked the culmination of nine months of hard work from a wide group of stakeholders and was supported with £7 million of funding from Scottish Enterprise.</p>
+<p>A Common Purpose Group had been established by Business, Fair Work and Skills Minister Jamie Hepburn when it was announced that the company was entering into administration.</p>
+<p>This was led by Scottish Enterprise and included representatives of the company’s management, Aberdeen City and Aberdeenshire councils, Opportunity North East, Aberdeen and Grampian Chamber of Commerce and Unite. Its focus was on securing a long-term future for the Stoneywood site.</p>
+<p>The mill, which dates back to the 1700s, pioneered the production of fine paper in the 1800s. It now manufactures products for designers, printers and clients across the world under well-known brands such as Conqueror, Curious Collection and Keaykolour.</p>
 </div>
 </div>
 

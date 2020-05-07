@@ -31,18 +31,13 @@ Business R&D in Scotland is closely linked to the world-leading R&D taking place
     <h2 class="ds_callout__title">State-of-the-art new freshwater salmon hatchery will enhance fish health and welfare</h2>
 </header>
 
-<div class="ds_callout__content" markdown="1">
-Salmon farming company Scottish Sea Farms announced in 2018 that it was to open a new £48 million freshwater hatchery at Barcaldine near Oban, with the aim of further improving how fish are farmed in Scotland.
-
-The new centre of excellence will create at least 10 new high-value jobs in rural Scotland, as well as enabling company growth for further job creation in future.
-
-The onshore hatchery will supply the company’s 40 farms across Scotland’s west coast, Orkney and Shetland. It will also carry out industry-leading R&D work there to help the company tackle a range of challenges facing the fish farming industry.
-
-To assist with this pioneering work, the company received a £1.28 million R&D grant. In addition to supporting the work at Barcaldine, the funds will help the company develop new, innovative processes and technologies across all its sites. This will include data capture and analysis to drive efficiencies, developing more humane processes, recycling a greater proportion of by-products, as well as harvesting wind and wave energy to reduce reliance on fuel.
-
-Scottish Sea Farms MD Jim Gallagher said: “Researching and developing new approaches and technologies is key to ensuring that we continue raising the healthiest fish in the most responsible but also the most environmentally sustainable way, and this latest £48 million investment aims to advance our work in both areas.
-
-“The £1.28m grant means we will be able to do more of this planned R&D even sooner, accelerating both the innovation and the anticipated benefits for fish health and welfare and for the environment.”
+<div class="ds_callout__content">
+<p>Salmon farming company Scottish Sea Farms announced in 2018 that it was to open a new £48 million freshwater hatchery at Barcaldine near Oban, with the aim of further improving how fish are farmed in Scotland.</p>
+<p>The new centre of excellence will create at least 10 new high-value jobs in rural Scotland, as well as enabling company growth for further job creation in future.</p>
+<p>The onshore hatchery will supply the company’s 40 farms across Scotland’s west coast, Orkney and Shetland. It will also carry out industry-leading R&D work there to help the company tackle a range of challenges facing the fish farming industry.</p>
+<p>To assist with this pioneering work, the company received a £1.28 million R&D grant. In addition to supporting the work at Barcaldine, the funds will help the company develop new, innovative processes and technologies across all its sites. This will include data capture and analysis to drive efficiencies, developing more humane processes, recycling a greater proportion of by-products, as well as harvesting wind and wave energy to reduce reliance on fuel.</p>
+<p>Scottish Sea Farms MD Jim Gallagher said: “Researching and developing new approaches and technologies is key to ensuring that we continue raising the healthiest fish in the most responsible but also the most environmentally sustainable way, and this latest £48 million investment aims to advance our work in both areas.</p>
+<p>“The £1.28m grant means we will be able to do more of this planned R&D even sooner, accelerating both the innovation and the anticipated benefits for fish health and welfare and for the environment.”</p>
 </div>
 </div>
 
@@ -58,18 +53,13 @@ We recognise the importance of progressive business models, workplace innovation
     <div class="ds_callout__label ds_content-label">Case study</div>
 </header>
 
-<div class="ds_callout__content" markdown="1">
-Perth and Kinross Council, supported by the Can Do Innovation Challenge Fund, is co-developing an innovative smart low carbon energy network with five Scottish small to medium enterprises. The project aims to reduce carbon emissions while delivering a cost saving to the council.
-
-The project has already led to 15 new jobs across the five companies, with an additional 66 jobs forecast in the next three years. Three of the five companies have developed protectable IP and have managed to gain £2.5 million additional investment as a result of the project. The forecasted, future revenue from the project is expected to be over £5 million.
-
-One of the companies, Edinburgh based technology developer StorTera, has developed innovative battery technology, attracted additional investment, grown the business and started exporting - all as a direct result of the project.
-
-The council has gained valuable innovation management experience through the process while being able to develop five innovative proof of concept solutions. The initial carbon savings in phase 1 alone has been 17 tonnes of CO2 with considerable future savings expected in phase 2. A clear line to future procurement has been established which will deliver significant economic impact directly, and indirectly, for the council.
-
-Michael Figures, Business developments project officer at Perth and Kinross Council said:
-
-“The Can Do Innovation Challenge Fund is a great way to encourage and explore innovation to develop cutting-edge solutions to meet the challenges of today and tomorrow, for an ever-more inter-connected and complex world.”
+<div class="ds_callout__content">
+<p>Perth and Kinross Council, supported by the Can Do Innovation Challenge Fund, is co-developing an innovative smart low carbon energy network with five Scottish small to medium enterprises. The project aims to reduce carbon emissions while delivering a cost saving to the council.</p>
+<p>The project has already led to 15 new jobs across the five companies, with an additional 66 jobs forecast in the next three years. Three of the five companies have developed protectable IP and have managed to gain £2.5 million additional investment as a result of the project. The forecasted, future revenue from the project is expected to be over £5 million.</p>
+<p>One of the companies, Edinburgh based technology developer StorTera, has developed innovative battery technology, attracted additional investment, grown the business and started exporting - all as a direct result of the project.</p>
+<p>The council has gained valuable innovation management experience through the process while being able to develop five innovative proof of concept solutions. The initial carbon savings in phase 1 alone has been 17 tonnes of CO2 with considerable future savings expected in phase 2. A clear line to future procurement has been established which will deliver significant economic impact directly, and indirectly, for the council.</p>
+<p>Michael Figures, Business developments project officer at Perth and Kinross Council said:</p>
+<p>“The Can Do Innovation Challenge Fund is a great way to encourage and explore innovation to develop cutting-edge solutions to meet the challenges of today and tomorrow, for an ever-more inter-connected and complex world.”</p>
 </div>
 </div>
 

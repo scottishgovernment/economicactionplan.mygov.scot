@@ -29,16 +29,12 @@ Deals galvanise key partners to come together to drive regional economies in way
     <div class="ds_callout__label ds_content-label">Case study</div>
 </header>
 
-<div class="ds_callout__content" markdown="1">
-City Region and Regional Growth deals worth up to £1.463 billion over the next 10 to 20 years have been agreed for the Glasgow City Region, Aberdeen and Aberdeenshire, Inverness and Highland, and Edinburgh and South East Scotland. Heads of Terms have been reached for Stirling and Clackmannanshire, the Tay Cities Region, the Ayrshire Growth Deal and the Borderlands Growth Deal. We are working towards signing Heads of Terms for the Moray Growth Deal in the coming months.
-
-Each deal is tailored to the social and economic situation of its region, with projects such as the Oil and Gas Technology Centre in Aberdeen, the distributed learning of STEM subjects across Highland, and a focus on capitalizing on data driven innovation in Edinburgh.
-
-Deals galvanise key partners to come together to drive regional economies in ways that go well beyond the investments that they deliver, leveraging local and regional intelligence about how best to secure inclusive economic growth.
-
-They act as a catalyst to support and enable a set of strong regional economic partnerships across Scotland that have a clear and active role for the private sector to help create and deliver a clear economic plan for the region.
-
-That is why we are committed to delivering 100% coverage of deals across Scotland, with deals in development for Falkirk, Argyll & Bute and the Islands (Western Isles, Orkney and Shetland).
+<div class="ds_callout__content">
+<p>City Region and Regional Growth deals worth up to £1.463 billion over the next 10 to 20 years have been agreed for the Glasgow City Region, Aberdeen and Aberdeenshire, Inverness and Highland, and Edinburgh and South East Scotland. Heads of Terms have been reached for Stirling and Clackmannanshire, the Tay Cities Region, the Ayrshire Growth Deal and the Borderlands Growth Deal. We are working towards signing Heads of Terms for the Moray Growth Deal in the coming months.</p>
+<p>Each deal is tailored to the social and economic situation of its region, with projects such as the Oil and Gas Technology Centre in Aberdeen, the distributed learning of STEM subjects across Highland, and a focus on capitalizing on data driven innovation in Edinburgh.</p>
+<p>Deals galvanise key partners to come together to drive regional economies in ways that go well beyond the investments that they deliver, leveraging local and regional intelligence about how best to secure inclusive economic growth.</p>
+<p>They act as a catalyst to support and enable a set of strong regional economic partnerships across Scotland that have a clear and active role for the private sector to help create and deliver a clear economic plan for the region.</p>
+<p>That is why we are committed to delivering 100% coverage of deals across Scotland, with deals in development for Falkirk, Argyll & Bute and the Islands (Western Isles, Orkney and Shetland).</p>
 </div>
 </div>
 
@@ -55,18 +51,13 @@ City Region and Growth Deals build on our strong foundations of finding new ways
     <h2 class="ds_callout__title">Growing investment across Scotland</h2>
 </header>
 
-<div class="ds_callout__content" markdown="1">
-City Region and Regional Growth Deals invest in projects that drive regional economic growth and help create new jobs. They build on the new ways we’ve already found to unlock economic investment – including the Growth Accelerator approach.
-
-The innovative Growth Accelerator model allows borrowing costs to be offset by new income streams, subject to performance targets, while also enhancing the public realm package supporting a development.
-
-We’ve already delivered two Growth Accelerator projects, including one with Dundee City Council, where we’ve invested £60 million to support the wider £1 billion Waterfront Development, which includes the iconic V&A design museum.
-
-In Edinburgh, we’ve unlocked around £1 billion of new development in the city centre’s St James’ Quarter. Here our partnership with Scottish Futures Trust, City of Edinburgh Council and private sector developers APG and TH Real Estate, is helping to deliver a major mixed-use scheme on the site of the rundown former St James Centre.
-
-The largest development of its type currently underway in the UK, the shopping centre will comprise 850,000 sq ft of retail space, 152 apartments, 30 food and beverage businesses, a five-screen cinema complex and the 214-room W Hotel.
-
-It will support around 1,000 full-time equivalent jobs and a net increase in the gross value added of Scotland of approximately £45 million per annum.
+<div class="ds_callout__content">
+<p>City Region and Regional Growth Deals invest in projects that drive regional economic growth and help create new jobs. They build on the new ways we’ve already found to unlock economic investment – including the Growth Accelerator approach.</p>
+<p>The innovative Growth Accelerator model allows borrowing costs to be offset by new income streams, subject to performance targets, while also enhancing the public realm package supporting a development.</p>
+<p>We’ve already delivered two Growth Accelerator projects, including one with Dundee City Council, where we’ve invested £60 million to support the wider £1 billion Waterfront Development, which includes the iconic V&A design museum.</p>
+<p>In Edinburgh, we’ve unlocked around £1 billion of new development in the city centre’s St James’ Quarter. Here our partnership with Scottish Futures Trust, City of Edinburgh Council and private sector developers APG and TH Real Estate, is helping to deliver a major mixed-use scheme on the site of the rundown former St James Centre.</p>
+<p>The largest development of its type currently underway in the UK, the shopping centre will comprise 850,000 sq ft of retail space, 152 apartments, 30 food and beverage businesses, a five-screen cinema complex and the 214-room W Hotel.</p>
+<p>It will support around 1,000 full-time equivalent jobs and a net increase in the gross value added of Scotland of approximately £45 million per annum.</p>
 </div>
 </div>
 
