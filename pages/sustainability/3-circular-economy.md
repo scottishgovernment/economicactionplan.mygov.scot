@@ -33,10 +33,14 @@ Our investment through to 2035 will result in greener, faster, more reliable and
 
 In conjunction with the Scottish National Investment Bank, the bus sector and potential investors we will work to explore the potential for new forms of patient and innovative financing to radically accelerate the pace of deployment of zero emission buses across Scotland.
 
-<div class="case-study" markdown="1">
+<div class="ds_callout">
+<header>
+    <div class="ds_callout__label ds_content-label">Case study</div>
 
-<h2><span class="visually-hidden">Case study:</span> Urban Foresight puts the wheels in motion on e-bike project</h2>
+    <h2 class="ds_callout__title">Urban Foresight puts the wheels in motion on e-bike project</h2>
+</header>
 
+<div class="ds_callout__content" markdown="1">
 Urban Foresight is a smart city consultancy based in Dundee, which helps cities deliver environmentally-focussed services such as electric vehicle charging, is working on innovative projects such as the UK’s largest e-bike scheme.
 
 The company, which received Regional Selective Support, moved to larger office space in August 2019 to expand its team just a year after establishing a base in the city.
@@ -50,6 +54,7 @@ Infrastructure for the project is starting to go into the ground and a soft laun
 Projects being trialled by The MILL also include Scotland’s largest smart parking project – a fleet vehicle sharing platform for public sector organisations and a car club that allows easier access beyond designated bays.
 Urban Foresight director Rachel Beeton said the company was forecast to grow the 11 employees years, having already grown from a team of one to eight in a year.
 She said: "We look forward to working on more projects that improve lives, protect the environment and boost local economies, not just in Dundee but across Scotland and globally too."
+</div>
 </div>
 
 We will also seek to phase out the use of horticultural peat by increasing uptake of alternative growing media substrate by working with sectoral representatives, consumer groups and those industries with ancillary interests in horticultural peat to develop a plan for the sector to work towards alternatives to horticultural peat.

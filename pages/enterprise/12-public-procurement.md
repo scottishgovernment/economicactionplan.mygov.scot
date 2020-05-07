@@ -57,10 +57,12 @@ While ‘community wealth building’ goes much wider than procurement, we will 
 
 Our Digital Commercial Service sits within the Digital Directorate, and as a joint initiative with the Scottish Procurement and Property Directorate, it builds on our CivTech model.  It is supporting a number of public bodies to deliver public sector digital solutions through innovative procurement.
 
-<div class="case-study" markdown="1">
+<div class="ds_callout">
+<header>
+    <div class="ds_callout__label ds_content-label">Case study</div>
+</header>
 
-<h2><span class="visually-hidden">Case study:</span></h2>
-
+<div class="ds_callout__content" markdown="1">
 Geraldine Duffy, Owner of Weans World Childcare in Coatbridge, really enjoys her job, despite it being challenging at times. She loves helping young children reach milestones and teaching the wee ones, especially those without siblings, to share and be part of a team. Together with her husband, Chris, who works as her assistant, Geraldine’s childminding business goes from strength to strength, and Weans World received an excellent grading in its annual inspection from the Care Inspectorate.
 
 As part of a phased 1,140 hours expansion implementation strategy, North Lanarkshire Council Education and Families Committee approved the procurement of an interim Framework for one year, for 2-5 year olds. Geraldine attended the Supplier Development Programme’s training workshop on how to bid for this opportunity on Public Contracts Scotland, alongside more than 60 public and private early learning providers in March 2019.  She subsequently submitted a bid and found out she was successful in June 2019.
@@ -68,4 +70,5 @@ As part of a phased 1,140 hours expansion implementation strategy, North Lanarks
 Geraldine said: “I was so nervous about bidding online that I brought my son so he could potentially help me, but going step-by-step alleviated my fears about online bidding.  After the training I felt much more confident to bid online myself.  I definitely recommend SDP training to help other childcare providers find the confidence to bid for early learning contract opportunities in other local authorities.”
 
 Geraldine said: “If it wasn't for SDP Scotland, God knows how my tender application would have turned out. A million thanks for the support SDP gave me to win a place on this Framework!”
+</div>
 </div>

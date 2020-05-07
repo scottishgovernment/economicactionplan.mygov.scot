@@ -24,11 +24,14 @@ We recognise the benefits of active collaboration of academia, business and the 
 
 We are committed to continuing our strong and collaborative relations with our European partners in the face of the major challenges ahead.  Our ambition is to ensure that Scotland can continue to participate as fully as possible in future EU programmes such as Horizon Europe to support Scottish organisations to collaborate internationally to drive research and innovation excellence.
 
-<div class="case-study" markdown="1">
+<div class="ds_callout">
+<header>
+    <div class="ds_callout__label ds_content-label">Case study</div>
+</header>
 
-<h2><span class="visually-hidden">Case study:</span></h2>
-
+<div class="ds_callout__content" markdown="1">
 Dr Lamberton from the University of Glasgow’s Institute of Biodiversity Animal Health & Comparative Medicine is working through a prestigious €1.5 Million European Research Council Grant under Horizon 2020 to investigate the disease schistosomiasis, caused by parasitic worms.  Despite extensive mass drug administration (MDA) it remains a major public health issue in Africa with a socio-economic impact second only to malaria amongst parasites.  Dr Lamberton will evaluate novel strategies and new technologies to enhance control of schistosomiasis in sub-Saharan Africa. This includes studying issues of transmission and of drug resistance and using DNA chip diagnostics, genetic analysis and drug screening. The results will improve monitoring and inform policy makers on how best to treat the disease, with the findings potentially transferrable across a range of MDA controlled diseases.
+</div>
 </div>
 
 ## Key resources:

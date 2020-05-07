@@ -41,10 +41,14 @@ The report will reflect the likely operating environment of an increasingly dive
 
 We will be considering these recommendations from both the Muscatelli and Cumberford-Little Reports in detail and responding over the coming year.
 
-<div class="case-study" markdown="1">
+<div class="ds_callout">
+<header>
+    <div class="ds_callout__label ds_content-label">Case study</div>
 
-<h2><span class="visually-hidden">Case study:</span> University team develops innovative device to improve cancer diagnosis and treatment</h2>
+    <h2 class="ds_callout__title">University team develops innovative device to improve cancer diagnosis and treatment</h2>
+</header>
 
+<div class="ds_callout__content" markdown="1">
 Researchers from Heriot-Watt University’s Natantis team were recently awarded £574,500 from Scottish Enterprise’s High Growth Spin-out Programme. This will enable it to commercially develop an innovative device that could revolutionise the way blood samples are prepared for use in cancer diagnosis and treatment monitoring – producing faster, cheaper, more reliable and better-quality samples.
 
 The Natantis team, which hopes to be a commercial venture by 2020, created the CNAsafe device to extract cell-free nucleic acids (cfNA) from whole blood. The demand for the type of testing this facilitates, known as liquid biopsies, is growing as it replaces invasive and often impractical tissue biopsies.
@@ -54,6 +58,7 @@ Extracting cfNA from blood has until now been a labour-intensive, highly-skilled
 The team showcased the technology at Heriot-Watt’s new GRID building – which stands for Global Research Innovation and Discovery. The facility is fully-equipped with next generation technologies that empower students, entrepreneurs and start-ups to commercialise creative ideas.
 
 Natantis’ principal investigator, Dr Maiwenn Kersaudy-Kerhoas, said: “The High Growth Spin-out Programme is a fantastic opportunity to bridge the gap between the academic lab and the commercial enterprise. We’re looking forward to moving to the new GRID building as an incubator for Natantis, just a stone’s throw from Edinburgh Airport, with all the benefits of the campus’ facilities.”
+</div>
 </div>
 
 Combined with our approach on skills, we will both lead the transition to a more digitally enabled economy and increase the opportunities for Scotland’s people to thrive.

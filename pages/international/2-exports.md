@@ -19,9 +19,9 @@ next: { title: "Promoting Scotland", url: "/international/promoting-scotland/" }
 
 A Trading Nation is a plan for growing Scotland's exports was launched by the First Minister in May 2019. It is a comprehensive and evidence based, living document that will be regularly updated to allow Scottish businesses to realise their exporting potential in existing and new markets and to secure new international opportunities.    
 
-<br>
+
 ![We will meet our trade ambitions by growing our exports from 20% to 25% of GDP making our economy even more international](/assets/images/infographics/International.4.jpg)
-<br><br>
+
 
 The document sets out a number of actions that the Scottish Government and our delivery partners will work together to deliver on. We will continually review and refine these actions and interventions to ensure that they are delivering for businesses and for Scotland’s economy.  
 

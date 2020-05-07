@@ -23,9 +23,9 @@ We will take forward and deliver the commitments in our Future Skills Action Pla
 
 Our Global climate emergency Skills Action Plan will set out a framework for skills investment. It will detail how we and other public bodies will work with our agencies and industry to create a supportive and collaborative business environment for research and innovation in new low carbon industries. This will enable us to help people gain the new skills required in areas such as oil and gas decommissioning and offshore wind energy, as well as in the construction and energy efficiencies of our buildings and manufacturing and the decarbonisation of our transport system.
 
-<br>
+
 ![All of the net increase in employment between 2007 and 2018 has been categorised as medium-high or highly-skilled](/assets/images/infographics/Skills.6.jpg)
-<br><br>
+
 
 Recognising the need to support the population of rural areas, we have  published a rural skills action plan that seeks to ensure that national frameworks are available across rural Scotland.  We will extend the Ringlink pre-apprenticeship programme to 4 other parts of rural Scotland over the next 3 years on a pilot basis.
 
@@ -35,10 +35,14 @@ We will also take forward  a National Retraining Partnership with employers, uni
 
 In addition we will continue to provide opportunities for the existing workforce through a range of programmes including the Flexible Workforce Development Fund, Individual Training Accounts and the Scottish Union Learning Fund.
 
-<div class="case-study" markdown="1">
+<div class="ds_callout">
+<header>
+    <div class="ds_callout__label ds_content-label">Case study</div>
 
-<h2><span class="visually-hidden">Case study:</span> Craft beer specialist Brewdog apprenticeship programme</h2>
+    <h2 class="ds_callout__title">Craft beer specialist Brewdog apprenticeship programme</h2>
+</header>
 
+<div class="ds_callout__content" markdown="1">
 In 2015, Brewdog made use of Skills Development Scotland’s Skills for Growth initiative, which provides free consultancy and support to identify growth priorities.
 
 As a result, the Aberdeenshire-based brewer recruited 20 Modern Apprentices across its business along with a ‘Happiness Manager’ to handle training and development for its predominately young workforce.
@@ -51,6 +55,7 @@ Louise is employed as a senior customer service specialist by the multinational 
 
 Louise had been working as a senior UK customer service specialist for three years, before becoming the company’s UK customer service team lead. She sees her apprenticeship as a key part of her career progression.
 She said: "I would definitely recommend Graduate Apprenticeships to others who are looking to further their career and expand their experience while working. Being able to take the theory you learn and immediately put it to use in your day job is very rewarding."
+</div>
 </div>
 
 We have also introduced Project Lift a new, ambitious, whole-system approach to recruit, retain, develop and manage talent within Health and Social Care in Scotland.  It aims to enhance leadership capability and capacity at all levels of seniority by promoting senior workforce development and sustainability, and growing future leaders.

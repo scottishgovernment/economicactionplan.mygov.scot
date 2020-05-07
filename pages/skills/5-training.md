@@ -24,10 +24,14 @@ As part of this investment, to ensure Scotland’s labour market is equipped wit
 
 We will expand the number and range of Foundation Apprenticeships, helping to equip more young people at school with industry recognised qualifications, skills, and the practical experience that industry demands, both now and in the future.  We will also continue to develop our Graduate Apprenticeship programmes, offering the opportunity to blend academic learning with practical experience, supporting the in-work development of graduates with the skills that employers require.
 
-<div class="case-study" markdown="1">
+<div class="ds_callout">
+<header>
+    <div class="ds_callout__label ds_content-label">Case study</div>
 
-<h2><span class="visually-hidden">Case study:</span> Craft beer specialist Brewdog apprenticeship programme</h2>
+    <h2 class="ds_callout__title">Craft beer specialist Brewdog apprenticeship programme</h2>
+</header>
 
+<div class="ds_callout__content" markdown="1">
 In 2015, Brewdog made use of Skills Development Scotland’s Skills for Growth initiative, which provides free consultancy and support to identify growth priorities.
 
 As a result, the Aberdeenshire-based brewer recruited 20 Modern Apprentices across its business along with a ‘Happiness Manager’ to handle training and development for its predominately young workforce.
@@ -40,6 +44,7 @@ Louise is employed as a senior customer service specialist by the multinational 
 
 Louise had been working as a senior UK customer service specialist for three years, before becoming the company’s UK customer service team lead. She sees her apprenticeship as a key part of her career progression.
 She said: "I would definitely recommend Graduate Apprenticeships to others who are looking to further their career and expand their experience while working. Being able to take the theory you learn and immediately put it to use in your day job is very rewarding."
+</div>
 </div>
 
 ## Key resources:

@@ -30,10 +30,14 @@ Scottish colleges and universities have strong international links.  It is estim
 
 This year, we also launched Phase 2 of our Food and Drink Export Plan, backed by £4.5 million of funding of which £2.7 million comes directly from Scottish Government. This funding will help the Scottish companies take their products into new and existing markets, supported by expert advice, to build relationships with buyers and offer encouragement to develop new products. In the coming year, we will also maximise opportunities to showcase and promote Scottish food and drink internationally and to the UK market.
 
-<div class="case-study" markdown="1">
+<div class="ds_callout">
+<header>
+    <div class="ds_callout__label ds_content-label">Case study</div>
 
-<h2><span class="visually-hidden">Case study:</span> A team approach brings new investment</h2>
+    <h2 class="ds_callout__title">A team approach brings new investment</h2>
+</header>
 
+<div class="ds_callout__content" markdown="1">
 MIPIM is the world’s biggest real estate exhibition, with more than 26,800 participants from more than 100 countries, bringing together the most influential players from all international property sectors. The event offers unrivalled access to the greatest number of development projects and sources of capital worldwide.
 
 The aim of Scotland’s involvement in MIPIM is to showcase the competitive advantages our country boasts - and to ensure the rest of the world knows that Scotland is open for business.
@@ -46,6 +50,7 @@ Stuart Parker, Managing Director of Construction Scotland at Morgan Sindall, sai
 “MIPIM 2020 will provide Team Scotland with an excellent opportunity to showcase its impressive investment portfolio. Scotland has rightly received global recognition as a growing economy, and the delegation’s presence will benefit not only in terms of profile, but as a stimulus for sustained development and urban regeneration.”
 
 A great success? So much so, we are all going together again in 2020, to attract interest in development and investment opportunities not just in property, but also in major placemaking sites and in the first phase of our £3 bn portfolio of Green Investment opportunities.
+</div>
 </div>
 
 ## Key resources:

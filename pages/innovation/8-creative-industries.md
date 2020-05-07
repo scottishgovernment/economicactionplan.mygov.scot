@@ -30,10 +30,12 @@ Scottish Government has significantly increased funding in 2018-19 for screen pr
 
 We are providing £475,000 to support the National Film and Television School to set up a base in Scotland that will help people in the screen sector move up the career ladder and employers to address skills gaps.
 
-<div class="case-study" markdown="1">
+<div class="ds_callout">
+<header>
+    <div class="ds_callout__label ds_content-label">Case study</div>
+</header>
 
-<h2><span class="visually-hidden">Case study:</span></h2>
-
+<div class="ds_callout__content" markdown="1">
 The UK’s most northerly mainland distillery, Dunnet Bay in Caithness, is offering its Rock Rose Gin in fully recyclable pouches, an innovation which is the first of its kind in the UK.
 
 Once empty, customers can return the pouches via freepost back to the distillery, where they are collected by innovative recycling company, TerraCycle, and recycled into new items.
@@ -47,6 +49,7 @@ The sustainable packaging can be both delivered and returned through a letterbox
 The launch is the latest in a raft of green initiatives from the distillery. It’s already part-powered via solar panels and has ambitions to be a net producer of electricity by the end of 2020.
 
 Martin Murray, co-founder of Dunnet Bay Distillers, said: “We take sustainability incredibly seriously and have been working hard on our first-to-market recyclable pouches. In the near future we plan to extend the scheme to bars, restaurants and shops, as well as making it available across all the spirits in our portfolio.”
+</div>
 </div>
 
 ## Key resources:

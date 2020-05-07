@@ -24,9 +24,9 @@ Backed by up to £96 million over the period of its delivery, our devolved emplo
 
 Building on the early success of Fair Start Scotland, we are implementing a wide-ranging reform of employability support across Scotland.  Through No One Left Behind, we are establishing a more collaborative approach with local government and the Department of Work and Pensions, as well as engaging delivery partners across the third, public and private sectors.  Because delivering on our ambitions will require collective leadership across all our partners and a culture of change in how we design, deliver and fund services.  This reform of the employability support system will allow us to be more adaptable and responsive to the needs of people and the rapidly changing labour markets.  It will also be more aligned with other services including justice, housing and health.   
 
-<br>
+
 ![16,130 people have taken the oppertunity of help to find work with Fair Start Scotland since April 2018](/assets/images/infographics/Skills.19.jpg)
-<br><br>
+
 
 
 We recognise and value the significant contribution local authorities make to the employability landscape across Scotland.  In collaboration with local authority partners we developed a Partnership Working Agreement and have worked closely to implement phase 1 of No One Left Behind which provided specific resources for local Councils to tackle long term unemployment.  

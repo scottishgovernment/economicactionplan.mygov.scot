@@ -22,9 +22,9 @@ We know that businesses want a competitive and stable tax system, streamlined an
 **Business rates**  
 We continue to deliver the most generous package of non-domestic rates reliefs in the UK, which were worth an estimated £750 million in 2019. This includes the Small Business Bonus Scheme which has significantly reduced or abolished business rates for over 100,000 premises and saved small businesses over £1.7 billion cumulatively since 2008. We also offer a number of reliefs which support investment and growth, such as the Business Growth Accelerator, introduced in 2018. This suspends the non-domestic rates liability for new new build properties until 12 months after they are first occupied. It also ensures that businesses will not see rates increases resulting from property improvements until one year after the work is completed. 
 
-<br>
+
 ![The Small Business Bonus Scheme has significantly reduced or abolished rates for over 10,000 businesses saving them £1.7 billion](/assets/images/infographics/Enterprise.16.jpg)
-<br><br>
+
 
 In 2018 we also introduced Nursery Relief to support the expansion of free early learning and childcare in Scotland.  
 

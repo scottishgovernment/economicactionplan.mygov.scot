@@ -16,9 +16,9 @@ An unprecedented rate of technological change is driving change in the workplace
 
 We have set out a clear approach on how we will deliver this change through the Future Skills Action Plan.  Working with a range of partners, including those in further and higher education and in business and employer organisations, we will deliver the commitments in the Future Skills Action Plan while ensuring Scotland’s skills system continues to deliver the change we need on the ground to individuals, businesses and our economy.  
 
-<br>
+
 ![The National Manufacturing Skills Academy is supporting 25 studentships in 6 universities with more on the way](/assets/images/infographics/Skills.10.jpg)
-<br><br>
+
 
 * [Employment Support](/skills/employment-support/)
 * [School education](/skills/school-education/)

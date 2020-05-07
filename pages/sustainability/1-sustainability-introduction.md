@@ -18,10 +18,14 @@ We are the only country in the world with statutory annual greenhouse gas reduct
 
 The new, statutory, five year Climate Change Adaptation Programme will set out around 170 policies and proposals centred around our communities, climate justice, the economy, Scotland’s infrastructure and supporting systems, our natural, coastal and marine environments and our international partnerships. The Programme is designed to address priority risks for Scotland and a number of research projects to help us better understand the action we will need to take.
 
-<div class="case-study" markdown="1">
+<div class="ds_callout">
+<header>
+    <div class="ds_callout__label ds_content-label">Case study</div>
 
-<h2><span class="visually-hidden">Case study:</span> Urban Foresight puts the wheels in motion on e-bike project</h2>
+    <h2 class="ds_callout__title">Urban Foresight puts the wheels in motion on e-bike project</h2>
+</header>
 
+<div class="ds_callout__content" markdown="1">
 Urban Foresight is a smart city consultancy based in Dundee, which helps cities deliver environmentally-focussed services such as electric vehicle charging, is working on innovative projects such as the UK’s largest e-bike scheme.
 
 The company, which received Regional Selective Support, moved to larger office space in August 2019 to expand its team just a year after establishing a base in the city.
@@ -35,6 +39,7 @@ Infrastructure for the project is starting to go into the ground and a soft laun
 Projects being trialled by The MILL also include Scotland’s largest smart parking project – a fleet vehicle sharing platform for public sector organisations and a car club that allows easier access beyond designated bays.
 Urban Foresight director Rachel Beeton said the company was forecast to grow the 11 employees years, having already grown from a team of one to eight in a year.
 She said: "We look forward to working on more projects that improve lives, protect the environment and boost local economies, not just in Dundee but across Scotland and globally too."
+</div>
 </div>
 
 * [Climate-neutral Economy](/sustainability/climate-neutral-economy/)

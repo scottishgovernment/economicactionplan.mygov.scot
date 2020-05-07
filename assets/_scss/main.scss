@@ -24,8 +24,10 @@ $color__border--highlight: $color__brand--secondary;
  */
 $page-nav__icon-color: $color__link;
 @import "../../node_modules/@scottish-government/pattern-library/src/components/all-components";
-@import "components/component.case-study";
-
+@import "components/component.callout";
+.ds_layout__content img {
+    margin: 28px 0;
+}
 
 
 

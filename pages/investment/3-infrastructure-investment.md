@@ -31,9 +31,9 @@ Our ambitious infrastructure plans will rely on a construction industry that is 
 
 We are already seeing fruits from this new relationship. We are working with industry and public bodies to address the issue of unsustainable pricing, and discussing how to evolve an industry wide culture of continuous improvement. We are currently developing a sourcing strategy for the Construction portfolio that will encapsulate good practice in the delivery of public infrastructure and buildings.  
 
-<br>
+
 ![Construction: Output compared to Public Sector Capital Spend Scotland](/assets/images/infographics/Investment.InfrastructureInvestment.png) 
-<br><br>
+
 
 The results from this graph indicate a close empirical correlation particularly between the level of SG-supported investment, and activity.  Overall construction patterns mirror what the public sector has enabled.  The impact of changes in Council borrowing levels can also be seen.  Overall, and even whilst not having full fiscal powers, it can be seen that choices made by Scottish Government within its current framework can have a powerful effect.  
 
@@ -60,4 +60,3 @@ We will work closely with COSLA, Local Authorities and local economic delivery p
 **[Scottish Water](https://www.scottishwater.co.uk/)**
 
 **[Nature Based Solutions & Re-Naturing Cities, EU Research, Final Report of the Horizon 2020 Expert Group](http://bookshop.europa.eu/en/towards-an-eu-research-and-innovation-policy-agenda-for-nature-based-solutions-re-naturing-cities-pbKI0215162/)**
- 

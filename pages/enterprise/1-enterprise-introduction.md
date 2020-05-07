@@ -11,9 +11,9 @@ next: { title: "Delivering a Competitive Business Environment", url: "/enterpris
 ***Improving business support and ensuring a competitive business environment***
 
 We are delivering a more supportive business environment, focused on delivering a competitive tax system, reducing costs for business and allowing more businesses to get the help they need to flourish.
-<br>
+
 ![There are 14,570 more businesses in Scotland than in 2013 and we want to continue to significantly increase the size of the business base](/assets/images/infographics/Enterprise.3.jpg)
-<br><br>
+
 
 Through the business-led Enterprise and Skills Strategic Board, we are increasing the impact of the investment we make in enterprise and skills development and ensuring our agencies operate as a single system that delivers the right information, advice and support at the right time for business.
 
@@ -35,10 +35,14 @@ Through the business-led Enterprise and Skills Strategic Board, we are increasin
 * [Innovate, Export, Scale](/enterprise/innovate-export-scale/)
 * [Put Fair Work and Inclusive Growth First](/enterprise/put-fair-work-and-inclusive-growth-first/)
 
-<div class="case-study" markdown="1">
+<div class="ds_callout">
+<header>
+    <div class="ds_callout__label ds_content-label">Case study</div>
 
-<h2><span class="visually-hidden">Case study:</span> Barclays world-class campus takes shape in Glasgow</h2>
+    <h2 class="ds_callout__title">Barclays world-class campus takes shape in Glasgow</h2>
+</header>
 
+<div class="ds_callout__content" markdown="1">
 Glasgow’s financial services sector received a major boost after Barclays announced plans to develop a new 5000-person campus on the banks for the River Clyde.
 
 Barclays operates in 40 countries across the world, and the development in Glasgow will sit alongside Whippany in New Jersey and Pune in India as part of a global strategy to create world-class facilities for the bank’s functions, technology and operations teams.

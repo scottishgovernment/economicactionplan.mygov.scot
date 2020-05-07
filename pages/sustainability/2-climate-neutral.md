@@ -31,9 +31,9 @@ We have already allocated around £40 million to 16 low carbon capital projects 
 
 To maintain Scotland’s positioning as a world leader in wave and tidal energy technologies, our Wave Energy Scotland programme has been designed to drive forward the search for innovative solutions. The programme has already made £25 million available to support 60 innovative projects, maximising the economic benefit of design, manufacturing and export. Our flagship wave and tidal test facility, the European Marine Energy Centre (EMEC), has over a decade of real-sea experience. We will also continue to support the expansion of offshore wind by providing new guidance to industry on licensing and decommissioning, as well as providing a further £2 million this year to support innovation and to help reduce business costs.  
 
-<br>
+
 ![Scotland's wave energy programme is the world's largest and has supported 84 projects worth over £30 million](/assets/images/infographics/Sustainability.14.jpg)
-<br><br>
+
 
 Electricity & Gas Network businesses in Scotland, and their supply chain, will be key to realising our transition to a climate-neutral economy. We are working with these companies, as well as the wider sector and the regulator, to ensure these future plans are aligned to our vision for the sector.  
 

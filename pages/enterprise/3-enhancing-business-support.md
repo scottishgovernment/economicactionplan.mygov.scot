@@ -24,9 +24,9 @@ We will maximise the impact of the investment we make in enterprise and skills d
 
 We know the importance leadership and management play in driving productivity and workplace innovation, growing fair work practices and in building a sustainable and inclusive economy. In recognition of this, our agencies will build on their current investment in this area and work alongside business, employers, colleges and universities and other partners, to bring forward an enhanced Scottish Business Leadership support offer in the first half of 2020/21.  This will include considering options for a new leadership academy or similar model to oversee world class management/leadership training programmes that are accessible across Scotland.  
 
-<br>
+
 ![Small businesses support 921,300 jobs in Scotland](/assets/images/infographics/Enterprise.7.jpg)
-<br><br>
+
 
 We will work with Scottish Enterprise to maximise the impact of the Rural Leadership Programme.  We will draw upon ‘graduates’ skills enabling them to: become pacesetters in their sectors and communities, - stimulating business innovation, creativity, know-how and collaboration; and contribute to the development of initiatives that will unleash the potential of rural communities.  
 

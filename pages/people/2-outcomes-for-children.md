@@ -19,9 +19,9 @@ next: { title: "Labour Market Access and Inclusion", url: "/people/inclusion/" }
 
 Tackling child poverty is crucial to improving children’s life chances. Our ambition to eradicate child poverty is backed by a range of investments including the £50 million Tackling Child Poverty Fund.  In June, we announced a new benefit, the Scottish Child Payment, which will provide low-income families with £10 per week per eligible child. The first payments for children under the age of 6 will be made before the Christmas 2020.    
 
-<br>
+
 ![Almost 1 in 4 of Scotland's children live in poverty. Almost two thirds of children in poverty live in working households](/assets/images/infographics/People.18.jpg)
-<br><br>
+
 
 We have already increased the provision of high quality funded early learning and childcare entitlement to 600 hours a year for all 3 and 4 year olds and eligible 2 year olds.  
 

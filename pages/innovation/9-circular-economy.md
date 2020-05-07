@@ -24,10 +24,12 @@ We are taking action as a Government to enhance recycling, including delivering 
 
 We are also establishing a Just Transition Commission to advise Scottish Ministers on adjusting to a more sustainable and resource-efficient economic model in a fair way which will help to tackle inequality and poverty, and promote a fair and inclusive jobs market.
 
-<div class="case-study" markdown="1">
+<div class="ds_callout">
+<header>
+    <div class="ds_callout__label ds_content-label">Case study</div>
+</header>
 
-<h2><span class="visually-hidden">Case study:</span></h2>
-
+<div class="ds_callout__content" markdown="1">
 Peel Tech is a Scottish invention which takes waste from a typical potato peeler separating waste skin and compacting potato starch so that drains are free from waste and peelings can be used for animal feed.  The technology which is being rolled out across typical “Fish and Chip” shops in Scotland, will help businesses comply with Waste Regulations.
 
 We will work with the Scottish National Investment Bank to explore how we can support industry in the full-scale deployment of CCUS in Scotland. This is dependent on progress in development of the commercial, policy and regulatory frameworks required to support CCUS at scale. To support this, we will commission new studies to help clarify which options we could take to progress CCUS in Scotland. We will support an industry-led alliance for in Scotland so it can promote the accelerated deployment of CCUS technologies and to respond to UK wide funding programmes.
@@ -36,11 +38,14 @@ Hydrogen technologies are key to our ambitions for decarbonising transport and o
 
 With 80% of the offshore resource across the world in deeper water, floating offshore wind offers unprecedented opportunity in both renewable generation and economic and supply chain development.  The world’s first floating offshore wind farm, Hywind, is operational in Scotland, and we are committed to the development of commercial-scale floating wind here.  We are working with the Carbon Trust and providing £1,000,000 of funding for the Floating Wind Acceleration Competition, which we expect will support between four and 10 projects covering four specific challenges in deploying large-scale floating offshore wind.
 </div>
+</div>
 
-<div class="case-study" markdown="1">
+<div class="ds_callout">
+<header>
+    <div class="ds_callout__label ds_content-label">Case study</div>
+</header>
 
-<h2><span class="visually-hidden">Case study:</span></h2>
-
+<div class="ds_callout__content" markdown="1">
 The UK’s most northerly mainland distillery, Dunnet Bay in Caithness, is offering its Rock Rose Gin in fully recyclable pouches, an innovation which is the first of its kind in the UK.
 
 Once empty, customers can return the pouches via freepost back to the distillery, where they are collected by innovative recycling company, TerraCycle, and recycled into new items.
@@ -54,6 +59,7 @@ The sustainable packaging can be both delivered and returned through a letterbox
 The launch is the latest in a raft of green initiatives from the distillery. It’s already part-powered via solar panels and has ambitions to be a net producer of electricity by the end of 2020.
 
 Martin Murray, co-founder of Dunnet Bay Distillers, said: “We take sustainability incredibly seriously and have been working hard on our first-to-market recyclable pouches. In the near future we plan to extend the scheme to bars, restaurants and shops, as well as making it available across all the spirits in our portfolio.”
+</div>
 </div>
 
 ## Key resources:
