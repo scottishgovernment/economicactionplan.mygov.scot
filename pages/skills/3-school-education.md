@@ -19,6 +19,7 @@ next: { title: "Further Education and Higher Education", url: "/skills/further-h
 * We continue to deliver the Developing the Young Workforce (DYW) Programme, Learner Journey Review and STEM (Science, Technology, Engineering and Maths) Education and Training Strategy
 
 Scotland’s Curriculum for Excellence is the bedrock on which all future learning and skills are built, enabling our young people to become successful learners, confident individuals, responsible citizens and effective contributors. In so doing, it provides a strong foundation for growing Scotland’s economy. Scotland’s Curriculum is delivering for children and young people across Scotland as well as employers, parents and families.  This is illustrated by:
+
 * Over 138,000 Higher passes in 2019;
 * Over 64,000 skills-based qualifications being awarded in 2019; 
 * Over 5,000 Foundation Apprenticeship opportunities available this academic year with an increasing number of enrolments compared to previous years;

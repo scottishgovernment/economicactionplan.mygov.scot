@@ -18,6 +18,7 @@ Increasing the quality of jobs can support the reform of our public services and
 The Scottish Government’s commitment to promoting Fair Work is set out in [Scotland’s Economic Strategy](https://www.gov.scot/publications/scotlands-economic-strategy/), [National Performance Framework](https://nationalperformance.gov.scot/), [Economic Action Plan](https://economicactionplan.mygov.scot/) and our [Labour Market Strategy](https://www.gov.scot/publications/scotlands-labour-market-strategy/). Fair Work is also a key theme for the Enterprise and Skills Strategic Board.
 
 The Fair Work Action Plan forms part of a suite of Labour Market Action Plans being developed by the Scottish Government to help focus policies and resources on progressing national indicators and delivering national outcomes.  This also includes the:
+
 * [Disability Employment Delivery Plan](http://www.disabilityscot.org.uk/scottish-government-disability-delivery-plan/)
 * Gender Pay Gap Action Plan
 * Future Skills Action Plan
@@ -31,6 +32,7 @@ The Fair Work Framework defines Fair Work as work that offers [effective voice](
 The Convention developed the Framework to be used as a guide to best practice for everyone in the workplace; to help improve understanding of Fair Work, benchmark existing practice, and to identify areas where improvement can be made.  
 
 The actions the Scottish Government is taking through the Fair Work Action Plan cover three broad themes aiming to:
+
 1.	Support employers to adopt Fair Work practices
 2.	Deliver Fair Work to a diverse and inclusive workforce
 3.	Embed Fair Work across the Scottish Government.

@@ -3,7 +3,7 @@ layout: default
 title:  "Training"
 category: skills
 summary: "Providing the skills that allow individuals to fulfil their potential in the Labour Market"
-index: 4
+index: 5
 parent: skills
 permalink: /skills/training/
 prev: { title: "Further Education and Higher Education", url: "/skills/further-higher-education/" }

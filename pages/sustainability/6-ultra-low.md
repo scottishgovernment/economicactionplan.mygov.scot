@@ -12,7 +12,8 @@ prev: { title: "Natural Capital and Green Spaces", url: "/sustainability/natural
 
 ## Key points:
 
-* Launch Circular Economy Bill as part of 2019-2020 legislative programme
+Launch Circular Economy Bill as part of 2019-2020 legislative programme
+
 * Investing £17 million to expand Scotland’s electric vehicle (EV) charging network
 * Investing £2 Million to expand zero carbon mobility 
 * Upscale opportunities across emerging hydrogen transport markets

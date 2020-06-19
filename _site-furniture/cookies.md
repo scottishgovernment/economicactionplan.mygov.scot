@@ -24,11 +24,13 @@ The cookies that we set on economicactionplan.mygov.scot cannot be used to ident
 ## Cookies that we set
 
 We store information about:
+
 * the pages you visit and how long you spend on each page
 * how you got to mygov.scot
 * what you click on while you're visiting mygov.scot
 
 We do not:
+
 * collect information that can be used to identify you; for example, we never receive your name or address
 * make any attempt to find out the identities of people visiting mygov.scot
 * allow the tools that we use to do this either

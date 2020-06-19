@@ -3,7 +3,7 @@ layout: default
 title:  "Further Education and Higher Education"
 category: skills
 summary: "Investing in a world class education system"
-index: 3
+index: 4
 parent: skills
 permalink: /skills/further-higher-education/
 prev: { title: "School education", url: "/skills/school-education/" }

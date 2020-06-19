@@ -68,4 +68,3 @@ The forthcoming culture strategy for Scotland follows a period of engagement and
 **[Creative Scotland: Screen Funding](https://www.creativescotland.com/funding/funding-programmes/targeted-funding/screen)**
 
 **[Screen Scotland: Broadcast Content Fund](https://www.screen.scot/funding-and-support/screen-scotland-funding/broadcast-content-fund)**
-

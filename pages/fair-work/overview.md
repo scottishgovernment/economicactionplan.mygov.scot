@@ -17,6 +17,7 @@ We recognise there are challenging times ahead. By working in partnership with e
 We are committed to working with employer organisations to implement the Fair Work Action Plan.  We will also continue to work with the Fair Work Convention to promote understanding and application of the Fair Work Framework in workplaces across the country.  The Fair Work Convention’s 2019/20 work plan also includes a focus on employer engagement.
 
 The Scottish Government is already working with business in a number of important areas including:
+
 * Establishing the Scottish National Investment Bank and National Manufacturing Institute for Scotland.
 * Creating a single digital portal for business support – spanning our agencies and simplifying and accelerating the process of accessing our support. 
 * Launching £20 million of support to businesses looking to increase exports. 
@@ -30,6 +31,7 @@ In response to employer engagement already undertaken, we are committing to a ra
 
 <hr>
 **We will:**
+
 * **Work with employers and partners to deliver Fair Work First**
 * **Develop a Fair Work Framework benchmarking tool to help employers assess their current practices and provide guidance on how to make their workplaces fairer**
 * **Create a new online Fair Work service for small and micro employers so they can access support and guidance from a central point**
@@ -44,6 +46,7 @@ These actions highlight current and planned work of the Scottish Government and 
 
 <hr>
 **We will:**
+
 * **Extend the Workplace Equality Fund to align with the Fair Work First commitment**
 * **Continue to support strong trade unions**
 * **Promote collective bargaining**
@@ -64,6 +67,7 @@ Embedding Fair Work across all of our functions will be challenging.  To support
 
 <hr>
 **We will:**
+
 * **Ensure continued Ministerial direction and support through Fair Work and Gender Equality Ministerial Working Group**
 * **Appoint a Scottish Government Fair Work Champion**
 * **Develop Directorate-level Fair Work Action Plans**
@@ -71,4 +75,3 @@ Embedding Fair Work across all of our functions will be challenging.  To support
 * **Demonstrate leadership as an employer**
 * **Measure, monitor and report on progress in becoming a Fair Work Nation**
 <hr>
-

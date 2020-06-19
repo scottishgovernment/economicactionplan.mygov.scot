@@ -26,6 +26,7 @@ A Trading Nation is a plan for growing Scotland's exports was launched by the Fi
 The document sets out a number of actions that the Scottish Government and our delivery partners will work together to deliver on. We will continually review and refine these actions and interventions to ensure that they are delivering for businesses and for Scotland’s economy.  
 
 It sets out the priority markets where the biggest opportunities to grow Scotland’s exports exist.  Headline actions from A Trading Nation's 27 projects include:
+
 * Adding up to 15 in-market specialists to the countries that make up more than two thirds of our export opportunities
 * Scaling up trade promotion activity in priority markets with expanded international missions and exhibition programming – with 68 Scottish Development International (SDI) events planned for 2019/20
 * Providing up to £2 million to support a programme of inward and outward visits delivered by the Scottish Chambers of Commerce network

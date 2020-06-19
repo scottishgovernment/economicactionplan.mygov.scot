@@ -16,6 +16,7 @@ The [Scottish Business Pledge](https://scottishbusinesspledge.scot/) provides a 
 In 2018 we conducted a review of the Scottish Business Pledge.  In response to feedback from that review, we will refresh the structure of the Business Pledge to ensure alignment with the Fair Work Framework and relevance to Fair Work First is clear.
 
 To refresh the Business Pledge structure and approach, we will:
+
 * Keep the real Living Wage as the core element of the Business Pledge
 * Retain the light touch/trust based registration model valued by business
 * Refresh the language around the employment aspects of the Business Pledge to fully reflect the Fair Work Framework and wider inclusive growth ambitions

@@ -16,6 +16,7 @@ Fair Work First means investment in skills and training, no inappropriate use of
 We are committed to working in partnership with employer organisations and employers representing a broad spectrum of sectors as we deliver Fair Work First.  We are also committed to working with stakeholders as we develop Fair Work First and determine how it should apply to employers of different size and sector. We will develop a phased approach to implementation which will take account of the economic context, including the impact of EU exit.
 
 Fair Work First will ask employers to commit to:
+
 * investment in skills and training
 * no inappropriate use of zero hours contracts (for example using zero hours contracts when people are working regular hours; exclusive contracts that stop flexible workers working for other people)
 * action to tackle the gender pay gap
@@ -25,6 +26,7 @@ Fair Work First will ask employers to commit to:
 We believe that adopting such practices can make businesses more competitive by improving talent attraction, reducing staff turnover and absenteeism while improving motivation and workforce engagement. 
 
 By the end of this Parliament, wherever it is appropriate to do so, we will:
+
 * extend Fair Work criteria to every type of grant, funding stream, and business support budget open to us, and 
 * extend the range of Scottish Government and public sector contracts that Fair Work criteria will apply to. 
 

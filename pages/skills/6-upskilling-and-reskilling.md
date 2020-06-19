@@ -3,7 +3,7 @@ layout: default
 title:  "Up-skilling and Re-skilling"
 category: skills
 summary: "Recognising the need for lifelong learning"
-index: 5
+index: 6
 parent: skills
 permalink: /skills/upskilling-and-reskilling/
 prev: { title: "Training", url: "/skills/training/" }

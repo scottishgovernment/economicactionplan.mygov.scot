@@ -11,7 +11,7 @@ parent: overview
 permalink: /overview/summary-of-headline-actions/
 prev: {title: "Overview", url: "/overview/" }
 ---
-**Investment**
+## Investment
 
 * Our National Infrastructure Mission will increase Scotland’s annual infrastructure investment
 * Our Infrastructure Investment Plan will focus on three core long-term outcomes of inclusive economic growth, tackling the global climate emergency, and building sustainable places.
@@ -21,7 +21,7 @@ prev: {title: "Overview", url: "/overview/" }
 * Over £3.3 billion to deliver at least 50,000 affordable homes, of which 35,000 will be for social rent, over this parliamentary term 
 * Enhancing Scotland’s decommissioning capability through the Decommissioning Challenge Fund
 
-**Enterprise**  
+## Enterprise
 
 * Significantly reducing or abolishing business rates for 100,000 premises 
 * Provide significant funding each year to Scottish Enterprise, Highlands and Islands Enterprise and South of Scotland Enterprise agency to secure sustainable and inclusive growth across all of Scotland
@@ -33,7 +33,7 @@ prev: {title: "Overview", url: "/overview/" }
 * We have established a 10 year National Social Enterprise Strategy and continue to support social enterprises through national programmes like Just Enterprise and the Social Entrepreneurs Fund
 * Develop and launch a new Credit Unions strategy supported by a £10 million credit union investment fund (CUIF)
 
-**International**
+## International
 
 * £20 million over 3 years to support our new plan ‘A trading nation: our plan for growing Scotland’s exports’ 
 * A new Food and Drink 5-Year Export Plan
@@ -44,7 +44,7 @@ prev: {title: "Overview", url: "/overview/" }
 * Continue to argue for powers over migration policy to be devolved to the Scottish Parliament
 * Established a Ministerial Task Force to address our population concerns and work with local government and partners to harness opportunities for change.
 
-**Innovation**
+## Innovation
 
 * From 2018 over a period of 3 years we will provide £110m in grant support for business research and development (R&D) 
 * Optimise and recalibrate partnership with Industry Leadership Groups
@@ -57,7 +57,7 @@ prev: {title: "Overview", url: "/overview/" }
 * Enhancing the CAN DO Innovation Challenge Fund and launching an open innovation portal that will deliver easy access for business to public sector innovation challenge opportunities across Scotland 
 * Delivering ‘Procurement Innovation Partnerships’ which will streamline how the Scottish public sector and business collaborate on the procurement and dissemination of innovation. 
 
-**Skills**
+## Skills
 
 * Providing £16.1 million to deliver intensive employability support for low income parents to access and progress in employment, supporting them to address barriers and upskill.  
 * Our employment support service – Fair Start Scotland – is designed to give individualised support to 38,000 individuals furthest removed from the labour market.
@@ -73,7 +73,7 @@ prev: {title: "Overview", url: "/overview/" }
 * A third year of the Flexible Workforce Development, and increasing its funding in 20/21 
 * Creating a food and drink academy
 
-**Place**
+## Place
 
 * We will deliver City Region Deals for all our cities and have already committed investment of up to £1.125 billion over the next 10-20 years for City Region Deals across Scotland
 * Supporting development of Regional Economic Partnerships across Scotland out of the City Region and Growth Deal experience 
@@ -88,7 +88,7 @@ prev: {title: "Overview", url: "/overview/" }
 * A new, world-leading approach to management of our sea fisheries
 * Continued to support the sustainable growth of the aquaculture sector 
 
-**People**
+## People
 
 * The Child Poverty (Scotland) Act 2017 sets out our ambition for reducing and ultimately eradicating child poverty 
 * Spend on early learning and childcare will more than double to reach nearly £1 billion a year by 2021-22
@@ -97,7 +97,7 @@ prev: {title: "Overview", url: "/overview/" }
 * We are applying fair work criteria from the Scottish Business Pledge to grants, other funding streams and public contracts
 * Push the UK Government to recognise the action that is needed to protect Scotland’s prosperity and wellbeing with a differentiated migration policy tailored to Scotland’s needs
 
-**Sustainability**
+## Sustainability
 
 * A Route Map on an Energy Efficient Scotland, that will lead to over £10 billion of activity to retrofit existing homes and buildings throughout all parts of Scotland
 * 50% of Scotland’s energy needs met by renewables by 2030
