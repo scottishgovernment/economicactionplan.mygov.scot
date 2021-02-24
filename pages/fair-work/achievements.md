@@ -9,6 +9,7 @@ thispage: fair-work-action-plan
 permalink: /fair-work/achievements/
 prev: { title: "Purpose", url: "/fair-work/purpose/" }
 next: { title: "Overview of Actions", url: "/fair-work/overview/" }
+redirectTo: https://www.gov.scot/publications/fair-work-action-plan/
 ---
 
 Given employment powers remain with Westminster, our approach to delivering Fair Work is built on collaboration, engagement, and using our wider powers and policies to exert strategic influence.  While more can be done, we should recognise the progress that has been made through this partnership approach, including:

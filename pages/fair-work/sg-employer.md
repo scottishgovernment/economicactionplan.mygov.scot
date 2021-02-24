@@ -9,6 +9,7 @@ thispage: fair-work-action-plan
 permalink: /fair-work/scottish-government-employer/
 prev: { title: "The UK Government", url: "/fair-work/uk-government/" }
 next: { title: "Monitor and report", url: "/fair-work/monitor-and-report/" }
+redirectTo: https://www.gov.scot/publications/fair-work-action-plan/
 ---
 
 As an employer, the Scottish Government has shown leadership in adopting fairer working practices.  This includes:

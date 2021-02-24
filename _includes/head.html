@@ -1,4 +1,8 @@
 <head xml:lang="en">
+    {% if page.redirectTo %}
+        <meta http-equiv="refresh" content="0;url={{page.redirectTo}}" />
+    {% endif %}
+
     <meta charset="UTF-8">
     <title>{% if page.title %}{{ page.title }} – mygov.scot{% else %}{{ site.title }}{% endif %}</title>
 
@@ -55,7 +59,7 @@
 
     <style>
         /* captions for images, hacked together for markdown */
-        
+
         img+em {
             font-size: 13px;
             line-height: 21px;

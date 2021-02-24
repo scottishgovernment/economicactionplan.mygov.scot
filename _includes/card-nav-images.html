@@ -13,7 +13,7 @@
 
                 <div class="ds_card__content">
                     <h2>
-                        <a class="ds_card__cover-link" data-navigation="category-item-{{forloop.index}}" href="{{ item.url }}">{{ item.title }}</a>
+                        <a class="ds_card__cover-link" data-navigation="category-item-{{forloop.index}}" href="{% if item.redirectTo %}{{ item.redirectTo }}{% else %}{{ item.url }}{% endif %}">{{ item.title }}</a>
                     </h2>
 
                     <div>

@@ -9,6 +9,7 @@ thispage: fair-work-action-plan
 permalink: /fair-work/overview/
 prev: { title: "Achievements", url: "/fair-work/achievements/" }
 next: { title: "Fair Work First", url: "/fair-work/fair-work-first/" }
+redirectTo: https://www.gov.scot/publications/fair-work-action-plan/
 ---
 
 ## Supporting employers adopt Fair Work practices

@@ -9,6 +9,7 @@ thispage: fair-work-action-plan
 permalink: /fair-work/workplace-equality-fund/
 prev: { title: "Co-Host an International Fair Work Summit", url: "/fair-work/fair-work-summit/" }
 next: { title: "Trade Unions", url: "/fair-work/trade-unions/" }
+redirectTo: https://www.gov.scot/publications/fair-work-action-plan/
 ---
 
 The [Programme for Government for 2016-17](https://www.gov.scot/publications/plan-scotland-scottish-governments-programme-scotland-2016-17/) recognised that the labour market does not provide good outcomes for many equality groups, and committed to establishing the Workplace Equality Fund. In 2018, the £500,000 which the Scottish Government committed to the [Workplace Equality Fund](https://www.impactfundingpartners.com/our-funds/workplace-equality-fund) supported employers across a range of sectors to make innovative changes which are benefiting both employers and workers. 

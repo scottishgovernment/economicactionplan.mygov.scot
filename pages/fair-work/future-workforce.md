@@ -9,6 +9,7 @@ thispage: fair-work-action-plan
 permalink: /fair-work/future-workforce/
 prev: { title: "Refreshed Scottish Business Pledge", url: "/fair-work/scottish-business-pledge/" }
 next: { title: "Co-Host an International Fair Work Summit", url: "/fair-work/fair-work-summit/" }
+redirectTo: https://www.gov.scot/publications/fair-work-action-plan/
 ---
 
 The [Enterprise and Skills Board’s Strategic Plan](https://www.gov.scot/publications/working-collaboratively-better-scotland/) identified the need to sustain a culture of Fair Work and Fair Work practices in the long term, making Fair Work the norm for every worker and every employer across Scotland. As well as promoting an understanding of the [Fair Work Framework](https://www.fairworkconvention.scot/the-fair-work-framework/) dimensions in today’s labour market, we will need to educate our young people about Fair Work as they progress on their learning journey; what it means for them as individuals and for the wider society.

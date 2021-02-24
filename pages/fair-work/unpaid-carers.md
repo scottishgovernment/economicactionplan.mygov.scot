@@ -9,6 +9,7 @@ thispage: fair-work-action-plan
 permalink: /fair-work/unpaid-carers/
 prev: { title: "The real Living Wage", url: "/fair-work/real-living-wage/" }
 next: { title: "The Scottish Government", url: "/fair-work/scottish-government/" }
+redirectTo: https://www.gov.scot/publications/fair-work-action-plan/
 ---
 
 One in seven Scots are unpaid carers. Many carers give up work because the job of juggling their work and caring responsibilities simply becomes too much. Supporting carers to manage this difficult balance can deliver real benefits to employers as well as helping individuals and their families. 

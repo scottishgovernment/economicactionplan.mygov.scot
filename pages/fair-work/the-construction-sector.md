@@ -9,6 +9,7 @@ thispage: fair-work-action-plan
 permalink: /fair-work/the-construction-sector/
 prev: { title: "The collaborative economy", url: "/fair-work/the-collaborative-economy/" }
 next: { title: "The social care sector", url: "/fair-work/social-care-sector/" }
+redirectTo: https://www.gov.scot/publications/fair-work-action-plan/
 ---
 
 The [Fair Work Convention](https://www.fairworkconvention.scot/) has identified construction as a sector that experiences significant challenges in terms of Fair Work practices. While Scotland has made progress in applying Fair Work to public procurement contracts, the Convention has highlighted the need for more robust monitoring and evaluation of how Fair Work is being applied in practice. The Convention has indicated that it will undertake an inquiry into Fair Work in the Construction sector in 2019.

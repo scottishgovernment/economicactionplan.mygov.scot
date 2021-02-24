@@ -8,6 +8,7 @@ parent: fair-work-action-plan-home
 thispage: fair-work-action-plan
 permalink: /fair-work/ministerial-foreword/
 next: { title: "Purpose", url: "/fair-work/purpose/" }
+redirectTo: https://www.gov.scot/publications/fair-work-action-plan/
 ---
 
 We want Scotland to be the best place to live, work, invest and do business.  

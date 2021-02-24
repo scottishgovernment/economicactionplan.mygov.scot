@@ -9,6 +9,7 @@ thispage: fair-work-action-plan
 permalink: /fair-work/monitor-and-report/
 prev: { title: "The Scottish Government as an employer", url: "/fair-work/scottish-government-employer/" }
 next: { title: "About this Action Plan", url: "/fair-work/about/" }
+redirectTo: https://www.gov.scot/publications/fair-work-action-plan/
 ---
 
 Building on the National Performance Framework and working with the Fair Work Convention, the Scottish Government will develop and adopt a set of indicators to measure progress in delivering a Fair Work Nation.  

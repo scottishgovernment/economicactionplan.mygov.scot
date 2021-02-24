@@ -8,6 +8,7 @@ parent: fair-work-action-plan-home
 thispage: fair-work-action-plan
 permalink: /fair-work/fair-work-in-practice/
 prev: { title: "About this Action Plan", url: "/fair-work/about/" }
+redirectTo: https://www.gov.scot/publications/fair-work-action-plan/
 ---
 
 **Delivering Fair Work during the Coronavirus outbreak**  

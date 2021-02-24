@@ -9,6 +9,7 @@ thispage: fair-work-action-plan
 permalink: /fair-work/trade-unions/
 prev: { title: "Extend the Workplace Equality Fund", url: "/fair-work/workplace-equality-fund/" }
 next: { title: "Collective Bargaining", url: "/fair-work/collective-bargaining/" }
+redirectTo: https://www.gov.scot/publications/fair-work-action-plan/
 ---
 
 In 2019/20, we will continue to provide the [Scottish Trades Union Congress](http://www.stuc.org.uk/) (STUC) with funding to support a further round of the Fair Work and Trade Union Modernisation Fund to support unions embed the [Fair Work Framework](https://www.fairworkconvention.scot/the-fair-work-framework/) in workplaces in Scotland. 

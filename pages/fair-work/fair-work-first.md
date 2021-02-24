@@ -9,6 +9,7 @@ thispage: fair-work-action-plan
 permalink: /fair-work/fair-work-first/
 prev: { title: "Overview of Actions", url: "/fair-work/overview/" }
 next: { title: "Fair Work Framework benchmarking tool", url: "/fair-work/fair-work-framework/" }
+redirectTo: https://www.gov.scot/publications/fair-work-action-plan/
 ---
 
 Fair Work First means investment in skills and training, no inappropriate use of zero hours contracts, action on gender pay, genuine workforce engagement, including with trade unions, and payment of the real Living Wage.  Through Fair Work First, the Scottish Government will use its financial power to make Fair Work the norm.

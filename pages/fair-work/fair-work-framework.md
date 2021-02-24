@@ -9,6 +9,7 @@ thispage: fair-work-action-plan
 permalink: /fair-work/fair-work-framework/
 prev: { title: "Fair Work First", url: "/fair-work/fair-work-first/" }
 next: { title: "Online service for small and micro employers", url: "/fair-work/online-service/" }
+redirectTo: https://www.gov.scot/publications/fair-work-action-plan/
 ---
 
 In 2019, in consultation with the [Fair Work Convention](https://www.fairworkconvention.scot/), we will develop a tool that will allow all employers to benchmark their policies and practices against the dimensions of the [Fair Work Framework](https://www.fairworkconvention.scot/the-fair-work-framework/).  This tool will encourage employers to critically assess their organisations in order to better understand their strengths and weaknesses.  

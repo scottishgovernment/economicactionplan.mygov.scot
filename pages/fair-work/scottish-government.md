@@ -9,6 +9,7 @@ thispage: fair-work-action-plan
 permalink: /fair-work/scottish-government/
 prev: { title: "Unpaid carers", url: "/fair-work/unpaid-carers/" }
 next: { title: "The UK Government", url: "/fair-work/uk-government/" }
+redirectTo: https://www.gov.scot/publications/fair-work-action-plan/
 ---
 
 We have established a Fair Work and Gender Equality Ministerial Working Group led by the Minister for Business, Fair Work and Skills.  This group will drive a strategic approach to embedding and mainstreaming Fair Work across Ministerial portfolios.  The remit of the Ministerial Working Group includes galvanising action to drive forward a cross-portfolio approach to Fair Work.

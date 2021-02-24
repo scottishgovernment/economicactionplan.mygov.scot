@@ -9,6 +9,7 @@ thispage: fair-work-action-plan
 permalink: /fair-work/collective-bargaining/
 prev: { title: "Trade Unions", url: "/fair-work/trade-unions/" }
 next: { title: "The collaborative economy", url: "/fair-work/the-collaborative-economy/" }
+redirectTo: https://www.gov.scot/publications/fair-work-action-plan/
 ---
 
 The Scottish Government has made a clear commitment to promote collective bargaining through the inclusion of an employee voice indicator, measured by collective bargaining coverage, within the [National Performance Framework](https://nationalperformance.gov.scot/), and will work in partnership with the [STUC](http://www.stuc.org.uk/) to achieve increased coverage.  The initial action on this indicator will primarily focus on exploring how this could be achieved across four key sectors: social care; early years and child care; hospitality; and construction.  

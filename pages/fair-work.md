@@ -11,4 +11,5 @@ parent: home
 permalink: /fair-work/
 hero: fairwork.png
 cardcategoryimage: EAPFairWork.png
+redirectTo: https://www.gov.scot/publications/fair-work-action-plan/
 ---

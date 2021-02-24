@@ -9,6 +9,7 @@ thispage: fair-work-action-plan
 permalink: /fair-work/purpose/
 prev: { title: "Ministerial Foreword", url: "/fair-work/ministerial-foreword/" }
 next: { title: "Achievements", url: "/fair-work/achievements/" }
+redirectTo: https://www.gov.scot/publications/fair-work-action-plan/
 ---
 
 Fair Work can drive productivity, release untapped potential and inspire innovation - all of which add value to jobs and to business and in turn create stronger, more sustainable and inclusive growth.
